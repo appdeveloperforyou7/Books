@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Montserrat:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --accent-gold: #d4a843;
+            --accent-gold-light: #f1c40f;
+            --text-white: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .page-container {
+            position: relative;
+            width: 8.75in;
+            height: 8.75in;
+            overflow: hidden;
+            background: #111;
+        }
+
+        .animal-photo {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: {{IMAGE_FIT}};
+            object-position: center center;
+            filter: brightness(1.06) contrast(1.03);
+        }
+
+        .gradient-overlay {
+            position: absolute;
+            inset: 0;
+            background:
+                linear-gradient(to top, rgba(0, 0, 0, 0.6) 0%, rgba(0, 0, 0, 0.1) 35%, transparent 60%),
+                linear-gradient(to right, transparent 55%, rgba(0, 0, 0, 0.2) 100%);
+            z-index: 1;
+            pointer-events: none;
+        }
+
+        .info-box {
+            position: absolute !important;
+            z-index: 999 !important;
+            width: min(200px, 23%);
+            background: linear-gradient(135deg, rgba(12,10,8,0.94) 0%, rgba(6,4,2,0.97) 100%) !important;
+            border: 1px solid rgba(212,168,67,0.18);
+            border-top: 2px solid rgba(212,168,67,0.45);
+            border-radius: 10px;
+            padding: 16px 18px;
+            color: var(--text-white);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.02);
+            letter-spacing: 0.01em;
+        }
+
+        .info-box-minimal .data-grid,
+        .info-box-minimal .divider,
+        .info-box-minimal .iucn-badge {
+            display: none !important;
+        }
+
+        .info-box-minimal {
+            background: linear-gradient(135deg, rgba(18,16,14,0.72) 0%, rgba(10,8,6,0.82) 100%) !important;
+            border: 1px solid rgba(212,168,67,0.14) !important;
+            border-top: 2px solid rgba(212,168,67,0.3) !important;
+            padding: 16px 18px !important;
+        }
+
+        .spread-right-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to left, rgba(6,4,2,0.94) 0%, rgba(6,4,2,0.88) 30%, rgba(6,4,2,0.55) 55%, transparent 65%);
+            z-index: 997;
+            pointer-events: none;
+        }
+
+        .info-box-minimal .animal-name {
+            font-size: 1.3rem !important;
+            margin-bottom: 0 !important;
+        }
+
+        .info-box-spread {
+            width: min(380px, 44%) !important;
+            background: linear-gradient(135deg, rgba(14,12,10,0.92) 0%, rgba(8,6,4,0.96) 100%) !important;
+            border: 1px solid rgba(212,168,67,0.25) !important;
+            border-top: 3px solid rgba(212,168,67,0.55) !important;
+            padding: 28px 30px !important;
+        }
+        .info-box-spread .animal-name {
+            font-size: 1.5rem !important;
+        }
+
+        .bottom-right {
+            bottom: 6% !important;
+            right: 6% !important;
+        }
+
+        .bottom-left {
+            bottom: 6% !important;
+            left: 6% !important;
+        }
+
+        .top-right {
+            top: 6% !important;
+            right: 6% !important;
+        }
+
+        .top-left {
+            top: 6% !important;
+            left: 6% !important;
+        }
+
+        .top-center {
+            top: 6% !important;
+            left: 50% !important;
+            transform: translateX(-50%) !important;
+        }
+
+        .bottom-center {
+            bottom: 6% !important;
+            left: 50% !important;
+            transform: translateX(-50%) !important;
+        }
+
+        .middle-right {
+            top: 50% !important;
+            right: 6% !important;
+            transform: translateY(-50%) !important;
+        }
+
+        .middle-left {
+            top: 50% !important;
+            left: 6% !important;
+            transform: translateY(-50%) !important;
+        }
+
+        .animal-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.5rem;
+            line-height: 1.1;
+            margin-bottom: 4px;
+            color: var(--accent-gold);
+            text-transform: uppercase;
+            letter-spacing: -0.5px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .iucn-badge {
+            display: inline-block;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.56rem;
+            font-weight: 600;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            color: #ff6b6b;
+            background: rgba(255,107,107,0.08);
+            border: 1px solid rgba(255,107,107,0.3);
+            border-radius: 4px;
+            padding: 3px 8px;
+            margin-bottom: 20px;
+        }
+
+        .iucn-endangered {
+            color: #ffaa44;
+            background: rgba(255,170,68,0.08);
+            border-color: rgba(255,170,68,0.3);
+        }
+
+        .iucn-vulnerable {
+            color: #d4a843;
+            background: rgba(212,168,67,0.08);
+            border-color: rgba(212,168,67,0.3);
+        }
+
+        .divider {
+            height: 1px;
+            background: linear-gradient(to right, rgba(212,168,67,0.5), rgba(212,168,67,0.05));
+            margin-bottom: 18px;
+        }
+
+        .data-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 13px;
+        }
+
+        .data-item {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            padding-bottom: 10px;
+        }
+
+        .data-item:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .label {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.6rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: rgba(212, 168, 67, 0.55);
+            display: block;
+            margin-bottom: 3px;
+        }
+
+        .value {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.92);
+            line-height: 1.4;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page-container">
+        <img class="animal-photo" src="{{IMAGE_URL}}" alt="{{ANIMAL_NAME}}" style="object-position: {{FOCAL_X}} {{FOCAL_Y}};">
+        <div class="gradient-overlay"></div>
+        {{SPREAD_OVERLAY}}
+        <div class="info-box {{BOX_POSITION}}">
+            <h1 class="animal-name">{{ANIMAL_NAME}}</h1>
+            <span class="iucn-badge{{IUCN_CLASS}}">{{IUCN_STATUS}}</span>
+            <div class="divider"></div>
+            <div class="data-grid">
+                <div class="data-item">
+                    <span class="label">Est. Population</span>
+                    <span class="value">{{EST_POPULATION}}</span>
+                </div>
+                <div class="data-item">
+                    <span class="label">Primary Threat</span>
+                    <span class="value">{{PRIMARY_THREAT}}</span>
+                </div>
+                <div class="data-item">
+                    <span class="label">Where Found</span>
+                    <span class="value">{{WHERE_FOUND}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

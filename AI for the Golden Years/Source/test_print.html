@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .page {
+            width: 7in;
+            height: 10in;
+            background: red;
+            position: relative;
+        }
+
+        .test1 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 50%;
+            height: 100%;
+            background: linear-gradient(to right, rgba(255, 255, 255, 0.9), transparent);
+            -webkit-print-color-adjust: exact;
+        }
+
+        .test2 {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 50%;
+            height: 100%;
+            /* pseudo element approach */
+        }
+
+        .test2::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 255, 0.5);
+            -webkit-print-color-adjust: exact;
+        }
+
+        .test3 {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 200px;
+            /* Box shadow approach */
+            box-shadow: inset 0 -100px 100px white;
+            -webkit-print-color-adjust: exact;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page">
+        <div class="test1">Gradient</div>
+        <div class="test2">Flat RGBA Pseudo</div>
+        <div class="test3">Box Shadow</div>
+    </div>
+</body>
+
+</html>

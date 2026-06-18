@@ -1,0 +1,1631 @@
+{
+  "book": "Book 1: THE LOST SIGNAL",
+  "total_chapters": 19,
+  "total_words": 24532,
+  "target_pages": 216,
+  "style_prefix": "THE GLITCH SQUAD children's book art, vibrant cel-shaded 2D digital illustration, bold clean black outlines, flat color fills with minimal soft shading, round friendly proportions, large expressive eyes, warm golden lighting, bright candy-color palette, no photorealism no 3D render",
+  "illustrations": [
+    {
+      "id": "B1-001",
+      "type": "full-page",
+      "chapter": 1,
+      "file": "mayas_workshop.png",
+      "prompt": "Maya at her bedroom workshop. Cluttered wooden workbench with circuit boards, tools, wires. Warm golden desk lamp lighting. Notebooks and blueprints scattered. Cozy creative inventor den.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-002",
+      "type": "half-page",
+      "chapter": 2,
+      "file": "basement_corridor.png",
+      "prompt": "Dark basement corridor with rough concrete walls and exposed pipes overhead. Single flashlight beam cutting through dust and cobwebs. Eerie mysterious atmosphere. No people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-003",
+      "type": "half-page",
+      "chapter": 9,
+      "file": "hidden_lab_discovery.png",
+      "prompt": "Maya discovering abandoned underground lab. Dusty workbenches with old equipment. Grey crates with faded labels. Cobwebs. Flashlight piercing darkness. Forgotten secrets.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-004",
+      "type": "spot",
+      "chapter": 1,
+      "file": "daadi_kitchen_samosas.png",
+      "prompt": "Daadi in warm kitchen making samosas. Lace curtains with sunlight. Steam from stove. Colorful spice jars. Cozy family warmth.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-005",
+      "type": "spot",
+      "chapter": 4,
+      "file": "maya_sleeping_cube_glow.png",
+      "prompt": "Close-up of a single sleeping child girl with closed eyes lying in bed at night. One small white cube robot with soft cyan glow sitting alone on cluttered desk among wires and notebooks. Empty dark bedroom, moonlight through window. No other people, no other children, only one girl asleep.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-006",
+      "type": "full-page",
+      "chapter": 4,
+      "file": "blip_activation.png",
+      "prompt": "Maya at dark desk. Blip flickering to life with cyan glow on faces. Discovery wonder moment.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-007",
+      "type": "full-page",
+      "chapter": 5,
+      "file": "maple_street_chaos.png",
+      "prompt": "Wide shot of a city street at night with colorful glitch lights. Not a single person visible in close view. One lone small white cube robot with blue glowing face hovering above asphalt. Fire hydrant bursting with water spray. A single drone spinning in sky. Glitching neon signs on buildings. Magenta turquoise and gold lights. Still life scene with one robot only.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-008",
+      "type": "half-page",
+      "chapter": 13,
+      "file": "leo_library.png",
+      "prompt": "Leo at dim library. Tall bookshelves. Reading table with books. Tablet with green code reflected in glasses. Focused quiet atmosphere.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-009",
+      "type": "spot",
+      "chapter": 5,
+      "file": "zara_photographing_chaos.png",
+      "prompt": "Zara on street photographing glitch effects. Hair twists and yellow bag. Artist capturing impossible scene. Warm golden light.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-010",
+      "type": "spot",
+      "chapter": 6,
+      "file": "sam_vaulting_bench.png",
+      "prompt": "Sam vaulting over park bench. Red gloves and LED sneakers. Impish grin. Dynamic action. Energetic bright mood.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-011",
+      "type": "half-page",
+      "chapter": 10,
+      "file": "first_meeting_room.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 standing in a cluttered child's bedroom at midnight. An 11-year-old Indian girl with brown skin, messy ponytail, goggles on forehead, olive green utility vest with tool pockets, vintage graphic tee, cargo shorts standing protectively in front of a desk. A 10-year-old Japanese-Korean boy with light skin, black spiky hair, crimson fingerless gaming gloves, black PLAYER shirt holding a tablet showing waveforms. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings looking around with camera raised. An 11-year-old Mexican-American boy with tan skin, navy blue beanie with heart patch, reading glasses, gray hoodie with tablet, jeans trying to reach toward desk. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet hiding behind a stapler on desk. Cluttered desk with wires and tools. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 417812084
+    },
+    {
+      "id": "B1-012",
+      "type": "spot",
+      "chapter": 7,
+      "file": "kids_in_closet.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 crammed into a small bedroom closet full of coats. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts, pressing finger to lips. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt, peeking through door crack. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket, colorful leggings, clutching bag nervously. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, reading glasses, gray hoodie, jeans, crouching with tablet. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet. Winter coats around them. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 330227864
+    },
+    {
+      "id": "B1-013",
+      "type": "half-page",
+      "chapter": 7,
+      "file": "hallway_lockdown.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 in a dark cluttered bedroom staring at a flickering computer monitor. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts, standing in front. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt, looking tense. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket, colorful leggings, clutching camera. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, reading glasses, gray hoodie, jeans, scanning with tablet. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet. Monitor showing shifting fragmented geometric shapes in purple and green static. Mysterious digital presence. Timer visible on screen. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-014",
+      "type": "full-page",
+      "chapter": 6,
+      "file": "gridlord_first_appearance.png",
+      "prompt": "Monitor with glitchy Gridlord face. Static and code. Purple and green distortion. Crown icon. Eerie digital presence.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-015",
+      "type": "spot",
+      "chapter": 14,
+      "file": "leo_tablet_symbols.png",
+      "prompt": "An 11-year-old Mexican-American boy with tan skin, navy blue beanie with heart patch, reading glasses, gray hoodie, jeans sitting at a cluttered desk in a dark bedroom. Tablet showing specifications and blue holographic grid overlay. Focused analytical expression. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes, floating nearby projecting data. Wires and tools on desk. Blue glow from robot and tablet.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-016",
+      "type": "half-page",
+      "chapter": 8,
+      "file": "zara_sketchpad_symbols.png",
+      "prompt": "A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings sitting cross-legged on a bedroom floor with sketchpad. Drawing connecting lines between geometric cipher symbols. Creative discovery moment. Marker stains on hands. Warm lamplight. Bright focused energy.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-017",
+      "type": "full-page",
+      "chapter": 8,
+      "file": "team_building_key.png",
+      "prompt": "An 11-year-old Indian girl with brown skin, messy ponytail, goggles on forehead, olive green utility vest, vintage graphic tee, cargo shorts building a connector device on a cluttered bedroom floor. Coat hanger, magnet, USB cable, kitchen spoons, and electrical tape spread around her. One 10-year-old Japanese-Korean boy with light skin, black spiky hair, crimson fingerless gaming gloves, black PLAYER shirt watching with wide eyes. One 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings holding flashlight and sketchpad. One 11-year-old Mexican-American boy with tan skin, navy blue beanie with heart patch, reading glasses, gray hoodie, jeans verifying measurements on tablet. one small white boxy robot with rectangular head, square screen face, large bright blue LED eyes, floating nearby showing specifications. Warm desk lamp light. Tools and wires everywhere. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 1669834713
+    },
+    {
+      "id": "B1-018",
+      "type": "half-page",
+      "chapter": 16,
+      "file": "entering_lab_second_time.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 and one robot inside a dusty underground lab standing around a terminal that just lit up green. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts at the terminal. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt looking amazed. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket, colorful leggings photographing. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans examining equipment. one small white boxy robot with rectangular head, square screen face, large bright blue LED eyes, floating near terminal. Dusty workbenches, faded safety poster, NexCorp equipment. Amber and green indicator lights. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 562516563
+    },
+    {
+      "id": "B1-019",
+      "type": "full-page",
+      "chapter": 10,
+      "file": "puzzle_solved_celebration.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 sitting on a bedroom floor at night in quiet reflective mood sharing samosas. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts eating thoughtfully. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt lying on back staring at ceiling. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings sketching the group. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans eating with precise small bites. one small white boxy robot with rectangular head, square screen face, large bright blue LED eyes, soft smile, floating nearby studying a desk lamp with curiosity. Warm intimate atmosphere. Soft lamplight. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 1131408753
+    },
+    {
+      "id": "B1-020",
+      "type": "spot",
+      "chapter": 19,
+      "file": "blip_buffering.png",
+      "prompt": "Blip close up showing loading icon. Flickering orange emoji. Buffering symbol. Comedic. Dark background.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-021",
+      "type": "half-page",
+      "chapter": 10,
+      "file": "midnight_samosas.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 on bedroom floor at midnight sharing samosas. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts eating samosa. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt stuffing face. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings reaching for samosa. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans whispering. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 1016257298
+    },
+    {
+      "id": "B1-022",
+      "type": "spot",
+      "chapter": 11,
+      "file": "daadi_morning_parathas.png",
+      "prompt": "Daadi in sunny kitchen making parathas. Golden morning light. Steam and warmth. Peaceful domestic morning.",
+      "size": 512,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-023",
+      "type": "half-page",
+      "chapter": 11,
+      "file": "park_bench_breakfast.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 on a park bench in morning sunshine, no robots. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts holding a cup. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt giving thumbs up. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings holding a plate. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans eating from a bowl. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 1305897773
+    },
+    {
+      "id": "B1-024",
+      "type": "half-page",
+      "chapter": 12,
+      "file": "underground_tunnel.png",
+      "prompt": "Exactly four pre-teen children aged 10-12 walking through a narrow underground tunnel, no robots. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts leading with flashlight. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt glancing back. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings walking carefully. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans scanning with tablet. Brick walls, cables on ceiling. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-025",
+      "type": "half-page",
+      "chapter": 12,
+      "file": "gridlord_server_room.png",
+      "prompt": "Server room. Blip connected to terminal. Monitor with red dots spreading. Maya watching. Tension. Blue glow.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-026",
+      "type": "full-page",
+      "chapter": 13,
+      "file": "sam_traffic_light.png",
+      "prompt": "Sam at traffic light control box. Attaching device. Sparks. Red gloves. Determined action. Electric sparks.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-027",
+      "type": "half-page",
+      "chapter": 13,
+      "file": "leo_library_hack.png",
+      "prompt": "Leo at library. Tablet with green code cascading. Reading glasses. Code stabilizing. Cool green glow.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-028",
+      "type": "full-page",
+      "chapter": 13,
+      "file": "zara_ar_art.png",
+      "prompt": "Zara in park with painting on easel. Adding glitch overlays with stylus. Flowers and digital art merging.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-029",
+      "type": "full-page",
+      "chapter": 13,
+      "file": "maya_water_valve.png",
+      "prompt": "One single 11-year-old Indian girl with brown skin, messy ponytail with pencil, goggles on forehead, olive green utility vest, vintage graphic tee, cargo shorts operating a makeshift water valve. Water spraying creating rainbows. Solo scene. No other people. Pre-teen aged 11.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations",
+      "seed_override": 1173647512
+    },
+    {
+      "id": "B1-030",
+      "type": "full-page",
+      "chapter": 14,
+      "file": "grid_map_revelation.png",
+      "prompt": "Lab monitor with red dots spreading map. Crown icon glowing. Blip concerned. Ominous digital glow.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-031",
+      "type": "full-page",
+      "chapter": 15,
+      "file": "blip_interface.png",
+      "prompt": "Server room. Blip connected via cable. Energy crackling. Maya watching. Data stream. Dramatic lighting.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-032",
+      "type": "half-page",
+      "chapter": 15,
+      "file": "blip_reboot_v1.png",
+      "prompt": "Server room. Blip disconnecting. VERSION 1.0 happy on screen. Maya embracing Blip. Triumphant.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-033",
+      "type": "full-page",
+      "chapter": 16,
+      "file": "hq_finished.png",
+      "prompt": "A cozy underground lab headquarters with string lights and monitors. Exactly four pre-teen children aged 10-12 and one robot, no other people. An 11-year-old Indian girl with brown skin, messy ponytail, goggles on forehead, olive green utility vest with tool pockets, vintage graphic tee, cargo shorts tinkering with wires at workbench. A 10-year-old Japanese-Korean boy with light skin, black spiky hair on top, crimson fingerless gaming gloves on both hands, black PLAYER shirt, athletic shorts testing a gadget. A 12-year-old Nigerian-British girl with dark brown skin, voluminous black hair in chunky twists, yellow crossbody bag, blue denim jacket with patches, colorful patterned leggings sketching at art desk. An 11-year-old Mexican-American boy with warm tan skin, navy blue knit beanie with small pixel heart patch, reading glasses, gray oversized hoodie with tablet in pocket, jeans at monitor desk. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. No other people.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-034",
+      "type": "half-page",
+      "chapter": 17,
+      "file": "blueprints_analysis.png",
+      "prompt": "Lab wall with Blip blueprint schematics. Handwritten notes. Holographic projection. Leo studying. Discovery.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-035",
+      "type": "half-page",
+      "chapter": 17,
+      "file": "investigation_board.png",
+      "prompt": "One single 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings pinning a photo to a cork investigation board. Solo detective moment. No other people. Pre-teen aged 12.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-036",
+      "type": "full-page",
+      "chapter": 18,
+      "file": "rooftop_sunset.png",
+      "prompt": "Four pre-teen children aged 10-12 on an apartment rooftop at sunset, no other people. An 11-year-old Indian girl with brown skin, ponytail wind-blown, goggles around neck, olive green utility vest, vintage tee, cargo shorts. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt leaning back with LED sneakers dangling over edge. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings taking a photo. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans watching horizon. one small white boxy robot with rectangular head, square screen face with thin dark border, large bright blue LED eyes with pixel pattern, dark red curved smile, two white rounded antennas, two short arms with black joints, two legs with black joints, walks on feet. IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items. Golden sunset light.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-037",
+      "type": "full-page",
+      "chapter": 18,
+      "file": "maya_skyline_dusk.png",
+      "prompt": "Maya on rooftop at dusk looking at skyline. Goggles around neck. Wind in ponytail. Heroic silhouette.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-038",
+      "type": "back-matter",
+      "chapter": 0,
+      "file": "backmatter_blip_specs.png",
+      "prompt": "Blip floating in dark with expressions cycling. Spotlight. Character showcase. Clean minimal presentation.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-039",
+      "type": "back-matter",
+      "chapter": 0,
+      "file": "backmatter_how_to_draw_blip.png",
+      "prompt": "Blip in shaft of light. Screen showing internal schematic. Holographic data. Tech spec style.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "B1-040",
+      "type": "back-matter",
+      "chapter": 0,
+      "file": "backmatter_puzzle.png",
+      "prompt": "Blip on white background. Happy wink screen. Clean friendly presentation. Character intro.",
+      "size": 1024,
+      "status": "generated",
+      "_array": "illustrations"
+    },
+    {
+      "id": "ES-01",
+      "file": "Spots/spot_spring_bounce.png",
+      "type": "spot",
+      "chapter": 1
+    },
+    {
+      "id": "ES-02",
+      "file": "Spots/spot_crate_stairs.png",
+      "type": "spot",
+      "chapter": 3
+    },
+    {
+      "id": "ES-03",
+      "file": "Spots/spot_samosa_plate.png",
+      "type": "spot",
+      "chapter": 10
+    },
+    {
+      "id": "ES-04",
+      "file": "Spots/spot_basement_door.png",
+      "type": "spot",
+      "chapter": 2
+    },
+    {
+      "id": "ES-05",
+      "file": "Spots/spot_backpack_crumbled.png",
+      "type": "spot",
+      "chapter": 1
+    },
+    {
+      "id": "ES-06",
+      "file": "Spots/spot_professor_waddles.png",
+      "type": "spot",
+      "chapter": 1
+    }
+  ],
+  "blip_marginalia": [
+    {
+      "id": "blip-thinking",
+      "face": "●_●",
+      "color": "purple",
+      "use": "processing, puzzles"
+    },
+    {
+      "id": "blip-happy",
+      "face": "◠‿◠",
+      "color": "cyan",
+      "use": "default happy"
+    },
+    {
+      "id": "blip-scared",
+      "face": "○_○",
+      "color": "red",
+      "use": "danger, fear"
+    },
+    {
+      "id": "blip-confused",
+      "face": "●?●",
+      "color": "orange",
+      "use": "confusion, questions"
+    },
+    {
+      "id": "blip-excited",
+      "face": "★‿★",
+      "color": "yellow",
+      "use": "excitement"
+    },
+    {
+      "id": "blip-love",
+      "face": "◠♡◠",
+      "color": "pink",
+      "use": "friendship moments"
+    },
+    {
+      "id": "blip-loading",
+      "face": "◐_◐",
+      "color": "blue",
+      "use": "buffering, startup"
+    },
+    {
+      "id": "blip-sleepy",
+      "face": "●~●",
+      "color": "dim-purple",
+      "use": "low power, night"
+    },
+    {
+      "id": "blip-laugh",
+      "face": "◠▽◠",
+      "color": "bright-cyan",
+      "use": "comedy moments"
+    },
+    {
+      "id": "blip-determined",
+      "face": "►_◄",
+      "color": "bright-cyan",
+      "use": "facing challenges"
+    },
+    {
+      "id": "blip-sad",
+      "face": "◠_◠",
+      "color": "blue",
+      "use": "emotional moments"
+    },
+    {
+      "id": "blip-mischievous",
+      "face": "◠‿◠*",
+      "color": "green",
+      "use": "Sam being dumb"
+    }
+  ],
+  "summary": {
+    "full_page": 14,
+    "half_page": 14,
+    "spot": 33,
+    "strip": 28,
+    "back_matter": 3,
+    "blip_marginalia_images": 12,
+    "chapter_vignettes": 36,
+    "character_cards": 5,
+    "maps": 2,
+    "gadget_blueprints": 4,
+    "title_pages": 1,
+    "section_dividers": 5,
+    "glitch_art": 6,
+    "extra_spots": 25,
+    "documents": 4,
+    "endpapers": 2,
+    "total_scene_illustrations": 169,
+    "blip_marginalia_types": 12,
+    "plus_character_references": 30,
+    "estimated_total_with_marginalia": 285,
+    "images_per_page_target": 1.2,
+    "target_pages": 216
+  },
+  "blip_marginalia_images": [
+    {
+      "id": "BM-01",
+      "type": "marginalia",
+      "file": "Marginalia/blip_thinking.png",
+      "prompt": "Small cute white cube robot with purple LED screen showing two round dot eyes looking up in thought, tiny gear symbols floating around it, purple glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-02",
+      "type": "marginalia",
+      "file": "Marginalia/blip_happy.png",
+      "prompt": "Small cute white cube robot with bright cyan LED screen showing happy curved smile eyes, tiny musical notes and sparkles around it, cyan glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-03",
+      "type": "marginalia",
+      "file": "Marginalia/blip_scared.png",
+      "prompt": "Small cute white cube robot with red LED screen showing wide open scared circular eyes, tiny sweat drops and zigzag lines around it, red glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-04",
+      "type": "marginalia",
+      "file": "Marginalia/blip_confused.png",
+      "prompt": "Small cute white cube robot with orange LED screen showing eyes looking in different directions with question marks above, tiny squiggly lines around it, orange glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-05",
+      "type": "marginalia",
+      "file": "Marginalia/blip_excited.png",
+      "prompt": "Small cute white cube robot with yellow LED screen showing star-shaped sparkle eyes, tiny confetti and exclamation marks around it, bright yellow glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-06",
+      "type": "marginalia",
+      "file": "Marginalia/blip_love.png",
+      "prompt": "Small cute white cube robot with pink LED screen showing heart-shaped eyes and tiny smile, little hearts and flowers floating around it, pink glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-07",
+      "type": "marginalia",
+      "file": "Marginalia/blip_loading.png",
+      "prompt": "Small cute white cube robot with blue LED screen showing spinning loading circle and patient half-closed eyes, tiny hourglass beside it, blue glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-08",
+      "type": "marginalia",
+      "file": "Marginalia/blip_sleepy.png",
+      "prompt": "Small cute white cube robot with dim purple LED screen showing droopy half-closed eyes and tiny Zzz floating up, little crescent moon beside it, dim glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-09",
+      "type": "marginalia",
+      "file": "Marginalia/blip_laugh.png",
+      "prompt": "Small cute white cube robot with bright cyan LED screen showing big open grin laughing face, tiny tears of joy and HA HA text around it, bright cyan glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-10",
+      "type": "marginalia",
+      "file": "Marginalia/blip_determined.png",
+      "prompt": "Small cute white cube robot with bright cyan LED screen showing narrow focused determined eyes, tiny flame and lightning bolt symbols around it, bright cyan glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-11",
+      "type": "marginalia",
+      "file": "Marginalia/blip_sad.png",
+      "prompt": "Small cute white cube robot with blue LED screen showing downturned sad eyes and frown, tiny teardrop falling from screen, soft blue glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    },
+    {
+      "id": "BM-12",
+      "type": "marginalia",
+      "file": "Marginalia/blip_mischievous.png",
+      "prompt": "Small cute white cube robot with green LED screen showing sly half-smile with one eye winking, tiny spark and tongue-out emoji around it, green glow, simple warm background",
+      "size": 256,
+      "status": "generated",
+      "_array": "blip_marginalia_images"
+    }
+  ],
+  "chapter_vignettes": [
+    {
+      "id": "CV-01",
+      "type": "chapter-vignette",
+      "chapter": 1,
+      "file": "ChapterHeaders/ch01_vignette.png",
+      "prompt": "A tangled ball of wires and screws with a tiny red motor sparking, surrounded by scattered tools, warm golden desk lamp light, small circular vignette composition",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-02",
+      "type": "chapter-vignette",
+      "chapter": 2,
+      "file": "ChapterHeaders/ch02_vignette.png",
+      "prompt": "A rusted keyhole in an old metal door with a single beam of flashlight cutting through dust particles, mysterious circular vignette, dark edges",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-03",
+      "type": "chapter-vignette",
+      "chapter": 3,
+      "file": "ChapterHeaders/ch03_vignette.png",
+      "prompt": "A grey plastic crate with faded blue NEXCORP RESEARCH label, dust particles floating, single flashlight beam from above, circular vignette with dust motes",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-04",
+      "type": "chapter-vignette",
+      "chapter": 4,
+      "file": "ChapterHeaders/ch04_vignette.png",
+      "prompt": "A plate of golden samosas with steam rising, fork and napkin beside it, warm kitchen light, small cozy circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-05",
+      "type": "chapter-vignette",
+      "chapter": 5,
+      "file": "ChapterHeaders/ch05_vignette.png",
+      "prompt": "A small white cube sitting on a desk in darkness with a single tiny blue pixel of light on its screen, moonbeam from window, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-06",
+      "type": "chapter-vignette",
+      "chapter": 6,
+      "file": "ChapterHeaders/ch06_vignette.png",
+      "prompt": "A traffic light showing all three colors at once red yellow green with sparks and glitch lines around it, circular vignette, dark night background",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-07",
+      "type": "chapter-vignette",
+      "chapter": 7,
+      "file": "ChapterHeaders/ch07_vignette.png",
+      "prompt": "A tablet screen showing a pulsing signal wave with a glowing dot on a map, code text scrolling on sides, circular vignette, cool blue light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-08",
+      "type": "chapter-vignette",
+      "chapter": 8,
+      "file": "ChapterHeaders/ch08_vignette.png",
+      "prompt": "A camera viewfinder showing a glitching neon sign with colored bars on edges, flash reflection visible, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-09",
+      "type": "chapter-vignette",
+      "chapter": 9,
+      "file": "ChapterHeaders/ch09_vignette.png",
+      "prompt": "A pair of bright red fingerless gaming gloves with LED accents in mid-air as if vaulting something, motion blur lines, circular vignette, dynamic energy",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-10",
+      "type": "chapter-vignette",
+      "chapter": 10,
+      "file": "ChapterHeaders/ch10_vignette.png",
+      "prompt": "Four different colored hands reaching toward a glowing white cube in the center, each hand distinctive olive brown dark brown light, circular vignette, warm light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-11",
+      "type": "chapter-vignette",
+      "chapter": 11,
+      "file": "ChapterHeaders/ch11_vignette.png",
+      "prompt": "A small white cube robot with a loading bar at 47 percent on its screen, sandwiched between winter coats, circular vignette, funny mood",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-12",
+      "type": "chapter-vignette",
+      "chapter": 12,
+      "file": "ChapterHeaders/ch12_vignette.png",
+      "prompt": "An electronic door lock glowing red with LOCKED text, heat shimmer waves radiating from it, circular vignette, ominous red glow",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-13",
+      "type": "chapter-vignette",
+      "chapter": 13,
+      "file": "ChapterHeaders/ch13_vignette.png",
+      "prompt": "An old CRT computer monitor showing a pixelated face dissolving into static and purple glitch lines, circular vignette, eerie purple glow",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-14",
+      "type": "chapter-vignette",
+      "chapter": 14,
+      "file": "ChapterHeaders/ch14_vignette.png",
+      "prompt": "Geometric alien symbols floating in a column with connecting lines between them like a cipher, circular vignette, blue-green glow on dark background",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-15",
+      "type": "chapter-vignette",
+      "chapter": 15,
+      "file": "ChapterHeaders/ch15_vignette.png",
+      "prompt": "A sketchpad page showing geometric symbols being connected with colored marker lines, a hand with marker-stained fingers visible, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-16",
+      "type": "chapter-vignette",
+      "chapter": 16,
+      "file": "ChapterHeaders/ch16_vignette.png",
+      "prompt": "A soldering iron touching wires with bright orange sparks flying, pair of wire cutters and circuit board nearby, circular vignette, warm workshop light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-17",
+      "type": "chapter-vignette",
+      "chapter": 17,
+      "file": "ChapterHeaders/ch17_vignette.png",
+      "prompt": "Multiple flashlight beams cutting through underground darkness converging on a metal door, circular vignette, mysterious cold blue light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-18",
+      "type": "chapter-vignette",
+      "chapter": 18,
+      "file": "ChapterHeaders/ch18_vignette.png",
+      "prompt": "A computer terminal showing green text with a large CONNECTED message and celebration confetti, circular vignette, triumphant green glow",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-19",
+      "type": "chapter-vignette",
+      "chapter": 19,
+      "file": "ChapterHeaders/ch19_vignette.png",
+      "prompt": "A small white cube robot with a buffering spinner on its screen looking embarrassed, antenna drooping, circular vignette, funny cute mood",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-20",
+      "type": "chapter-vignette",
+      "chapter": 20,
+      "file": "ChapterHeaders/ch20_vignette.png",
+      "prompt": "A plate of samosas on a bedroom floor surrounded by four pairs of feet in different shoes and one floating robot, warm lamp light, circular vignette, cozy mood",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-21",
+      "type": "chapter-vignette",
+      "chapter": 21,
+      "file": "ChapterHeaders/ch21_vignette.png",
+      "prompt": "Morning sunlight streaming through kitchen window hitting a griddle with golden parathas, glass of chai beside it, circular vignette, warm golden light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-22",
+      "type": "chapter-vignette",
+      "chapter": 22,
+      "file": "ChapterHeaders/ch22_vignette.png",
+      "prompt": "A park bench in morning sunshine with a small container of food and four juice boxes arranged on it, dandelions growing between paving stones, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-23",
+      "type": "chapter-vignette",
+      "chapter": 23,
+      "file": "ChapterHeaders/ch23_vignette.png",
+      "prompt": "A narrow brick tunnel with bundled cables on walls and a tiny cyan glow in the distance, spray-painted pixelated crown on wall, circular vignette, mysterious depth",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-24",
+      "type": "chapter-vignette",
+      "chapter": 24,
+      "file": "ChapterHeaders/ch24_vignette.png",
+      "prompt": "A server rack with blinking blue lights and a cable running from it to a small white cube, a monitor showing a city map with red dots, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-25",
+      "type": "chapter-vignette",
+      "chapter": 25,
+      "file": "ChapterHeaders/ch25_vignette.png",
+      "prompt": "A traffic light control box open with wires exposed, a small device with a red button attached to it, sparks, circular vignette, action energy",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-26",
+      "type": "chapter-vignette",
+      "chapter": 26,
+      "file": "ChapterHeaders/ch26_vignette.png",
+      "prompt": "Lines of green code cascading on a screen reflected in round reading glasses, a tablet showing stabilizing waveform, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-27",
+      "type": "chapter-vignette",
+      "chapter": 27,
+      "file": "ChapterHeaders/ch27_vignette.png",
+      "prompt": "A colorful abstract painting with glitch-art pixel overlays creating a beautiful fusion of traditional and digital art, circular vignette, gallery lighting",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-28",
+      "type": "chapter-vignette",
+      "chapter": 28,
+      "file": "ChapterHeaders/ch28_vignette.png",
+      "prompt": "A garden hose tied with copper wire and duct tape forming a makeshift valve, water spraying dramatically, circular vignette, engineering action",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-29",
+      "type": "chapter-vignette",
+      "chapter": 29,
+      "file": "ChapterHeaders/ch29_vignette.png",
+      "prompt": "A city map with hundreds of red dots spreading like cracks, a pixelated crown symbol in the center, circular vignette, ominous digital glow",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-30",
+      "type": "chapter-vignette",
+      "chapter": 30,
+      "file": "ChapterHeaders/ch30_vignette.png",
+      "prompt": "A thick cable connecting a small white cube to a server terminal, energy crackling along the cable in cyan and white, circular vignette, dramatic lighting",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-31",
+      "type": "chapter-vignette",
+      "chapter": 31,
+      "file": "ChapterHeaders/ch31_vignette.png",
+      "prompt": "A small white cube robot screen showing VERSION 1.0 with a big smile face and tiny confetti, brighter glow than before, circular vignette, triumphant",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-32",
+      "type": "chapter-vignette",
+      "chapter": 32,
+      "file": "ChapterHeaders/ch32_vignette.png",
+      "prompt": "String lights hanging in an underground room casting warm glow over a pegboard and monitors, a charging dock with robot silhouette, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-33",
+      "type": "chapter-vignette",
+      "chapter": 33,
+      "file": "ChapterHeaders/ch33_vignette.png",
+      "prompt": "Blueprint schematics of a cube-shaped robot with handwritten annotations and measurement arrows, holographic circuit overlay, circular vignette",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-34",
+      "type": "chapter-vignette",
+      "chapter": 34,
+      "file": "ChapterHeaders/ch34_vignette.png",
+      "prompt": "A cork board with photos connected by red string, a NexCorp logo projected in hologram with question marks, circular vignette, detective mood",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-35",
+      "type": "chapter-vignette",
+      "chapter": 35,
+      "file": "ChapterHeaders/ch35_vignette.png",
+      "prompt": "A golden hour sunset through rooftop railing with a samosa in the foreground and city skyline silhouette behind, circular vignette, warm golden light",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    },
+    {
+      "id": "CV-36",
+      "type": "chapter-vignette",
+      "chapter": 36,
+      "file": "ChapterHeaders/ch36_vignette.png",
+      "prompt": "A pair of safety goggles reflecting Neonville city lights at dusk with a tiny cyan glow in one lens, circular vignette, hopeful atmosphere",
+      "size": 512,
+      "status": "generated",
+      "_array": "chapter_vignettes"
+    }
+  ],
+  "character_cards": [
+    {
+      "id": "CC-01",
+      "type": "character-card",
+      "chapter": 1,
+      "file": "Cards/card_maya.png",
+      "prompt": "Character trading card for MAYA age 10, Indian girl with warm brown skin messy ponytail safety goggles on forehead olive green inventor vest with pockets, surrounded by floating tools screwdriver wrench circuit board soldering iron, name MAYA in bold letters at top, subtitle THE INVENTOR, decorative border of gears and wires, card format with stats",
+      "size": 512,
+      "status": "generated",
+      "_array": "character_cards"
+    },
+    {
+      "id": "CC-02",
+      "type": "character-card",
+      "chapter": 7,
+      "file": "Cards/card_leo.png",
+      "prompt": "Character trading card for LEO age 10, Mexican-American boy with navy blue beanie with pixel heart patch oversized grey hoodie reading glasses on chain, surrounded by floating code brackets binary digits tablet and holographic screens, name LEO in bold digital font at top, subtitle THE CODER, decorative border of pixels and code brackets, card format with stats",
+      "size": 512,
+      "status": "generated",
+      "_array": "character_cards"
+    },
+    {
+      "id": "CC-03",
+      "type": "character-card",
+      "chapter": 8,
+      "file": "Cards/card_zara.png",
+      "prompt": "Character trading card for ZARA age 11, Nigerian-British girl with voluminous black hair twists oversized denim jacket with colorful patches bright yellow crossbody bag camera around neck, surrounded by floating art supplies markers paintbrushes color swatches, name ZARA in bold artistic font at top, subtitle THE ARTIST, decorative border of paint splatters and stars, card format with stats",
+      "size": 512,
+      "status": "generated",
+      "_array": "character_cards"
+    },
+    {
+      "id": "CC-04",
+      "type": "character-card",
+      "chapter": 9,
+      "file": "Cards/card_sam.png",
+      "prompt": "Character trading card for SAM age 9, Japanese-Korean boy with messy spiky hair bright red fingerless gaming gloves black PLAYER 1 t-shirt LED sneakers, surrounded by floating game controllers pixel hearts lightning bolts and energy lines, name SAM in bold graffiti font at top, subtitle THE GAMER, decorative border of arcade pixels and stars, card format with stats",
+      "size": 512,
+      "status": "generated",
+      "_array": "character_cards"
+    },
+    {
+      "id": "CC-05",
+      "type": "character-card",
+      "chapter": 5,
+      "file": "Cards/card_blip.png",
+      "prompt": "Character trading card for BLIP, small cute white cube robot with rounded edges small antenna LED screen showing happy face, surrounded by floating data packets wifi signals binary code and pixel hearts, name BLIP in bold tech font at top, subtitle THE ROBOT, decorative circuit board border with cyan accents, card format with specs",
+      "size": 512,
+      "status": "generated",
+      "_array": "character_cards"
+    },
+    {
+      "id": "CC-06",
+      "file": "Cards/card_gridlord.png",
+      "type": "character-card",
+      "size": "512",
+      "prompt": "Character card portrait of Gridlord a mysterious digital entity appearing as a stern angular pixelated face displayed on a dark screen background with green code rain glowing green eyes with digital artifact distortion jagged metallic crown symbol embedded in forehead skin rendered in shifting green-purple digital noise sharp angular features with prominent metallic implant or scar running from forehead to cheek short slicked-back dark hair surrounded by cascading green code text and purple static distortion glowing orange neon crown icon above the name label GRIDLORD at top in bold pixelated font subtitle THE DIGITAL SHADOW at bottom in a banner purple and green color scheme with digital noise border cel-shaded 2D illustration style",
+      "characters": [
+        "gridlord"
+      ],
+      "status": "generated",
+      "page": 0,
+      "chapter": 0,
+      "layout": "card",
+      "_array": "character_cards"
+    }
+  ],
+  "maps": [
+    {
+      "file": "Maps/map_neonville.png",
+      "type": "map",
+      "chapter": 12,
+      "status": "generated"
+    },
+    {
+      "file": "Maps/map_underground.png",
+      "type": "map",
+      "chapter": 12,
+      "status": "generated"
+    }
+  ],
+  "gadget_blueprints": [
+    {
+      "id": "GB-01",
+      "type": "blueprint",
+      "chapter": 16,
+      "file": "Blueprints/bp_connector_key.png",
+      "prompt": "Blueprint-style technical diagram on warm cream paper showing a strange homemade connector device made from bent coat hanger wire USB cable speaker magnet and spoon handles, labeled parts with handwritten arrows saying COAT HANGER ANTENNA and SPEAKER MAGNET CORE and USB INTERFACE, dimension lines and measurements, doodle-style circuit patterns around edges, olive green accent color",
+      "size": 512,
+      "status": "generated",
+      "_array": "gadget_blueprints"
+    },
+    {
+      "id": "GB-02",
+      "type": "blueprint",
+      "chapter": 28,
+      "file": "Blueprints/bp_pressure_valve.png",
+      "prompt": "Blueprint-style technical diagram on warm cream paper showing an improvised pressure release valve made from garden hose bike pump copper wire soda cans and zip ties, labeled parts with handwritten arrows saying EXPANSION CHAMBER and FLOW DIRECTION and PRESSURE RELEASE, water flow arrows, dimension lines, ink doodle style with blue accent color",
+      "size": 512,
+      "status": "generated",
+      "_array": "gadget_blueprints"
+    },
+    {
+      "id": "GB-03",
+      "type": "blueprint",
+      "chapter": 30,
+      "file": "Blueprints/bp_blip_internals.png",
+      "prompt": "Blueprint-style technical diagram on warm cream paper showing the internal schematic of a cute white cube robot, cross-section showing circuit board antenna array LED screen matrix power core and data processing unit, labeled with handwritten annotations like LED FACE ARRAY and SIGNAL PROCESSOR and POWER CORE QUESTION MARK, cute doodle robots and question marks in margins, cyan accent color",
+      "size": 512,
+      "status": "generated",
+      "_array": "gadget_blueprints"
+    },
+    {
+      "id": "GB-04",
+      "type": "blueprint",
+      "chapter": 25,
+      "file": "Blueprints/bp_bypass_device.png",
+      "prompt": "Blueprint-style technical diagram on warm cream paper showing a small bypass device with a red button made from scavenged electronics, labeled parts with handwritten arrows saying OVERRIDE SWITCH and SIGNAL JUMPER and BATTERY PACK, circuit diagram overlay, dimension lines, ink doodle style with red accent color",
+      "size": 512,
+      "status": "generated",
+      "_array": "gadget_blueprints"
+    }
+  ],
+  "title_page": {
+    "file": "title_page.png",
+    "type": "title_page",
+    "status": "generated"
+  },
+  "section_dividers": [
+    {
+      "id": "SD-01",
+      "type": "section-divider",
+      "chapter": 1,
+      "file": "Dividers/divider_act1_discovery.png",
+      "prompt": "Decorative section divider banner reading PART ONE DISCOVERY in bold playful letters, flanked by icons of a magnifying glass flashlight and a glowing white cube, circuit board pattern border, warm golden colors",
+      "size": "1024x256",
+      "status": "generated",
+      "_array": "section_dividers"
+    },
+    {
+      "id": "SD-02",
+      "type": "section-divider",
+      "chapter": 6,
+      "file": "Dividers/divider_act2_chaos.png",
+      "prompt": "Decorative section divider banner reading PART TWO THE GLITCH WAVE in bold playful letters with glitch effects on the text, flanked by icons of lightning bolts flashing traffic light and pixelated static, energy crackle border, magenta and cyan colors",
+      "size": "1024x256",
+      "status": "generated",
+      "_array": "section_dividers"
+    },
+    {
+      "id": "SD-03",
+      "type": "section-divider",
+      "chapter": 13,
+      "file": "Dividers/divider_act3_gridlord.png",
+      "prompt": "Decorative section divider banner reading PART THREE THE GRIDLORD in bold playful letters dissolving into pixel static, flanked by icons of a pixelated crown glitched monitor screen and broken code fragments, purple and blue color scheme with digital noise border",
+      "size": "1024x256",
+      "status": "generated",
+      "_array": "section_dividers"
+    },
+    {
+      "id": "SD-04",
+      "type": "section-divider",
+      "chapter": 23,
+      "file": "Dividers/divider_act4_mission.png",
+      "prompt": "Decorative section divider banner reading PART FOUR MISSION NEONVILLE in bold playful letters, flanked by icons of four colored hands reaching together, a gear, a code bracket, a paintbrush, and a game controller, teamwork border pattern, bright multicolor",
+      "size": "1024x256",
+      "status": "generated",
+      "_array": "section_dividers"
+    },
+    {
+      "id": "SD-05",
+      "type": "section-divider",
+      "chapter": 32,
+      "file": "Dividers/divider_act5_beginning.png",
+      "prompt": "Decorative section divider banner reading PART FIVE THE BEGINNING in bold playful letters with sunrise glow effect, flanked by icons of a rising sun a small glowing robot a heart and a city skyline, warm golden sunrise border, hopeful golden and orange colors",
+      "size": "1024x256",
+      "status": "generated",
+      "_array": "section_dividers"
+    }
+  ],
+  "glitch_art": [
+    {
+      "file": "GlitchArt/glitch_gridlord_static.png",
+      "type": "glitch_art",
+      "chapter": 7,
+      "status": "generated"
+    },
+    {
+      "file": "GlitchArt/glitch_crown_pattern.png",
+      "type": "glitch_art",
+      "chapter": 14,
+      "status": "generated"
+    },
+    {
+      "file": "GlitchArt/glitch_city_fracture.png",
+      "type": "glitch_art",
+      "chapter": 15,
+      "status": "generated"
+    },
+    {
+      "file": "GlitchArt/glitch_signal_corruption.png",
+      "type": "glitch_art",
+      "chapter": 5,
+      "status": "generated"
+    },
+    {
+      "file": "GlitchArt/glitch_data_stream.png",
+      "type": "glitch_art",
+      "chapter": 19,
+      "status": "generated"
+    },
+    {
+      "file": "GlitchArt/glitch_cipher_symbols.png",
+      "type": "glitch_art",
+      "chapter": 7,
+      "status": "generated"
+    }
+  ],
+  "extra_spots": [
+    {
+      "file": "Spots/daadi_calling.png",
+      "type": "extra_spot",
+      "chapter": 1,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/nexcorp_crate_label.png",
+      "type": "extra_spot",
+      "chapter": 2,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_first_light.png",
+      "type": "extra_spot",
+      "chapter": 3,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/maya_robot_pajamas.png",
+      "type": "extra_spot",
+      "chapter": 4,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/leo_pixel_heart_patch.png",
+      "type": "extra_spot",
+      "chapter": 6,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/zara_yellow_bag.png",
+      "type": "extra_spot",
+      "chapter": 6,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/sam_led_sneakers.png",
+      "type": "extra_spot",
+      "chapter": 6,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_scanning.png",
+      "type": "extra_spot",
+      "chapter": 7,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/connector_key_closeup.png",
+      "type": "extra_spot",
+      "chapter": 8,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_charging_dock.png",
+      "type": "extra_spot",
+      "chapter": 10,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/daadi_smile.png",
+      "type": "extra_spot",
+      "chapter": 11,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/crown_graffiti.png",
+      "type": "extra_spot",
+      "chapter": 12,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/nexcorp_tower.png",
+      "type": "extra_spot",
+      "chapter": 17,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_cable_plug.png",
+      "type": "extra_spot",
+      "chapter": 16,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/zara_painting_glitch.png",
+      "type": "extra_spot",
+      "chapter": 13,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/water_spray_park.png",
+      "type": "extra_spot",
+      "chapter": 13,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/sam_gaming_trophy.png",
+      "type": "extra_spot",
+      "chapter": 13,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/librarian_amazed.png",
+      "type": "extra_spot",
+      "chapter": 13,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/hq_string_lights.png",
+      "type": "extra_spot",
+      "chapter": 16,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_hologram_project.png",
+      "type": "extra_spot",
+      "chapter": 8,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/investigation_photos.png",
+      "type": "extra_spot",
+      "chapter": 17,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/sunset_fire_escape.png",
+      "type": "extra_spot",
+      "chapter": 18,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/maya_goggles_determination.png",
+      "type": "extra_spot",
+      "chapter": 19,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/team_silhouette_rooftop.png",
+      "type": "extra_spot",
+      "chapter": 18,
+      "status": "generated"
+    },
+    {
+      "file": "Spots/blip_wave_hello.png",
+      "type": "extra_spot",
+      "chapter": 10,
+      "status": "generated"
+    },
+    {
+      "id": "ES-01",
+      "file": "Spots/spot_spring_bounce.png",
+      "type": "spot",
+      "chapter": 1
+    },
+    {
+      "id": "ES-02",
+      "file": "Spots/spot_crate_stairs.png",
+      "type": "spot",
+      "chapter": 3
+    },
+    {
+      "id": "ES-03",
+      "file": "Spots/spot_samosa_plate.png",
+      "type": "spot",
+      "chapter": 10
+    },
+    {
+      "id": "ES-04",
+      "file": "Spots/spot_basement_door.png",
+      "type": "spot",
+      "chapter": 2
+    },
+    {
+      "id": "ES-05",
+      "file": "Spots/spot_backpack_crumbled.png",
+      "type": "spot",
+      "chapter": 1
+    },
+    {
+      "id": "ES-06",
+      "file": "Spots/spot_professor_waddles.png",
+      "type": "spot",
+      "chapter": 1
+    }
+  ],
+  "documents": [
+    {
+      "file": "Documents/doc_gridlord_message.png",
+      "type": "document",
+      "chapter": 14,
+      "status": "generated"
+    },
+    {
+      "file": "Documents/doc_project_kira.png",
+      "type": "document",
+      "chapter": 17,
+      "status": "generated"
+    },
+    {
+      "file": "Documents/doc_nexcorp_memo.png",
+      "type": "document",
+      "chapter": 17,
+      "status": "generated"
+    },
+    {
+      "file": "Documents/doc_blip_diagnostic.png",
+      "type": "document",
+      "chapter": 16,
+      "status": "generated"
+    }
+  ],
+  "endpapers": [
+    {
+      "file": "endpaper_front.png",
+      "type": "endpaper",
+      "status": "generated"
+    },
+    {
+      "file": "endpaper_back.png",
+      "type": "endpaper",
+      "status": "generated"
+    }
+  ],
+  "scene_spotlights": [
+    {
+      "id": "SS-01",
+      "type": "scene_spotlight",
+      "chapter": 1,
+      "file": "Spotlights/spotlight_maya_desk.png",
+      "quote": "Every project was a tiny universe of possibility."
+    },
+    {
+      "id": "SS-02",
+      "type": "scene_spotlight",
+      "chapter": 2,
+      "file": "Spotlights/spotlight_crate_discovery.png",
+      "quote": "Whatever you are, you're coming with me."
+    },
+    {
+      "id": "SS-03",
+      "type": "scene_spotlight",
+      "chapter": 3,
+      "file": "Spotlights/spotlight_cube_awakens.png",
+      "quote": "The cube heard it. And began to boot."
+    },
+    {
+      "id": "SS-04",
+      "type": "scene_spotlight",
+      "chapter": 4,
+      "file": "Spotlights/spotlight_blip_first_words.png",
+      "quote": "He was ALIVE. Really, truly, impossibly ALIVE."
+    },
+    {
+      "id": "SS-05",
+      "type": "scene_spotlight",
+      "chapter": 5,
+      "file": "Spotlights/spotlight_glitch_wave.png",
+      "quote": "A pulse of CYAN light shot out of Blip like a ripple in water."
+    },
+    {
+      "id": "SS-06",
+      "type": "scene_spotlight",
+      "chapter": 7,
+      "file": "Spotlights/spotlight_gridlord_appears.png",
+      "quote": "Someone woke up the little cube. How... INTERESTING."
+    },
+    {
+      "id": "SS-07",
+      "type": "scene_spotlight",
+      "chapter": 8,
+      "file": "Spotlights/spotlight_team_builds.png",
+      "quote": "Her goggles were foggy. Her fingers were scorched. Her grin was VICTORIOUS."
+    },
+    {
+      "id": "SS-08",
+      "type": "scene_spotlight",
+      "chapter": 9,
+      "file": "Spotlights/spotlight_puzzle_celebration.png",
+      "quote": "Despite EVERYTHING - they all LAUGHED."
+    },
+    {
+      "id": "SS-09",
+      "type": "scene_spotlight",
+      "chapter": 11,
+      "file": "Spotlights/spotlight_daadi_parathas.png",
+      "quote": "Reckless love is still love, Maya-beta."
+    },
+    {
+      "id": "SS-10",
+      "type": "scene_spotlight",
+      "chapter": 13,
+      "file": "Spotlights/spotlight_sam_traffic.png",
+      "quote": "Like a platformer, except the consequences were REAL."
+    },
+    {
+      "id": "SS-11",
+      "type": "scene_spotlight",
+      "chapter": 14,
+      "file": "Spotlights/spotlight_blip_mainframe.png",
+      "quote": "Version 2.0. And still himself. Still Blip."
+    },
+    {
+      "id": "SS-12",
+      "type": "scene_spotlight",
+      "chapter": 17,
+      "file": "Spotlights/spotlight_rooftop_sunset.png",
+      "quote": "The sky is NEVER the same color twice."
+    },
+    {
+      "id": "SS-13",
+      "type": "scene_spotlight",
+      "chapter": 18,
+      "file": "Spotlights/spotlight_gridlord_truth.png",
+      "quote": "The Gridlord wasn't the villain. They were the ALARM."
+    },
+    {
+      "id": "SS-14",
+      "type": "scene_spotlight",
+      "chapter": 19,
+      "file": "Spotlights/spotlight_maya_final_stand.png",
+      "quote": "Glitch Squad - we have a rescue mission."
+    }
+  ],
+  "locations": [
+    {
+      "id": "LOC-01",
+      "type": "location",
+      "chapter": 1,
+      "file": "Locations/location_maple_street.png"
+    },
+    {
+      "id": "LOC-02",
+      "type": "location",
+      "chapter": 1,
+      "file": "Locations/location_maya_room.png"
+    },
+    {
+      "id": "LOC-03",
+      "type": "location",
+      "chapter": 9,
+      "file": "Locations/location_nexcorp_basement.png"
+    },
+    {
+      "id": "LOC-04",
+      "type": "location",
+      "chapter": 12,
+      "file": "Locations/location_utility_tunnels.png"
+    },
+    {
+      "id": "LOC-05",
+      "type": "location",
+      "chapter": 17,
+      "file": "Locations/location_hq_lab.png"
+    }
+  ],
+  "diagrams": [
+    {
+      "id": "DIA-01",
+      "type": "diagram",
+      "chapter": 5,
+      "file": "Diagrams/diagram_signal_path.png"
+    },
+    {
+      "id": "DIA-02",
+      "type": "diagram",
+      "chapter": 7,
+      "file": "Diagrams/diagram_gridlord_network.png"
+    },
+    {
+      "id": "DIA-03",
+      "type": "diagram",
+      "chapter": 10,
+      "file": "Diagrams/diagram_anatomy_glitch.png"
+    },
+    {
+      "id": "DIA-04",
+      "type": "diagram",
+      "chapter": 8,
+      "file": "Diagrams/diagram_connector_key.png"
+    },
+    {
+      "id": "DIA-05",
+      "type": "diagram",
+      "chapter": 16,
+      "file": "Diagrams/diagram_project_kira.png"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+"""Fix Ch33 hook placement."""
+
+with open('Manuscript_v3.md', encoding='utf-8') as f:
+    text = f.read()
+
+hook = (
+    "She pulled back the curtain. Across the street, under the steady orange "
+    "wash of a sodium lamp, a man stood motionless. Compact build. Dark jacket. "
+    "Cap. The same silhouette from Cambridge, the same trained stillness, as if "
+    "he\u2019d been poured into the shadows and left to set. He wasn\u2019t following "
+    "her from city to city by coincidence. He was already here \u2014 in New York, "
+    "outside her building, watching her window at one in the morning. And the "
+    "worst part was the certainty settling into her bones: he wasn\u2019t there to "
+    "hurt her. Not yet. He was there to make sure she knew he could."
+)
+
+count = text.count(hook)
+print(f"Hook found {count} time(s) before fix")
+
+# Remove from Ch34
+old_block = "\n\n" + hook + "\n\n---"
+if old_block in text:
+    text = text.replace(old_block, "\n\n---")
+    print("Removed from Ch34 location")
+else:
+    print("WARNING: Could not find old block in Ch34")
+
+# Insert at end of Ch33
+ch33_end = (
+    "The two chains were about to converge. And she wasn\u2019t sure she was ready "
+    "for what that convergence would reveal."
+)
+
+insert_point = ch33_end + "\n\n# Chapter 34"
+replacement = ch33_end + "\n\n" + hook + "\n\n# Chapter 34"
+
+if insert_point in text:
+    text = text.replace(insert_point, replacement)
+    print("Inserted at end of Ch33")
+else:
+    print("WARNING: Could not find Ch33 insertion point")
+
+with open('Manuscript_v3.md', 'w', encoding='utf-8') as f:
+    f.write(text)
+
+count2 = text.count(hook)
+print(f"Hook found {count2} time(s) after fix")
+print("Done.")

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        .divider-page {
+            width: 8.75in;
+            height: 8.75in;
+            background: #080808;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            overflow: hidden;
+        }
+        .divider-bg-pattern {
+            position: absolute;
+            inset: 0;
+            opacity: 0.04;
+            background-image:
+                radial-gradient(circle at 20% 20%, #d4a843 0.5px, transparent 0.5px),
+                radial-gradient(circle at 80% 80%, #d4a843 0.5px, transparent 0.5px),
+                radial-gradient(circle at 50% 50%, #d4a843 0.3px, transparent 0.3px);
+            background-size: 80px 80px, 70px 70px, 120px 120px;
+            z-index: 0;
+        }
+        .divider-vignette {
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse at center, transparent 35%, rgba(0,0,0,0.55) 100%);
+            z-index: 1;
+        }
+        .divider-corner {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            border-color: rgba(212, 168, 67, 0.18);
+            border-style: double;
+            z-index: 2;
+        }
+        .divider-corner-tl {
+            top: 40px;
+            left: 40px;
+            border-width: 1.5px 0 0 1.5px;
+        }
+        .divider-corner-tr {
+            top: 40px;
+            right: 40px;
+            border-width: 1.5px 1.5px 0 0;
+        }
+        .divider-corner-bl {
+            bottom: 40px;
+            left: 40px;
+            border-width: 0 0 1.5px 1.5px;
+        }
+        .divider-corner-br {
+            bottom: 40px;
+            right: 40px;
+            border-width: 0 1.5px 1.5px 0;
+        }
+        .divider-content {
+            position: relative;
+            z-index: 3;
+            padding: 1.2in 1.4in;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transform: translateY(-3%);
+        }
+        .quote-mark {
+            font-family: 'Playfair Display', serif;
+            font-size: 4.5rem;
+            color: rgba(212, 168, 67, 0.3);
+            line-height: 1;
+            margin-bottom: -20px;
+        }
+        .quote-text {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.65rem;
+            line-height: 1.5;
+            color: #ddd5c8;
+            font-style: italic;
+            font-weight: 400;
+            max-width: 82%;
+            margin-bottom: 32px;
+            letter-spacing: 0.3px;
+            word-spacing: 2px;
+        }
+        .divider-line {
+            width: 120px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212,168,67,0.5), transparent);
+            margin-bottom: 32px;
+        }
+        .quote-author {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 6px;
+            color: rgba(212, 168, 67, 0.75);
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <div class="divider-page">
+        <div class="divider-bg-pattern"></div>
+        <div class="divider-vignette"></div>
+        <div class="divider-corner divider-corner-tl"></div>
+        <div class="divider-corner divider-corner-tr"></div>
+        <div class="divider-corner divider-corner-bl"></div>
+        <div class="divider-corner divider-corner-br"></div>
+        <div class="divider-content">
+            <div class="quote-mark">"</div>
+            <div class="quote-text">{{QUOTE_TEXT}}</div>
+            <div class="divider-line"></div>
+            <div class="quote-author">{{QUOTE_AUTHOR}}</div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,85 @@
+============================================================
+EL CUARTO ESCALÓN — KDP New Book Form (Spanish)
+============================================================
+
+KINDLE EBOOK
+------------------------------------------------------------
+Book Title           : El Cuarto Escalón
+Subtitle             : Una novela
+Author               : Kapil Gupta
+Contributors         : (none)
+Language             : Spanish
+Book Description     :
+
+Algunas casas no olvidan. Esperan.
+
+Hace veinticinco años, una niña murió en una fiesta de pijamas en la península de Mornington. El caso se cerró. La casa se renovó. Todos siguieron adelante.
+
+Ahora cuatro mujeres han regresado a la casa junto al mar — cada una recordando aquella noche de forma diferente, cada una ocultando algo, cada una mintiéndose a sí misma.
+
+Neve no puede confiar en sus propios recuerdos. Saskia lo mide todo porque las mediciones no mienten. Imogen huye de un pasado que la alcanza. Y Rowan — la extraña entre ellas — documenta cada grieta en cada historia.
+
+Alguien sabe qué le pasó a Kiera.
+Alguien lo ha sabido todo el tiempo.
+
+Una novela psicológica de suspense ambientada en la costa de Victoria, Australia, que explora la memoria reprimida, el gaslighting y las mentiras que las familias se cuentan para sobrevivir. Para lectores de Gone Girl y La chica del tren.
+
+Keywords            : thriller psicológico, suspense, memoria reprimida, gaslighting, Australia, misterio, novela psicológica, crímenes, mujeres, amigos
+Categories           : Fiction > Thrillers > Psychological
+                      Fiction > Mystery & Detective > Women Sleuths
+Age Range            : Adult
+Cover Image          : El_Cuarto_Escalon_Spanish_Kindle.jpg
+EPUB File            : El_Cuarto_Escalon_Spanish_Kindle.epub
+ISBN                 : (none — use KDP free ISBN)
+Digital Rights       : DRM Enabled (recommended)
+Territories          : Worldwide
+Pricing              : Set your price (recommend: $4.99–$6.99 USD)
+Royalty Plan         : 70% (if priced $2.99–$9.99)
+
+
+PAPERBACK
+------------------------------------------------------------
+Book Title           : El Cuarto Escalón
+Subtitle             : Una novela
+Author               : Kapil Gupta
+Contributors         : (none)
+Language             : Spanish
+Book Description     : (same as Kindle above)
+Keywords             : (same as Kindle above)
+Categories           : (same as Kindle above)
+Age Range            : Adult
+
+Trim Size            : 5.5" x 8.5"
+Paper Type           : White paper
+Interior Type        : Black & White
+Page Count           : 267
+Bleed                : No Bleed
+
+Cover Format         : Upload a cover file (PDF)
+Cover File           : El_Cuarto_Escalon_Spanish_Paperback.pdf
+Interior File        : El_Cuarto_Escalon_Spanish_Interior.pdf (from Output/ folder)
+
+ISBN                 : (none — use KDP free ISBN)
+Printing Cost        : Auto-calculated by KDP
+List Price           : Set your price (recommend: $12.99–$14.99 USD)
+Royalty              : 60% (expanded distribution) or 40% (Amazon only)
+Distribution         : Expanded Distribution (recommended)
+Territories          : Worldwide
+
+Proof Order          : Order author proof copy before publishing
+
+
+PRINTING NOTES
+------------------------------------------------------------
+- Page count is ODD (267). KDP requires even page count.
+  Either add 1 blank page to the interior PDF, or confirm KDP auto-pads.
+- White paper spine width = pages × 0.002252" = 0.601"
+- Cover PDF already calculated with this spine width.
+
+
+FILES CHECKLIST
+------------------------------------------------------------
+[ ] El_Cuarto_Escalon_Spanish_Kindle.epub
+[ ] El_Cuarto_Escalon_Spanish_Kindle.jpg (1600×2560)
+[ ] El_Cuarto_Escalon_Spanish_Paperback.pdf
+[ ] El_Cuarto_Escalon_Spanish_Interior.pdf (in Output/ folder)

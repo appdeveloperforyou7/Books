@@ -1,0 +1,84 @@
+============================================================
+DIE VIERTE STUFE — KDP New Book Form (German)
+============================================================
+
+KINDLE EBOOK
+------------------------------------------------------------
+Book Title           : Die Vierte Stufe
+Subtitle             : Ein Roman
+Author               : Kapil Gupta
+Contributors         : (keine)
+Language             : German
+Book Description     :
+
+Manche Häuser vergessen nicht. Sie warten.
+
+Vor fünfundzwanzig Jahren starb ein Mädchen bei einem Übernachtungsbesuch auf der Mornington-Halbinsel. Der Fall wurde geschlossen. Das Haus wurde renoviert. Alle zogen weiter.
+
+Jetzt sind vier Frauen in das Haus an der Küste zurückgekehrt — jede erinnert sich anders an diese Nacht, jede verbirgt etwas, jede lügt sich selbst an.
+
+Neve kann ihren eigenen Erinnerungen nicht vertrauen. Saskia misst alles, weil Messungen nicht lügen. Imogen flieht vor einer Vergangenheit, die sie einholt. Und Rowan — die Fremde unter ihnen — dokumentiert jeden Riss in jeder Geschichte.
+
+Jemand weiß, was mit Kiera passiert ist.
+Jemand hat es die ganze Zeit gewusst.
+
+Ein psychologischer Thriller an der Küste Victorias, Australien, der verdrängte Erinnerungen, Gaslighting und die Lügen erforscht, die sich Familien erzählen, um zu überleben. Für Leser von Gone Girl und Das Mädchen im Zug.
+
+Keywords            : psychologischer Thriller, Spannung, verdrängte Erinnerungen, Gaslighting, Australien, Mystery, Krimi, Frauen, Freundschaft
+Categories           : Fiction > Thrillers > Psychological
+                      Fiction > Mystery & Detective > Women Sleuths
+Age Range            : Adult
+Cover Image          : Die_Vierte_Stufe_German_Kindle.jpg
+EPUB File            : Die_Vierte_Stufe_German_Kindle.epub
+ISBN                 : (keine — kostenlose KDP-ISBN verwenden)
+Digital Rights       : DRM Enabled (empfohlen)
+Territories          : Worldwide
+Pricing              : Set your price (recommend: €4.99–€6.99 EUR / $4.99–$6.99 USD)
+Royalty Plan         : 70% (bei Preis $2.99–$9.99)
+
+
+PAPERBACK
+------------------------------------------------------------
+Book Title           : Die Vierte Stufe
+Subtitle             : Ein Roman
+Author               : Kapil Gupta
+Contributors         : (keine)
+Language             : German
+Book Description     : (wie Kindle oben)
+Keywords             : (wie Kindle oben)
+Categories           : (wie Kindle oben)
+Age Range            : Adult
+
+Trim Size            : 5.5" x 8.5"
+Paper Type           : White paper
+Interior Type        : Black & White
+Page Count           : 290
+Bleed                : No Bleed
+
+Cover Format         : Upload a cover file (PDF)
+Cover File           : Die_Vierte_Stufe_German_Paperback.pdf
+Interior File        : Die_Vierte_Stufe_German_Interior.pdf (from Output/ folder)
+
+ISBN                 : (keine — kostenlose KDP-ISBN verwenden)
+Printing Cost        : Von KDP automatisch berechnet
+List Price           : Set your price (recommend: €12.99–€14.99 EUR / $12.99–$14.99 USD)
+Royalty              : 60% (erweiterte Verbreitung) oder 40% (nur Amazon)
+Distribution         : Expanded Distribution (empfohlen)
+Territories          : Worldwide
+
+Proof Order          : Autorenexemplar vor Veröffentlichung bestellen
+
+
+PRINTING NOTES
+------------------------------------------------------------
+- Page count is EVEN (290). KDP ready.
+- White paper spine width = pages × 0.002252" = 0.653"
+- Cover PDF already calculated with this spine width.
+
+
+FILES CHECKLIST
+------------------------------------------------------------
+[ ] Die_Vierte_Stufe_German_Kindle.epub
+[ ] Die_Vierte_Stufe_German_Kindle.jpg (1600×2560)
+[ ] Die_Vierte_Stufe_German_Paperback.pdf
+[ ] Die_Vierte_Stufe_German_Interior.pdf (in Output/ folder)

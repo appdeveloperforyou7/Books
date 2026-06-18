@@ -1,0 +1,44 @@
+#!/usr/bin/env python3
+"""Verify all PDFs are KDP-compliant."""
+import os
+import pikepdf
+
+OUT = r"D:\Kapil\Books\Meera Desai\MD - Vault-B\Output"
+
+print("=" * 70)
+print("KDP COMPLIANCE VERIFICATION")
+print("=" * 70)
+
+# Interior PDFs
+print("\n--- INTERIOR PDFs (expected: 5.50 x 8.50 in) ---")
+for f in sorted(os.listdir(OUT)):
+    if 'Interior' in f and f.endswith('.pdf'):
+        path = os.path.join(OUT, f)
+        pdf = pikepdf.open(path)
+        pg = pdf.pages[0]
+        w = float(pg.MediaBox[2]) / 72
+        h = float(pg.MediaBox[3]) / 72
+        n = len(pdf.pages)
+        ok = "PASS" if abs(w - 5.5) < 0.02 and abs(h - 8.5) < 0.02 else "CHECK"
+        print(f"  {f}: {w:.2f} x {h:.2f} in | {n} pages | {ok}")
+        pdf.close()
+
+# Cover PDFs
+print("\n--- PAPERBACK COVERS (expected: 12.15 x 8.75 in) ---")
+COVER = os.path.join(OUT, "Cover")
+if os.path.exists(COVER):
+    for f in sorted(os.listdir(COVER)):
+        if f.endswith('_Red.pdf') and 'Hardcover' not in f:
+            path = os.path.join(COVER, f)
+            pdf = pikepdf.open(path)
+            pg = pdf.pages[0]
+            w = float(pg.MediaBox[2]) / 72
+            h = float(pg.MediaBox[3]) / 72
+            ok = "PASS" if abs(w - 12.15) < 0.02 and abs(h - 8.75) < 0.02 else "FAIL"
+            print(f"  {f}: {w:.3f} x {h:.3f} in | {ok}")
+            pdf.close()
+
+print("\n" + "=" * 70)
+print("Spine calculation for 360 pages (cream paper):")
+print(f"  360 x 0.0025 = {360 * 0.0025:.3f} in")
+print(f"  Total width = 0.125 + 5.5 + 0.900 + 5.5 + 0.125 = {0.125 + 5.5 + 0.900 + 5.5 + 0.125:.3f} in")

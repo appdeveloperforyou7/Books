@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  src: url('fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 900;
+  src: url('fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDBImRTM.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVc.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVc.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Patrick Hand';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/LDI1apSQOAYtSuYWp8ZhfYeMWQ.ttf') format('truetype');
+}

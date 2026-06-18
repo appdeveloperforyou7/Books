@@ -1,0 +1,346 @@
+{
+  "images": [
+    {
+      "file": "images/_cover_front_hero.jpg",
+      "position": "bottom-right",
+      "quote": "The earth has music for those who listen.",
+      "author": "George Santayana"
+    },
+    {
+      "file": "images/mountains/01_alpine_peak_dawn.jpg",
+      "position": "bottom-left",
+      "quote": "The mountains are calling and I must go.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/mountains/02_mountain_range_sunset.jpg",
+      "position": "bottom-right",
+      "quote": "Every sunset is an opportunity to reset.",
+      "author": "Richie Norton"
+    },
+    {
+      "file": "images/mountains/03_misty_mountain_valley.jpg",
+      "position": "top-left",
+      "quote": "Nature does not hurry, yet everything is accomplished.",
+      "author": "Lao Tzu"
+    },
+    {
+      "file": "images/mountains/04_rocky_summit.jpg",
+      "position": "bottom-right",
+      "quote": "The clearest way into the Universe is through a forest wilderness.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/mountains/05_snow_mountains_lake_reflection.jpg",
+      "position": "bottom-left",
+      "quote": "In every walk with nature one receives far more than he seeks.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/mountains/06_norwegian_fjord.jpg",
+      "position": "bottom-right",
+      "quote": "Great things are done when men and mountains meet.",
+      "author": "William Blake"
+    },
+    {
+      "file": "images/glaciers/01_glacier_ice_cave.jpg",
+      "position": "bottom-left",
+      "quote": "A lake is the landscape's most beautiful and expressive feature.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "file": "images/glaciers/02_glacier_tongue_landscape.jpg",
+      "position": "bottom-left",
+      "quote": "Adopt the pace of nature: her secret is patience.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "file": "images/glaciers/03_glacier_blue_ice.jpg",
+      "position": "bottom-right",
+      "quote": "The poetry of the earth is never dead.",
+      "author": "John Keats"
+    },
+    {
+      "file": "images/forests/01_ancient_redwood_forest.jpg",
+      "position": "bottom-left",
+      "quote": "The creation of a thousand forests is in one acorn.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "file": "images/forests/02_autumn_forest_stream.jpg",
+      "position": "top-right",
+      "quote": "Autumn shows us how beautiful it is to let things go.",
+      "author": "Unknown"
+    },
+    {
+      "file": "images/forests/03_mystic_foggy_forest.jpg",
+      "position": "top-left",
+      "quote": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "file": "images/forests/04_cherry_blossom_forest.jpg",
+      "position": "bottom-left",
+      "quote": "Where flowers bloom, so does hope.",
+      "author": "Lady Bird Johnson"
+    },
+    {
+      "file": "images/jungles/01_dense_rainforest_canopy.jpg",
+      "position": "bottom-right",
+      "quote": "The earth laughs in flowers.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "file": "images/jungles/02_jungle_river_mist.jpg",
+      "position": "bottom-left",
+      "quote": "Rivers know this: there is no hurry. We shall get there some day.",
+      "author": "A.A. Milne"
+    },
+    {
+      "file": "images/jungles/03_jungle_waterfall_vegetation.jpg",
+      "position": "top-right",
+      "quote": "Water is the driving force of all nature.",
+      "author": "Leonardo da Vinci"
+    },
+    {
+      "file": "images/deserts/01_sahara_sand_dunes.jpg",
+      "position": "top-left",
+      "quote": "In the desert you become a discoverer of silence.",
+      "author": "Mehmet Murat Ildan"
+    },
+    {
+      "file": "images/deserts/02_desert_rock_formations.jpg",
+      "position": "bottom-right",
+      "quote": "Time sculpts stone. Wind writes poetry.",
+      "author": "Unknown"
+    },
+    {
+      "file": "images/deserts/03_desert_stars_night.jpg",
+      "position": "top-left",
+      "quote": "Look up at the stars and not down at your feet.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "file": "images/oceans/01_dramatic_cliff_coastline.jpg",
+      "position": "bottom-left",
+      "quote": "The ocean stirs the heart, inspires the imagination.",
+      "author": "Wyland"
+    },
+    {
+      "file": "images/oceans/02_tropical_beach_paradise.jpg",
+      "position": "top-left",
+      "quote": "Smell the sea, and feel the sky. Let your soul and spirit fly.",
+      "author": "Van Morrison"
+    },
+    {
+      "file": "images/oceans/03_stormy_ocean_waves.jpg",
+      "position": "top-left",
+      "quote": "The wave does not need to die to become water.",
+      "author": "Thich Nhat Hanh"
+    },
+    {
+      "file": "images/oceans/04_aurora_ocean_arctic.jpg",
+      "position": "bottom-right",
+      "quote": "A lake carries you into recesses of feeling otherwise impenetrable.",
+      "author": "William Wordsworth"
+    },
+    {
+      "file": "images/oceans/05_bioluminescent_ocean.jpg",
+      "position": "bottom-left",
+      "quote": "The most beautiful things in the world cannot be seen or touched.",
+      "author": "Helen Keller"
+    },
+    {
+      "file": "images/lakes/01_crater_lake.jpg",
+      "position": "bottom-left",
+      "quote": "Still waters run deep.",
+      "author": "Proverb"
+    },
+    {
+      "file": "images/lakes/02_mountain_lake_panorama.jpg",
+      "position": "top-left",
+      "quote": "Nature always wears the colors of the spirit.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "file": "images/lakes/03_lotus_lily_pad_lake.jpg",
+      "position": "bottom-right",
+      "quote": "The soul would have no rainbow had the eyes no tears.",
+      "author": "John Vance Cheney"
+    },
+    {
+      "file": "images/rivers/01_canyon_river.jpg",
+      "position": "bottom-right",
+      "quote": "The sea does not reward those who are too anxious.",
+      "author": "Anne Morrow Lindbergh"
+    },
+    {
+      "file": "images/rivers/02_swamp_river_cypress.jpg",
+      "position": "bottom-left",
+      "quote": "A tree stands not by itself but in relation to everything around it.",
+      "author": "John O'Donohue"
+    },
+    {
+      "file": "images/waterfalls/01_massive_waterfall.jpg",
+      "position": "top-right",
+      "quote": "Grace is finding a waterfall when you were only looking for a stream.",
+      "author": "Natalie Goldberg"
+    },
+    {
+      "file": "images/waterfalls/02_multi_tier_waterfall.jpg",
+      "position": "bottom-right",
+      "quote": "There is a hidden message in every waterfall.",
+      "author": "Mehmet Murat Ildan"
+    },
+    {
+      "file": "images/waterfalls/03_hidden_waterfall_canyon.jpg",
+      "position": "top-left",
+      "quote": "The ocean is a mighty harmonist.",
+      "author": "William Wordsworth"
+    },
+    {
+      "file": "images/volcanic/01_volcanic_crater_lake.jpg",
+      "position": "bottom-right",
+      "quote": "I go to nature to be soothed and healed.",
+      "author": "John Burroughs"
+    },
+    {
+      "file": "images/volcanic/02_lava_field_black_sand.jpg",
+      "position": "top-right",
+      "quote": "We are all in the gutter, but some of us are looking at the stars.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "file": "images/volcanic/03_volcanic_ash_sunset.jpg",
+      "position": "bottom-right",
+      "quote": "The sky takes on shades of orange during sunrise and sunset, the color that gives you hope.",
+      "author": "Sza"
+    },
+    {
+      "file": "images/mountains/07_dolomites_peaks.jpg",
+      "position": "bottom-left",
+      "quote": "All my life through, the new sights of nature made me rejoice like a child.",
+      "author": "Marie Curie"
+    },
+    {
+      "file": "images/mountains/08_snowy_mountain_spring.jpg",
+      "position": "top-right",
+      "quote": "Spring is nature's way of saying, let's party.",
+      "author": "Robin Williams"
+    },
+    {
+      "file": "images/glaciers/04_glacier_lagoon_icebergs.jpg",
+      "position": "bottom-right",
+      "quote": "What we once enjoyed and deeply loved we can never lose.",
+      "author": "Helen Keller"
+    },
+    {
+      "file": "images/forests/05_wildflower_meadow.jpg",
+      "position": "bottom-right",
+      "quote": "To see a world in a grain of sand and a heaven in a wildflower.",
+      "author": "William Blake"
+    },
+    {
+      "file": "images/forests/06_bamboo_forest.jpg",
+      "position": "bottom-right",
+      "quote": "Come to the woods, for here is rest.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/oceans/06_turquoise_cove.jpg",
+      "position": "bottom-left",
+      "quote": "The poetry of the earth is never dead.",
+      "author": "John Keats"
+    },
+    {
+      "file": "images/oceans/07_rocky_shoreline_waves.jpg",
+      "position": "bottom-right",
+      "quote": "The poetry of the earth is never dead.",
+      "author": "John Keats"
+    },
+    {
+      "file": "images/lakes/04_emerald_alpine_lake.jpg",
+      "position": "top-left",
+      "quote": "Between every two pines is a doorway to a new world.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/rivers/03_river_through_forest.jpg",
+      "position": "bottom-left",
+      "quote": "Many a calm river begins as a turbulent waterfall.",
+      "author": "Yevtushenko"
+    },
+    {
+      "file": "images/waterfalls/04_waterfall_forest_pool.jpg",
+      "position": "bottom-right",
+      "quote": "Water is the soul of the Earth.",
+      "author": "W.H. Auden"
+    },
+    {
+      "file": "images/canyons/01_antelope_slot_canyon.jpg",
+      "position": "bottom-left",
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller"
+    },
+    {
+      "file": "images/volcanic/04_geothermal_hot_springs.jpg",
+      "position": "top-left",
+      "quote": "The best remedy for those who are afraid, lonely, or unhappy is to go outside.",
+      "author": "Anne Frank"
+    },
+    {
+      "file": "images/deserts/04_desert_flowers_bloom.jpg",
+      "position": "bottom-right",
+      "quote": "To me, the sea is a continual miracle.",
+      "author": "Walt Whitman"
+    },
+    {
+      "file": "images/jungles/04_jungle_canopy_aerial.jpg",
+      "position": "top-left",
+      "quote": "One touch of nature makes the whole world kin.",
+      "author": "William Shakespeare"
+    },
+    {
+      "file": "images/canyons/02_grand_canyon_overlook.jpg",
+      "position": "bottom-right",
+      "quote": "The sea, once it casts its spell, holds one in its net of wonder forever.",
+      "author": "Jacques Cousteau"
+    },
+    {
+      "file": "images/canyons/03_canyon_riverbend.jpg",
+      "position": "top-left",
+      "quote": "Go forth under the open sky, and listen to Nature's teachings.",
+      "author": "William Cullen Bryant"
+    },
+    {
+      "file": "images/canyons/04_northern_lights_sky.jpg",
+      "position": "bottom-right",
+      "quote": "Thousands of tired, nerve-shaken people are beginning to find out that going to the mountains is going home.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/canyons/05_zion_valley.jpg",
+      "position": "bottom-left",
+      "quote": "The clearest way into the Universe is through a forest wilderness.",
+      "author": "John Muir"
+    },
+    {
+      "file": "images/_cover_back_hero.jpg",
+      "position": "bottom-left",
+      "quote": "The world is not in your books and maps, it is out there.",
+      "author": "Gandalf"
+    },
+    {
+      "file": "images/new/01_misty_forest_path.jpg",
+      "position": "bottom-left",
+      "quote": "The earth has its own music for those who will listen.",
+      "author": "Reginald Holmes"
+    },
+    {
+      "file": "images/new/02_sunrise_beach.jpg",
+      "position": "bottom-right",
+      "quote": "Every morning was a cheerful invitation to make my life equally simple.",
+      "author": "Henry David Thoreau"
+    }
+  ]
+}

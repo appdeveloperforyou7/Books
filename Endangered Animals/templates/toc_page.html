@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Montserrat:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            width: 8.75in;
+            height: 8.75in;
+            background: #111111;
+            font-family: 'Montserrat', sans-serif;
+            color: #ccc;
+        }
+
+        .toc-container {
+            padding: 0.5in 0.65in;
+            max-width: 8.75in;
+            margin: 0 auto;
+            height: 8.75in;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.4rem;
+            color: #d4a843;
+            margin-bottom: 0.35in;
+            border-bottom: 1px solid rgba(212, 168, 67, 0.25);
+            padding-bottom: 14px;
+            text-align: center;
+            letter-spacing: 5px;
+            text-transform: uppercase;
+            font-weight: 700;
+        }
+
+        .toc-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            column-gap: 44px;
+            row-gap: 5px;
+            flex: 1;
+        }
+
+        .toc-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            font-size: 0.54rem;
+            padding: 2px 0;
+            opacity: 0.9;
+        }
+
+        .toc-item .toc-name {
+            font-weight: 400;
+            color: #bbb;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 64%;
+            letter-spacing: 0.3px;
+        }
+
+        .toc-item .toc-dots {
+            flex-grow: 1;
+            border-bottom: 1px dotted rgba(255, 255, 255, 0.12);
+            margin: 0 6px;
+            min-width: 14px;
+            position: relative;
+            top: -3px;
+        }
+
+        .toc-item .toc-page {
+            font-weight: 600;
+            color: #d4a843;
+            min-width: 16px;
+            text-align: right;
+            font-size: 0.54rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="toc-container">
+        <h1>Contents</h1>
+        <div class="toc-grid">
+            {{TOC_ITEMS}}
+        </div>
+    </div>
+</body>
+
+</html>

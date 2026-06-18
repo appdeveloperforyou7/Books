@@ -1,0 +1,84 @@
+============================================================
+LE QUATRIÈME MARCHER — KDP New Book Form (French)
+============================================================
+
+KINDLE EBOOK
+------------------------------------------------------------
+Book Title           : Le Quatrième Marcher
+Subtitle             : Un roman
+Author               : Kapil Gupta
+Contributors         : (aucun)
+Language             : French
+Book Description     :
+
+Certaines maisons n'oublient pas. Elles attendent.
+
+Il y a vingt-cinq ans, une fille est morte lors d'une soirée pyjama dans la péninsule de Mornington. L'affaire a été classée. La maison a été rénovée. Tout le monde a tourné la page.
+
+Maintenant, quatre femmes sont retournées dans la maison sur la côte — chacune se souvenant de cette nuit différemment, chacune cachant quelque chose, chacune se mentant à elle-même.
+
+Neve ne peut pas faire confiance à ses propres souvenirs. Saskia mesure tout parce que les mesures ne mentent pas. Imogen fuit un passé qui la rattrape. Et Rowan — l'étrangère parmi elles — documente chaque fissure dans chaque histoire.
+
+Quelqu'un sait ce qui est arrivé à Kiera.
+Quelqu'un l'a toujours su.
+
+Un thriller psychologique se déroulant sur la côte de Victoria, en Australie, explorant la mémoire refoulée, le manipulation psychologique et les mensonges que les familles se racontent pour survivre. Pour les lecteurs de Gone Girl et La Fille du train.
+
+Keywords            : thriller psychologique, suspense, mémoire refoulée, manipulation, Australie, mystère, roman psychologique, crimes, femmes, amitiés
+Categories           : Fiction > Thrillers > Psychological
+                      Fiction > Mystery & Detective > Women Sleuths
+Age Range            : Adult
+Cover Image          : Le_Quatrieme_Marcher_French_Kindle.jpg
+EPUB File            : Le_Quatrieme_Marcher_French_Kindle.epub
+ISBN                 : (aucun — utiliser ISBN gratuit KDP)
+Digital Rights       : DRM Enabled (recommandé)
+Territories          : Worldwide
+Pricing              : Set your price (recommend: €4.99–€6.99 EUR / $4.99–$6.99 USD)
+Royalty Plan         : 70% (si prix entre $2.99–$9.99)
+
+
+PAPERBACK
+------------------------------------------------------------
+Book Title           : Le Quatrième Marcher
+Subtitle             : Un roman
+Author               : Kapil Gupta
+Contributors         : (aucun)
+Language             : French
+Book Description     : (identique à Kindle ci-dessus)
+Keywords             : (identiques à Kindle ci-dessus)
+Categories           : (identiques à Kindle ci-dessus)
+Age Range            : Adult
+
+Trim Size            : 5.5" x 8.5"
+Paper Type           : White paper
+Interior Type        : Black & White
+Page Count           : 276
+Bleed                : No Bleed
+
+Cover Format         : Upload a cover file (PDF)
+Cover File           : Le_Quatrieme_Marcher_French_Paperback.pdf
+Interior File        : Le_Quatrieme_Marcher_French_Interior.pdf (from Output/ folder)
+
+ISBN                 : (aucun — utiliser ISBN gratuit KDP)
+Printing Cost        : Auto-calculé par KDP
+List Price           : Set your price (recommend: €12.99–€14.99 EUR / $12.99–$14.99 USD)
+Royalty              : 60% (distribution élargie) or 40% (Amazon uniquement)
+Distribution         : Expanded Distribution (recommandé)
+Territories          : Worldwide
+
+Proof Order          : Commander un exemplaire de preuve avant publication
+
+
+PRINTING NOTES
+------------------------------------------------------------
+- Page count is EVEN (276). KDP ready.
+- White paper spine width = pages × 0.002252" = 0.622"
+- Cover PDF already calculated with this spine width.
+
+
+FILES CHECKLIST
+------------------------------------------------------------
+[ ] Le_Quatrieme_Marcher_French_Kindle.epub
+[ ] Le_Quatrieme_Marcher_French_Kindle.jpg (1600×2560)
+[ ] Le_Quatrieme_Marcher_French_Paperback.pdf
+[ ] Le_Quatrieme_Marcher_French_Interior.pdf (in Output/ folder)

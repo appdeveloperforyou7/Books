@@ -1,0 +1,63 @@
+# Secrets / environment
+.env
+*.env
+.env.*
+secrets.*
+*.pem
+*.key
+
+# Dependencies
+node_modules/
+
+# Kilo local state
+.kilo/node_modules/
+.kilo/plans/
+.kilo/agent-manager.json
+
+# OS / editor
+Thumbs.db
+.DS_Store
+
+# Stale build archives (old binary versions)
+**/Archive/
+**/archive/
+
+# Old git history backup (local only)
+.git_old_backup/
+
+# Oversized (>100MB) binaries — kept locally, too large for GitHub plain git
+Endangered Animals/Output/book_premium_kdp_v11.pdf
+Endangered Animals/Output/Chronicles_of_the_Endangered_Hardcover.pdf
+Endangered Animals/Output/Chronicles_of_the_Endangered.pdf
+
+# Generated output binaries & media (kept locally; rebuilt from scripts)
+*.pdf
+*.epub
+*.docx
+*.odt
+*.rtf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.bmp
+*.psd
+*.ai
+*.webp
+*.mp4
+*.mov
+*.zip
+*.7z
+*.jar
+*.class
+*.kepub
+*.azw3
+*.mobi
+*.itmsp
+*.kcb
+
+# Third-party tools / editor artifacts
+Others/epubcheck-5.3.0/
+**/Kindle Create/

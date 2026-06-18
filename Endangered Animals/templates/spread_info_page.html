@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --accent-gold: #d4a843;
+            --text-white: #ffffff;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        .spread-info-page {
+            width: 8.75in;
+            height: 8.75in;
+            background: #080808;
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .spread-bg-pattern {
+            position: absolute;
+            inset: 0;
+            opacity: 0.03;
+            background-image:
+                radial-gradient(circle at 20% 20%, #d4a843 0.5px, transparent 0.5px),
+                radial-gradient(circle at 80% 80%, #d4a843 0.5px, transparent 0.5px);
+            background-size: 80px 80px, 70px 70px;
+            z-index: 0;
+        }
+        .spread-vignette {
+            position: absolute;
+            inset: 0;
+            background: radial-gradient(ellipse at center, transparent 30%, rgba(0,0,0,0.6) 100%);
+            z-index: 1;
+        }
+        .spread-corner {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            border-color: rgba(212, 168, 67, 0.2);
+            border-style: double;
+            z-index: 2;
+        }
+        .spread-corner-tl { top: 40px; left: 40px; border-width: 1.5px 0 0 1.5px; }
+        .spread-corner-tr { top: 40px; right: 40px; border-width: 1.5px 1.5px 0 0; }
+        .spread-corner-bl { bottom: 40px; left: 40px; border-width: 0 0 1.5px 1.5px; }
+        .spread-corner-br { bottom: 40px; right: 40px; border-width: 0 1.5px 1.5px 0; }
+
+        .spread-content {
+            position: relative;
+            z-index: 3;
+            padding: 1in 1.2in;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            max-width: 85%;
+        }
+        .spread-icon {
+            font-size: 3.5rem;
+            margin-bottom: 28px;
+            opacity: 0.35;
+            color: #d4a843;
+            line-height: 1;
+        }
+        .spread-animal-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.6rem;
+            font-weight: 900;
+            color: var(--accent-gold);
+            text-transform: uppercase;
+            letter-spacing: -0.5px;
+            line-height: 1.15;
+            margin-bottom: 18px;
+        }
+        .spread-iucn-badge {
+            display: inline-block;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.62rem;
+            font-weight: 600;
+            letter-spacing: 2.5px;
+            text-transform: uppercase;
+            padding: 6px 16px;
+            border-radius: 4px;
+            margin-bottom: 28px;
+        }
+        .iucn-critical {
+            color: #ff6b6b;
+            background: rgba(255,107,107,0.08);
+            border: 1px solid rgba(255,107,107,0.35);
+        }
+        .iucn-endangered {
+            color: #ffaa44;
+            background: rgba(255,170,68,0.08);
+            border: 1px solid rgba(255,170,68,0.35);
+        }
+        .iucn-vulnerable {
+            color: #d4a843;
+            background: rgba(212,168,67,0.08);
+            border: 1px solid rgba(212,168,67,0.35);
+        }
+
+        .spread-divider {
+            width: 80px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212,168,67,0.5), transparent);
+            margin-bottom: 28px;
+        }
+
+        .spread-data-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            width: 100%;
+            max-width: 400px;
+        }
+        .spread-data-item {
+            text-align: center;
+        }
+        .spread-label {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.6rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            color: rgba(212, 168, 67, 0.5);
+            display: block;
+            margin-bottom: 5px;
+        }
+        .spread-value {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.88);
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="spread-info-page">
+        <div class="spread-bg-pattern"></div>
+        <div class="spread-vignette"></div>
+        <div class="spread-corner spread-corner-tl"></div>
+        <div class="spread-corner spread-corner-tr"></div>
+        <div class="spread-corner spread-corner-bl"></div>
+        <div class="spread-corner spread-corner-br"></div>
+        <div class="spread-content">
+            <div class="spread-icon">◆</div>
+            <h1 class="spread-animal-name">{{ANIMAL_NAME}}</h1>
+            <span class="spread-iucn-badge{{IUCN_CLASS}}">{{IUCN_STATUS}}</span>
+            <div class="spread-divider"></div>
+            <div class="spread-data-grid">
+                <div class="spread-data-item">
+                    <span class="spread-label">Est. Population</span>
+                    <span class="spread-value">{{EST_POPULATION}}</span>
+                </div>
+                <div class="spread-data-item">
+                    <span class="spread-label">Primary Threat</span>
+                    <span class="spread-value">{{PRIMARY_THREAT}}</span>
+                </div>
+                <div class="spread-data-item">
+                    <span class="spread-label">Where Found</span>
+                    <span class="spread-value">{{WHERE_FOUND}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

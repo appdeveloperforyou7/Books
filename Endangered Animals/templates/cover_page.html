@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        .cover-bg {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            background-size: cover;
+            background-position: center center;
+            filter: blur(0px);
+        }
+        .cover-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.55) 50%, rgba(0,0,0,0.9) 100%);
+            z-index: 1;
+        }
+        .cover-blur-strip {
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 280px;
+            transform: translateY(-50%);
+            z-index: 2;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            background: rgba(0,0,0,0.6);
+            border-top: 1px solid rgba(212,168,67,0.35);
+            border-bottom: 1px solid rgba(212,168,67,0.35);
+        }
+        .cover-content {
+            position: relative;
+            z-index: 3;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        .cover-subtitle {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            font-weight: 500;
+            letter-spacing: 12px;
+            text-transform: uppercase;
+            color: rgba(255,255,255,0.85);
+            margin-bottom: 12px;
+        }
+        .cover-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 5.5rem;
+            font-weight: 900;
+            letter-spacing: -2px;
+            background: linear-gradient(180deg, #f5e6a3 0%, #d4a843 35%, #b8860b 65%, #f5e6a3 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-transform: uppercase;
+            filter: drop-shadow(3px 3px 15px rgba(0,0,0,0.95)) drop-shadow(0 0 40px rgba(0,0,0,0.6));
+            margin-bottom: 8px;
+        }
+        .cover-divider {
+            width: 120px;
+            height: 2px;
+            background: #d4a843;
+            margin: 0 auto 25px;
+        }
+        .cover-tagline {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.85rem;
+            letter-spacing: 6px;
+            text-transform: uppercase;
+            color: rgba(255,255,255,0.75);
+            font-weight: 400;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover-bg" style="background-image: url('{{COVER_BG_IMAGE}}');"></div>
+    <div class="cover-overlay"></div>
+    <div class="cover-blur-strip"></div>
+    <div class="cover-content">
+        <div class="cover-subtitle">Chronicles of the</div>
+        <div class="cover-title">Endangered</div>
+        <div class="cover-divider"></div>
+        <div class="cover-tagline">A Premium Wildlife Collection</div>
+    </div>
+</body>
+</html>

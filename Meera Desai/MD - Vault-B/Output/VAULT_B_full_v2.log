@@ -1,0 +1,2573 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.5.23)  28 MAY 2026 21:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"D:/Kapil/Books/MD - Vault-B/Output/archive/VAULT_B_full_v2.tex"
+(D:/Kapil/Books/MD - Vault-B/Output/archive/VAULT_B_full_v2.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count280
+\Gm@cntv=\count281
+\c@Gm@tempcnt=\count282
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks18
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def
+File: l3backend-xetex.def 2026-02-18 L3 backend support: XeTeX
+\g__graphics_track_int=\count283
+\g__pdfannot_backend_int=\count284
+\g__pdfannot_backend_link_int=\count285
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
+ex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count286
+\l__fontspec_language_int=\count287
+\l__fontspec_strnum_int=\count288
+\l__fontspec_tmp_int=\count289
+\l__fontspec_tmpa_int=\count290
+\l__fontspec_tmpb_int=\count291
+\l__fontspec_tmpc_int=\count292
+\l__fontspec_em_int=\count293
+\l__fontspec_emdef_int=\count294
+\l__fontspec_strong_int=\count295
+\l__fontspec_strongdef_int=\count296
+\l__fontspec_tmpa_dim=\dimen159
+\l__fontspec_tmpb_dim=\dimen160
+\l__fontspec_tmpc_dim=\dimen161
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
+)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'PalatinoLinotype(0)' created for font
+(fontspec)             'Palatino Linotype' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/B/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/B/OT:script=latn;language=dflt;+smcp;mapping=te
+x-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/I/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/I/OT:script=latn;language=dflt;+smcp;mapping=te
+x-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Palatino
+(fontspec)             Linotype/BI/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Palatino
+(fontspec)             Linotype/BI/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip65
+\aftertitleunit=\skip66
+\ttl@plus=\dimen162
+\ttl@minus=\dimen163
+\ttl@toksa=\toks20
+\titlewidth=\dimen164
+\titlewidthlast=\dimen165
+\titlewidthfirst=\dimen166
+) (e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-04-24 v7.01q Hypertext links for LaTeX
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count297
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count298
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen167
+\Hy@linkcounter=\count299
+\Hy@pagecounter=\count300
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-04-24 v7.01q Hyperref: PDFDocEncoding definition (HO)
+)
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count301
+ (e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-04-24 v7.01q Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count302
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen168
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count303
+\Field@Width=\dimen169
+\Fld@charsize=\dimen170
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count304
+\c@Item=\count305
+\c@Hfootnote=\count306
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2026-04-24 v7.01q Hyperref driver for XeTeX
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count307
+\HyField@AnnotCount=\count308
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(e:\Users\Rishabh\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `draft' set `true' on input line 64.
+ (D:\Kapil\Books\MD - Vault-B\Output\VAULT_B_full_v2.aux)
+\openout1 = `VAULT_B_full_v2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(54.2025pt, 298.11374pt, 45.16875pt)
+* v-part:(T,H,B)=(54.2025pt, 498.66257pt, 61.42993pt)
+* \paperwidth=397.48499pt
+* \paperheight=614.295pt
+* \textwidth=298.11374pt
+* \textheight=498.66257pt
+* \oddsidemargin=-18.06749pt
+* \evensidemargin=-27.10124pt
+* \topmargin=-46.97504pt
+* \headheight=10.84006pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 73.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 73.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 73.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 73.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 73.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 73.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 73.
+LaTeX Font Info:    Redeclaring math accent \check on input line 73.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 73.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 73.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 73.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 73.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 73.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 73.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/PalatinoLinotype(0)/m/n on input lin
+e 73.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 73.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/PalatinoLinotype(0)/m/n on input li
+ne 73.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/PalatinoLinotype(0)/m/n --> TU/PalatinoLinotype(0)/m
+/n on input line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/PalatinoLinotype(0)/m/it on input l
+ine 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/PalatinoLinotype(0)/b/n on input li
+ne 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 73.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/PalatinoLinotype(0)/m/n --> TU/PalatinoLinotype(0)/b
+/n on input line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/PalatinoLinotype(0)/b/it on input 
+line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 73.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 73.
+
+
+Package hyperref Warning: Draft mode on.
+
+Package hyperref Info: Link coloring OFF on input line 73.
+[1
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 90--98
+\TU/PalatinoLinotype(0)/m/n/9 The Padmanabhaswamy Temple, Emperor Ashoka, the B
+akhshali
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 90--98
+\TU/PalatinoLinotype(0)/m/n/9 manuscript, the Goa Inquisition, the Vatican Apos
+tolic Archive, and
+ []
+
+[2]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[3] [4] (D:\Kapil\Books\MD - Vault-B\Output\VAULT_B_full_v2.toc [5
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[7])
+\tf@toc=\write3
+\openout3 = `VAULT_B_full_v2.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[8]
+Underfull \hbox (badness 6188) in paragraph at lines 141--142
+[]\TU/PalatinoLinotype(0)/m/n/10 The \TU/PalatinoLinotype(0)/b/n/10 Bakhshali m
+anuscript\TU/PalatinoLinotype(0)/m/n/10 , containing the earliest
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 141--142
+\TU/PalatinoLinotype(0)/m/n/10 known use of zero as a numeral, is housed at the
+
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 141--142
+\TU/PalatinoLinotype(0)/m/n/10 Bodleian Library, University of Oxford. Its dati
+ng
+ []
+
+[1
+
+
+]
+Underfull \hbox (badness 6708) in paragraph at lines 161--162
+\TU/PalatinoLinotype(0)/m/n/10 call a hundred-million-dollar antiquities smuggl
+ing
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[2] [3
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[4]
+Underfull \hbox (badness 2189) in paragraph at lines 214--215
+[]\TU/PalatinoLinotype(0)/m/n/10 The FBI’s New York field office occupied the t
+wenty-third
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[5]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[6]
+Underfull \hbox (badness 1117) in paragraph at lines 270--271
+\TU/PalatinoLinotype(0)/m/n/10 Thiruvananthapuram, Kerala. Dedicated to Lord Vi
+shnu. Six
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[7] [8
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[10] [11
+
+]
+Underfull \hbox (badness 1264) in paragraph at lines 356--357
+\TU/PalatinoLinotype(0)/m/n/10 days to the opening, with milestones for securit
+y assessments,
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 358--359
+[]\TU/PalatinoLinotype(0)/m/n/10 A man was waiting for her in the lobby. He was
+ leaning
+ []
+
+
+Underfull \hbox (badness 2334) in paragraph at lines 358--359
+\TU/PalatinoLinotype(0)/m/n/10 and personal skepticism. Broad-shouldered, milit
+ary bearing,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[12]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[13] [14
+
+]
+Underfull \hbox (badness 1389) in paragraph at lines 412--413
+[]\TU/PalatinoLinotype(0)/m/n/10 They entered through a corridor of granite pil
+lars — three
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 426--427
+\TU/PalatinoLinotype(0)/m/n/10 tioned directly beneath the sanctum’s western wa
+ll. The GPR
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[15]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[16]
+Underfull \hbox (badness 3713) in paragraph at lines 456--457
+\TU/PalatinoLinotype(0)/m/n/10 pressing their hands together in prayer, murmuri
+ng Sanskrit
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[18] [19
+
+]
+Underfull \hbox (badness 2478) in paragraph at lines 523--524
+[]\TU/PalatinoLinotype(0)/m/n/10 The entries grew denser, the mathematics more
+ []
+
+
+Underfull \hbox (badness 2644) in paragraph at lines 523--524
+\TU/PalatinoLinotype(0)/m/n/10 gopuram that, read mathematically, described a
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[21] [22
+
+]
+Underfull \hbox (badness 2503) in paragraph at lines 582--583
+\TU/PalatinoLinotype(0)/m/n/10 mathematical sequences disguised as decorative m
+otifs — the
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[25] [26
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[28]
+Underfull \hbox (badness 1616) in paragraph at lines 718--719
+\TU/PalatinoLinotype(0)/m/n/10 turquoise, bright against the gray monsoon sky, 
+and she was
+ []
+
+[29
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[30]
+Underfull \hbox (badness 3068) in paragraph at lines 750--751
+[]\TU/PalatinoLinotype(0)/m/n/10 “Priya, the numerals you’re reading — are they
+ standard
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[31]
+Underfull \hbox (badness 4492) in paragraph at lines 776--777
+\TU/PalatinoLinotype(0)/m/n/10 something more complex — not belief, but the pro
+fessional
+ []
+
+[32
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[35] [36
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[38] [39
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[40]
+Underfull \hbox (badness 1082) in paragraph at lines 946--947
+[]\TU/PalatinoLinotype(0)/m/n/10 “The priests of the Indus Valley civilization 
+preserved their
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 960--961
+[]\TU/PalatinoLinotype(0)/m/n/10 “The guardianship has passed through eighty ge
+nerations,”
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[41]
+Underfull \hbox (badness 1540) in paragraph at lines 970--971
+[]\TU/PalatinoLinotype(0)/m/n/10 Kesavan’s expression shifted — something that 
+might have
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[42] [43
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[44]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[45]
+Underfull \hbox (badness 1454) in paragraph at lines 1040--1041
+[]\TU/PalatinoLinotype(0)/m/n/10 Inside: a flash drive, a cover sheet marked IN
+TERPOL —
+ []
+
+
+Underfull \hbox (badness 1540) in paragraph at lines 1048--1049
+\TU/PalatinoLinotype(0)/m/n/10 Cultural Property Crime Desk had been tracking R
+othwell for
+ []
+
+[46
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[48] [49
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[50]
+Underfull \hbox (badness 1648) in paragraph at lines 1134--1135
+[]\TU/PalatinoLinotype(0)/m/n/10 “The drainage channel,” Meera said, rememberin
+g the ASI
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[51]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[52]
+Underfull \hbox (badness 2600) in paragraph at lines 1176--1177
+\TU/PalatinoLinotype(0)/m/n/10 which Gupta had access to intelligence about the
+ Padmanab-
+ []
+
+[53
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[54] [55
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[56]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[57]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[58]
+Underfull \hbox (badness 1231) in paragraph at lines 1274--1275
+[]\TU/PalatinoLinotype(0)/m/n/10 She photographed everything — her father’s alg
+orithm, the
+ []
+
+[59
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[60]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[61] [62
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[63]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[64] [65
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[66]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[67]
+Underfull \hbox (badness 1490) in paragraph at lines 1420--1421
+\TU/PalatinoLinotype(0)/m/n/10 They worked through the column capitals in a sin
+gle focused
+ []
+
+[68
+
+]
+Underfull \hbox (badness 2418) in paragraph at lines 1438--1439
+[]\TU/PalatinoLinotype(0)/m/n/10 “The original position was different,” Meera s
+aid. “They
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 1450--1451
+[]\TU/PalatinoLinotype(0)/m/n/10 They completed the ten column-derived position
+s by mid-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[69]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[70] [71
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[72]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[73] [74
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[75] [76
+
+]
+Underfull \hbox (badness 1199) in paragraph at lines 1596--1597
+\TU/PalatinoLinotype(0)/m/n/10 wall — they exist in physical space. The project
+ion from the
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[77]
+Underfull \hbox (badness 1014) in paragraph at lines 1620--1621
+\TU/PalatinoLinotype(0)/m/n/10 while simultaneously triggering an internal docu
+mentation sys-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[78]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[79] [80
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[81]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[82] [83
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[84]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[85] [86
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[87] [88
+
+]
+Underfull \hbox (badness 3058) in paragraph at lines 1840--1841
+\TU/PalatinoLinotype(0)/m/n/10 Outside, the city sounds of Thiruvananthapuram a
+t night —
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[89]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[90] [91
+
+]
+Underfull \hbox (badness 1033) in paragraph at lines 1918--1919
+[]\TU/PalatinoLinotype(0)/m/n/10 She deleted the message without responding and
+ turned to
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[92] [93
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[94]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[95] [96
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[97]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[98]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[99]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[100]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[101]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[102] [103
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[104]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[105] [106
+
+]
+Underfull \hbox (badness 1215) in paragraph at lines 2252--2253
+[]\TU/PalatinoLinotype(0)/m/n/10 “We’ll be repositioned. ‘Repository security,’
+ they’ll call it.
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[107]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[108] [109
+
+]
+Underfull \hbox (badness 1320) in paragraph at lines 2330--2331
+[]\TU/PalatinoLinotype(0)/m/n/10 Rathore stayed in the passage, guarding the en
+trance. He
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2334--2335
+[]\TU/PalatinoLinotype(0)/m/n/10 Then Mrs. Kapoor’s, flat and controlled: “How 
+many
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 2336--2337
+\TU/PalatinoLinotype(0)/m/n/10 tablets, 62 palm-leaf bundles, and the Ashoka Ch
+ronicle — 34
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[110]
+Underfull \hbox (badness 2600) in paragraph at lines 2354--2355
+[]\TU/PalatinoLinotype(0)/m/n/10 “Your flight to New York has been booked for t
+omorrow
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[111]
+Underfull \hbox (badness 1609) in paragraph at lines 2376--2377
+\TU/PalatinoLinotype(0)/m/n/10 - 247 copper cylinders they couldn’t fully decod
+e without the
+ []
+
+[112
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[113]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[114] [115
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[116]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[117]
+Underfull \hbox (badness 1635) in paragraph at lines 2528--2529
+\TU/PalatinoLinotype(0)/m/n/10 stored in a cloud account, protected by somethin
+g his people
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[118]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[119]
+Underfull \hbox (badness 1097) in paragraph at lines 2546--2547
+[]\TU/PalatinoLinotype(0)/m/n/10 Kesavan was not surprised. He had expected thi
+s. Every
+ []
+
+[120
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[121]
+Underfull \hbox (badness 3724) in paragraph at lines 2600--2601
+[]\TU/PalatinoLinotype(0)/m/n/10 Gopalan’s eyes widened. “Thantri — if the gove
+rnment
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[122]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[123] [124
+
+]
+Underfull \hbox (badness 1082) in paragraph at lines 2630--2631
+[]\TU/PalatinoLinotype(0)/m/n/10 But something was different. On the mat in fro
+nt of him,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[125]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[126]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[127] [128
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[129]
+Underfull \hbox (badness 3536) in paragraph at lines 2748--2749
+[]\TU/PalatinoLinotype(0)/m/n/10 Rathore stared at the note. The delegation had
+ arrived,
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 2750--2751
+[]\TU/PalatinoLinotype(0)/m/n/10 He thought about Meera Desai’s dead-man’s swit
+ch — an-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[130] [131
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[132]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[133] [134
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[135]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[136]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[137] [138
+
+]
+Underfull \hbox (badness 1430) in paragraph at lines 2944--2945
+[]\TU/PalatinoLinotype(0)/m/n/10 The Western voices were equally predictable. “
+Knowledge
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[139]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[140]
+Underfull \hbox (badness 1502) in paragraph at lines 2966--2967
+\TU/PalatinoLinotype(0)/b/n/10 ERY — GOVERNMENT MOVES TO PROTECT NATIONAL
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2966--2967
+\TU/PalatinoLinotype(0)/b/n/10 BER BENEATH PADMANABHASWAMY TEMPLE RAISES
+ []
+
+[141
+
+]
+Underfull \hbox (badness 1377) in paragraph at lines 2976--2977
+\TU/PalatinoLinotype(0)/m/n/10 belongs to humanity” argument was the same justi
+fication the
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 2976--2977
+\TU/PalatinoLinotype(0)/m/n/10 medicine, computing, and materials science — kno
+wledge that
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[142]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[143]
+Underfull \hbox (badness 2521) in paragraph at lines 3030--3031
+\TU/PalatinoLinotype(0)/m/n/10 someone who understood the mechanism, the reposi
+tory, the
+ []
+
+[144
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[145] [146
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[147]
+Underfull \hbox (badness 1642) in paragraph at lines 3106--3107
+\TU/PalatinoLinotype(0)/m/n/10 expression — surprise, or the awareness that his
+ preparations
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 3118--3119
+\TU/PalatinoLinotype(0)/m/n/10 archive — the British Library, the Bibliothèque 
+Nationale, the
+ []
+
+
+Underfull \hbox (badness 3302) in paragraph at lines 3124--3125
+\TU/PalatinoLinotype(0)/m/n/10 not telling you that I’ve been collecting Indian
+ mathematical
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[148]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[149]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[150] [151
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[152]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[153] [154
+
+]
+Underfull \hbox (badness 1701) in paragraph at lines 3278--3279
+[]\TU/PalatinoLinotype(0)/m/n/10 “They can classify anything they want. The mat
+hematical
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[155]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[156] [157
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[158]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[159] [160
+
+]
+Underfull \hbox (badness 1325) in paragraph at lines 3370--3371
+[]\TU/PalatinoLinotype(0)/m/n/10 Bennett stood in front of a set of palm-leaf i
+llustrations —
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3374--3375
+\TU/PalatinoLinotype(0)/m/n/10 ers — not with Mueller’s uncontrolled excitement
+ or Bennett’s
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 3378--3379
+[]\TU/PalatinoLinotype(0)/m/n/10 And Dr. Menon, the compromised director-genera
+l, moved
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[161]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[162]
+Underfull \hbox (badness 2653) in paragraph at lines 3418--3419
+[]\TU/PalatinoLinotype(0)/m/n/10 Astronomy. Palm-leaf tables showing planetary 
+positions,
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 3418--3419
+\TU/PalatinoLinotype(0)/m/n/10 The tables included mathematical techniques that
+ looked, to
+ []
+
+[163
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3420--3421
+[]\TU/PalatinoLinotype(0)/m/n/10 Medicine. Surgical procedures illustrated on p
+alm-leaf
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 3420--3421
+\TU/PalatinoLinotype(0)/m/n/10 manuscripts — rhinoplasty, cataract extraction, 
+lithotomy —
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 3420--3421
+\TU/PalatinoLinotype(0)/m/n/10 with anatomical drawings of extraordinary accura
+cy. Bennett,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[164]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[165]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[166] [167
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[168]
+Underfull \hbox (badness 2961) in paragraph at lines 3514--3515
+\TU/PalatinoLinotype(0)/m/n/10 mathematical notation was elegant — symbols arra
+nged in a
+ []
+
+[169
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[170]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[171]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[172] [173
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[174]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[175]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[176] [177
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[178] [179
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[180]
+Underfull \hbox (badness 5817) in paragraph at lines 3804--3805
+[]\TU/PalatinoLinotype(0)/m/n/10 Rothwell’s expression changed. The frustration
+ receded,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[181]
+Underfull \hbox (badness 1466) in paragraph at lines 3828--3829
+[]\TU/PalatinoLinotype(0)/m/n/10 “And if I don’t scan it, the algorithm goes to
+ DRDO, gets
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[182]
+Underfull \hbox (badness 1558) in paragraph at lines 3844--3845
+[]\TU/PalatinoLinotype(0)/m/n/10 The Ashoka Chronicle — Meera’s own transcripti
+on of the
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 3848--3849
+[]\TU/PalatinoLinotype(0)/m/n/10 Her father’s complete notebook — thirty years 
+of research,
+ []
+
+[183
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[184]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[185] [186
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[187]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[188]
+Underfull \hbox (badness 1173) in paragraph at lines 3948--3949
+\TU/PalatinoLinotype(0)/m/n/10 guardian. She was thirty-four years old, with a 
+one-bedroom
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 3966--3967
+\TU/PalatinoLinotype(0)/m/it/10 Its weaponization by any single nation — includ
+ing India — poses
+ []
+
+[189
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[190]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[191]
+Underfull \hbox (badness 1173) in paragraph at lines 4014--4015
+\TU/PalatinoLinotype(0)/m/n/10 team would digitize the repository’s contents un
+der committee
+ []
+
+[192
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[193]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[194]
+Underfull \hbox (badness 1048) in paragraph at lines 4078--4079
+[]\TU/PalatinoLinotype(0)/m/n/10 The algorithm manuscript was no longer in her 
+possession.
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 4080--4081
+\TU/PalatinoLinotype(0)/m/n/10 cross-referenced, and stored in three separate s
+ecure locations.
+ []
+
+[195
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[196]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[197] [198
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[199]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[200]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[201]
+Underfull \hbox (badness 10000) in paragraph at lines 4210--4211
+[]\TU/PalatinoLinotype(0)/m/n/10 FACILITATE TRANSFER OF DESIGNATED MATERIALS
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 4210--4211
+\TU/PalatinoLinotype(0)/m/n/10 TO DRDO REPRESENTATIVE. ENSURE COMMITTEE SECRE-
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 4210--4211
+\TU/PalatinoLinotype(0)/m/n/10 TARY (DESAI) DOES NOT ACCESS REPOSITORY DURING
+ []
+
+[202
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[203]
+Underfull \hbox (badness 1275) in paragraph at lines 4244--4245
+\TU/PalatinoLinotype(0)/m/n/10 choose Open, and secure the repository’s content
+s for military
+ []
+
+[204
+
+]
+Underfull \hbox (badness 2856) in paragraph at lines 4256--4257
+[]\TU/PalatinoLinotype(0)/m/n/10 “Because I’ve spent eighteen years watching my
+ country’s
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[205]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[206] [207
+
+]
+Underfull \hbox (badness 1314) in paragraph at lines 4330--4331
+[]\TU/PalatinoLinotype(0)/m/n/10 “When activated during the astronomical alignm
+ent — and
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 4330--4331
+\TU/PalatinoLinotype(0)/m/n/10 only during the alignment — the Reveal configura
+tion triggers
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 4330--4331
+\TU/PalatinoLinotype(0)/m/n/10 the copper-plate impression system. But it doesn
+’t produce a
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 4334--4335
+\TU/PalatinoLinotype(0)/m/n/10 It’s a physical record, produced by the mechanis
+m itself, self-
+ []
+
+
+Underfull \hbox (badness 5519) in paragraph at lines 4334--4335
+\TU/PalatinoLinotype(0)/m/n/10 is embedded in 2,300-year-old bedrock beneath a 
+UNESCO-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[208]
+Underfull \hbox (badness 1668) in paragraph at lines 4350--4351
+\TU/PalatinoLinotype(0)/m/n/10 produces the complete record. The government can
+’t classify
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 4350--4351
+\TU/PalatinoLinotype(0)/m/n/10 2,300-year-old astronomical verification system 
+that no court in
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 4350--4351
+\TU/PalatinoLinotype(0)/m/n/10 but as an authenticated, verified, permanent rec
+ord that exists
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 4352--4353
+\TU/PalatinoLinotype(0)/m/n/10 never meant to be a partial opening. It was mean
+t to be the
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 4352--4353
+\TU/PalatinoLinotype(0)/m/n/10 mechanism’s ultimate function — the controlled, 
+authenticated,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[209]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[210]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[211] [212
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[213] [214
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[215]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[216]
+Underfull \hbox (badness 2126) in paragraph at lines 4532--4533
+[]\TU/PalatinoLinotype(0)/m/n/10 Meera watched the preparations from the commit
+tee office
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 4532--4533
+\TU/PalatinoLinotype(0)/m/n/10 window. The temple complex was transforming into
+ a media
+ []
+
+[217
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[218] [219
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[220] [221
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[222]
+Underfull \hbox (badness 2744) in paragraph at lines 4622--4623
+\TU/PalatinoLinotype(0)/m/n/10 stopped, and in the sudden silence she could hea
+r her own
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[223]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[224]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[225] [226
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[227]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[228] [229
+
+]
+Underfull \hbox (badness 1199) in paragraph at lines 4770--4771
+[]\TU/PalatinoLinotype(0)/m/n/10 Shah’s jaw was tight. The operative stood froz
+en between
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[230]
+Underfull \hbox (badness 1596) in paragraph at lines 4798--4799
+[]\TU/PalatinoLinotype(0)/m/n/10 She explained what the plates represented: an 
+irrevocable,
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 4798--4799
+\TU/PalatinoLinotype(0)/m/n/10 verification made the plates independently authe
+nticatable —
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[231]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[232]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[233] [234
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[235] [236
+
+] [237
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[238] [239
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[240] [241
+
+] [242
+
+] [243
+
+] [244
+
+]
+Underfull \hbox (badness 1648) in paragraph at lines 5004--5005
+[]\TU/PalatinoLinotype(0)/m/n/10 Rothwell was charming, attentive, and entirely
+ transparent.
+ []
+
+[245
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[246] [247
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[248] [249
+
+]
+
+Package fancyhdr Warning: \headheight is too small (10.84006pt): 
+(fancyhdr)                Make it at least 12.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.0pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.15994pt}.
+
+[250] (D:\Kapil\Books\MD - Vault-B\Output\VAULT_B_full_v2.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 11884 strings out of 402807
+ 234602 string characters out of 5444721
+ 710231 words of memory out of 5000000
+ 40671 multiletter control sequences out of 15000+600000
+ 628345 words of font info for 74 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,12n,103p,982b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on D:\Kapil\Books\MD - Vault-B\Output\VAULT_B_full_v2.pdf (258 p
+ages).

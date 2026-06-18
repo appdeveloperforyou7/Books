@@ -1,0 +1,26 @@
+#!/usr/bin/env python3
+"""Inspect the source cover image."""
+from PIL import Image
+import os
+
+src = r"D:\Kapil\Books\Meera Desai\Covers\VAULT_B\Vault B image.png"
+img = Image.open(src)
+w, h = img.size
+print(f"File: {src}")
+print(f"Size: {w} x {h} px")
+print(f"DPI: {img.info.get('dpi', 'not set')}")
+print(f"Mode: {img.mode}")
+print(f"Format: {img.format}")
+sz = os.path.getsize(src)
+print(f"File size: {sz//1024} KB ({sz/1024/1024:.1f} MB)")
+ratio = h / w
+print(f"Aspect ratio: {ratio:.2f}:1")
+print(f"Front-cover crop target (5.5x8.5 = 1.545): {'close' if 1.4 <= ratio <= 1.7 else 'wide/landscape'}")
+
+# Check if there are other files in the Covers folder
+cover_dir = os.path.dirname(src)
+print(f"\nOther files in {cover_dir}:")
+for f in sorted(os.listdir(cover_dir)):
+    fp = os.path.join(cover_dir, f)
+    if os.path.isfile(fp):
+        print(f"  {f} ({os.path.getsize(fp)//1024} KB)")

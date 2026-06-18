@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QA Report - Endangered Animals Book</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0f0f0f;
+            color: #e0e0e0;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        h1 {
+            font-size: 2rem;
+            color: #d4a843;
+            text-align: center;
+            margin-bottom: 5px;
+            letter-spacing: -0.5px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #888;
+            font-size: 0.9rem;
+            margin-bottom: 30px;
+        }
+        .overall-status {
+            text-align: center;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            letter-spacing: 3px;
+        }
+        .overall-status.pass { background: rgba(46, 204, 113, 0.15); color: #2ecc71; border: 2px solid #2ecc71; }
+        .overall-status.fail { background: rgba(231, 76, 60, 0.15); color: #e74c3c; border: 2px solid #e74c3c; }
+        .overall-status.warn { background: rgba(241, 196, 15, 0.15); color: #f1c40f; border: 2px solid #f1c40f; }
+
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .summary-card {
+            background: #1a1a1a;
+            border-radius: 10px;
+            padding: 20px;
+            text-align: center;
+            border: 1px solid #333;
+        }
+        .summary-card .number {
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+        .summary-card .label {
+            font-size: 0.85rem;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .summary-card.total .number { color: #d4a843; }
+        .summary-card.passed .number { color: #2ecc71; }
+        .summary-card.failed .number { color: #e74c3c; }
+        .summary-card.warnings .number { color: #f1c40f; }
+
+        .category {
+            background: #1a1a1a;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            border: 1px solid #2a2a2a;
+            overflow: hidden;
+        }
+        .category-header {
+            padding: 15px 20px;
+            background: #222;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+        }
+        .category-header:hover { background: #2a2a2a; }
+        .category-name {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #d4a843;
+        }
+        .category-stats {
+            display: flex;
+            gap: 15px;
+            font-size: 0.85rem;
+        }
+        .category-body { padding: 15px 20px; }
+
+        .check-row {
+            display: flex;
+            align-items: flex-start;
+            padding: 12px 0;
+            border-bottom: 1px solid #2a2a2a;
+        }
+        .check-row:last-child { border-bottom: none; }
+        .check-status {
+            min-width: 60px;
+            font-weight: 700;
+            font-size: 0.75rem;
+            letter-spacing: 1px;
+            text-align: center;
+            padding: 4px 8px;
+            border-radius: 4px;
+            margin-right: 15px;
+        }
+        .pass { color: #2ecc71; background: rgba(46, 204, 113, 0.15); }
+        .fail { color: #e74c3c; background: rgba(231, 76, 60, 0.15); }
+        .warn { color: #f1c40f; background: rgba(241, 196, 15, 0.15); }
+        .info { color: #3498db; background: rgba(52, 152, 219, 0.15); }
+
+        .check-content { flex: 1; }
+        .check-name {
+            font-weight: 600;
+            color: #e0e0e0;
+            margin-bottom: 3px;
+        }
+        .check-message { color: #aaa; font-size: 0.9rem; }
+        .check-details {
+            margin-top: 8px;
+            background: #111;
+            border-radius: 6px;
+            padding: 10px 15px;
+            font-family: 'Consolas', 'Courier New', monospace;
+            font-size: 0.8rem;
+            color: #888;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .check-details li {
+            list-style: none;
+            padding: 2px 0;
+        }
+        .check-details li::before {
+            content: "  ";
+        }
+
+        /* Page analysis heatmap */
+        .page-analysis {
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #2a2a2a;
+        }
+        .page-analysis h3 {
+            color: #d4a843;
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+        }
+        .page-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+            gap: 4px;
+        }
+        .page-cell {
+            text-align: center;
+            padding: 6px 2px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
+        }
+        .page-cell .pg-num { display: block; color: #e0e0e0; }
+        .page-cell .pg-bright { display: block; font-size: 0.6rem; color: #888; }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #555;
+            font-size: 0.8rem;
+        }
+
+        @media (max-width: 768px) {
+            .summary-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Chronicles of the Endangered</h1>
+    <p class="subtitle">Comprehensive QA Audit Report</p>
+
+    <div class="overall-status warn">
+        PASS WITH WARNINGS
+    </div>
+
+    <div class="summary-grid">
+        <div class="summary-card total">
+            <div class="number">46</div>
+            <div class="label">Total Checks</div>
+        </div>
+        <div class="summary-card passed">
+            <div class="number">40</div>
+            <div class="label">Passed</div>
+        </div>
+        <div class="summary-card failed">
+            <div class="number">0</div>
+            <div class="label">Failed</div>
+        </div>
+        <div class="summary-card warnings">
+            <div class="number">6</div>
+            <div class="label">Warnings</div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Data</span>
+            <div class="category-stats">
+                <span class="pass">10 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">1 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">JSON Parse</div>
+                    <div class="check-message">Valid JSON with 71 animal entries</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Required Fields</div>
+                    <div class="check-message">All 71 entries have required fields</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Duplicate Names</div>
+                    <div class="check-message">No duplicate animal names</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">IUCN Status</div>
+                    <div class="check-message">All IUCN statuses are valid</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Box Position</div>
+                    <div class="check-message">All box positions are valid</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Focal Point Values</div>
+                    <div class="check-message">All focal point values are valid</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Image References</div>
+                    <div class="check-message">All 71 referenced images exist</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Orphan Images</div>
+                    <div class="check-message">No orphan images</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Spread Pages</div>
+                    <div class="check-message">5 spread (2-page) animals</div>
+
+                    <div class="check-details">
+                        <li>Amur Leopard</li>
+                        <li>Sumatran Tiger</li>
+                        <li>Snow Leopard</li>
+                        <li>Giant Panda</li>
+                        <li>Polar Bear</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Status Distribution</div>
+                    <div class="check-message">IUCN status distribution</div>
+
+                    <div class="check-details">
+                        <li>Critically Endangered: 44</li>
+                        <li>Endangered: 22</li>
+                        <li>Vulnerable: 5</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Population Data</div>
+                    <div class="check-message">1 entries with unknown/empty population</div>
+
+                    <div class="check-details">
+                        <li>Aye-aye</li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Images</span>
+            <div class="category-stats">
+                <span class="pass">3 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">4 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Resolution</div>
+                    <div class="check-message">24 images below 2400px width</div>
+
+                    <div class="check-details">
+                        <li>Sumatran Orangutan: 2232x1674 (below 2400px min)</li>
+                        <li>Tapanuli Orangutan: 1920x1280 (below 2400px min)</li>
+                        <li>Mountain Gorilla: 1552x1632 (below 2400px min)</li>
+                        <li>Pygmy Hog: 1040x678 (below 2400px min)</li>
+                        <li>Siberian Tiger: 1600x1200 (below 2400px min)</li>
+                        <li>Golden Lion Tamarin: 1986x2961 (below 2400px min)</li>
+                        <li>Northern Hoolock Gibbon: 1927x1343 (below 2400px min)</li>
+                        <li>Radiated Tortoise: 960x640 (below 2400px min)</li>
+                        <li>Geometric Tortoise: 2048x1362 (below 2400px min)</li>
+                        <li>Bleeding Toad: 1920x2794 (below 2400px min)</li>
+                        <li>Chinese Giant Salamander: 640x640 (below 2400px min)</li>
+                        <li>African Wild Dog: 2011x1131 (below 2400px min)</li>
+                        <li>Tasmanian Devil: 2200x1435 (below 2400px min)</li>
+                        <li>Snow Leopard: 1575x1181 (below 2400px min)</li>
+                        <li>Grevy's Zebra: 900x659 (below 2400px min)</li>
+                        <li>Bornean Orangutan: 1466x2200 (below 2400px min)</li>
+                        <li>Hainan Black-crested Gibbon: 1876x2571 (below 2400px min)</li>
+                        <li>Axolotl: 2178x1215 (below 2400px min)</li>
+                        <li>Wild Bactrian Camel: 1024x768 (below 2400px min)</li>
+                        <li>Lowland Anoa: 2000x1950 (below 2400px min)</li>
+                        <li>Saiga Antelope: 1280x1085 (below 2400px min)</li>
+                        <li>Aye-aye: 1280x853 (below 2400px min)</li>
+                        <li>Black-footed Ferret: 722x526 (below 2400px min)</li>
+                        <li>Amami Rabbit: 1280x970 (below 2400px min)</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Format</div>
+                    <div class="check-message">Image format distribution</div>
+
+                    <div class="check-details">
+                        <li>JPEG: 71 files</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Color Mode</div>
+                    <div class="check-message">All standard color modes</div>
+
+                    <div class="check-details">
+                        <li>RGB: 71 files</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Total Size</div>
+                    <div class="check-message">Total image assets: 143.4 MB across 71 files</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Tiny Files</div>
+                    <div class="check-message">1 images under 100KB (may be low quality)</div>
+
+                    <div class="check-details">
+                        <li>Black-footed Ferret (0.09 MB)</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Cropped Dir</div>
+                    <div class="check-message">No cropped/ directory found</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Aspect Ratio</div>
+                    <div class="check-message">61 images with significantly different aspect ratio from page</div>
+
+                    <div class="check-details">
+                        <li>African Forest Elephant: ratio 1.500 (target ~0.767)</li>
+                        <li>Amur Leopard: ratio 1.333 (target ~0.767)</li>
+                        <li>Black Rhinoceros: ratio 1.778 (target ~0.767)</li>
+                        <li>Javan Rhinoceros: ratio 1.529 (target ~0.767)</li>
+                        <li>Sumatran Tiger: ratio 1.500 (target ~0.767)</li>
+                        <li>Cross River Gorilla: ratio 1.341 (target ~0.767)</li>
+                        <li>Sumatran Orangutan: ratio 1.333 (target ~0.767)</li>
+                        <li>Tapanuli Orangutan: ratio 1.500 (target ~0.767)</li>
+                        <li>Addax: ratio 1.500 (target ~0.767)</li>
+                        <li>African Wild Ass: ratio 1.303 (target ~0.767)</li>
+                        <li>Asiatic Cheetah: ratio 1.500 (target ~0.767)</li>
+                        <li>Baja California Pronghorn: ratio 1.449 (target ~0.767)</li>
+                        <li>Darwin's Fox: ratio 1.572 (target ~0.767)</li>
+                        <li>Indri: ratio 1.500 (target ~0.767)</li>
+                        <li>Malayan Tiger: ratio 1.333 (target ~0.767)</li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Templates</span>
+            <div class="category-stats">
+                <span class="pass">14 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">0 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Files Exist</div>
+                    <div class="check-message">All 6 templates found</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (cover_page.html)</div>
+                    <div class="check-message">All 1 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (sample_page.html)</div>
+                    <div class="check-message">All 9 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (toc_page.html)</div>
+                    <div class="check-message">All 1 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (divider_page.html)</div>
+                    <div class="check-message">All 2 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (copyright_page.html)</div>
+                    <div class="check-message">All 0 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Placeholders (back_cover.html)</div>
+                    <div class="check-message">All 1 placeholders present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (cover_page.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (sample_page.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (toc_page.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (divider_page.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (copyright_page.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">HTML Validity (back_cover.html)</div>
+                    <div class="check-message">Basic HTML structure OK</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">CSS Position Classes</div>
+                    <div class="check-message">All 8 position classes defined</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Audit Pages</span>
+            <div class="category-stats">
+                <span class="pass">6 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">0 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Page Count</div>
+                    <div class="check-message">All 82 audit pages present</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Sequential</div>
+                    <div class="check-message">No gaps in page numbering</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Dimensions</div>
+                    <div class="check-message">All pages uniform: 3312x4320</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Blank Pages</div>
+                    <div class="check-message">No blank pages detected</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">File Size Stats</div>
+                    <div class="check-message">Audit page file size summary</div>
+
+                    <div class="check-details">
+                        <li>Average: 1964 KB</li>
+                        <li>Min: 400 KB (page_45.jpg)</li>
+                        <li>Max: 4420 KB (page_39.jpg)</li>
+                        <li>Total: 157.3 MB</li>
+                    </div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Duplicate Pages</div>
+                    <div class="check-message">All pages are unique</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Output</span>
+            <div class="category-stats">
+                <span class="pass">2 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">0 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Main PDF</div>
+                    <div class="check-message">Main PDF exists (210.7 MB)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Archive</div>
+                    <div class="check-message">6 archived PDF(s)</div>
+
+                    <div class="check-details">
+                        <li>book_premium_kdp_v15.pdf: 211.1 MB</li>
+                        <li>book_premium_kdp_v16.pdf: 202.6 MB</li>
+                        <li>book_premium_kdp_v17.pdf: 202.6 MB</li>
+                        <li>book_premium_kdp_v18.pdf: 220.9 MB</li>
+                        <li>book_premium_kdp_v19.pdf: 220.9 MB</li>
+                        <li>book_premium_kdp_v20.pdf: 210.7 MB</li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="category">
+        <div class="category-header" onclick="this.parentElement.querySelector('.category-body').classList.toggle('collapsed')">
+            <span class="category-name">Structure</span>
+            <div class="category-stats">
+                <span class="pass">5 pass</span>
+                <span class="fail">0 fail</span>
+                <span class="warn">1 warn</span>
+            </div>
+        </div>
+        <div class="category-body">
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">images</div>
+                    <div class="check-message">Directory exists (72 files)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">Output</div>
+                    <div class="check-message">Directory exists (8 files)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">src</div>
+                    <div class="check-message">Directory exists (2 files)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">templates</div>
+                    <div class="check-message">Directory exists (6 files)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status pass">PASS</span>
+                <div class="check-content">
+                    <div class="check-name">temp_audit</div>
+                    <div class="check-message">Directory exists (226 files)</div>
+                </div>
+            </div>
+
+            <div class="check-row">
+                <span class="check-status warn">WARN</span>
+                <div class="check-content">
+                    <div class="check-name">Root Cleanliness</div>
+                    <div class="check-message">Files in root directory: ['animals_data_verified.json', 'book_draft.html', 'generate_book.py', 'qa_audit.py']</div>
+
+                    <div class="check-details">
+                        <li>animals_data_verified.json</li>
+                        <li>book_draft.html</li>
+                        <li>generate_book.py</li>
+                        <li>qa_audit.py</li>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-analysis">
+        <h3>Page Brightness Heatmap</h3>
+        <p style="color:#888; font-size:0.8rem; margin-bottom:10px;">
+            Visual overview of page content. Bright pages may be blank; dark pages are photo-heavy.
+        </p>
+        <div class="page-grid">
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">01</span>
+                <span class="pg-bright">21</span>
+            </div>
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">02</span>
+                <span class="pg-bright">18</span>
+            </div>
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">03</span>
+                <span class="pg-bright">20</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">04</span>
+                <span class="pg-bright">33</span>
+            </div>
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">05</span>
+                <span class="pg-bright">11</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">06</span>
+                <span class="pg-bright">67</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">07</span>
+                <span class="pg-bright">63</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">08</span>
+                <span class="pg-bright">122</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">09</span>
+                <span class="pg-bright">88</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">10</span>
+                <span class="pg-bright">115</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">11</span>
+                <span class="pg-bright">104</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">12</span>
+                <span class="pg-bright">74</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">13</span>
+                <span class="pg-bright">72</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">14</span>
+                <span class="pg-bright">66</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">15</span>
+                <span class="pg-bright">106</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">16</span>
+                <span class="pg-bright">121</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">17</span>
+                <span class="pg-bright">59</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">18</span>
+                <span class="pg-bright">114</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">19</span>
+                <span class="pg-bright">82</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">20</span>
+                <span class="pg-bright">80</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">21</span>
+                <span class="pg-bright">106</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">22</span>
+                <span class="pg-bright">57</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">23</span>
+                <span class="pg-bright">94</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">24</span>
+                <span class="pg-bright">178</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">25</span>
+                <span class="pg-bright">90</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">26</span>
+                <span class="pg-bright">76</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">27</span>
+                <span class="pg-bright">65</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">28</span>
+                <span class="pg-bright">59</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">29</span>
+                <span class="pg-bright">87</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">30</span>
+                <span class="pg-bright">110</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">31</span>
+                <span class="pg-bright">75</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">32</span>
+                <span class="pg-bright">95</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">33</span>
+                <span class="pg-bright">80</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">34</span>
+                <span class="pg-bright">102</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">35</span>
+                <span class="pg-bright">96</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">36</span>
+                <span class="pg-bright">32</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">37</span>
+                <span class="pg-bright">76</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">38</span>
+                <span class="pg-bright">171</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">39</span>
+                <span class="pg-bright">126</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">40</span>
+                <span class="pg-bright">82</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">41</span>
+                <span class="pg-bright">64</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">42</span>
+                <span class="pg-bright">65</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">43</span>
+                <span class="pg-bright">82</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">44</span>
+                <span class="pg-bright">92</span>
+            </div>
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">45</span>
+                <span class="pg-bright">11</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">46</span>
+                <span class="pg-bright">141</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">47</span>
+                <span class="pg-bright">125</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">48</span>
+                <span class="pg-bright">91</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">49</span>
+                <span class="pg-bright">74</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">50</span>
+                <span class="pg-bright">159</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">51</span>
+                <span class="pg-bright">158</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">52</span>
+                <span class="pg-bright">112</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">53</span>
+                <span class="pg-bright">70</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">54</span>
+                <span class="pg-bright">91</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">55</span>
+                <span class="pg-bright">79</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">56</span>
+                <span class="pg-bright">118</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">57</span>
+                <span class="pg-bright">74</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">58</span>
+                <span class="pg-bright">65</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">59</span>
+                <span class="pg-bright">72</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">60</span>
+                <span class="pg-bright">98</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">61</span>
+                <span class="pg-bright">102</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">62</span>
+                <span class="pg-bright">54</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">63</span>
+                <span class="pg-bright">63</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">64</span>
+                <span class="pg-bright">58</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">65</span>
+                <span class="pg-bright">78</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">66</span>
+                <span class="pg-bright">60</span>
+            </div>
+            <div class="page-cell" style="background:#666; color:#fff;">
+                <span class="pg-num">67</span>
+                <span class="pg-bright">143</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">68</span>
+                <span class="pg-bright">56</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">69</span>
+                <span class="pg-bright">120</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">70</span>
+                <span class="pg-bright">82</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">71</span>
+                <span class="pg-bright">91</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">72</span>
+                <span class="pg-bright">85</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">73</span>
+                <span class="pg-bright">90</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">74</span>
+                <span class="pg-bright">117</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">75</span>
+                <span class="pg-bright">68</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">76</span>
+                <span class="pg-bright">120</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">77</span>
+                <span class="pg-bright">52</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">78</span>
+                <span class="pg-bright">75</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">79</span>
+                <span class="pg-bright">56</span>
+            </div>
+            <div class="page-cell" style="background:#333; color:#ccc;">
+                <span class="pg-num">80</span>
+                <span class="pg-bright">90</span>
+            </div>
+            <div class="page-cell" style="background:#1a1a1a; color:#888;">
+                <span class="pg-num">81</span>
+                <span class="pg-bright">68</span>
+            </div>
+            <div class="page-cell" style="background:#111; color:#555;">
+                <span class="pg-num">82</span>
+                <span class="pg-bright">13</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        Generated by QA Tool &mdash; 2026-05-21 23:04:40<br>
+        Project: D:\Kapil\Books\Endangered Animals
+    </div>
+</div>
+
+<script>
+// Toggle category collapse
+document.querySelectorAll('.category-body').forEach(el => {
+    // Expand categories with failures by default
+});
+</script>
+</body>
+</html>

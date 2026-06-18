@@ -1,0 +1,328 @@
+#!/usr/bin/env python3
+"""
+VAULT B - Cover Rebuilder for 360-page interior
+Fixes spine width from 0.530" (212 pages) to 0.900" (360 pages).
+Extracts front-cover images from existing PDFs, regenerates at correct dimensions.
+
+KDP expected: 12.150 x 8.750 in
+  = bleed(0.125) + trim(5.5) + spine(0.900) + trim(5.5) + bleed(0.125)
+"""
+
+import os, math
+import fitz  # PyMuPDF for image extraction
+from reportlab.lib.colors import Color, HexColor
+from reportlab.pdfgen import canvas
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.pdfbase.pdfmetrics import registerFontFamily
+from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
+from reportlab.platypus import Paragraph
+from reportlab.lib.styles import ParagraphStyle
+from PIL import Image as PILImage
+
+# ─── Config ──────────────────────────────────────────────────────────────────
+COVER_DIR = r"D:\Kapil\Books\Meera Desai\MD - Vault-B\Output\Cover"
+EXTRACT_DIR = os.path.join(COVER_DIR, "_extracted_fronts")
+os.makedirs(EXTRACT_DIR, exist_ok=True)
+
+TRIM_W, TRIM_H = 5.5, 8.5
+PAGES = 360          # ← FIXED: was 212, now matches actual interior
+BLEED = 0.125
+SAFE = 0.25
+SPINE = PAGES * 0.0025   # 0.900"
+
+FULL_W = BLEED + TRIM_W + SPINE + TRIM_W + BLEED   # 12.150"
+FULL_H = BLEED + TRIM_H + BLEED                      # 8.750"
+
+BACK_TRIM_L = BLEED
+BACK_TRIM_R = BLEED + TRIM_W
+SPINE_CX = BACK_TRIM_R + SPINE / 2
+FRONT_TRIM_L = BACK_TRIM_R + SPINE
+FRONT_TRIM_R = FRONT_TRIM_L + TRIM_W
+
+SAFE_T = BLEED + TRIM_H - SAFE
+SAFE_B = BLEED + SAFE
+BACK_SL = BACK_TRIM_L + SAFE
+BACK_SR = BACK_TRIM_R - SAFE
+FRONT_SL = FRONT_TRIM_L + SAFE
+FRONT_SR = FRONT_TRIM_R - SAFE
+
+pts = lambda v: v * 72
+
+GOLD = HexColor("#C9A84C")
+GOLD_L = HexColor("#E8D5A3")
+WHITE = HexColor("#FFFFFF")
+OFF_W = HexColor("#D8D8D8")
+L_GRAY = HexColor("#999999")
+M_GRAY = HexColor("#666666")
+DEEP_RED = HexColor("#8B1A1A")
+
+# ─── Font Registration ───────────────────────────────────────────────────────
+FD = r"C:\Windows\Fonts"
+for n, f in [('Pal','pala.ttf'),('PalB','palab.ttf'),('PalI','palai.ttf'),('PalBI','palabi.ttf'),
+             ('Geo','georgia.ttf'),('GeoB','georgiab.ttf'),('GeoI','georgiai.ttf'),
+             ('TmsB','timesbd.ttf'),('GarB','GARABD.TTF')]:
+    pdfmetrics.registerFont(TTFont(n, os.path.join(FD, f)))
+registerFontFamily('Pal', normal='Pal', bold='PalB', italic='PalI', boldItalic='PalBI')
+registerFontFamily('Geo', normal='Geo', bold='GeoB', italic='GeoI')
+
+# ─── Text Content ────────────────────────────────────────────────────────────
+TAGLINE = "The mathematics protects what armies cannot."
+PULL = '"A secret sealed for two thousand years is about to be opened."'
+BLURB = [
+    'When Dr. Meera Rao receives a dying message from the father who abandoned her, '
+    'she is drawn into the heart of Padmanabhaswamy Temple\u2019s forbidden Vault B '
+    '\u2014 a chamber protected by the most sophisticated cryptographic system the '
+    'ancient world ever created.',
+    "Oxford mathematician James Rothwell has spent his career chasing evidence that "
+    "India\u2019s Kerala School discovered the foundations of modern encryption "
+    "centuries before Europe. When his research collides with Meera\u2019s inheritance, "
+    "they uncover a conspiracy stretching from colonial looting to a present-day "
+    "battle for control of knowledge worth killing for.",
+    "With a ruthless antiquities dealer closing in, a temple guardian racing against "
+    "death, and a mathematical puzzle that has kept its secret since Emperor Ashoka, "
+    "Meera must solve what armies and empires could not \u2014 before the vault is "
+    "opened by those who would weaponize the truth.",
+]
+CLOSING = "Based on the real unsolved mystery of Padmanabhaswamy Temple\u2019s sealed vault."
+
+# ─── Drawing Helpers ─────────────────────────────────────────────────────────
+def spaced(c, text, font, size, cx, y, sp=0, col=WHITE):
+    c.setFont(font, size); c.setFillColor(col)
+    if sp: c._charSpace = sp
+    c.drawCentredString(cx, y, text)
+    if sp: c._charSpace = 0
+
+def para(c, text, font, sz, ld, x, y, w, col=OFF_W, align=TA_JUSTIFY):
+    s = ParagraphStyle('p', fontName=font, fontSize=sz, leading=ld, textColor=col, alignment=align)
+    p = Paragraph(text, s); pw, ph = p.wrap(w, 2000); p.drawOn(c, x, y - ph)
+    return ph
+
+def draw_red_gradient(c, x, y, w, h, steps=120):
+    for i in range(steps):
+        f = i / steps
+        r = 0.35 + 0.15 * f
+        g = 0.02 + 0.02 * f
+        b = 0.02 + 0.02 * f
+        c.setFillColor(Color(r, g, b))
+        sh = h / steps
+        c.rect(x, y + i * sh, w, sh + 0.5, stroke=0, fill=1)
+
+def draw_back_red(c):
+    cx = pts((BACK_SL + BACK_SR) / 2)
+    tx = pts(BACK_SL)
+    tw = pts(BACK_SR - BACK_SL)
+    y = SAFE_T
+    ph = para(c, PULL, 'PalI', 13, 19, tx, pts(y), tw, GOLD_L, TA_CENTER)
+    y -= ph / 72 + 0.15
+    c.setStrokeColor(GOLD); c.setLineWidth(0.6)
+    rw = pts(2.0)
+    c.line(cx - rw/2, pts(y), cx + rw/2, pts(y))
+    c.setFillColor(GOLD)
+    c.saveState(); c.translate(cx, pts(y + 0.04)); c.rotate(45)
+    c.rect(-2.5, -2.5, 5, 5, stroke=0, fill=1); c.restoreState()
+    y -= 0.4
+    for t in BLURB:
+        ph = para(c, t, 'Pal', 11.5, 16, tx, pts(y), tw, OFF_W)
+        y -= ph / 72 + 0.18
+        if y < SAFE_B + 1.6: break
+    ph = para(c, CLOSING, 'PalI', 10, 14.5, tx, pts(y), tw, L_GRAY, TA_CENTER)
+    y -= ph / 72 + 0.2
+    c.setFont('Geo', 8.5); c.setFillColor(M_GRAY)
+    c.drawString(pts(BACK_SL), pts(SAFE_B), "FICTION / THRILLERS")
+
+def draw_spine_red(c):
+    cx_pt = pts(SPINE_CX); cy_pt = pts(TRIM_H / 2)
+    c.setStrokeColor(HexColor("#331111")); c.setLineWidth(0.4)
+    c.line(pts(BACK_TRIM_R), pts(BLEED), pts(BACK_TRIM_R), pts(BLEED + TRIM_H))
+    c.line(pts(FRONT_TRIM_L), pts(BLEED), pts(FRONT_TRIM_L), pts(BLEED + TRIM_H))
+    c.saveState()
+    c.translate(cx_pt, cy_pt); c.rotate(90)
+    c.setFont('GeoB', 11); c.setFillColor(WHITE)
+    c.drawCentredString(0, -4, "VAULT B")
+    c.setFillColor(GOLD)
+    c.circle(0, -(11 + 10), 1.8, stroke=0, fill=1)
+    c.setFont('GeoB', 9.5); c.setFillColor(WHITE)
+    c.drawCentredString(0, -(11 + 10 + 5 + 9.5), "KAPIL")
+    c.restoreState()
+
+def make_image_cover(img_path, out_path):
+    c = canvas.Canvas(out_path, pagesize=(pts(FULL_W), pts(FULL_H)))
+
+    # Full deep red gradient background (back panel)
+    draw_red_gradient(c, 0, 0, pts(BACK_TRIM_R + BLEED), pts(FULL_H))
+
+    # Spine: deep red (darker shade)
+    for i in range(120):
+        f = i / 120
+        r = 0.30 + 0.12 * f
+        g = 0.015 + 0.015 * f
+        b = 0.015 + 0.015 * f
+        c.setFillColor(Color(r, g, b))
+        sh = pts(FULL_H) / 120
+        c.rect(pts(BACK_TRIM_R), i * sh, pts(SPINE), sh + 0.5, stroke=0, fill=1)
+
+    # Front: image with red tint overlay
+    img = PILImage.open(img_path)
+    iw, ih = img.size
+    if img.mode == 'RGBA':
+        bg = PILImage.new('RGB', img.size, (70, 8, 8))
+        bg.paste(img, mask=img.split()[3]); img = bg
+    fa_l = FRONT_TRIM_L
+    fa_w = TRIM_W + BLEED
+    s = max(pts(fa_w) / iw, pts(FULL_H) / ih)
+    dw, dh = iw * s, ih * s
+    dx = pts(fa_l) + (pts(fa_w) - dw) / 2
+    dy = (pts(FULL_H) - dh) / 2
+
+    # Draw image
+    c.drawImage(img_path, dx, dy, dw, dh, preserveAspectRatio=False)
+
+    # Red tint overlay on front image (semi-transparent)
+    for i in range(80):
+        f = i / 80
+        alpha = 0.18 + 0.12 * (1 - abs(2 * f - 1))
+        r = 0.35 + 0.15 * f
+        g = 0.02 + 0.02 * f
+        b = 0.02 + 0.02 * f
+        c.setFillColor(Color(r, g, b, alpha))
+        h = pts(FULL_H) / 80
+        c.rect(pts(fa_l), i * h, pts(fa_w), h + 0.5, stroke=0, fill=1)
+
+    # TOP: dark band for title (tinted red instead of pure black)
+    band_top_h = pts(3.6)
+    c.setFillColor(Color(0.30, 0.03, 0.03, 0.88))
+    c.rect(pts(fa_l), pts(FULL_H) - band_top_h, pts(fa_w), band_top_h, stroke=0, fill=1)
+    for i in range(30):
+        a = 0.88 * (1 - (i/30)**1.5)
+        c.setFillColor(Color(0.30, 0.03, 0.03, a))
+        h = pts(0.6) / 30
+        c.rect(pts(fa_l), pts(FULL_H) - band_top_h - (i+1)*h, pts(fa_w), h+1, stroke=0, fill=1)
+
+    # BOTTOM: dark band for author (tinted red)
+    band_bot_h = pts(1.4)
+    c.setFillColor(Color(0.30, 0.03, 0.03, 0.88))
+    c.rect(pts(fa_l), 0, pts(fa_w), band_bot_h, stroke=0, fill=1)
+    for i in range(30):
+        a = 0.88 * (1 - (i/30)**1.5)
+        c.setFillColor(Color(0.30, 0.03, 0.03, a))
+        h = pts(0.5) / 30
+        c.rect(pts(fa_l), band_bot_h + i*h, pts(fa_w), h+1, stroke=0, fill=1)
+
+    fcx = pts(FRONT_TRIM_L + TRIM_W / 2)
+
+    # TITLE
+    spaced(c, "VAULT B", 'GeoB', 56, fcx, pts(SAFE_T - 0.9), sp=12, col=GOLD)
+
+    # Thin gold line
+    c.setStrokeColor(GOLD); c.setLineWidth(0.6)
+    rl = pts(2.5)
+    c.line(fcx - rl/2, pts(SAFE_T - 1.25), fcx + rl/2, pts(SAFE_T - 1.25))
+
+    # Tagline
+    spaced(c, TAGLINE, 'PalI', 10, fcx, pts(SAFE_T - 1.5), col=GOLD_L)
+
+    # AUTHOR
+    spaced(c, "KAPIL", 'Geo', 16, fcx, pts(SAFE_B + 0.6), sp=4, col=WHITE)
+
+    # Series line
+    spaced(c, "A Meera Desai Thriller", 'PalI', 8, fcx, pts(SAFE_B + 0.2), col=L_GRAY)
+
+    draw_spine_red(c)
+    draw_back_red(c)
+    c.save()
+    print(f"  OK: {os.path.basename(out_path)}  ({FULL_W:.3f} x {FULL_H:.3f} in)")
+
+
+def extract_front_image(pdf_path, out_path):
+    """Extract the largest image from the front cover portion of the PDF."""
+    doc = fitz.open(pdf_path)
+    page = doc[0]
+    
+    # Render the front cover region as a high-res image
+    # Front cover starts at FRONT_TRIM_L - BLEED in old layout (spine=0.530")
+    # Old FULL_W = 0.125 + 5.5 + 0.530 + 5.5 + 0.125 = 11.780
+    old_full_w = 11.780
+    old_spine = 0.530
+    old_front_trim_l = 0.125 + 5.5 + old_spine  # = 6.155
+    
+    # Front cover region: from front_trim_l to end (including bleed)
+    # In page coordinates: x from 6.155 to 11.780 (width 5.625), full height
+    front_x0 = old_front_trim_l
+    front_y0 = 0
+    front_x1 = old_full_w
+    front_y1 = 8.750
+    
+    # Use a clip rect to render just the front portion
+    clip = fitz.Rect(front_x0 * 72, front_y0 * 72, front_x1 * 72, front_y1 * 72)
+    
+    # High-res render (3x for quality)
+    matrix = fitz.Matrix(3, 3)
+    pix = page.get_pixmap(matrix=matrix, clip=clip)
+    pix.save(out_path)
+    doc.close()
+    return out_path
+
+
+# ─── Main ────────────────────────────────────────────────────────────────────
+def main():
+    print(f"=== VAULT B Cover Rebuilder (360 pages, spine={SPINE:.3f}\") ===")
+    print(f"Target dimensions: {FULL_W:.3f} x {FULL_H:.3f} in")
+    print()
+
+    # Step 1: Extract front images from existing cover PDFs (non-Red versions)
+    existing_covers = [
+        ("VAULT_B_Cover_Image2.pdf", "VAULT_B_Cover_Image2_Red.pdf"),
+        ("VAULT_B_Cover_Image4.pdf", "VAULT_B_Cover_Image4_Red.pdf"),
+    ]
+
+    print("Step 1: Extracting front-cover images from existing PDFs...")
+    extracted = {}
+    for src_name, _ in existing_covers:
+        src_path = os.path.join(COVER_DIR, src_name)
+        if not os.path.exists(src_path):
+            print(f"  SKIP (not found): {src_name}")
+            continue
+        img_out = os.path.join(EXTRACT_DIR, src_name.replace('.pdf', '.png'))
+        try:
+            extract_front_image(src_path, img_out)
+            extracted[src_name] = img_out
+            print(f"  Extracted: {src_name} -> {os.path.basename(img_out)}")
+        except Exception as e:
+            print(f"  ERR extracting {src_name}: {e}")
+
+    print()
+
+    # Step 2: Regenerate all covers at correct dimensions
+    print("Step 2: Regenerating covers at correct dimensions (12.150 x 8.750)...")
+    
+    for src_name, out_name in existing_covers:
+        if src_name not in extracted:
+            continue
+        img_path = extracted[src_name]
+        out_path = os.path.join(COVER_DIR, out_name)
+        try:
+            make_image_cover(img_path, out_path)
+        except Exception as e:
+            print(f"  ERR building {out_name}: {e}")
+
+    print()
+
+    # Step 3: Verify dimensions
+    print("Step 3: Verifying dimensions...")
+    import pikepdf
+    for f in sorted(os.listdir(COVER_DIR)):
+        if f.endswith('_Red.pdf') and not f.startswith('Hardcover'):
+            path = os.path.join(COVER_DIR, f)
+            pdf = pikepdf.open(path)
+            w = float(pdf.pages[0].MediaBox[2]) / 72
+            h = float(pdf.pages[0].MediaBox[3]) / 72
+            ok = "✓ CORRECT" if abs(w - 12.150) < 0.01 else "✗ WRONG"
+            print(f"  {f}: {w:.3f} x {h:.3f}  {ok}")
+            pdf.close()
+
+    print("\nDone! Covers are now 12.150 x 8.750 in (spine=0.900\" for 360 pages).")
+
+
+if __name__ == "__main__":
+    main()

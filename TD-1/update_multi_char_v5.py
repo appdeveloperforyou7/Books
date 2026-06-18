@@ -1,0 +1,44 @@
+import json
+import pathlib
+
+RULES = "IMPORTANT CLOTHING RULES: the olive green utility vest belongs to the Indian girl only, the blue denim jacket with patches belongs to the Nigerian-British girl only, the crimson fingerless gaming gloves belong to the Japanese-Korean boy only, the navy blue beanie with heart belongs to the Mexican-American boy only. No other child shares these items."
+
+MULTI = {
+    "B1-011": f"Exactly four pre-teen children aged 10-12 sitting around a table in a bright meeting room. An 11-year-old Indian girl with brown skin, messy ponytail, goggles on forehead, olive green utility vest with tool pockets, vintage graphic tee, cargo shorts. A 10-year-old Japanese-Korean boy with light skin, black spiky hair, crimson fingerless gaming gloves, black PLAYER shirt. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings. An 11-year-old Mexican-American boy with tan skin, navy blue beanie with heart patch, reading glasses, gray hoodie with tablet, jeans. One small white cube robot floating above table. Whiteboard on wall. {RULES} No other people.",
+
+    "B1-012": f"Exactly four pre-teen children aged 10-12 hiding in a dark narrow janitor closet. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts, pressing finger to lips. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt, peeking through door crack. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket, colorful leggings, clutching bag nervously. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, reading glasses, gray hoodie, jeans, crouching with tablet. One white cube robot near ceiling. {RULES} No other people.",
+
+    "B1-017": f"Exactly four pre-teen children aged 10-12 sitting in a tight circle on a living room rug. A 10-year-old Japanese-Korean boy with light skin, black spiky hair, crimson fingerless gaming gloves, PLAYER shirt facing us. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts on the left. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans across. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket with patches, colorful leggings on the right. One white cube robot floating in center. {RULES} No other people.",
+
+    "B1-018": f"Exactly four pre-teen children aged 10-12 at a dark tunnel entrance. An 11-year-old Indian girl with brown skin, messy ponytail, goggles, olive green utility vest, vintage tee, cargo shorts leading with flashlight. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt ready behind her. A 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow bag, blue denim jacket, colorful leggings walking carefully. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans scanning walls with tablet. One white cube robot near flashlight. Brick tunnel with cables. {RULES} No other people.",
+
+    "B1-019": f"Exactly four pre-teen children aged 10-12 celebrating around an underground lab workbench. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts jumping joyfully. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt cheering with gloved hands raised. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings clapping. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans grinning. One white cube robot above workbench, the only robot. {RULES} No other people.",
+
+    "B1-021": f"Exactly four pre-teen children aged 10-12 on bedroom floor at midnight sharing samosas. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts eating samosa. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt stuffing face. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings reaching for samosa. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans whispering. One white cube robot watching, the only robot. {RULES} No other people.",
+
+    "B1-023": f"Exactly four pre-teen children aged 10-12 on a park bench in morning sunshine, no robots. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts holding a cup. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt giving thumbs up. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings holding a plate. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans eating from a bowl. {RULES} No other people.",
+
+    "B1-024": f"Exactly four pre-teen children aged 10-12 walking through a narrow underground tunnel, no robots. An 11-year-old Indian girl with brown skin, ponytail, goggles, olive green utility vest, vintage tee, cargo shorts leading with flashlight. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt glancing back. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings walking carefully. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans scanning with tablet. Brick walls, cables on ceiling. {RULES} No other people.",
+
+    "B1-033": f"A cozy underground lab headquarters with string lights and monitors. Exactly four pre-teen children aged 10-12 and one robot, no other people. An 11-year-old Indian girl with brown skin, messy ponytail, goggles on forehead, olive green utility vest with tool pockets, vintage graphic tee, cargo shorts tinkering with wires at workbench. A 10-year-old Japanese-Korean boy with light skin, black spiky hair on top, crimson fingerless gaming gloves on both hands, black PLAYER shirt, athletic shorts testing a gadget. A 12-year-old Nigerian-British girl with dark brown skin, voluminous black hair in chunky twists, yellow crossbody bag, blue denim jacket with patches, colorful patterned leggings sketching at art desk. An 11-year-old Mexican-American boy with warm tan skin, navy blue knit beanie with small pixel heart patch, reading glasses, gray oversized hoodie with tablet in pocket, jeans at monitor desk. One small white cube robot on charging dock. {RULES} No other people.",
+
+    "B1-036": f"Four pre-teen children aged 10-12 on an apartment rooftop at sunset, no other people. An 11-year-old Indian girl with brown skin, ponytail wind-blown, goggles around neck, olive green utility vest, vintage tee, cargo shorts. A 10-year-old Japanese-Korean boy with light skin, spiky hair, crimson gaming gloves, PLAYER shirt leaning back with LED sneakers dangling over edge. A 12-year-old Nigerian-British girl with dark brown skin, black twists, yellow bag, blue denim jacket, colorful leggings taking a photo. An 11-year-old Mexican-American boy with tan skin, navy beanie with heart, glasses, gray hoodie, jeans watching horizon. One white cube robot floating between them, the only robot. {RULES} Golden sunset light.",
+
+    "B1-035": f"One single 12-year-old Nigerian-British girl with dark brown skin, black hair twists, yellow crossbody bag, blue denim jacket with patches, colorful leggings pinning a photo to a cork investigation board. Solo detective moment. No other people. Pre-teen aged 12.",
+
+    "B1-029": f"One single 11-year-old Indian girl with brown skin, messy ponytail with pencil, goggles on forehead, olive green utility vest, vintage graphic tee, cargo shorts operating a makeshift water valve. Water spraying creating rainbows. Solo scene. No other people. Pre-teen aged 11.",
+}
+
+p = pathlib.Path(r"D:\Kapil\Books\TD-1\Book1\manifest_clean.json")
+m = json.loads(p.read_text("utf-8"))
+
+updated = 0
+for item in m["illustrations"]:
+    if item["id"] in MULTI:
+        item["prompt"] = MULTI[item["id"]]
+        item["status"] = "pending"
+        updated += 1
+        print(f"  Updated {item['id']}")
+
+p.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
+print(f"\nUpdated {updated} prompts with clothing exclusivity rules")
