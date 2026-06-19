@@ -1,0 +1,165 @@
+/* THE MERIDIAN — interior book stylesheet (weasyprint PDF + pandoc EPUB) */
+
+@page {
+  size: 6in 9in;
+  margin: 2.4cm 2.1cm 2.2cm 2.1cm;
+  @bottom-center {
+    content: counter(page);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 8.5pt;
+    color: #6a6a6a;
+  }
+}
+@page :first {
+  @bottom-center { content: none; }
+}
+
+html { font-size: 11pt; }
+
+body {
+  font-family: "Garamond", "EB Garamond", Georgia, "Times New Roman", serif;
+  font-size: 11.2pt;
+  line-height: 1.5;
+  color: #161616;
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+p {
+  margin: 0;
+  text-indent: 1.35em;
+  orphans: 2;
+  widows: 2;
+}
+h1 + p, h2 + p { text-indent: 0; }
+
+em { font-style: italic; }
+strong { font-weight: 600; }
+
+/* Chapter openers */
+h1 {
+  font-family: "Garamond", Georgia, serif;
+  font-size: 17pt;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  page-break-before: always;
+  margin: 0 0 0.2em 0;
+  padding-top: 2.6cm;
+  color: #1a1a1a;
+}
+h1.title {
+  font-size: 30pt;
+  letter-spacing: 0.18em;
+  page-break-before: avoid;
+  padding-top: 0;
+  margin-bottom: 0.4cm;
+}
+
+h2 {
+  font-size: 10pt;
+  font-weight: 400;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #5a5a5a;
+  margin: 0.1em 0 1.7em 0;
+  text-transform: none;
+}
+
+/* Slightly enlarged opener letter on each chapter's first paragraph (weasyprint-safe, no float) */
+h1 + p::first-letter {
+  font-size: 1.4em;
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+/* Scene-break ornaments (--- in source) */
+hr {
+  border: none;
+  text-align: center;
+  margin: 1.1em 0 1.3em 0;
+  page-break-after: avoid;
+}
+hr::before {
+  content: "✦   ✦   ✦";
+  color: #9a9a9a;
+  font-size: 9pt;
+  letter-spacing: 0.2em;
+}
+
+/* Title page */
+header#title-block-header {
+  text-align: center;
+  page-break-after: always;
+  padding-top: 5cm;
+}
+p.subtitle {
+  font-size: 13pt;
+  font-style: italic;
+  color: #4a4a4a;
+  letter-spacing: 0.04em;
+  margin-top: 0.3cm;
+}
+p.author {
+  font-size: 11pt;
+  color: #5a5a5a;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-top: 4.5cm;
+}
+
+/* Tagline / epigraph on title page */
+header#title-block-header + blockquote {
+  text-align: center;
+  font-style: italic;
+  color: #3a3a3a;
+  font-size: 10.5pt;
+  margin: 0 2cm;
+  page-break-after: always;
+}
+
+/* Table of contents */
+nav#TOC {
+  page-break-after: always;
+}
+nav#TOC h1, nav#TOC > h2, #toc-title {
+  text-align: center;
+  font-size: 14pt;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding-top: 1cm;
+  page-break-before: avoid;
+}
+nav#TOC ul { list-style: none; padding-left: 0; }
+nav#TOC li { margin: 0.32em 0; font-size: 10.5pt; }
+
+/* Inline tables (timetable) */
+table {
+  border-collapse: collapse;
+  margin: 0.8em auto;
+  font-size: 9.5pt;
+  font-family: Georgia, serif;
+}
+th, td {
+  border: 0.5pt solid #b8b8b8;
+  padding: 4pt 7pt;
+  text-align: left;
+}
+th {
+  background: #f0f0f0;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 8.5pt;
+  letter-spacing: 0.04em;
+}
+
+/* Author note (epilogue) */
+blockquote:not(header + blockquote) {
+  margin: 0.6em 1.2em;
+  font-style: italic;
+  color: #333;
+  font-size: 10pt;
+}
