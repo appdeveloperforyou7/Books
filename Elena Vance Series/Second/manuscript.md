@@ -1,4 +1,4 @@
-# THE GASLIT
+# THE DEVOTED
 ## An Elena Vance Novel — Book 2 of the Elena Vance Series
 
 ---

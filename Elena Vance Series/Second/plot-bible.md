@@ -1,7 +1,7 @@
 # ELENA VANCE, BOOK 2 — PLOT BIBLE
 
 > Status: Book 2 in design (Revision 2 — hardening pass). Single source of truth for plot, structure, detection logic, and the fair-play clue trail. Companion to `character-bible.md`, `ratings.md`, `engagement-guide.md`.
-> Working title: **THE GASLIT** (alternatives: *The Devoted* · *The Reading* · *What She Knew*)
+> Title: **THE DEVOTED** (was: *The Gaslit*)
 
 ---
 

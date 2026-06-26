@@ -1,4 +1,4 @@
-# REVISIONS — *The Gaslit* (Elena Vance, Book 2)
+# REVISIONS — *The Devoted* (Elena Vance, Book 2)
 
 > Working to-do list. Continue from here. Companion to `ratings.md` (current score **106.9/140; 11 of 14 dims ≥ 7.5**) and `manuscript.md` (~52K words).
 > Four critical reviews processed: **Kimi, DeepSeek, Qwen, Gemini.** Their convergent points are being implemented; divergent/identity-breaking points are held (logged in §5 so we don't re-litigate).
