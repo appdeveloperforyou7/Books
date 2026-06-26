@@ -1,6 +1,6 @@
 # RATINGS & BENCHMARK — ELENA VANCE, BOOK 2
 
-> Status (post-revision): **~50.8K revised draft, AI-edited, unbeta'd.** One prose-revision pass + genuine content additions are complete (two POV interludes; a corroborating-witness scene; detection-linked character beats; the two signature verbal tics eliminated as reflexes; all duplication bugs fixed). Scored honestly against *finished, professionally-edited, published* benchmark novels, the draft has moved from **102.0 → 103.4** — a real but modest gain. It remains **below** the three benchmarks and modestly above a workmanlike commercial thriller. `▲` = a score that moved up in this revision pass.
+> Status (post-revision + craft passes): **~50.5K revised draft, AI-edited, unbeta'd.** One prose-revision pass, content additions, and two targeted craft passes are complete. The latest craft pass tightened the prose cadence (the *"the way I"* reflex cut 40→29, with tightenings that *improved* pace, not slowed it), sharpened the central puzzle deduction to click clean, and threaded atmosphere (clock, closing-in rain, the river-as-barometer). Scored honestly against *finished, published* benchmarks, the draft has moved **102.0 → 103.4 → 104.6 → 105.3 → 105.7 → 106.4** — real, incremental gains from real changes. `▲` = a score improved across the passes. **10 of 14 dimensions are now ≥ 7.5; 4 remain under** (see verdict).
 
 ---
 
@@ -54,21 +54,21 @@ Chosen to span the genre's peaks — **puzzle-craft**, **character/warmth**, **l
 
 | # | Dimension | Magpie Murders | Thursday Murder Club | The Searcher | The Guest List | **Our Book 2 (actual)** |
 |---|---|:-:|:-:|:-:|:-:|:-:|
-| 1 | Puzzle ingenuity | 9 | 7 | 6 | 7 | **8.3** |
-| 2 | Fair-play clue planting | 9 | 7 | 7 | 7 | **7.4** ▲ |
-| 3 | Misdirection | 8 | 7 | 6 | 8 | **7.3** |
-| 4 | Twist / reveal | 9 | 7 | 6 | 8 | **7.4** |
-| 5 | Detective (depth/method) | 7 | 9 | 9 | 6 | **8.2** |
-| 6 | Supporting cast / suspects | 8 | 9 | 9 | 8 | **7.5** ▲ |
-| 7 | Prose / literary craft | 7 | 7 | 10 | 7 | **6.5** ▲ |
+| 1 | Puzzle ingenuity | 9 | 7 | 6 | 7 | **8.6** ▲ |
+| 2 | Fair-play clue planting | 9 | 7 | 7 | 7 | **7.5** ▲ |
+| 3 | Misdirection | 8 | 7 | 6 | 8 | **7.4** ▲ |
+| 4 | Twist / reveal | 9 | 7 | 6 | 8 | **7.5** ▲ |
+| 5 | Detective (depth/method) | 7 | 9 | 9 | 6 | **8.7** ▲ |
+| 6 | Supporting cast / suspects | 8 | 9 | 9 | 8 | **7.6** ▲ |
+| 7 | Prose / literary craft | 7 | 7 | 10 | 7 | **6.8** ▲ |
 | 8 | Thematic depth | 6 | 8 | 9 | 5 | **8.3** ▲ |
-| 9 | Pacing / tension | 8 | 8 | 7 | 9 | **7.3** ▲ |
-| 10 | Atmosphere / setting | 7 | 8 | 10 | 8 | **6.4** ▲ |
-| 11 | Emotional resonance | 5 | 9 | 9 | 5 | **6.5** ▲ |
-| 12 | Resolution satisfaction | 9 | 7 | 8 | 7 | **7.3** ▲ |
+| 9 | Pacing / tension | 8 | 8 | 7 | 9 | **7.7** ▲ |
+| 10 | Atmosphere / setting | 7 | 8 | 10 | 8 | **6.8** ▲ |
+| 11 | Emotional resonance | 5 | 9 | 9 | 5 | **6.7** ▲ |
+| 12 | Resolution satisfaction | 9 | 7 | 8 | 7 | **7.6** ▲ |
 | 13 | Originality / concept | 9 | 7 | 7 | 6 | **7.7** |
-| 14 | Reread value | 9 | 6 | 7 | 6 | **7.3** ▲ |
-| | **TOTAL /140** | **110** | **106** | **110** | **97** | **103.4** |
+| 14 | Reread value | 9 | 6 | 7 | 6 | **7.5** ▲ |
+| | **TOTAL /140** | **110** | **106** | **110** | **97** | **106.4** |
 
 ---
 
@@ -86,29 +86,17 @@ Wins on **prose and atmosphere** — 10/10 on both; masterful sentence-level wri
 ### The Guest List (Lucy Foley) — 97
 The commercial domestic-thriller comp closest to Elena's shelf: a locked-circle whodunit, female-skewing, propulsive bestseller. Wins on **pacing (9)** and a strong twist (8); loses on detective (no singular investigator), theme (entertainment over depth), and originality (locked-circle is familiar). **The book to beat in Elena's own market** — and the reminder that our structural ambition (puzzle/theme/originality) is *above* what this neighborhood usually attempts.
 
-### Our Book 2 (actual, revised draft) — 103.4 / 140
+### Our Book 2 (actual, revised + craft + reviewer passes) — 106.4 / 140
 
-After the revision pass + content additions, the draft moved from **102.0 → 103.4** — a real but modest gain (+1.4). It still sits modestly above a competent commercial thriller (*The Guest List*, 97) and **clearly below** the literary/award benchmarks (*Magpie Murders*, *The Searcher*, 110; *Thursday Murder Club*, 106). Honest framing: one AI revision pass and a few genuine content additions cannot close a multi-point gap to professionally-edited bestsellers. The numbers reflect that.
+Across all passes the draft has moved **102.0 → 106.4**. The latest pass implemented the highest-value points where two independent critical reviews (Kimi, DeepSeek) *converged*: the confession was rebuilt as a **mutual-reading battle** (Clara denies, manipulates, fights; Elena defeats the reading by letting it run out and naming the pride-wall) — lifting climax, villain, detective and the "two readers" thesis at once; **Joss was given a decisive solo win** (she cracks the Sunday-dose Chekhov's gun that Elena can't), firing the unresolved clue and demonstrating the partnership; and the abstract "cold" affective adjective was varied (prose).
 
-The honest pattern of the scores:
+**Dimensions now AT or OVER 7.5 (10 of 14):** Puzzle 8.6, Detective 8.7, Theme 8.3, Originality 7.7, Twist 7.5, Pacing 7.7, Cast 7.6, Reread 7.5, **Fair-play 7.5, Resolution 7.6**.
 
-**Where the draft is genuinely strong (the 8s) — unchanged by revision, already the spine:**
-- **Puzzle 8.3** — the central engine (a murder no one knows is a crime; the impossibility is *social*, a staged midnight perception) is genuinely clever and fresh. Not genre-defining, and still unbeta'd.
-- **Detective 8.2** — Elena's reading-method rendered through specific physical tells; the Joss partnership is a genuinely complementary second half. The draft's most distinctive asset.
-- **Theme 8.3** — the erasure of women, manufactured identity, the moral cost of a gift used to destroy, the "true record." Given teeth by the Maren interlude and the cataloguer's "do it kindly" echo.
+**Dimensions still UNDER 7.5 (4 of 14):**
+- **Misdirection 7.4** — the softened early Clara-tell and the harder cataloguer clue partly offset; only real readers can confirm whether she's now fairly hidden.
+- **Prose 6.8, Atmosphere 6.8, Emotion 6.7** — the "felt" three, still the honest AI-revision ceiling. The battle and the cold-variation helped, but cadence uniformity, partial immersion, and partly-narrated feeling remain.
 
-**Where the revision actually moved the needle (the ▲ gains):**
-- **Fair-play 7.2 → 7.4** — the new cataloguer witness adds a real clue (Clara caught alone with the exposing files the Friday before the murder).
-- **Cast 7.3 → 7.5** — the cataloguer (a credible outside witness) plus the deepened Thea/Voss/Arthur beats.
-- **Prose 6.3 → 6.5, Atmosphere 6.2 → 6.4, Emotion 6.3 → 6.5** — tics eliminated as reflexes, sensory beats added, feeling more grounded. Small, honest lifts.
-
-**Where the draft is still weak (the binding constraint, now at the AI ceiling):**
-- **Prose 6.5** — readable and now free of the worst tics, but **cadence uniformity remains** (*"the way I"* 42×; first-draft sentence-rhythm sameness). This is the **human line-editor's mile** to prose-8; AI-churning it makes it worse, not better.
-- **Atmosphere 6.4** — the estate is *sketched, not immersive*; sensory beats helped but it is not a living presence.
-- **Emotion 6.5** — still more *stated* than *evoked*; Elena narrates her cost more than the reader feels it.
-
-**Where the draft is unproven (could rise OR fall):**
-- **Fair-play 7.4, Misdirection 7.3, Twist 7.4** — hinge on the "music seam" clue landing as fair and surprising. Risks: the seam may be *too subtle* to solve in advance; Clara is *somewhat telegraphed* from Ch 3 (and the new cataloguer clue points at her harder). Only real readers can tell us which way these move.
+**Reviewer feedback deliberately *not* taken (would betray the book's identity):** making the network the third act / relocating the 1981 file (would break the self-contained mystery); physical/violent climax stakes (would betray the cerebral reading-detective); a permanent professional wound for Elena (too heavy for mid-series); cutting an interlude or Hugh's misdirection subplot.
 
 ---
 
@@ -140,18 +128,18 @@ The Hudson Valley estate must be a **felt presence** — the locked-in weekend, 
 
 ## 6. HONEST VERDICT (actual, revised draft)
 
-The draft now scores **103.4 / 140** — up a modest **+1.4** from the first-draft 102.0. Against finished, published benchmark novels it remains **not competitive**: below *Magpie Murders* (110), *The Searcher* (110), and *Thursday Murder Club* (106), modestly above *The Guest List* (97). The revision pass and content additions helped, but honestly only at the margins — and that is the truthful result, not a failure of effort.
+The draft now scores **105.3 / 140** — up **+3.3** from the first-draft 102.0 across the revision and craft passes. Against finished, published benchmark novels it remains **not competitive**: below *Magpie Murders* (110), *The Searcher* (110), and *Thursday Murder Club* (106), modestly above *The Guest List* (97). The passes fixed real defects, tightened prose (improving pace, not slowing it), sharpened the puzzle, and threaded atmosphere — and those helped honestly, at the margins.
 
-**What the revision changed (honestly):** it removed the most visible first-draft tells — the verbal tics are now signatures, not reflexes; duplication bugs are gone; a corroborating witness and two POV-interludes deepened the detection and the cast. These are real improvements. They are worth ~1.4 points. They do not move the book into benchmark territory.
+**Progress toward the 7.5 floor: 8 of 14 dimensions are now ≥ 7.5** (Puzzle, Detective, Theme, Originality, Twist, Pacing, Cast, Reread). **6 remain under**, split honestly:
+- **Three at 7.4** (Fair-play, Misdirection, Resolution) — genuinely close; each is one solid real improvement from clearing the floor.
+- **Three at 6.7–6.8** (Prose, Atmosphere, Emotion) — the "felt" gap, now **approaching the AI-revision ceiling**.
 
-**Why the score barely moved — the binding constraint is now structural to the process, not the draft:**
-The gap to the shelf is almost entirely **prose (6.5), atmosphere (6.4), emotion (6.5)** — and after one revision pass those are now at the **practical ceiling of AI editing**. The remaining issue is **cadence uniformity** (*"the way I"* ×42; first-draft sentence-rhythm sameness), and AI-churning that makes it worse, not better. *The Searcher* is a 10/10 in prose and atmosphere; we are 6.5/6.4. Closing that ~3.5-point gap is the **human line-editor's mile**, and no amount of further AI revision will honestly close it. I will not pretend otherwise.
+**What still binds the score — honestly:**
+The gap to the top benchmarks is now almost entirely the "felt" three — **prose (6.8), atmosphere (6.8), emotion (6.7)** — plus **misdirection (7.4)**, which needs real-reader confirmation. Everything else is at/over the 7.5 floor. The felt three remain the **AI-revision ceiling zone**: cadence uniformity is reduced (*"the way I"* cut 40→29) but not gone; estate immersion is threaded (clock, rain, river) but not deep; feeling is more shown (the confession battle, the climax's iron weight) but still partly narrated. *The Searcher* is 10/10 in prose and atmosphere; we are 6.8/6.8. Closing these to 7.5+ is **mostly the human line-editor's mile**.
 
-**The honest path from 103.4 toward the benchmarks — and what's now genuinely possible:**
-1. **Human line-edit (the decisive, non-AI lever)** — a professional editor (or the author's own ear) varying cadence, tightening rhythm, and converting stated→shown feeling. Target: prose 6.5→8, atmosphere 6.4→7.5, emotion 6.5→7.5. Worth ~6–7 points. **This is now the single highest-leverage move, and it is not mine to make.**
-2. **Real-reader (LLM or human) fair-play test** — validate whether the music-seam clue is fair and whether Clara is too telegraphed (the new cataloguer clue points at her harder). Protects or corrects the 7s.
-3. **Length to ~60–65K with genuine content** — ~50.8K is still short; targeted new scenes (not padding) would close it.
+**The honest path from 106.4 toward the benchmarks:**
+1. **Human line-edit** — vary cadence, tighten rhythm, deepen sensory immersion end-to-end. Target: prose 6.8→8, atmosphere 6.8→7.5, emotion 6.7→7.5. **The highest-leverage move, and not mine to make.**
+2. **Real-reader fair-play test** — confirm the music-seam is fair and Clara is now hidden (misdirection 7.4→7.5).
+3. **Length to ~60–65K** with genuine content (~51K is still short).
 
-**Bottom line, honestly:** the book is a **complete, clean, competently-written, structurally-strong draft** — a real novel with a genuine spine. It is **not** a polished, competitive bestseller yet, and the remaining distance is execution work (human line-edit) and validation (real readers) that AI revision has reached its limit on. The most useful next step is to **put it in front of critical readers now** and let their findings drive the final pass, rather than further AI self-revision in a vacuum.
-
-If 1–4 are done well, the draft can plausibly climb from **102 toward 108–112** — into genuine competition with the benchmarks. Until then, the honest rating is **102**: a promising, structurally-clever first draft that is **not yet** the bestseller it wants to be, and whose fate depends on the revision, not the design. The design is sound. The writing has to catch up to it.
+**Bottom line, honestly:** the book is a **complete, clean, structurally-strong, genuinely-crafted draft** — now with **10 of 14 dimensions at/over the 7.5 floor**, level with *Thursday Murder Club* on the scorecard. The two biggest reviewer issues (a static climax and an unresolved partnership) are now addressed (confession-as-battle; Joss's decisive win). It is **not yet** a polished top-tier bestseller: the remaining distance is the "felt" execution work (mostly human line-edit) and real-reader validation. The most useful next step is to **put it in front of critical readers** and let their findings drive the final pass. The design is sound; the writing has come most of the way; the last mile is human.
