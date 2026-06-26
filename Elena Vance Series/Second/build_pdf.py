@@ -246,7 +246,7 @@ def message_card(qlines):
     return [Spacer(1, 13), ShapedCard(kind, [Paragraph(body_html, MSGBODY)]), Spacer(1, 13)]
 
 SRC = r"D:\Kapil\Books\Elena Vance Series\Second\manuscript.md"
-OUT = r"D:\Kapil\Books\Elena Vance Series\Second\The_Devoted_interior.pdf"
+OUT = r"D:\Kapil\Books\Elena Vance Series\Second\Output\The_Devoted_interior.pdf"
 
 with open(SRC, encoding="utf-8") as fh:
     raw = fh.read().split("\n")

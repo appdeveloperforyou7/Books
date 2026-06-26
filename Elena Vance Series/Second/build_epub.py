@@ -7,7 +7,7 @@ ASSETS = r"E:\Temp\kilo\epub_assets"
 CSS    = ASSETS + r"\stylesheet1.css"
 COVER  = ASSETS + r"\cover.jpg"
 SRC    = r"D:\Kapil\Books\Elena Vance Series\Second\manuscript.md"
-OUT    = r"D:\Kapil\Books\Elena Vance Series\Second\TheDevoted.epub"
+OUT    = r"D:\Kapil\Books\Elena Vance Series\Second\Output\TheDevoted.epub"
 
 META = """---
 title: "The Devoted"
