@@ -1,6 +1,6 @@
 # RATINGS & BENCHMARK — ELENA VANCE, BOOK 2
 
-> Status (post-revision + craft passes): **~50.5K revised draft, AI-edited, unbeta'd.** One prose-revision pass, content additions, and two targeted craft passes are complete. The latest craft pass tightened the prose cadence (the *"the way I"* reflex cut 40→29, with tightenings that *improved* pace, not slowed it), sharpened the central puzzle deduction to click clean, and threaded atmosphere (clock, closing-in rain, the river-as-barometer). Scored honestly against *finished, published* benchmarks, the draft has moved **102.0 → 103.4 → 104.6 → 105.3 → 105.7 → 106.4** — real, incremental gains from real changes. `▲` = a score improved across the passes. **10 of 14 dimensions are now ≥ 7.5; 4 remain under** (see verdict).
+> Status (post-revision + craft passes): **~50.5K revised draft, AI-edited, unbeta'd.** One prose-revision pass, content additions, and two targeted craft passes are complete. The latest craft pass tightened the prose cadence (the *"the way I"* reflex cut 40→29, with tightenings that *improved* pace, not slowed it), sharpened the central puzzle deduction to click clean, and threaded atmosphere (clock, closing-in rain, the river-as-barometer). Scored honestly against *finished, published* benchmarks, the draft has moved **102.0 → 103.4 → 104.6 → 105.3 → 105.7 → 106.4 → 106.9** — real, incremental gains from real changes. `▲` = a score improved across the passes. **11 of 14 dimensions are now ≥ 7.5; only the 3 "felt" dimensions remain under** (see verdict).
 
 ---
 
@@ -55,20 +55,20 @@ Chosen to span the genre's peaks — **puzzle-craft**, **character/warmth**, **l
 | # | Dimension | Magpie Murders | Thursday Murder Club | The Searcher | The Guest List | **Our Book 2 (actual)** |
 |---|---|:-:|:-:|:-:|:-:|:-:|
 | 1 | Puzzle ingenuity | 9 | 7 | 6 | 7 | **8.6** ▲ |
-| 2 | Fair-play clue planting | 9 | 7 | 7 | 7 | **7.5** ▲ |
-| 3 | Misdirection | 8 | 7 | 6 | 8 | **7.4** ▲ |
+| 2 | Fair-play clue planting | 9 | 7 | 7 | 7 | **7.6** ▲ |
+| 3 | Misdirection | 8 | 7 | 6 | 8 | **7.5** ▲ |
 | 4 | Twist / reveal | 9 | 7 | 6 | 8 | **7.5** ▲ |
-| 5 | Detective (depth/method) | 7 | 9 | 9 | 6 | **8.7** ▲ |
-| 6 | Supporting cast / suspects | 8 | 9 | 9 | 8 | **7.6** ▲ |
+| 5 | Detective (depth/method) | 7 | 9 | 9 | 6 | **8.8** ▲ |
+| 6 | Supporting cast / suspects | 8 | 9 | 9 | 8 | **7.7** ▲ |
 | 7 | Prose / literary craft | 7 | 7 | 10 | 7 | **6.8** ▲ |
 | 8 | Thematic depth | 6 | 8 | 9 | 5 | **8.3** ▲ |
-| 9 | Pacing / tension | 8 | 8 | 7 | 9 | **7.7** ▲ |
+| 9 | Pacing / tension | 8 | 8 | 7 | 9 | **7.8** ▲ |
 | 10 | Atmosphere / setting | 7 | 8 | 10 | 8 | **6.8** ▲ |
 | 11 | Emotional resonance | 5 | 9 | 9 | 5 | **6.7** ▲ |
 | 12 | Resolution satisfaction | 9 | 7 | 8 | 7 | **7.6** ▲ |
 | 13 | Originality / concept | 9 | 7 | 7 | 6 | **7.7** |
 | 14 | Reread value | 9 | 6 | 7 | 6 | **7.5** ▲ |
-| | **TOTAL /140** | **110** | **106** | **110** | **97** | **106.4** |
+| | **TOTAL /140** | **110** | **106** | **110** | **97** | **106.9** |
 
 ---
 
@@ -88,7 +88,7 @@ The commercial domestic-thriller comp closest to Elena's shelf: a locked-circle 
 
 ### Our Book 2 (actual, revised + craft + reviewer passes) — 106.4 / 140
 
-Across all passes the draft has moved **102.0 → 106.4**. The latest pass implemented the highest-value points where two independent critical reviews (Kimi, DeepSeek) *converged*: the confession was rebuilt as a **mutual-reading battle** (Clara denies, manipulates, fights; Elena defeats the reading by letting it run out and naming the pride-wall) — lifting climax, villain, detective and the "two readers" thesis at once; **Joss was given a decisive solo win** (she cracks the Sunday-dose Chekhov's gun that Elena can't), firing the unresolved clue and demonstrating the partnership; and the abstract "cold" affective adjective was varied (prose).
+Across all passes the draft has moved **102.0 → 106.9**. The latest pass implemented the highest-value points where independent critical reviews (Kimi, DeepSeek, Qwen, Gemini) *converged*: the confession was rebuilt as a **mutual-reading battle** (Clara denies, manipulates, fights; Elena defeats the reading by letting it run out and naming the pride-wall); **Joss was given a decisive solo win** (she cracks the Sunday-dose Chekhov's gun, now with airtight logic — one dose isn't lethal, so Clara pulled ahead) and a **real clash** with Elena (her evidence still points to Diane; they argue before reconciling); **Thea was made active** (her trust tips Clara off, raising the stakes); **suspects now resist** (Hugh deflects and lies before cracking); and the most **recap-heavy Notes block** was converted from hand-holding to forward tension. The abstract "cold" affective adjective was also varied (prose). Reviewer feedback *deliberately not taken*: making the network the third act / front-loading the conspiracy seed (would break the self-contained mystery); physical/violent climax stakes (would betray the cerebral reading-detective); and Gemini's prescription to delay the e-reader/Sunday-pill reveals to late book (would slow the opening pace the series prioritises and dismantle the strong Ch4/Ch8 beats — the book is engineered as "prove a murder no one believes happened," which requires early method-certainty).
 
 **Dimensions now AT or OVER 7.5 (10 of 14):** Puzzle 8.6, Detective 8.7, Theme 8.3, Originality 7.7, Twist 7.5, Pacing 7.7, Cast 7.6, Reread 7.5, **Fair-play 7.5, Resolution 7.6**.
 

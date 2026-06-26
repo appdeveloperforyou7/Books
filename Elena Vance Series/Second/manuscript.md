@@ -705,7 +705,11 @@ Hugh wanted to talk about the roses. Specifically, he wanted to talk about how M
 
 I let him talk about the roses for twenty minutes, sitting on the stone bench with him in the thin afternoon sun, because a man who will talk about roses at a time like this is a man whose grief is real and whose guilt is elsewhere, and I wanted to find the elsewhere. You learn a person's true shape not by what they volunteer but by what they circle. Hugh circled the roses the way a tongue circles a sore tooth.
 
-It came out the way these things do — not in a confession but in a slip, a half-finished sentence about "the restructuring, and the money, all of that mess," and then the long sick pause of a man who has said one word more than he meant to and felt the floor shift under him.
+Before it slipped, I gave him the opening. "How were the foundation's finances, Hugh? Was anything troubling her there?"
+
+He went still. The rose-talk stopped, and for a moment I saw the other Hugh — not the grieving gardener but the man with the hole, and that man's face closed. "The finances are fine," he said, too quickly. "Maren handled all of that. I wouldn't know." It was a lie, and not a good one — his hand went to his cuff and worked at it, the way David's thumb had worked at his knee, the body finding somewhere to put the guilt the mouth was denying. I let the lie sit, because a lie that obvious is a man asking to be caught.
+
+And then it came out — not in a confession but in a slip, a half-finished sentence about "the restructuring, and the money, all of that mess," and then the long sick pause of a man who has said one word more than he meant to and felt the floor shift under him.
 
 "What money," I said, gently — the open door, no judgment, the quiet space for the thing to walk through.
 
@@ -875,7 +879,7 @@ She walked me through it the way she walked through scenes, which is to say with
 
 I looked at her.
 
-"Sunday's is gone, Vance. Maren was dead Sunday morning. So who took Sunday's dose out of a dead woman's dispenser?" She held up a finger before I could answer — and I let her, because this was her half, and she was about to win it. "Don't. I've got it. A woman who decides to die reaches for the bottle and swallows a fistful — she does not slide one tidy future dose out of its little window and leave the rest lined up neat. That slot was popped by someone who came back to the room, after, to make the count look right. The same hand that centred the bottle on the nightstand. This isn't a missing pill, Vance. This is a signature. And it is the one thing you cannot do if you are dead."
+"Sunday's is gone, Vance. Maren was dead Sunday morning. So who took Sunday's dose out of a dead woman's dispenser?" She held up a finger before I could answer — and I let her, because this was her half, and she was about to win it. "Don't. I've got it. One prescribed dose doesn't kill — she'd have needed several for a lethal night. So she pulled them from the slots ahead of where Maren had got to. A woman who decides to die reaches for the bottle and swallows a fistful; she does not slide one tidy future dose out of its window and leave the rest lined up neat. Sunday's slot is empty because someone pulled ahead to dose her. That's not a missing pill, Vance. That's a fingerprint. And it is the one thing you cannot do if you are dead."
 
 She moved to the nightstand photographs again, and her voice dropped into the low clinical register that meant she was certain. "And here's the part I keep coming back to, the part that makes this whole thing invisible to a lab. The drug was hers. Her own prescription, her own dose level, taken — or given — with her own wine, in her own bed. You could send this to the best toxicology department in the country and they would come back with *consistent with therapeutic misadventure*, because it is. There is no foreign substance. There is no poison. There is only a woman's own medication, at a level her own body was used to, and the only difference between an accident and a murder is the hand that put the last dose in — and a hand leaves no signature in a blood panel." She looked at me. "That's why this murder works, Vance. That's why no one looked. The weapon was her life. You can't fingerprint a life."
 
@@ -961,18 +965,13 @@ The room went cold. Not the temperature — the understanding. We were not inves
 I looked at the stack, and at the window where the river held the dark, and I felt the alarm under my ribs change key for the second time since Thea's call — from *is it a crime* to *who, and how close are they to finishing the cover-up* — and the second key was colder than the first, because the first had been a puzzle and this one was a race, and we were not, I understood now, the only ones running it.
 
 ```
-NOTE — 11:50 PM — guest room, full picture
-MURDER (confirmed, synthesized):
-  - pill at 10 → out by 10:30
-  - own drug given while unconscious → invisible to tox
-  - midnight Schubert → false "she was up"
-  - room staged → "she was sad"
-  = a death composed like a scene, for an audience
-    that wanted to believe "sad."
-MOTIVE = the archive. What she found = why she died.
-KILLER is in the house, reading us, editing the
-  archive nightly.
-=> We are inside a scene still being written.
+NOTE — 11:50 PM — guest room, can't sleep
+The picture is whole. The proof isn't.
+A murder no one will look at, by a face I can't
+  yet name, for a reason I can't yet see.
+And whoever she is, she is in this house right
+  now, reading us back.
+=> Arthur. I need Arthur. Tonight.
 ```
 
 
@@ -1069,6 +1068,22 @@ Thea. Still Diane. Still the answer she had been given, the only thing holding h
 
 "Close to the truth," I said, and it was the most honest and the most useless thing I could have told her, because the truth was close and it was not Diane, and Thea was standing on the one answer that would, when it fell, drop her the farthest.
 
+Thea hesitated. Then, quietly: "I told Clara. Last night. That you weren't really here for the transition — that you were looking into how Mother died." She rushed on, before I could speak. "She loved Mother more than anyone in this house, Elena. I thought she'd want to help. I thought she'd be *grateful* someone was finally—"
+
+"What did she say."
+
+"She was wonderful. She held my hand. She said of course she'd help, of course, she'd been praying someone would look closer." Thea's voice thinned. "She was so kind about it. She's been so kind this whole time."
+
+She had been kind. She had been kind because Thea had just handed her the one thing she needed to know — that the woman in the grey coat was not a transition consultant but a reader, and that the reader was reading her. The kindness had been the calculation. I felt the case shift under me: because Clara knew now, and a reader who knows she is being read does not sit and wait to be caught. She moves first.
+
+"Don't tell anyone else that," I said, evenly. "Not Hugh, not Diane, not Dr. Voss. No one. Can you do that for me?"
+
+"Of course. Why—"
+
+"Because the kinder Clara has been to you since you told her," I said, "the more I need you to trust me, and wait."
+
+Thea did not understand. But she agreed, and she left, and I sat with the folio and a new weight: the woman I was reading now knew she was being read — and everything she did from this moment on would be composed with me in the audience.
+
 ```
 NOTE — 4:30 PM — garden room, after CLARA session
 PLANTED (climax seed): coaching session recorded.
@@ -1139,23 +1154,20 @@ But I did not yet have the true answer, and Diane was the answer I had, and Thea
 
 "Whoever built it," I said, "is the one who's been handing us Diane all week."
 
-I did not say her name. I did not need to. Joss and I looked at each other across the study of a dead woman, and we were, for the first time, reading the same face — not Diane's, not yet — and the face we were reading was the warmest, the most devoted, the most sympathetic face in the house, and that, I understood now, had always been the point. A killer who is also the kindest person in the room is a killer no one looks for, because looking for her would feel like a betrayal, and the betrayal is the lock the key was cut to fit.
+And I went to Thea, because a coach who has promised a daughter *soon* cannot keep saying *soon* forever, and I gave her the answer she had been waiting nine days to hear. I told her it was looking like Diane — gently, with the careful optimism of a woman who is most of the way to sure and needs the rest to come in on the side of the dead. I watched Thea's face break open with something that was not joy — there is no joy in any of this — but the terrible relief of a name, a target, a place to put the fury that had been eating her alive for nine days. She wept against my shoulder, and I held her, and I did not tell her about the hook, because the hook was only a feeling, and a feeling was not enough to undo the name I had just given her. I had handed her Diane. And I was, I was almost certain, wrong.
 
 ```
 NOTE — 10:20 AM — study, after laying out DIANE
 FALSE SOLUTION: Diane fits. Motive, means, the
   fight, the witness (Clara). Everything works.
   => THAT is the problem. Real cases have a loose
-     edge. This one is seamless. Every seam sealed
-     by the same hand — Clara's.
-Clara gave me Diane. Clara witnessed Diane. Clara
-  points, at every turn, warm and perfectly timed.
-Joss sees it too: the killer is the one handing us
-  the suspect.
-PLAN: build the Diane case until it breaks. Follow
-  the break back to the builder.
-The face we're reading is the warmest in the house.
-  That was always the point.
+     edge. This one is seamless.
+TOLD THEA = Diane. She wept with relief.
+  => If I'm wrong, I have to take it back.
+     That will cost her twice.
+The hook: every piece handed to us by the same
+  person. But a feeling is not proof.
+  Build the Diane case. Find the loose edge.
 ```
 
 
@@ -1163,6 +1175,24 @@ The face we're reading is the warmest in the house.
 
 # Chapter 17
 ## The Music
+
+Before the break, there was the certainty.
+
+I went back to Diane that morning, because certainty is a kind of hunger, and I was hungry. I had told Thea it was Diane. I had given Joss the plan. And now I needed the last piece — the piece that would turn a strong case into an airtight one — and I expected to find it in the library, behind Maren's desk, in the woman who had sat there for thirty years and was about to lose everything.
+
+I pressed harder this time. The transition cover gave me the right: a consultant reviewing the senior team's conduct during a succession crisis. I asked Diane about the night in a different way. Not *did you argue* — I knew that — but *what did you do after the argument*. Where did you go. Who saw you. Can anyone confirm you were in your room from midnight to morning.
+
+She looked at me as if I had stepped across a line she had drawn in the sand thirty years ago. "Are you interrogating me, Ms. Vance."
+
+"I'm asking you to help me eliminate you from the transition review."
+
+"You're asking me to account for my movements on the night my partner died." Her voice went cold — not the cold of grief but the cold of a woman who has been challenged by someone she considers beneath her, and who will not, under any circumstances, bend. "I was in my room. I read. I went to sleep. No one saw me, because no one needed to see me. I am a sixty-year-old woman who goes to bed at a reasonable hour, and I do not answer to a consultant about it."
+
+She was icy. Detached. The warmth of the first interview — the heartbreak, the *did you love her* — was gone, sealed behind the dignity she wore like armour, and what was left was a woman who looked, to my certain eye, like a person with something to hide. Her very composure read as guilt. The refusal to account for her movements, the coldness, the pride — every textbook flag of a guilty person who has decided to stonewall. I left the library with the satisfaction of a woman whose case has just hardened from strong to airtight.
+
+And I did not know — did not yet know — that I was reading pride, not guilt. That the composure I had just read as evidence of murder was the composure of a woman who had loved someone for thirty years and could not bring herself to discuss the night of that death with a stranger who was clearly hunting her. I was, in that moment, as certain as I have ever been.
+
+And I was wrong.
 
 The break came from a question I had not planned to ask.
 
@@ -1200,7 +1230,29 @@ Joss went still, the reading-stillness, the calm that meant she was certain. "Sh
 
 "She cited it. The thing she staged. The thing only she knew she'd staged. She pointed right at it, as her reason, the way you point at the thing you're proudest of hiding."
 
-Joss closed her eyes. "Oh, Clara."
+Joss didn't close her eyes. She looked at me the way she looked at a scene that wasn't matching its narrative.
+
+"She cited it," I said. "It's her."
+
+"It's a read, Vance. A good one. But it's a read." She leaned against the corridor wall, arms folded, and I saw the CSU investigator who had once refused to sign a report that didn't match. "I read rooms. The room says methodical, it says project, it says someone who reorganises things — that's Diane, every day of the week. You're telling me it's Clara because of a word she used in a coaching session. That's faces. I trust rooms."
+
+"The room was staged for an audience. Clara reads the audience the way I do. Diane doesn't."
+
+"Diane planned a restructure that moved thirty people. She reads audiences fine."
+
+I held her eyes. "Joss. She cited the music."
+
+"And Diane had motive, means, and a witness placing her at the door — Clara's witness, which you've already told me is planted, but planted *well*, which means the planter thinks like a planner, which is still Diane." She shook her head, not angry, just certain — certain the way I had been certain, in another life, about a man who turned out to be a decoy. "I'm not saying you're wrong. I'm saying I can't take it to anyone on a read. Get me the room that proves Clara, and I'm with you. Until then, the evidence is Diane."
+
+It was the first time we had disagreed, and I did not like it, and I needed it — because she was right that a read was not proof, and right that the room still fit Diane, and right that I could not take a half-second flicker of a word to a prosecutor. The partnership was not two halves humming in tune. It was two instruments playing different notes, and the truth was somewhere in the chord between them.
+
+"Help me find the motive," I said. "If Clara killed her, Clara had a reason no one can see. Find me the reason, and the room will follow."
+
+"The archive," Joss said. "Whatever Maren found. That's the motive, and that's the proof. We go back in tonight."
+
+She was not convinced. But she had stopped arguing, and that, for the moment, was enough.
+
+And then the other weight landed — the one I had been too busy reading Clara to feel. I had told Thea it was Diane. Last night, in her mother's study, I had given a grieving daughter the wrong name, and watched her weep with relief at it, and let her. If I was right about Clara, then I had to go back to Thea and take the name away again — had to tell her that the woman who held her hand at the funeral, who brought her tea every morning, who sat with her and said *your mother loved you*, had killed her mother. I had given her the easier answer first, and the easier answer was the one that would hurt the most to take back. That was the cost of the false solution, and I had already paid it, and Thea was going to pay it again.
 
 We stood there a moment, in the corridor of a house full of love for a woman one of them had killed, and I understood that the easy part — finding the killer — was over, and the hard part, the part that would cost me something, was just beginning. Because I had to prove it. And proving it meant finding a motive no one could see, in the one person in the house everyone would rush to defend, and the defence would be not that she was innocent but that she was *good*, and good, in this world, is the disguise that closes more cases than any alibi.
 
@@ -1678,7 +1730,7 @@ Joss, meanwhile, did the unglamorous, load-bearing work that no one sees and tha
 
 "One more thing," I said. "Thea."
 
-Thea. Who had been told *soon* for four days. Who had been holding herself upright on the certainty that it was Diane. Who was about to learn that the woman who had held her hand at the funeral, who had brought her tea every morning, who had sat with her in the kitchen and said *your mother loved you, Thea, she wouldn't want you to do this to yourself* — that woman had killed her mother. I went to find her.
+Thea. Who had been told *soon* for four days. Who had been holding herself upright on the certainty that it was Diane — the certainty I had given her, two nights ago, in this same study, when I was wrong. Who was about to learn that the woman who had held her hand at the funeral, who had brought her tea every morning, who had sat with her in the kitchen and said *your mother loved you, Thea, she wouldn't want you to do this to yourself* — that woman had killed her mother. I went to find her.
 
 She was in her mother's study, in Maren's chair, and she looked up with the red-rimmed fierceness I had come to know, and I sat across from her, and I held the pause, and I said, carefully, "Thea. I need to tell you something before noon, and it isn't Diane."
 
@@ -2025,6 +2077,8 @@ I laughed, and the laugh was thin and real, and Joss rolled her eyes at both of 
 A week later I was back in my office, between clients, in the flat gold of a late-autumn afternoon.
 
 The founder who could not be told the truth was in the chair across from me, and we were two sessions further than we had been, and his thumb had stopped its counting, and his team had begun, cautiously, to bring him bad news again, and he did not, now, fire the messengers. He sat in the good leather chair and he told me, haltingly, about a missed number a vice-president had brought him that week, and about how he had not, for the first time, punished the bringing, and about how strange it had felt to simply receive the truth and let it be true. That is the work. That has always been the work. I sat with my hands still in my lap and my half-second pauses doing their quiet surgery, and I was good at it, and it was still my life, and I did not pretend, anymore, that it was small.
+
+But there was a moment — David leaning forward, eager, grateful, the warmth of a man beginning to trust — when I felt my own attention sharpen in the wrong direction. Not *what does he need* but *what is he performing*. I read the lean as positioning. I read the gratitude as a gesture calculated to keep me on his side. And then I caught myself, and the catching was like a blade drawn back from a throat, and I sat with the horror of it for one half-second before I put it away and leaned in, genuinely, and asked the next question. But the half-second had happened. The instrument had gone for the kill on a man who was only trying to be honest. That was the cost, and it was not paid in reflection or in notes. It was paid in the room, in the work — in the half-second between reading-to-heal and reading-to-break — and the half-second was getting harder to close.
 
 The founder left. The office was quiet. His empty chair held the shape of a man who had not yet fully learned that the people he organised were not lines on a graph, but who was, at last, learning. I would teach him, or I wouldn't. That was the work, and the work was enough, and it was not the whole of me anymore, and I had stopped pretending it was.
 
