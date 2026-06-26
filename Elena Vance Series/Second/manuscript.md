@@ -304,7 +304,7 @@ The room was beautiful, and it was cold, and those two things did not used to st
 
 I looked. The glass of water beside the bottle, half-full, placed parallel to it. The reading glasses, folded, centred on the pillow as if their owner had set them down to sleep. The e-reader, cover open, face-down on the nightstand, as if a woman had simply drifted off mid-page and the day had closed around her.
 
-"Everything's equidistant," Joss said. She crouched, eye-level with the nightstand, and pointed with a gloved finger without touching. "The glass, the bottle, the glasses, the reader. Someone measured this with their eye. You know what a real overdose scene looks like, because I'm going to tell you, since you've probably never been in one." She glanced up, and there was no mockery in it, only the brisk kindness of a teacher. "A mess. Spills. The bottle knocked, because the hand that reached for it wasn't steady. Maybe a glass on the floor where it got nudged. Pills on the sheet. This — " she straightened " — this is a *display*. This is someone saying *look how sad and alone she was, look how tidy her last night was.* A woman who decides to die does not tidy her nightstand first. She reaches. She spills. This room was composed after the fact, by someone who wanted the morning to read a certain way."
+"Everything's equidistant," Joss said. She crouched, eye-level with the nightstand, and pointed with a gloved finger without touching. "The glass, the bottle, the glasses, the reader. Someone measured this with their eye. I told you at the office what a real overdose scene looks like — a mess, spills, the bottle knocked. This isn't that." She straightened. "This is a *display*. Someone composed it after the fact, because they wanted the morning to read a certain way. A woman who decides to die does not tidy her nightstand first. She reaches. She spills."
 
 "You're sure."
 
@@ -395,7 +395,7 @@ Thea smoked, and I let her smoke, and I let the garden do its slow work around u
 
 "And the fight."
 
-"The fight. My mother had decided. Diane had to go — a title, a thank-you, the door. Softly. The way my mother did everything, softly, with a hand on your arm and the exit already painted to look like a gift." Thea laughed, the short ugly laugh again, the laugh of a woman who loved her mother and saw her clearly and could not reconcile the two. "Diane did not receive it as a gift. She received it in the study, with the door shut, and she said *you wouldn't dare*, and my mother said *watch me*, and that was the last real conversation they ever had, because by Sunday my mother was dead, and Diane never got to find out whether it had been a dare or a promise.""
+"The fight. My mother had decided. Diane had to go — a title, a thank-you, the door. Softly. The way my mother did everything, softly, with a hand on your arm and the exit already painted to look like a gift." Thea laughed, the short ugly laugh again, the laugh of a woman who loved her mother and saw her clearly and could not reconcile the two. "Diane did not receive it as a gift. She received it in the study, with the door shut, and she said *you wouldn't dare*, and my mother said *watch me*, and that was the last real conversation they ever had, because by Sunday my mother was dead, and Diane never got to find out whether it had been a dare or a promise."
 
 I let the silence carry her. I let her feel me listening — not with words but with the quality of the attention, the lean, the stillness.
 
@@ -555,9 +555,7 @@ So either the entire house was wrong about midnight — which they were not, bec
 
 I sat with that for a long time, the way I sit with a thing in a session — not reaching for it, not naming it, just letting it be true in the room until I could feel its whole weight. And the weight, once I let it settle, was this: someone in this house had not only killed Maren Ash; she had killed her in a way that required the cooperation of every other person in the house, freely given, without any of them knowing they were cooperating. That was the elegance of it, and the horror. The killer had not needed an alibi, because the whole house was the alibi. The killer had not needed to lie, because the house had agreed to lie for her, unanimously, in the same words, without ever knowing it was a lie. The murder was not hidden behind a locked door or a clever trick. It was hidden behind love — behind the willingness of five people to believe the kindest, saddest thing about a woman they had cared for, and to repeat it to one another until it became, for all of them, simply what had happened.
 
-I thought of my father, then — I do not know why, except that the mind reaches for the wound when the wound is the right shape. He had left without warning, and the worst of it had not been the leaving but the discovery, afterward, that everyone around him had agreed on a story about the leaving, a smooth consensus story, none of it quite the truth, all of it easier than the truth, and I had been the only one standing in the disagreement. I had been eleven. I had decided, that year, that I would never again be the one who did not see it coming. And here I was, in a guest room in a valley, seeing it coming — seeing that the consensus was the crime, and that the crime had been composed by the one person in the house everyone would protect. I picked up the phone. I texted Joss.
-
-I picked up the phone. I texted Joss, who was three doors down the hall: *Come here. Bring the e-reader log. I think I have your face.*
+I thought of my father, then — I do not know why, except that the mind reaches for the wound when the wound is the right shape. He had left without warning, and the worst of it had not been the leaving but the discovery, afterward, that everyone around him had agreed on a story about the leaving, a smooth consensus story, none of it quite the truth, all of it easier than the truth, and I had been the only one standing in the disagreement. I had been eleven. I had decided, that year, that I would never again be the one who did not see it coming. And here I was, in a guest room in a valley, seeing it coming — seeing that the consensus was the crime, and that the crime had been composed by the one person in the house everyone would protect. I picked up the phone. I texted Joss, who was three doors down the hall: *Come here. Bring the e-reader log. I think I have your face.*
 
 She came in her socks, the beanie still on, her hair mashed under it, and she sat on the end of my bed, and I told her, and her face did the thing I had come to like — the brightening, the hard bright pleasure of a woman who had been told she was wrong and was about to be told she had been right all along.
 
@@ -777,7 +775,7 @@ Voss considered it. Genuinely. That was the thing — she considered it honestly
 
 She paused, and in the pause she did something I did not expect: she corrected herself, the way an honest person corrects themselves, out loud, in front of a witness. "No — that isn't quite right. She wasn't only driven. She was *unsettled*. There is a kind of energy that comes from excitement, and a kind that comes from having found a problem you cannot put down, and Maren, in those last weeks, had the second kind. She was working very hard at something that troubled her. She cancelled our last appointment — she never cancelled — and when I asked if everything was all right she said, *Margot, I think I've been very foolish about something, and I need to sort it out before I say another word.* I assumed it was the foundation, or the restructuring, or her marriage. I did not ask what she meant. I wish, now, that I had asked what she meant."
 
-She looked at me, and in her eyes there was the particular, terrible clarity of a doctor who has begun, too late, to re-read a case she had closed. "I signed the certificate, Ms. Vance, because the scene was consistent and the history was documented and I had no reason to read it any other way. But I want you to understand something. I am not a woman who confuses her pride with her judgment. If I had seen, that morning, anything that did not fit — anything — I would not have signed. I saw a woman with a history and a bottle and a bed, and I read it the way I was trained to read it. The training did not fail me." She held my eyes, and her honesty was seamless, and seamless honesty is the one wall no reading can pierce. "It simply was never asked the question that would have made it fail."
+She looked at me, and in her eyes there was the particular, terrible clarity of a doctor who has begun, too late, to re-read a case she had closed. "I signed the certificate, Ms. Vance, because the scene was consistent and the history was documented and I had no reason to read it any other way. But I want you to understand something. I am not a woman who confuses her pride with her judgment. If I had seen, that morning, anything that did not fit — anything — I would not have signed. I saw a woman with a history and a bottle and a bed, and I read it the way I was trained to read it. The training did not fail me." She held my eyes, steady, untroubled. "It simply was never asked the question that would have made it fail."
 
 We had been friends, the way women of a certain generation are friends with the women who treat them — slowly, over years, until the treating became a pretext for the friendship and the friendship the reason the treating stayed gentle. I had not known that until that morning, and it changed the weight of everything she had said. She had not signed the certificate as a doctor reading a stranger. She had signed it as a friend who had watched her friend's moods for nine years and concluded, lovingly, carefully, *sad* — and the conclusion of a loving friend is the hardest wall of all, because it is built of care, and care is the one material no investigation thinks to test. That was what I took from the morning room, and it was a detection, not a feeling: Clara had not needed to fool a doctor. She had needed to fool a friend. And the friend had been fooled precisely because she was a friend, because friends do not look for murder in the people they love. That was the genius of the staging, and the limit of my own reading. I could not read past sincerity. I could only read around it, and find the face that the sincerity had been arranged to protect.
 
@@ -791,9 +789,9 @@ I kept my face still. I had learned, in a different life, to keep my face still 
 
 "I wrote what I had documented over nine years." Voss met my eyes, steady, untroubled, and in the steadiness I read the whole shape of how the murder had worked — not by fooling a detective, but by never needing one. "What I saw on Sunday morning was consistent with a woman who, in a low period, took more than she should. I am a physician, Ms. Vance. I am not an investigator. I read the scene the way I was trained to read a scene. I had no reason — none — to read it any other way."
 
-She had no reason. That was the wall, and the wall was sincere, and the wall was the reason no one had looked. She had been given a woman with a history and a bottle and a bed, and she had read it the way her training read it, and the training had not failed her. It had simply never been asked the question that would have made it fail, because no one had thought to ask it, because the house had agreed on *sad*, and *sad* was enough, and *sad* did not require a question.
+She had no reason. No one in this house had a reason to look.
 
-I thanked her. I left the morning room, the taste of good tea and lavender still in my mouth. And on the stairs I understood, with a clarity that went through me like cold water, that the person who had staged this death had not needed to outwit a detective or dupe a genius. They had only needed to fool a doctor, and a husband, and a house full of love — and they had done it by handing every one of them the one thing they were already prepared to believe. *She was sad. She was always a little sad.* And *sad* had closed the case before it opened, and the woman who had handed them *sad* was, right now, in the kitchen, being comforted for a grief she had arranged.
+I thanked her. I left the morning room. And on the stairs I understood that the person who had staged this death had only needed to hand every one of them the one thing they were already prepared to believe. *She was sad. She was always a little sad.* And *sad* had closed the case before it opened, and the woman who had handed them *sad* was, right now, in the kitchen, being comforted for a grief she had arranged.
 
 
 ---
@@ -971,7 +969,7 @@ A murder no one will look at, by a face I can't
   yet name, for a reason I can't yet see.
 And whoever she is, she is in this house right
   now, reading us back.
-=> Arthur. I need Arthur. Tonight.
+=> Arthur. I need Arthur.
 ```
 
 
@@ -1902,7 +1900,7 @@ I pressed stop on the recorder.
 
 The garden room held the noon light, and the clock in the hall began to strike twelve — the board vote, convening somewhere in the house without the woman it was meant to ratify — and Clara sat across from me in the warm room that had never been safe, and her face was the face I had been reading toward all week: not the arrogant defeat of a man who had believed he was the smartest in the room, but the ruined honesty of a woman who had, at last, nothing left to perform with, and who had handed me, in the safest room I know how to make, the confession I had come for, and the cost I had not.
 
-I stood. I opened the garden-room door. Joss was in the hall, and behind her Carter, and behind Carter two people I did not know — the county contact, and a second, with a badge on a lanyard. They had been on the feed. They had heard every word.
+I stood. I opened the garden-room door. Joss was in the hall, and behind her Carter, and behind Carter two people I did not know — the county contact, and a second, with a badge on a lanyard. They had been on the feed. They had heard every word. And Ruth Okafor, the cataloguer, was already on the line with the county office, ready to corroborate every piece of it.
 
 Clara looked at the open door, and at the badge, and at me, and in her eyes I saw the last thing a reader's eyes do when the model finally fails: she tried, one final time, to read the room, and the room would not be read, because the room had been written by someone who had read her first, and who had let her walk, freely, trusting, into the one sentence she could not take back.
 
@@ -2053,7 +2051,7 @@ The evening deepened around us, and Arthur made more soup, because Arthur always
 
 "Arthur's smart." She almost smiled. "For an archivist."
 
-I smiled too, and the smiling surprised me, the way it always does now, the way it has surprised me every time since the warehouse. Joss was not Arthur. She was not the anchor, not the calm. She was something else: the first peer I had let all the way in since the valley of the walnut room, the first person who read a different half of the same room and trusted me with it, and whom I trusted back. I had spent a year telling myself I worked alone, with Marcus's voice in my ear and Arthur's hand in mine and no one else. That was not true anymore, and the untruth of it was, I found, a relief — the relief of setting down a weight I had not admitted I was carrying.
+I smiled too, and the smiling surprised me, the way it always does now, the way it has surprised me every time since the walnut room. Joss was not Arthur. She was not the anchor, not the calm. She was something else: the first peer I had let all the way in since the valley of the walnut room, the first person who read a different half of the same room and trusted me with it, and whom I trusted back. I had spent a year telling myself I worked alone, with Marcus's voice in my ear and Arthur's hand in mine and no one else. That was not true anymore, and the untruth of it was, I found, a relief — the relief of setting down a weight I had not admitted I was carrying.
 
 Arthur came and sat with us, drying his hands, and the kitchen settled into the quiet that means a day is ending and the people in it are tired in the right way, and I leaned into my husband, and he put his chin on my shoulder the way he does when he is not performing anything, and I thought about the line I had crossed in the garden room, and about the cost, and about whether the direction was enough.
 
@@ -2107,8 +2105,8 @@ Learned, too, about myself: I can read a person
   The day it costs nothing, I am.
 Joss reads rooms made of evidence. I read rooms
   made of people. Together we are one instrument.
-  I let her all the way in. First time since the
-  warehouse.
+  I let her all the way in.   First time since the
+  walnut room.
 The alarm has changed key again. I am now the
   kind of woman they erase: the kind who notices.
 ```
@@ -2125,7 +2123,7 @@ I would be called. Of course I would be called. Not because I was brave — I ha
 
 The phone buzzed. Marcus. I let it buzz twice, the way I let everything pause now, and then I picked it up.
 
-"Elena." The GreyHat voice, level, careful, already framing. "There's a room."
+"Elena." Marcus's voice, level, careful, already framing. "There's a room."
 
 I looked out at the autumn light, at the city holding its ten million stories, and I felt the alarm hum its new key — quiet, not silent, the hum of a woman who had finally understood that the reading would never stop, and that the cost would never be zero, and that she was going to keep reading anyway, because that was the aim, and the aim was the choice, and the choice was hers.
 
