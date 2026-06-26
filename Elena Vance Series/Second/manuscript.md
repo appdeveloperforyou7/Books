@@ -1034,7 +1034,7 @@ I held the pause. I did not push. A coach does not push; a coach makes the room 
 
 Another flicker, smaller this time, the second check in thirty seconds, and I filed both of them, because two checks in a minute on the same door is a door with something behind it. "Everywhere. Nowhere." She smiled, and the smile was a door closing, smoothly, the way Clara's doors closed. "You read, you synthesize, it comes. You know how it is. The work is the work."
 
-"It must have been extraordinary," I said, "to produce something like that at twenty-four. To know, that young, that you had built the thing the whole field would use."
+"It must have been extraordinary," I said, "to produce something like that at twenty-five. To know, that young, that you had built the thing the whole field would use."
 
 And here was the thing about Clara, the thing that made her so hard and so costly to read: the pride that came up in her face at that was entirely real. It was not performed. It was the load-bearing wall, and it was genuine, and a person cannot counterfeit the particular light that comes into a face when you touch the one thing they are truly proud of. Her eyes brightened, and her voice warmed, and for a moment she was simply a woman who had done something remarkable and was glad to be seen for it. "It was," she said. "It was the first time in my life I'd done something that mattered. I'd been — I'd been nobody, before Maren. I came from nothing, you have to understand that. Nothing. And then I built this, and suddenly I was somebody, and the field knew my name, and the Senate wanted to hear from me, and Maren — " The pride faltered, just for a half-second, on Maren's name, and in the falter I saw the complicated thing underneath, the love and the theft braided together so tightly that not even Clara could tell where one ended and the other began. "Maren was so proud of me. She told everyone. She told everyone it was mine."
 
@@ -1293,7 +1293,7 @@ I told Joss, low-voiced, in the guest room, because the house had ears and the h
 
 "The model," Joss said. She was sitting on the end of my bed, boots off, the beanie still on, turning the problem the way she turned evidence. "The grant-impact thing. The one everyone uses."
 
-"The one she built at twenty-four. The one Maren was *so proud* of."
+"The one she built at twenty-five. The one Maren was *so proud* of."
 
 "And you want to know if it's hers."
 
@@ -1396,7 +1396,7 @@ I looked at the study, where the boxes waited in their ordered rows, and where, 
 
 While we waited for Arthur to clear his work and make the drive north, Joss pulled everything publicly available on Clara's foundational method, and what she found was, in her word, *clean*. Too clean.
 
-"Look at this," she said, spreading printouts across the study floor the way she had spread the medical file — the trade-press features, the Senate hearing transcript, the foundation's own literature, the honorary degrees. "Her entire reputation. Every profile. Every honour. Every panel. It all traces back to one thing: the grant-impact model she published at twenty-four. Take that away and there's — what? A competent administrator. A nice woman. A protégée who ran a good office. Nothing that gets you on a Senate panel at thirty. Nothing that gets a foundation named after your method."
+"Look at this," she said, spreading printouts across the study floor the way she had spread the medical file — the trade-press features, the Senate hearing transcript, the foundation's own literature, the honorary degrees. "Her entire reputation. Every profile. Every honour. Every panel. It all traces back to one thing: the grant-impact model she published at twenty-five. Take that away and there's — what? A competent administrator. A nice woman. A protégée who ran a good office. Nothing that gets you on a Senate panel at thirty. Nothing that gets a foundation named after your method."
 
 "One load-bearing achievement."
 
@@ -1672,9 +1672,7 @@ I was going to hurt someone with it. I stood in the guest room and I let myself 
 
 I went down the stairs in the dark, and the house was quiet in the way a house is quiet at four in the morning, when the people in it are sleeping the sleep of the unbothered, and I thought about how the worst part of what I was about to do was not the doing but the ease of it — how naturally the coach's voice would come, how practised the pause, how automatic the warmth, because these were the things I had spent eleven years making effortless, and effortless was the word that frightened me. Cross had made his cruelties effortless too. That was the line I kept circling. Not whether the aim was different — it was — but whether the ease made the aim irrelevant, whether a thing done easily enough becomes, eventually, a thing done for its own sake. I did not know. I was going down the stairs, and I did not know, and the not-knowing was the cost, and I carried it down with me, floor by floor, to the garden room.
 
-I picked up the folio. I went down to the garden room. And I sat across from the empty chair where my dark mirror would sit in an hour, and I waited for her, and I held, in the place where I hold the load-bearing things, the knowledge that whatever I did in that room, I was going to carry it out of the valley, and it was never going to be entirely set down.
-
-I dressed carefully. I wore the grey, the expensive-invisible coat of a woman who intends to be underestimated. I clipped the mic to the folio. I carried the folio with Arthur's authenticated pages inside it, facedown, invisible until I chose to turn them. And I walked into the garden room and I sat across from my dark mirror, and I did the thing she could not model — I let her believe, for one more minute, that the room was still the safe one she had poured herself into.
+I picked up the folio. I went down to the garden room. And I sat across from the empty chair where my dark mirror would sit in an hour, and I did the thing she could not model — I let the room be what she believed it was, the safe room she had poured herself into — and I waited for her, and I held, in the place where I hold the load-bearing things, the knowledge that whatever I did in that room, I was going to carry it out of the valley, and it was never going to be entirely set down.
 
 She looked rested. She had pulled herself together the way readers do, by reading what the room expected and becoming it. She was warm. She was open. She was, as always, exactly right.
 
@@ -1724,7 +1722,7 @@ The morning passed in the slow way mornings pass when you are waiting for a cloc
 
 Arthur spent the morning formalising the authentication — a clean dated statement, the 2010 draft set beside the 2014 publication, the handwriting comparison, the watermark analysis, the ink dating, the kind of document a prosecutor or a forensic examiner would not and could not dispute. He worked at the study table with his cotton gloves and his quiet, and when he was done he slid the pages into a clear sleeve and handed the sleeve to me, and his eyes were steady, and he said, simply, "This will stand up."
 
-Joss, meanwhile, did the unglamorous, load-bearing work that no one sees and that everything rests on. She called Carter, on Marcus's wire. She called the county prosecutor's office through a contact Marcus had given her. She established, in flat New York sentences, eating a piece of toast the whole while, that a confession recorded in New York by a party to the conversation was admissible, and that an authenticated document proving motive, plus a circumstantial case on means and opportunity, plus the defendant's own recorded words, was together more than enough to arrest and to charge. She hung up, looked at me, and said, "We've got a landing pad. You get the voice on tape before noon, and by tonight she's in a room with people who read rights."
+Joss, meanwhile, did the unglamorous, load-bearing work that no one sees and that everything rests on. She called Carter — the journalist Marcus kept for the moments that needed a press strategy — on Marcus's wire. She called the county prosecutor's office through a contact Marcus had given her. She established, in flat New York sentences, eating a piece of toast the whole while, that a confession recorded in New York by a party to the conversation was admissible, and that an authenticated document proving motive, plus a circumstantial case on means and opportunity, plus the defendant's own recorded words, was together more than enough to arrest and to charge. She hung up, looked at me, and said, "We've got a landing pad. You get the voice on tape before noon, and by tonight she's in a room with people who read rights."
 
 "One more thing," I said. "Thea."
 
@@ -1772,7 +1770,7 @@ I let the pause breathe. I let the warmth sit between us — my warmth, the inst
 
 A flicker. Small. She had her line ready, the one she had rehearsed in the night. "Of course."
 
-"You told me, in our first session, where it came from. You said you built it at twenty-four. That it was your legacy. That Maren was proud." I held her eyes. "I'd like to play you something."
+"You told me, in our first session, where it came from. You said you built it at twenty-five. That it was your legacy. That Maren was proud." I held her eyes. "I'd like to play you something."
 
 I turned the phone toward her, on the table between us. I pressed play. And Clara heard her own voice — warm, open, trusting, unguarded — fill the garden room: *…it changed everything. I built it in my first year. Twenty-four. I didn't sleep for a month. Maren was so proud. She said it was the thing that would outlast us both…*
 
