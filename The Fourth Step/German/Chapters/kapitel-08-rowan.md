@@ -44,32 +44,6 @@ Ich senke die Kamera.
 
 Der Flur ist dunkel. Die Kälte ist in meinen Füßen. Das Mondlicht ist grau und dünn. Ich stehe genau am richtigen Ort, und ich stehe hier seit fünfundzwanzig Jahren.
 
-Du stehst im Flur. Du bist zwölf. Der Teppich ist blau und kratzig unter deinen bloßen Füßen, und die Luft ist warm — Dezemberwarm, Sommerwarm, die Art Warm, die dich auf dem Boden liegen lassen will, um das Haus um dich herum atmen zu spüren. Das Fenster am Ende des Flurs ist offen. Die Messingangel knarrt. Die Luft kommt in langsamen Stößen herein, Salz und Eukalyptus und etwas anderes, etwas Metallisches, etwas, für das du kein Wort hast, weil du zwölf bist und dein Wortschatz noch nicht groß genug für den Geschmack der Angst gewachsen ist.
-
-Du hörst ein Geräusch von unten. Von der Treppe. Nein — von oben. Aus dem Flur. Du bist bereits im Flur. Du warst immer im Flur. Die Wärme, das Licht, das Knarren der Angel, der Geschmack von Metall auf deiner Zunge — diese stimmen, auch wenn die Reihenfolge nicht stimmt.
-
-Du blickst hinauf.
-
-Der Flur ist zwölf Schritte lang. Am Ende, vor dem Fenster, stehen zwei Schatten. Einer ist groß. Groß, wie ein Erwachsener groß ist, groß, wie deine Mutter groß ist, groß, wie die Welt groß ist, wenn du zwölf bist und die Decke zweieinhalb Meter hoch ist und alles über dir größer ist als du. Der große Schatten steht zwischen dir und dem Fenster. Sein Rücken ist dir zugewandt. Er blockiert das Licht.
-
-Der andere Schatten ist klein. Klein, wie du klein bist. Klein, wie Kiera klein ist — klein war, klein ist, immer klein gewesen ist. Der kleine Schatten steht näher am Fenster. Das Mondlicht berührt seine Ränder. Der kleine Schatten bewegt sich nicht.
-
-Der große Schatten bewegt sich.
-
-Der Arm des großen Schattens hebt sich und streckt sich aus und drückt gegen den kleinen Schatten, und der kleine Schatten bewegt sich — rückwärts, zum Fenster hin, zum offenen Fenster hin, zur Dunkelheit und zur warmen Luft und zur Messingangel, die knarrt — und der kleine Schatten streckt die Hand aus. Eine Hand. Kleine Finger gespreizt. Nägel, die sich in den Holzrahmen graben. Fünf parallele Linien von Druck gegen alte Farbe. Die Hand greift. Die Finger krümmen sich. Die Knöchel werden weiß.
-
-Der große Schatten bewegt sich wieder.
-
-Arm. Hand. Druck. Zurück. Fenster. Hand. Rahmen. Griff. Griff — fort.
-
-Und der kleine Schatten — der kleine Schatten geht durch das Fenster.
-
-Nicht gefallen. Nicht gesprungen. Nicht gerutscht oder gestolpert oder aus dem Gleichgewicht gekommen. Gegangen. Wie Licht durch Glas geht. Wie Schall durch Wände geht. Wie ein Ding vom Hier-sein zum Nicht-mehr-hier-sein geht ohne die erwarteten Schritte dazwischen. Einen Moment lang ist der kleine Schatten am Fenster, hält den Rahmen fest, die Finger weiß, und im nächsten Moment ist das Fenster leer. Der Rahmen ist leer. Die Hand ist fort. Die Luft, wo der Schatten war, ist nur Luft. Die Stelle, wo die Finger griffen, ist nur Holz mit Kratzern — fünf parallele Linien, nach unten, die Spuren von jemandem, der sich festhielt.
-
-Als hätte die Luft sie genommen. Als hätte die Nacht hineingegriffen und sie hindurchgezogen. Als wäre das Fenster kein Fenster gewesen, sondern eine Tür, die sich nur in eine Richtung öffnete, und der kleine Schatten ging hindurch und kam nicht zurück.
-
-Ich bin zurück im Flur. Die Kälte ist in meinen Füßen. Das Mondlicht ist grau. Das Fenster ist verschlossen. Ich bin siebenunddreißig, und ich stehe an derselben Stelle, und die Kälte ist dieselbe.
-
 Ich schaue nicht zum Fenster.
 
 Ich gehe zurück in mein Zimmer. Mein Laptop liegt auf dem Bett, wo ich ihn gelassen habe. Ich setze mich auf die Matratzenkante und öffne ihn, und der Bildschirm taucht mein Gesicht in blauweißes Licht. Ich lege die Speicherkarte ein. Ich öffne das Foto. Der Flur, eingefroren. Der Blitz, flach und hell. Das Fenster am Ende. Die Wände zu beiden Seiten.

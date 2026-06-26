@@ -44,32 +44,6 @@ Je baisse l'appareil.
 
 Le couloir est sombre. Le froid est dans mes pieds. Le clair de lune est gris et fin. Je suis debout exactement au bon endroit et je suis debout ici depuis vingt-cinq ans.
 
-Tu es dans le couloir. Tu as douze ans. La moquette est bleue et rêche sous tes pieds nus et l'air est chaud — chaud de décembre, chaud d'été, le genre de chaud qui te donne envie de t'allonger sur le sol et de sentir la maison respirer autour de toi. La fenêtre au bout du couloir est ouverte. La charnière de laiton grince. L'air entre par pulsations lentes, sel et eucalyptus et quelque chose d'autre, quelque chose de métallique, quelque chose pour quoi tu n'as pas de mot parce que tu as douze ans et que ton vocabulaire n'a pas encore assez grandi pour le goût de la peur.
-
-Tu entends un son de dessous. Des escaliers. Non — de dessus. Du couloir. Tu es déjà dans le couloir. Tu as toujours été dans le couloir. La chaleur, la lumière, le grincement de la charnière, le goût de métal sur ta langue — tout cela est correct même si l'ordre est faux.
-
-Tu lèves les yeux.
-
-Le couloir mesure douze pas de long. Au bout, devant la fenêtre, il y a deux silhouettes. Une est grande. Grande comme un adulte est grand, grande comme ta mère est grande, grande comme le monde est grand quand tu as douze ans et que le plafond est à deux mètres cinquante et que tout ce qui est au-dessus de toi est plus grand que toi. La silhouette grande est entre toi et la fenêtre. Elle te tourne le dos. Elle bloque la lumière.
-
-L'autre silhouette est petite. Petite comme tu es petite. Petite comme Kiera est petite — était petite, est petite, a toujours été petite. La silhouette petite est plus près de la fenêtre. Le clair de lune touche ses bords. La silhouette petite ne bouge pas.
-
-La silhouette grande bouge.
-
-Le bras de la silhouette grande se lève et s'étend et presse contre la silhouette petite et la silhouette petite se déplace — en arrière, vers la fenêtre, vers la fenêtre ouverte, vers le noir et l'air chaud et la charnière de laiton qui grince — et la silhouette petite tend la main. Une main. De petits doigts écartés. Des ongles accrochant le cadre en bois. Cinq lignes parallèles de pression contre la vieille peinture. La main agrippe. Les doigts se recourbent. Les phalanges blanchissent.
-
-La silhouette grande bouge encore.
-
-Bras. Main. Poussée. Arrière. Fenêtre. Main. Cadre. Prise. Prise — perdue.
-
-Et la silhouette petite — la silhouette petite passe par la fenêtre.
-
-Pas tombée. Pas sautée. Pas glissée ou trébuchée ou ayant perdu l'équilibre. Passée. Comme la lumière passe à travers le verre. Comme le son passe à travers les murs. Comme une chose passe de l'état d'être ici à l'état de ne plus être ici sans aucun des intermédiaires attendus. Un instant la silhouette petite est à la fenêtre, agrippant le cadre, les doigts blancs, et l'instant d'après la fenêtre est vide. Le cadre est vide. La main a disparu. L'air là où se trouvait la silhouette n'est plus que de l'air. L'espace où les doigts s'agrippaient n'est plus que du bois avec des rayures — cinq lignes parallèles, descendantes, les marques de quelqu'un qui s'accrochait.
-
-Comme si l'air l'avait emportée. Comme si la nuit était entrée et l'avait tirée. Comme si la fenêtre n'était pas une fenêtre mais une porte qui ne s'ouvrait que dans un seul sens et que la silhouette petite l'avait franchie et n'était pas revenue.
-
-Je suis de retour dans le couloir. Le froid est dans mes pieds. Le clair de lune est gris. La fenêtre est scellée. J'ai trente-sept ans et je suis debout au même endroit et le froid est le même.
-
 Je ne regarde pas la fenêtre.
 
 Je retourne dans ma chambre. Mon ordinateur portable est sur le lit où je l'ai laissé. Je m'assois sur le bord du matelas et je l'ouvre et l'écran inonde mon visage de lumière blanche bleutée. J'insère la carte mémoire. J'ouvre la photographie. Le couloir, figé. Le flash, plat et lumineux. La fenêtre au bout. Les murs de chaque côté.

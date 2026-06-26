@@ -94,57 +94,33 @@ Kleiner als früher. Feststehend. Versiegelt. Weißer Aluminiumrahmen, Doppelver
 
 Ich sehe das Fenster an, und etwas verschiebt sich.
 
-Es beginnt an den Rändern. Mein Sichtfeld verengt sich — keine Dunkelheit in der Peripherie, sondern ein Weichwerden, ein Auflösen, als verlöre die Welt jenseits dieses bestimmten Punkts ihre Kohärenz. Die grauen Wände verlieren ihre Kante. Der blonde Boden verliert seine Farbe. Da ist nur das Fenster. Nur das Glas. Nur das Rechteck aus Licht, das sich verändert — heller werdend, wärmend, sich verschiebend vom flachen Grau eines Julimorgens zum Gold einer Dezembernacht.
+Es beginnt an den Rändern. Mein Sichtfeld verengt sich — ein Weichwerden, ein Auflösen, die Welt jenseits dieses Punkts verliert ihre Kohärenz. Die grauen Wände verlieren ihre Kante. Der blonde Boden verliert seine Farbe. Da ist nur das Fenster. Nur das Glas. Nur das Rechteck aus Licht, das sich verändert — heller werdend, wärmend, sich verschiebend vom flachen Grau eines Julimorgens zum Gold einer Dezembernacht.
 
 Die grauen Wände flimmern.
 
-Sie sind cremefarben. Das Grau fällt ab wie ein Vorhang, der fällt, und das Creme ist da — warm, weich, vertraut, die Farbe des Flurs, wie er war, wie er immer war unter der Farbe. Das Creme fängt das Licht ein. Goldenes Licht. Bernsteinfarbenes Licht. Das Licht eines Sommerabends, wenn die Sonne tief steht und der Himmel orange ist und die Luft dick ist von Wärme.
+Sie sind cremefarben. Das Grau fällt ab wie ein Vorhang, der fällt, und das Creme ist da — warm, weich, die Farbe des Flurs, wie er war, unter der Farbe. Das Creme fängt ein Licht ein, das nicht in diesem Raum ist. Goldenes Licht. Bernsteinfarbenes Licht. Das Licht eines Sommerabends, wenn die Sonne tief steht.
 
-Der Boden ist Teppich. Blauer Teppich. Das blasse Holz löst sich auf, und der Teppich ist da, niedriger Flor, synthetisch, zeigt den Weg von Füßen, hält die Wärme des Tages. Der Teppich, den mein Körper kennt. Der Teppich, den meine Füße erinnern.
+Dann geht es.
 
-Das Fenster ist größer. Viel größer. Es füllt das Ende des Flurs — ein hohles Rechteck aus Nacht, offen, das Fensterflügel nach außen geschlagen, der Rahmen weit, das Glas verschwunden, ersetzt durch Luft. Warme Luft. Dezemberluft. Die Luft bewegt sich durch den Flur, wie Atem sich durch einen Körper bewegt — ein und aus, ein und aus, das Haus atmend, die Nacht atmend, und die Luft trägt Salz und Eukalyptus und unter beidem eine dritte Note — metallisch. Kupfer. Eisen. Der Geschmack von Blut auf der Zunge. Der Geruch von Angst, keine Abstraktion, keine Metapher, sondern eine echte chemische Signatur, Adrenalin und Kortisol, die aus Haut schwitzen, und ich rieche es, ich schmecke es, und es ist jetzt, das ist jetzt, das geschieht jetzt.
+Das Creme, das Gold, die Wärme — es schnappt in Grau zurück, und ich stehe vor einem versiegelten Aluminiumfenster im Juli, und meine Hände zittern, und ich habe fast etwas gesehen und es will nicht kommen.
 
-Der Flur ist warm.
+Ich schließe die Augen. Ich greife danach, wie man nach einem Wort auf der Zungenspitze greift — je fester man greift, desto weiter weicht es.
 
-Ich stehe oben an der Treppe.
+Ein Fragment taucht auf. Kein Bild. Eine Empfindung. Eine Hand auf einer Schulter. Nicht meine Schulter. Klein. Der Griff hart genug, um den Stoff in die Haut zu pressen. Dann nichts. Das Fragment sinkt.
 
-Zwei Gestalten am Ende des Flurs.
+Ein anderes. Der Geruch. Metallisch. Kupfer. Der Geschmack von Blut auf der Zunge. Dann nichts.
 
-Eine groß. Die Große steht mit dem Rücken zu mir. Dunkle Form vor dem offenen Fenster. Die Proportionen sind falsch für ein Kind. Die Größe. Die Breite der Schultern. Der Winkel des Kopfes. Sie ist groß, wie eine Erwachsene groß ist. Ihr Arm hängt an ihrer Seite. Ihre Hand hängt an ihrer Seite.
+Ein anderes. Ein Geräusch. Zwischen einem Keuchen und einem dumpfen Schlag. Das Geräusch, das danach kam. Dann nichts.
 
-Eine klein. Die Kleine steht vor der Großen. Näher am Fenster. Viel näher. Die Kleine ist meine Größe. Die Kleine ist mein Ausmaß. Die Kleine ist ein Kind. Ihr Haar ist dunkel. Ihr Rücken ist mir zugewandt. Sie steht zwischen der Großen und dem offenen Fenster.
+Ich versuche, einen Raum aus seinem Staub zusammenzusetzen. Jedes Stück, das ich gewinne, stößt auf Widerstand — eine Kraft, die es zurückdrängt, eine Stimme unter meiner eigenen, die sagt *du hast geschlafen, du warst unten, du hast nichts gesehen.* Die Stimme ist ruhig. Sie ist weiblich. Sie sagt das seit fünfundzwanzig Jahren und sie sagt es jetzt, in dem genauen Moment, in dem die Stücke sich treffen wollen, und die Stücke zerstreuen sich.
 
-Der Arm der Großen bewegt sich.
+Ich öffne die Augen.
 
-Er kommt hoch. Schnell. Keine Geste. Kein Wink. Keine Umarmung. Der Arm kommt hoch, und die Hand findet die Schulter der Kleinen. Die Hand schließt sich. Der Griff ist hart. Die Finger pressen sich in den Stoff. Die Kleine zuckt zusammen.
-
-Die Große stößt.
-
-Die Kleine stolpert rückwärts. Auf das Fenster zu. Das Fenster, das offen ist. Das Fenster, das ein Rechteck aus dunkler Luft und Nachthimmel ist und nichts zwischen der Kleinen und dem Rand. Die Arme der Kleinen gehen aus — greifend, packend, nichts findend, Luft findend.
-
-Ihre Hände finden den Rahmen.
-
-Holz. Altes Holz. Cremefarben gestrichen. Farbe, die unter Fingern abblättert, die kratzen, verzweifelt, festhalten. Ihre Hände umklammern den Rahmen. Ihre Finger. Ihre Fingernägel. Kleine Hände. Die Hände eines Kindes. Die Hände pressen sich in das Holz.
-
-Die Fingernägel kratzen die Farbe.
-
-Ein dünner, hoher Klang. Ein Kratzen. Eine Reibung von Nagel auf Farbe auf Holz. Fünf Linien. Fünf Fingernägel. Nach unten. Die Marken ritzen die Farbe, tief, sichtbar, dauerhaft, und die Hände gleiten und der Griff hält und die Finger spreizen sich und die Kleine hält fest, hält fest am Rahmen, hält fest am Rand des Fensters, hält fest an der Welt.
-
-Der Griff hält.
-
-Die Finger der Kleinen verlieren den Rahmen.
-
-Eine Hand zuerst. Dann die andere. Die Fingernägel verlassen das Holz. Fünf parallele Linien, in die Farbe geritzt, tief, nach unten. Und dann sind die Hände weg und die Kleine ist weg und das Fenster ist leer und die warme Luft bewegt sich durch den Flur und die Große steht da, am Ende des Flurs, vor dem offenen Fenster, und die Nacht ist jenseits und die Kleine ist nicht mehr da und das Fenster ist leer und das Fenster ist leer und das Fenster ist —
-
-Die Große dreht sich um.
-
-Ihr Gesicht ist —
-
-Ihr Gesicht ist —
+Der Flur ist grau. Das Fenster ist versiegelt. Ich bin siebenunddreißig. Mir geht es gut.
 
 Ich liege auf dem Boden.
 
-Der Flur ist grau. Der Teppich ist weg, der blaue Teppich, die cremefarbenen Wände, die warme Luft, das offene Fenster — weg. Der Flur ist grau, und der Boden ist hart, und ich liege darauf. Meine Wange liegt auf dem Holz. Meine Hände sind flach gegen die Bretter gepresst, die Finger gespreizt. Mein Körper zittert — eine tiefe Vibration, die in meinem Kern beginnt und nach außen strahlt, Zähne klappernd, Kiefer gepresst, Muskeln in Wellen feuern, die ich nicht kontrollieren kann.
+Der Flur ist grau. Der Teppich ist weg, der blaue Teppich, die cremefarbenen Wände, die warme Luft, das offene Fenster — weg. Der Flur ist grau, und der Boden ist hart, und ich liege darauf. Ich liege auf meiner linken Seite, die Knie angezogen. Meine Hände sind flach gegen die Bretter gepresst, die Finger gespreizt. Mein Körper zittert — eine tiefe Vibration, die in meinem Kern beginnt und nach außen strahlt, Zähne klappernd, Kiefer gepresst, Muskeln in Wellen feuern, die ich nicht kontrollieren kann.
 
 Die grauen Wände sind grau. Das versiegelte Fenster ist versiegelt. Die Dezemberluft ist Juliluft, und sie ist kalt, und sie riecht nach neuer Farbe und Reinigungsmitteln und sonst nichts.
 
@@ -198,4 +174,4 @@ Ich sollte Mum anrufen. Ich sollte sie anrufen und ihre Stimme hören und mir da
 
 Ich rufe sie nicht an.
 
-Ich sitze in der Küche. Ich denke: *Ich habe etwas gesehen. Im Flur. Zwei Personen. Eine davon war — nein. Nein, ich war unten. Ich war immer unten. Mum hat gesagt, ich hätte geschlafen. Ich habe geschlafen.* Ich wiederhole es wie ein Mantra. Aber zum ersten Mal funktioniert das Mantra nicht.
+Ich sitze in der Küche. Ich denke: *Ich habe etwas gesehen. Im Flur. Eine Hand auf einer Schulter. Ein Geräusch. Ich war — nein. Nein, ich war unten. Ich war immer unten. Mum hat gesagt, ich hätte geschlafen. Ich habe geschlafen.* Ich wiederhole es wie ein Mantra. Aber zum ersten Mal funktioniert das Mantra nicht.

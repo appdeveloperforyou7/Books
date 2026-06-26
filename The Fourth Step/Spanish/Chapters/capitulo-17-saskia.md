@@ -8,7 +8,7 @@ No sé adónde va Cate cuando sale de esta casa. No sé a quién llama. Tengo pr
 
 He organizado el salón. No decorado. Organizado. La mesa baja de madera en el centro ha sido despejada del pan de plátano de Imogen, los Tim Tams, las almendras en su fila precisa. En su lugar: la carpeta de documentos. A4 rígida. Calidad archivística. Libre de ácido. Los contenidos yacen planos sobre la superficie — el informe policial del incidente, dos páginas, fotocopiadas del original en la comisaría de Sorrento. El resumen de la autopsia, una página. La fotografía de la escena del crimen, una impresión, brillante, veinte por veinticinco centímetros. Y las fotografías de Rowan del marco de la ventana, impresas a la máxima resolución que la máquina pudo ofrecer, mostrando los arañazos en la madera original bajo el aluminio.
 
-La batería de evidencia. Veinticinco años de ensamblaje. Cabe en una mesa de centro. La muerte de una niña reducida a documentos que podrías meter en un sobre de papel manila y enviar por el precio de un sello. La desproporción es obscena.
+La batería de evidencia. Veinticinco años de ensamblaje. Cabe en una mesa de centro. La muerte de una niña reducida a documentos que podrías meter en un sobre de papel manilo y enviar por el precio de un sello. La desproporción es obscena.
 
 La luz en la habitación es del techo — una sola lámpara colgante con pantalla de lino, proyectando una luz amarilla difusa que suaviza bordes y aplana superficies. No ideal. Los tribunales tienen mejor iluminación. Fluorescente, dura, despiadada — el tipo de luz que te muestra lo que realmente está ahí. Esta luz es más amable. No quiero amabilidad. Quiero claridad. Pero este es un salón, no un tribunal, y trabajaré con lo que tengo.
 
@@ -56,7 +56,7 @@ Dejo que la palabra se asiente. Bilateral. Clínica. Precisa. Una palabra que oc
 
 Hago una pausa. Dejo que el número se asiente. Dos metros. La distancia de esta mesa al marco de la puerta de la cocina. El cuerpo de una niña, lanzado.
 
-"Obtuve una reconstrucción biomecánica. Un físico forense ejecutó los parámetros del informe del incidente — peso de Kiera, cuarenta y dos kilos; su altura, ciento cuarenta y dos centímetros; la altura de la ventana, la posición del alféizar, el punto de aterrizaje. Su conclusión: para producir una distancia de aterrizaje de dos metros desde esa ventana, la fuerza horizontal aplicada al cuerpo debe ser aproximadamente equivalente a un empujón firme con ambas manos. No un toque. No un reflejo. Un empujón deliberado y contundente. El tipo de fuerza que una adulta usa cuando quiere apartar a alguien del camino."
+"Obtuve una reconstrucción forense. La fuerza requerida fue un empujón deliberado con ambas manos. No un toque. No un reflejo. El tipo de fuerza que una adulta usa para apartar a alguien del camino."
 
 Cojo la fotografía de la escena del crimen. La que llegó bajo mi puerta en el sobre de papel manila. La sostengo frente a la habitación.
 

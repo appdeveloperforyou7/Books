@@ -58,7 +58,7 @@ Un temps de pause. Deux dixièmes de seconde. Dans la fourchette normale mais à
 
 « Rosebud Secondary College. »
 
-« Rosebud Secondary College a fermé en 2003. Elle a fusionné avec Rosebud High pour former le Rosebud Secondary College actuel en 2004. Si vous êtes partie pour Londres à quinze ans, vous y auriez été inscrite en 2002 ou 2003. C'était encore Rosebud High. »
+« Rosebud Secondary College a fermé en 2003. Elle a fusionné avec Rosebud High pour former le Rosebud Secondary College actuel en 2004. Si vous êtes partie pour Londres à quinze ans, vous y auriez été inscrits en 2002 ou 2003. C'était encore Rosebud High. »
 
 Elle ne cille pas. Mais sa main gauche — celle qui repose sur l'accoudoir du fauteuil — se déplace. Un petit ajustement. Un mouvement d'ancrage. J'ai vu des témoins faire la même chose quand ils réalisent que le conseil adverse a un document auquel ils ne s'attendaient pas.
 
@@ -140,7 +140,15 @@ Le visage de Cate ne change pas. Une personne faussement accusée réagirait —
 
 « Je vous ai dit la vérité. »
 
-« Vous m'avez raconté une histoire. La vérité et une histoire sont deux choses différentes. Je connais la différence. C'est mon métier de connaître la différence. »
+« Vous m'avez raconté une histoire. La vérité et une histoire sont deux choses différentes. »
+
+« Vous ne savez pas ce que je vous ai dit. »
+
+« Je sais que vous n'aviez pas neuf ans quand c'est arrivé. Je sais que vous n'avez jamais vécu à Londres. Je sais que vous êtes entrée dans cette maison et que vous avez reconnu une cuisine où vous n'aviez jamais mis les pieds. »
+
+« Vous ne savez rien de ce que je reconnais. »
+
+« Je connais votre nom. »
 
 Elle me regarde. Vraiment — pas le contact visuel joué des deux derniers jours, mais quelque chose de plus cru. Une évaluation derrière le masque. Pas « est-elle une menace » mais « combien sait-elle. »
 
@@ -153,6 +161,8 @@ Et je sais autre chose. Quelque chose que je n'ai dit à personne. Quelque chose
 Douze mois de courriels. Douze mois à partager ce que je savais. Douze mois à construire une relation avec quelqu'un qui utilisait le nom A.M. Doyle, qui ne m'a jamais dit son vrai nom, en qui j'ai fait confiance parce qu'elle avait des informations et que je suis constitutionnellement incapable de ne faire confiance à personne quand il y a de l'information sur la table.
 
 J'ai remis vingt-cinq ans de preuves à une inconnue. Et maintenant je suis assise en face d'elle.
+
+Douze mois de confiance que je n'accorde pas facilement, remise à une femme qui avait inventé un nom pour la gagner. La colère est là — sous l'analyse, sous le calme du tribunal, un fil brûlant que je n'ai pas encore tiré. Je le tirerai plus tard. En ce moment, la vérité compte plus que la trahison.
 
 « Je correspondais avec une journaliste, » dis-je.
 

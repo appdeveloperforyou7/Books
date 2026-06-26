@@ -2,7 +2,7 @@
 
 ## Revelation
 
-The timing is deliberate. Six PM. The light outside is fading — grey July dusk pressing against the windows, the sky the colour of wet concrete, the last of the afternoon draining from the coast like water from a basin. Cate left twenty minutes ago. Phone call, she said. Reception is better at the end of the street. She walked down the drive and turned toward the coastal path, handbag over her shoulder, step measured, unhurried. She did not look back.
+The timing is deliberate. Six PM. The light outside is fading — grey July dusk pressing against the windows, the sky the colour of wet concrete, the last of the afternoon draining from the coast like water from a basin. Cate left twenty minutes ago. Phone call, she said. Reception is better at the end of the street. She walked down the drive and turned towards the coastal path, handbag over her shoulder, step measured, unhurried. She did not look back.
 
 I don't know where Cate goes when she leaves this house. I don't know who she calls. I have questions — the seventeenth through the twenty-third, updated hourly — but they will wait. What matters now is the room and the women in it.
 
@@ -56,7 +56,7 @@ I let the word sit. Bilateral. Clinical. Precise. A word that conceals what it d
 
 I pause. Let the number sit. Two metres. The distance from this table to the kitchen doorway. A child's body, launched.
 
-"I obtained a biomechanical reconstruction. A forensic physicist ran the parameters from the incident report — Kiera's weight, forty-two kilos; her height, one hundred and forty-two centimetres; the window height, the sill position, the landing point. His finding: to produce a two-metre landing distance from that window, the horizontal force applied to the body must be roughly equivalent to a firm two-handed shove. Not a tap. Not a reflex. A deliberate, forceful push. The kind of force an adult uses when they want to move someone out of the way."
+"I obtained a forensic reconstruction. The force required was a deliberate, two-handed shove. Not a tap. Not a reflex. The kind of force an adult uses to move someone out of the way."
 
 I pick up the crime scene photograph. The one that arrived under my door in the manila envelope. I hold it facing the room.
 

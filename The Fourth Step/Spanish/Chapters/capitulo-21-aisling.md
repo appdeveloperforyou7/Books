@@ -72,7 +72,7 @@ Extiendo el teléfono. Saskia lo toma. Mira la pantalla. Su cara no cambia pero 
 
 Rowan está llorando. No fuerte. No dramáticamente. Lágrimas recorriendo silenciosamente su cara angulosa como lluvia en un cristal sin limpiar, su mandíbula apretada, sus ojos en el teléfono de mi mano. No las limpia. Las deja caer y cada una es un pequeño y silencioso veredicto.
 
-"He estado recibiendo pistas anónimas durante dos años," digo. "Correos electrónicos. Sin remitente. Enrutados por servidores que no puedo rastrear. El primero venía con una fotografía del informe policial original. El segundo venía con un nombre: Elaine Cassidy. El tercero venía con una pregunta: '¿Quién era la adulta en la casa aquella noche?'"
+"He estado recibiendo pistas anónimas durante dos años," digo. "Correos electrónicos. Sin remitente. Enrutados por servidores que no puedo rastrear. El primero venía con una fotografía del informe policial original. El segundo venía con un nombre: Elaine Cassidy. El tercero venía con una pregunta: '¿Quién era la adulta en la casa aquella noche?' El cuarto llegó más tarde, y era diferente. Un número de teléfono. El nombre de un hombre. Y seis palabras: 'Estaba al teléfono arriba.' Una llamada que no debería haber estado haciendo. Una razón para que una niña de doce años subiera y la encontrara. Nunca rastreé el número. Pero supe entonces que Kiera no había subido a mirar las estrellas."
 
 La mano de Neve se aprieta en la barandilla. Sus nudillos se ponen blancos. Está agarrando la madera como Imogen agarraba su tenedor esta mañana — sin saber, sin sentir, el cuerpo respondiendo a algo que la mente no ha alcanzado.
 

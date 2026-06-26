@@ -82,7 +82,7 @@ Das Wort ist einfach. Schmucklos. Keine Rechtfertigung. Keine Einbettung. Nur: j
 
 ---
 
-Der Wind draußen rauscht auf — eine Bö, die jedes Fenster rüttelt, die Küchentür gegen ihren Rahmen schlagen lässt, die Wände mit dem Klang von Luft unter Druck füllt. Und in der Stille nach der Bö stelle ich die Frage.
+Der Wind draußen rauscht auf — eine Böe, die jedes Fenster rüttelt, die Küchentür gegen ihren Rahmen schlagen lässt, die Wände mit dem Klang von Luft unter Druck füllt. Und in der Stille nach der Böe stelle ich die Frage.
 
 »Was war so wichtig, dass ein zwölfjähriges Mädchen sterben musste?«
 
@@ -114,7 +114,7 @@ Elaine schaut.
 
 Ihre Augen gleiten zum ersten Foto. Die Prellungen auf Kieras Rücken. Violett-schwarz, fünfundzwanzig Jahre im Fixierbad eingefroren. Ihr Kiefer spannt sich. Sie sieht das zweite. Die Abdrücke an den Schultern — zehn Kontaktpunkte, die Breite von Fingern, beidseitig, gleichmäßig, Griffmuster-Prellungen, die keine noch so geschickte Erzählung erklären kann. Ihre Lippen pressen sich zusammen. Das dritte. Die Messung. Der Abstand von der Wand. Zwei Meter. Die Physik eines Schubsers, nicht eines Falls. Die Beweise, die »sie ist gestolpert« in eine Lüge und »es war ein Unfall« in etwas völlig anderes verwandeln.
 
-Ich beobachte ihr Gesicht, während sie schaut. Die Fassung — was davon übrig ist — entweicht. Nicht allmählich. Wie Sättigung, die in einer Fotografie auf null gleitet. Die Haut wird um den Kiefer herum schlaff. Die sorgfältige Architektur der Kontrolle — das erhobene Kinn, der ruhige Blick, die abgemessenen Atemzüge — stürzt in sich zusammen wie ein Zelt im Sturm. Sie betrachtet die Fotografien des Schadens, den ihre Hände angerichtet haben. Die Prellungen, die ihre Finger hinterließen. Die Beweise, die fünfundzwanzig Jahre lang in einer Akte in einem gerichtsmedizinischen Büro gelegen haben und auf die richtige Person gewartet haben, die sie findet.
+Ich beobachte ihr Gesicht, während sie schaut. Die Fassung — was davon übrig ist — entweicht. Nicht allmählich. Wie Sättigung, die in einer Fotografie auf null gleitet. Die Haut wird um den Kiefer herum schlaff. Die sorgfältige Architektur der Kontrolle — das erhobene Kinn, der ruhige Blick, die abgemessenen Atemzüge — stürzt in sich zusammen. Sie betrachtet die Fotografien des Schadens, den ihre Hände angerichtet haben. Die Prellungen, die ihre Finger hinterließen. Die Beweise, die fünfundzwanzig Jahre lang in einer Akte in einem gerichtsmedizinischen Büro gelegen haben und auf die richtige Person gewartet haben, die sie findet.
 
 Sie starrt die Fotografien lange an. Fünf Sekunden. Sechs. Der Raum wartet. Der Wind drückt gegen das Glas. Das Haus stöhnt. Und Elaine Cassidy sitzt in ihrem Sessel und sieht, was sie getan hat, und das Sehen ist das, was sie bricht.
 

@@ -144,7 +144,7 @@ Mi voz es queda ahora. La furia sigue ahí — no se ha ido a ningún lado, sigu
 
 "Vi que la empujaste."
 
-Cuatro palabras. Cuatro sílabas. La frase más sencilla que he pronunciado jamás y la más difícil. Vi que la empujaste. La. Vi. Em- pu- jar- la. Cada palabra una puerta cerrándose. Cada palabra un muro cayendo — no mi muro. El suyo. El muro que construyó alrededor de la verdad. El muro que mantuvo durante veinticinco años con llamadas diarias y términos clínicos y la palabra "cariño" usada como cerradura.
+Cuatro palabras. La frase más sencilla que he pronunciado jamás y la más difícil. No es mi muro el que cae — el suyo.
 
 Elaine no habla. Su boca se abre y se cierra y no sale ningún sonido. Por primera vez esta noche — por primera vez en toda mi vida — mi madre no tiene nada que decir. La mujer que nunca, en toda mi vida, se quedó sin palabras. La mujer que narró mi infancia tan exhaustivamente que no pude encontrar mi propia voz dentro de ella. La mujer que me dijo lo que vi y lo que no vi y lo que soñé y lo que era real y qué temer y qué olvidar. Está sentada en el sillón y su boca está abierta y no hay nada.
 

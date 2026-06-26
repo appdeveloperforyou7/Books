@@ -94,57 +94,33 @@ Plus petite qu'elle ne l'était. Panneau fixe. Scellée. Cadre en aluminium blan
 
 Je regarde la fenêtre et quelque chose se déplace.
 
-Ça commence par les bords. Ma vision se rétrécit — pas une obscurité à la périphérie, mais un ramollissement, une dissolution, comme si le monde au-delà de ce point précis perdait sa cohérence. Les murs gris perdent leurs contours. Le sol blond perd sa couleur. Il n'y a plus que la fenêtre. Que la vitre. Que le rectangle de lumière qui change — s'éclaircissant, se réchauffant, passant du gris plat d'un matin de juillet à l'or d'une nuit de décembre.
+Ça commence par les bords. Ma vision se rétrécit — un ramollissement, une dissolution, le monde au-delà de ce point perdant sa cohérence. Les murs gris perdent leurs contours. Le sol blond perd sa couleur. Il n'y a plus que la fenêtre. Que la vitre. Que le rectangle de lumière qui change — s'éclaircissant, se réchauffant, passant du gris plat d'un matin de juillet à l'or d'une nuit de décembre.
 
 Les murs gris miroitent.
 
-Ils sont crème. Le gris tombe comme un rideau qui s'effondre et le crème est là — chaud, doux, familier, la couleur du couloir telle qu'elle était, telle qu'elle l'a toujours été sous la peinture. Le crème capte la lumière. Lumière dorée. Lumière ambrée. La lumière d'un soir d'été quand le soleil est bas et le ciel est orange et l'air est épais de chaleur.
+Ils sont crème. Le gris tombe comme un rideau qui s'effondre et le crème est là — chaud, doux, la couleur du couloir telle qu'elle était, sous la peinture. Le crème capte une lumière qui n'est pas dans cette pièce. Lumière dorée. Lumière ambrée. La lumière d'un soir d'été quand le soleil est bas.
 
-Le sol est moquette. Moquette bleue. Le bois blond se dissout et la moquette est là, poils bas, synthétique, montrant le passage des pieds, retenant la chaleur du jour. La moquette que mon corps connaît. La moquette que mes pieds se souviennent.
+Puis ça s'en va.
 
-La fenêtre est plus grande. Beaucoup plus grande. Elle occupe le fond du couloir — un grand rectangle de nuit, ouvert, le battant ouvert vers l'extérieur, le cadre large, la vitre disparue, remplacée par l'air. Air chaud. Air de décembre. L'air traverse le couloir comme la respiration traverse un corps — dedans et dehors, dedans et dehors, la maison respirant, la nuit respirant, et l'air porte du sel et de l'eucalyptus et sous les deux, une troisième note — métallique. Cuivre. Fer. Le goût du sang sur la langue. L'odeur de la peur, pas une abstraction, pas une métaphore, mais une véritable signature chimique, adrénaline et cortisol suant de la peau, et je la sens, je la goûte, et c'est maintenant, c'est maintenant, c'est en train de se passer maintenant.
+Le crème, l'or, la chaleur — ça claque en gris, et je suis debout devant une fenêtre en aluminium scellée en juillet, et mes mains tremblent, et j'ai failli voir quelque chose et ça ne vient pas.
 
-Le couloir est chaud.
+Je ferme les yeux. Je tends vers ça comme on tend vers un mot sur le bout de la langue — plus on tend, plus ça recule.
 
-Je suis debout en haut de l'escalier.
+Un fragment remonte. Pas une image. Une sensation. Une main sur une épaule. Pas mon épaule. Petite. La prise assez dure pour presser le tissu dans la peau. Puis rien. Le fragment coule.
 
-Deux silhouettes au fond du couloir.
+Un autre. L'odeur. Métallique. Cuivre. Le goût du sang sur la langue. Puis rien.
 
-Une grande. La grande se tient dos à moi. Forme sombre contre la fenêtre ouverte. Les proportions ne sont pas celles d'un enfant. La taille. La largeur des épaules. L'angle de la tête. Elle est grande comme une adulte est grande. Son bras est le long de son corps. Sa main est le long de son corps.
+Un autre. Un son. Entre un hoquet et un bruit sourd. Le son qui est venu après. Puis rien.
 
-Une petite. La petite se tient devant la grande. Plus près de la fenêtre. Beaucoup plus près. La petite a ma taille. La petite a mon gabarit. La petite est un enfant. Ses cheveux sont sombres. Elle me tourne le dos. Elle se tient entre la grande et la fenêtre ouverte.
+J'essaie d'assembler une pièce à partir de sa poussière. Chaque morceau que je récupère rencontre une résistance — une force qui le repousse vers le bas, une voix sous la mienne qui dit *tu dormais, tu étais en bas, tu n'as rien vu.* La voix est calme. Elle est féminine. Elle dit ça depuis vingt-cinq ans et elle le dit maintenant, au moment précis où les morceaux essaient de se rejoindre, et les morceaux se dispersent.
 
-Le bras de la grande bouge.
+J'ouvre les yeux.
 
-Il se lève. Vite. Pas un geste. Pas un salut. Pas une étreinte. Le bras se lève et la main trouve l'épaule de la petite. La main se ferme. La prise est dure. Les doigts pressent le tissu. La petite tressaille.
-
-La grande pousse.
-
-La petite trébuche en arrière. Vers la fenêtre. La fenêtre qui est ouverte. La fenêtre qui est un rectangle d'air sombre et de ciel nocturne et rien entre la petite et le bord. Les bras de la petite s'écartent — cherchant, agrippant, ne trouvant rien, ne trouvant que de l'air.
-
-Ses mains trouvent le cadre.
-
-Bois. Vieux bois. Peint en crème. Peinture s'écaillant sous des doigts qui griffent, désespérés, s'accrochant. Ses mains agrippent le cadre. Ses doigts. Ses ongles. Petites mains. Mains d'enfant. Les mains pressent le bois.
-
-Les ongles raclent la peinture.
-
-Un son fin et aigu. Un grincement. Une friction d'ongle sur peinture sur bois. Cinq lignes. Cinq ongles. Descendantes. Les marques sillonnent la peinture, profondes, visibles, permanentes, et les mains glissent et la prise tient et les doigts s'écartent et la petite s'accroche, s'accrochant au cadre, s'accrochant au bord de la fenêtre, s'accrochant au monde.
-
-La prise tient.
-
-Les doigts de la petite lâchent le cadre.
-
-Une main d'abord. Puis l'autre. Les ongles quittent le bois. Cinq lignes parallèles sillonnées dans la peinture, profondes, descendantes. Et puis les mains ont disparu et la petite a disparu et la fenêtre est vide et l'air chaud traverse le couloir et la grande est là, au fond du couloir, devant la fenêtre ouverte, et la nuit est au-delà et la petite n'est plus là et la fenêtre est vide et la fenêtre est vide et la fenêtre est —
-
-La grande se retourne.
-
-Son visage est —
-
-Son visage est —
+Le couloir est gris. La fenêtre est scellée. J'ai trente-sept ans. Ça va.
 
 Je suis sur le sol.
 
-Le couloir est gris. La moquette a disparu, la moquette bleue, les murs crème, l'air chaud, la fenêtre ouverte — disparus. Le couloir est gris et le sol est dur et je suis dessus. Ma joue contre le bois blond. Mes mains plaquées à plat contre les planches, doigts écartés. Mon corps tremble — une vibration profonde qui commence dans mon centre et irradie vers l'extérieur, dents claquant, mâchoire serrée, muscles se déchargeant par vagues que je ne peux pas contrôler.
+Le couloir est gris. La moquette a disparu, la moquette bleue, les murs crème, l'air chaud, la fenêtre ouverte — disparus. Le couloir est gris et le sol est dur et je suis dessus. Je suis sur le côté gauche, les genoux ramenés. Mes mains plaquées à plat contre les planches, doigts écartés. Mon corps tremble — une vibration profonde qui commence dans mon centre et irradie vers l'extérieur, dents claquant, mâchoire serrée, muscles se déchargeant par vagues que je ne peux pas contrôler.
 
 Les murs gris sont gris. La fenêtre scellée est scellée. L'air de décembre est l'air de juillet et il est froid et il sent la peinture neuve et les produits d'entretien et rien d'autre.
 
@@ -198,4 +174,4 @@ Je devrais appeler Maman. Je devrais l'appeler et entendre sa voix et la laisser
 
 Je ne l'appelle pas.
 
-Je reste dans la cuisine. Je pense : *J'ai vu quelque chose. Dans le couloir. Deux personnes. L'une d'elles était — non. Non, j'étais en bas. J'ai toujours été en bas. Maman a dit que je dormais. Je dormais.* Je le répète comme un mantra. Mais pour la première fois, le mantra ne fonctionne pas.
+Je reste dans la cuisine. Je pense : *J'ai vu quelque chose. Dans le couloir. Une main sur une épaule. Un son. J'étais — non. Non, j'étais en bas. J'ai toujours été en bas. Maman a dit que je dormais. Je dormais.* Je le répète comme un mantra. Mais pour la première fois, le mantra ne fonctionne pas.

@@ -84,7 +84,7 @@ Elaine reaches for Neve's hand.
 
 The movement is slow. Deliberate. A mother reaching for her daughter across the space between the armchair and the sofa. Her fingers extend. Her palm opens. She is asking for contact. Offering comfort. The gesture says: I am here. I am yours. We are together in this. Whatever happened, we face it together.
 
-Neve's hand twitches. Her fingers move — toward her mother, then stop. Suspended in the air. The reach uncompleted. The hand hangs between them like a wire pulled taut.
+Neve's hand twitches. Her fingers move — towards her mother, then stop. Suspended in the air. The reach uncompleted. The hand hangs between them like a wire pulled taut.
 
 "I was trying to protect you, sweetheart," Elaine says.
 
@@ -92,7 +92,7 @@ Sweetheart. The word again. The word she uses the way a surgeon uses a scalpel �
 
 The room is quiet.
 
-I watch her face. The tears are present but contained — two bright crescents along her lower lashes, not falling. Her hand is still extended toward Neve. Her voice has recovered its steadiness. She has delivered a coherent, emotionally modulated account of a traumatic event. The precision of a woman reading from a script she has been writing and rewriting for a quarter of a century.
+I watch her face. The tears are present but contained — two bright crescents along her lower lashes, not falling. Her hand is still extended towards Neve. Her voice has recovered its steadiness. She has delivered a coherent, emotionally modulated account of a traumatic event. The precision of a woman reading from a script she has been writing and rewriting for a quarter of a century.
 
 "Stumbled," she says. Not "was pushed." I note the verb. "Startled reaction," not "I grabbed her." I note the frame. "The window was open." Circumstance, not agency. "Accident," said twice. Framing, not fact. Every word is chosen to minimise. Every word is technically defensible.
 
@@ -118,7 +118,7 @@ If Neve doesn't take it — the narrative fails. The extended hand becomes what 
 
 I watch Neve's face. Her eyes are on her mother. Her jaw is set. Her chest rises and falls with slow, deliberate breaths. She is fighting something. The wall she built. The wall her mother helped her build. The wall that has held for twenty-five years and cracked this afternoon in the upstairs hallway when the memory came back — the full, panoramic memory of what she saw. Her face when she came downstairs after that — the colour hadn't returned. Her hands were shaking, pressing flat against her thighs the way she's pressing them now. Her eyes had the look of a person who has seen something they cannot unsee.
 
-Her hand moves again. Toward her mother. The fingers extend.
+Her hand moves again. Towards her mother. The fingers extend.
 
 Elaine's face softens. Genuine, I think. Or the best performance of genuine I have witnessed, and I have watched professional actors on the stand sell stories with less conviction. The softening says: I'm here, take my hand, we'll get through this the way we've gotten through everything.
 

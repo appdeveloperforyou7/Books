@@ -25,7 +25,7 @@ from reportlab.platypus import (
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-BASE = r"D:\Kapil\Books\PsyThr"
+BASE = r"D:\Kapil\Books\The Fourth Step"
 CHAPTERS_DIR = os.path.join(BASE, "Chapters")
 OUTPUT_DIR = os.path.join(BASE, "Output")
 OUTPUT_PATH = os.path.join(OUTPUT_DIR, "The_Fourth_Step_Interior.pdf")
@@ -623,50 +623,62 @@ def main():
     ]
     doc.addPageTemplates(templates)
 
-    story = []
+    def build_story(extra_blank=False):
+        story = []
+        story.extend(build_title_page(STYLES))
+        story.extend(build_copyright_page(STYLES))
+        story.extend(build_dedication_page(STYLES))
+        story.extend(build_epigraph_page(STYLES))
 
-    story.extend(build_title_page(STYLES))
-    story.extend(build_copyright_page(STYLES))
-    story.extend(build_dedication_page(STYLES))
-    story.extend(build_epigraph_page(STYLES))
+        current_part = None
+        for idx, chapter_file in enumerate(CHAPTER_ORDER):
+            filepath = os.path.join(CHAPTERS_DIR, chapter_file)
+            if not os.path.isfile(filepath):
+                print(f"  WARNING: {chapter_file} not found, skipping")
+                continue
 
-    current_part = None
-    for idx, chapter_file in enumerate(CHAPTER_ORDER):
-        filepath = os.path.join(CHAPTERS_DIR, chapter_file)
-        if not os.path.isfile(filepath):
-            print(f"  WARNING: {chapter_file} not found, skipping")
-            continue
+            part = get_part_for_chapter_index(idx)
+            if part and part is not current_part:
+                current_part = part
+                story.extend(build_part_page(part, STYLES))
 
-        part = get_part_for_chapter_index(idx)
-        if part and part is not current_part:
-            current_part = part
-            story.extend(build_part_page(part, STYLES))
+            chapter_info, elements = parse_chapter(filepath)
+            flowables = build_chapter_flowables(chapter_info, elements, STYLES)
 
-        chapter_info, elements = parse_chapter(filepath)
-        flowables = build_chapter_flowables(chapter_info, elements, STYLES)
+            story.append(PageBreak())
+            story.extend(flowables)
 
-        story.append(PageBreak())
-        story.extend(flowables)
+        if extra_blank:
+            story.append(PageBreak())
+            story.append(Spacer(1, 1))
+        return story
 
-    total_content = len(CHAPTER_ORDER)
-    print(f"  Parsed {total_content} chapters")
+    print(f"  Parsed {len(CHAPTER_ORDER)} chapters")
 
-    doc.build(story)
+    # Pass 1: render and read page count from reportlab (keeps fonts intact)
+    doc.build(build_story())
+    page_count = doc.page
+
+    if page_count % 2 == 1:
+        # Pass 2: append one blank page so KDP has an even count
+        doc2 = MirroredDoc(
+            OUTPUT_PATH,
+            pagesize=(TRIM_W, TRIM_H),
+            title="The Fourth Step",
+            author="Kapil Gupta",
+            subject="Psychological Thriller",
+        )
+        doc2.addPageTemplates(templates)
+        doc2.build(build_story(extra_blank=True))
+        page_count = doc2.page
+        parity = f"{page_count - 1} odd -> blank appended -> {page_count} (even, KDP ready)"
+    else:
+        parity = f"{page_count} (even, KDP ready)"
 
     fsize = os.path.getsize(OUTPUT_PATH)
     print(f"\n  Output: {OUTPUT_PATH}")
     print(f"  Size: {fsize / 1024:.0f} KB ({fsize / (1024*1024):.1f} MB)")
-
-    import pikepdf
-    pdf = pikepdf.open(OUTPUT_PATH)
-    page_count = len(pdf.pages)
-    pdf.close()
-    print(f"  Pages: {page_count}")
-
-    if page_count % 2 != 0:
-        print(f"  NOTE: Odd page count ({page_count}). KDP requires even. Will add blank.")
-    else:
-        print(f"  Page count is even — KDP ready")
+    print(f"  Pages: {page_count} - {parity}")
 
     print("\nDone.")
 

@@ -20,12 +20,12 @@ No cayendo. No saltando. Desaparecida. A través de la ventana abierta y hacia l
 
 El aire cambia. La sal y el eucalipto y el olor metálico han desaparecido y solo queda el vacío que deja una habitación cuando alguien acaba de irse. El vacío tiene un sonido. El sonido es la ausencia de sonido. Es lo más alto que jamás habrás dejado de escuchar.
 
-Estás en la ventana. No recuerdas haber caminado. Estás de pie en la ventana y miras hacia abajo. El césped abajo está oscuro y mojado. Hay algo en el césped. Algo pequeño. Algo que era una figura y ahora es una forma y que era una forma y ahora es una quietud que no se mueve y no se mueve y el no-moverse es más ruidoso que cualquier grito podría serlo.
+Estás en la ventana. No recuerdas haber caminado. Estás de pie en la ventana y miras hacia abajo. El césped abajo está oscuro y mojado. Hay algo en el césped. Algo pequeño. Algo que era una figura y ahora es una forma y que era una forma y ahora es una quietud que no se mueve y no se mueve y él no-moverse es más ruidoso que cualquier grito podría serlo.
 
 La figura alta está a tu lado. No la oíste acercarse. Su mano está en tu hombro. Cálida. Firme. El calor de una palma que acaba de hacer algo terrible y aún no ha dejado de estar caliente. Su voz está cerca de tu oreja y dice palabras — bajas, sin prisa, cada una colocada como quien deposita algo frágil.
 
-Y entonces un flash de cámara, en algún lugar detrás de ti, en lo alto de las escaleras. Un estallido blanco y agudo que congela el pasillo durante una milésima de segundo — la figura alta, la ventana vacía, tu rostro vuelto hacia el sonido. La imagen se fija en una película que no será revelada durante veinticinco años.
+Y entonces un flash de cámara, en algún lugar oscuro detrás de ti. Un estallido blanco y agudo que congela el pasillo durante una milésima de segundo — la figura alta, la ventana vacía, el rostro pequeño vuelto hacia la luz. En algún lugar de la casa, un obturador se ha cerrado sobre un fotograma. Permanecerá en la oscuridad mucho tiempo. Esperará a alguien que sepa buscar.
 
-La ventana está vacía. El césped está oscuro y mojado y el aire salado se lleva el silencio lejos de la casa. El silencio se sentará dentro de esta chica durante veinticinco años, encerrado en el lugar donde deberían estar las palabras, calcificándose. No aflojará su agarre hasta que ella vuelva a estar en este pasillo, más mayor. Y el agarre por fin ceda.
+La ventana está vacía. El césped está oscuro y mojado y el aire salado se lleva el silencio lejos de la casa. Lo que estaba aquí se va. Lo que se queda, se queda en el cuerpo.
 
 Tienes doce años. Y eres Rowan Thorne. Y has estado aquí de pie desde entonces.

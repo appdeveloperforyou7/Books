@@ -1,0 +1,18 @@
+{
+  "book": {
+    "title": "VAULT B",
+    "author": "Kapil Gupta",
+    "tagline": "Book One of the Meera Desai Thrillers",
+    "kdp_link": "https://www.amazon.com/VAULT-B-Meera-Desai-Thriller-Kapil/dp/B0H342X53N/"
+  },
+  "mode": "story",
+  "beats": [
+    "Beneath an ancient temple, a vault has stayed sealed for two thousand years.",
+    "When her father's notebook is stolen, Meera Desai is pulled into the mystery.",
+    "Its secret could be worth more than a trillion dollars.",
+    "Some doors were never meant to open."
+  ],
+  "files": [
+    "vault_b_story.mp4"
+  ]
+}

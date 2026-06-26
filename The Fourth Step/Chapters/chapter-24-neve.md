@@ -80,7 +80,7 @@ I turn back to my mother.
 
 "And then you turned around."
 
-My voice has changed. The crying is still happening — tears still falling, chest still tight — but there is something else underneath it now. Something harder. Something that has been growing in the space between the memory and the telling. It is fury. Clean and hot, and it is the first rage I have ever let myself feel toward my mother — because every other time the fury started to rise, the wall was there, the wall she built, the wall that whispered you don't feel this, you don't think this, you are confused, you have such an active imagination.
+My voice has changed. The crying is still happening — tears still falling, chest still tight — but there is something else underneath it now. Something harder. Something that has been growing in the space between the memory and the telling. It is fury. Clean and hot, and it is the first rage I have ever let myself feel towards my mother — because every other time the fury started to rise, the wall was there, the wall she built, the wall that whispered you don't feel this, you don't think this, you are confused, you have such an active imagination.
 
 "You turned around and you saw me. Standing at the top of the stairs. And you crossed the hallway in three steps — you didn't run, you never run, you move fast but you never look panicked — and you knelt in front of me. You knelt down and you put your hands on my face. Your palms were warm. Your palms were steady. You held my face the way you hold it when I have a nightmare. The way you hold it when you want me to listen. The way you hold it when you are about to tell me something that you need me to believe."
 
@@ -104,7 +104,7 @@ I look at her. She is sitting in the armchair and her face is grey. Not composed
 
 But I climbed out. This afternoon. In the hallway. I put my hand on the frame and I climbed out.
 
-"You were confused, sweetheart. You were overtired. You'd been dreaming," she says. The words come out slowly. Carefully. The same words. The same tone. The same technique. Sweetheart. The word hits me like a smell — chamomile and eucalyptus, steeping, the tea she pressed into my hands when I was shaking, the tea I drank every night for twenty years, the tea that meant let me handle this, the tea that quieted everything, the tea that was her love and her control steeped in the same cup. Sweetheart. The lock turning. The wall holding. The same word she used when she knelt in the hallway and began the overwrite.
+"You were confused, sweetheart. You were overtired. You'd been dreaming," she says. The same words. The same tone. The word lands like a smell — chamomile, steeping, the tea that was her love and her control in the same cup. The lock turning. The same word she used when she knelt in the hallway and began the overwrite.
 
 Then her eyes move past me. To Rowan. In the corner. Something shifts in her face — not the performance, not the warmth, but something underneath. Calculation.
 
@@ -144,7 +144,7 @@ My voice is quiet now. The fury is still there — it hasn't gone anywhere, it's
 
 "I saw you push her."
 
-Four words. Four syllables. The simplest sentence I have ever spoken and the hardest. I saw you push her. I. Saw. You. Push. Her. Each word a door closing. Each word a wall coming down — not my wall. Hers. The wall she built around the truth. The wall she maintained for twenty-five years with daily phone calls and clinical terms and the word "sweetheart" used as a lock.
+Four words. The simplest sentence I have ever spoken and the hardest. Not my wall coming down — hers.
 
 Elaine doesn't speak. Her mouth opens and closes and no sound comes out. For the first time tonight — for the first time in my entire life — my mother has nothing to say. The woman who never once, in my whole life, was at a loss. The woman who narrated my childhood so thoroughly I couldn't find my own voice inside it. The woman who told me what I saw and what I didn't see and what I dreamed and what was real and what to fear and what to forget. She is sitting in the armchair and her mouth is open and there is nothing.
 

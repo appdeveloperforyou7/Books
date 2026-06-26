@@ -44,32 +44,6 @@ Bajo la cámara.
 
 El pasillo está oscuro. El frío está en mis pies. La luz de la luna es gris y fina. Estoy de pie en exactamente el lugar correcto y he estado de pie aquí durante veinticinco años.
 
-Estás en el pasillo. Tienes doce años. La moqueta es azul y pica bajo tus pies descalzos y el aire es cálido — cálido de diciembre, cálido de verano, el tipo de cálido que te hace querer tumbarte en el suelo y sentir la casa respirando a tu alrededor. La ventana al final del pasillo está abierta. La bisagra de latón cruje. El aire entra en pulsos lentos, sal y eucalipto y algo más, algo metálico, algo para lo que no tienes palabra porque tienes doce años y tu vocabulario aún no ha crecido lo suficiente para el sabor del miedo.
-
-Oyes un sonido de abajo. De las escaleras. No — de arriba. Del pasillo. Ya estás en el pasillo. Siempre estuviste en el pasillo. El calor, la luz, el crujido de la bisagra, el sabor metálico en la lengua — estos son correctos incluso cuando el orden es equivocado.
-
-Levantas la vista.
-
-El pasillo tiene doce pasos de largo. Al final, frente a la ventana, hay dos formas. Una es alta. Alta como una adulta es alta, alta como tu madre es alta, alta como el mundo es alto cuando tienes doce años y el techo mide dos metros y medio y todo lo que está por encima de ti es más grande que tú. La forma alta está entre tú y la ventana. Te da la espalda. Está bloqueando la luz.
-
-La otra forma es pequeña. Pequeña como tú eres pequeña. Pequeña como Kiera es pequeña — era pequeña, es pequeña, siempre ha sido pequeña. La forma pequeña está más cerca de la ventana. La luz de la luna toca sus bordes. La forma pequeña no se mueve.
-
-La forma alta se mueve.
-
-El brazo de la forma alta se levanta y se extiende y presiona contra la forma pequeña y la forma pequeña se mueve — hacia atrás, hacia la ventana, hacia la ventana abierta, hacia la oscuridad y el aire cálido y la bisagra de latón que está crujiendo — y la forma pequeña extiende la mano. Una mano. Pequeños dedos abiertos de par en par. Uñas enganchándose en el marco de madera. Cinco líneas paralelas de presión contra la pintura vieja. La mano agarra. Los dedos se curvan. Los nudillos se ponen blancos.
-
-La forma alta se mueve otra vez.
-
-Brazo. Mano. Empujón. Atrás. Ventana. Mano. Marco. Agarre. Agarre — perdido.
-
-Y la forma pequeña — la forma pequeña atraviesa la ventana.
-
-No cayó. No saltó. No resbaló ni tropezó ni perdió el equilibrio. Pasó. Como la luz pasa a través del cristal. Como el sonido pasa a través de las paredes. Como una cosa pasa de estar aquí a no estar aquí sin ninguno de los pasos esperados entre medio. Un momento la forma pequeña está en la ventana, agarrada al marco, los dedos blancos, y al momento siguiente la ventana está vacía. El marco está vacío. La mano ha desaparecido. El aire donde estaba la forma es solo aire. El espacio donde los dedos agarraban es solo madera con arañazos — cinco líneas paralelas, descendentes, las marcas de alguien que se aferraba.
-
-Como si el aire se la hubiera llevado. Como si la noche hubiera entrado y la hubiera tirado. Como si la ventana no fuera una ventana sino una puerta que solo abría en una dirección y la forma pequeña la había cruzado y no había vuelto.
-
-Estoy de vuelta en el pasillo. El frío está en mis pies. La luz de la luna es gris. La ventana está sellada. Tengo treinta y siete años y estoy de pie en el mismo sitio y el frío es el mismo.
-
 No miro la ventana.
 
 Vuelvo a mi habitación. Mi portátil está en la cama donde lo dejé. Me siento en el borde del colchón y lo abro y la pantalla me inunda la cara de luz blanca azulada. Inserto la tarjeta de memoria. Abro la fotografía. El pasillo, congelado. El flash, plano y brillante. La ventana al final. Las paredes a cada lado.
@@ -80,7 +54,7 @@ Más allá del marco de aluminio. Más allá de la junta de goma. Más allá de 
 
 Los arañazos están ahí.
 
-Amplío más. Cinco líneas paralelas. La separación es uniforme — la anchura de la mano de una niña. La profundidad es consistente — la profundidad de uñas presionando en madera blanda. La dirección es descendente, de arriba a la derecha a abajo a la izquierda, el ángulo de una mano agarrando desde abajo, un cuerpo siendo arrancado del marco, dedos sujetando y perdiendo el agarre, uña por uña, la madera soportando el último del peso de la persona y luego soltando.
+Amplío más. Cinco líneas paralelas. La separación es uniforme — la anchura de la mano de una niña. La profundidad es consistente — la profundidad de uñas presionando en madera blanda. La dirección es descendente, de arriba a la derecha abajo a la izquierda, el ángulo de una mano agarrando desde abajo, un cuerpo siendo arrancado del marco, dedos sujetando y perdiendo el agarre, uña por uña, la madera soportando el último del peso de la persona y luego soltando.
 
 Amplío hasta que la imagen no es más que grano y píxeles y cinco líneas en la madera. Amplío hasta que los arañazos son lo único en la pantalla. Recorro las líneas con la uña del pulgar a través del cristal de la pantalla. Físicos. Presentes. Aquí, en esta casa, bajo el marco nuevo, esperando. No memoria. No sensación. No el fantasma de un sentimiento. Existen, los mire o no.
 

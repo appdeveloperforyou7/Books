@@ -36,7 +36,7 @@ Neve kommt in die Küche. Ihr Gesicht ist hager. Sie setzt sich mir gegenüber u
 
 Sie meint: Wird sie heute Nacht sterben? Sie meint etwas, das sie nicht sagen kann, weil es, wenn sie es ausspricht, echt wird, und sie hat ihr ganzes Leben lang die Realität gemanagt, indem sie das Ding nicht aussprach, das es echt machen würde. Ich kenne das Muster. Ich habe es bei Zeugen gesehen. Die sorgfältige Vermeidung des Satzes, der Möglichkeit in Fakt verwandelt.
 
-»Sie ist fürs Erste stabil«, sage ich. »Der Zusammenbruch ist konsistent mit dem Fortschreiten. Schmerz, Erschöpfung, Dehydratation. Sie ist vierzig Minuten von einem Hospizbett hierher gefahren, um fünf Frauen mit Beweisen für ein von ihr begangenes Tötungsdelikt zu konfrontieren. Ihr Körper hat Grenzen.«
+»Sie ist fürs Erste stabil«, sage ich. »Der Zusammenbruch ist konsistent mit dem Fortschreiten. Schmerz, Erschöpfung, Dehydratation. Sie ist vierzig Minuten von einem Hospizbett hierhergefahren, um fünf Frauen mit Beweisen für ein von ihr begangenes Tötungsdelikt zu konfrontieren. Ihr Körper hat Grenzen.«
 
 Neve zuckt bei der Direktheit zusammen. Ich mildere es nicht ab.
 
@@ -143,3 +143,5 @@ Aisling betrachtet die Beweise auf dem Tisch. Die Fotografien. Das Gutachten. di
 Sie legt ihre Hände flach auf den Tisch — Handflächen nach unten, Finger gespreizt, das Spiegelbild von Neves Haltung. Eine Frau, die sich an den physischen Beweisen der Gegenwart verankert: der Tisch, die Fotografien, die Oberfläche unter ihren Handflächen. Weil die Alternative ist, untergezogen zu werden.
 
 »Ich habe fünfundzwanzig Jahre lang wissen wollen, wer meine Schwester getötet hat«, sagt Aisling. »Jetzt weiß ich es. Und ich fühle nichts. Ich dachte, ich würde etwas fühlen — eine Befreiung, einen Schwall, ein Tor, das sich öffnet. Ich fühle gar nichts. Nur das Echo all dieses Wollens, das in einem leeren Raum nachhallt, in dem das Wollen einmal lebte.«
+
+Sie sieht auf ihre Hände. Dann, leiser: »Sie hat mir die Haare geflochten. Jeden Morgen, vor der Schule. Sie setzte mich auf die unterste Stufe und flocht sie und sang — sie konnte keinen Ton halten, es war furchtbar — und ich habe ihr kein einziges Mal gesagt, sie soll aufhören.« Eine Pause. Sie schluckt. »Fünfundzwanzig Jahre lang habe ich sie zu einer Akte gemacht. Ich hatte vergessen, dass sie mir die Haare flocht. Ich erinnerte mich erst letzte Woche daran, in einer Kiste mit ihren Sachen. Das habe ich mit ihr gemacht.«

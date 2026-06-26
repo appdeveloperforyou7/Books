@@ -8,7 +8,7 @@ I didn't come here to sleep. I came here to work.
 
 The laptop screen is the only light in the kitchen. I've closed the blinds. The battery is at eighty-one percent. The file is labelled "KDOYLE_INCIDENT" and it is password-protected and it lives on a thumb drive in my toiletry bag and I have read it four hundred times. I read it again.
 
-I open a second file. "RENTAL_ANOMALIES." I added it this afternoon. The lockbox code was changed after my booking. I used my standard code — 7-2-0-4, my mother's birthday reversed. The confirmation email from the rental agency specified 4-1-9-8. But the lockbox opened to 7-2-0-4. Someone accessed the booking after I made it and changed the code to one I would recognize. Someone who knows my systems. Someone who wanted to make sure I got in without difficulty. I have contacted the agency. They have no record of a code change. The property manager says the code was "set by the guest who made the reservation." The guest who made the reservation was me. I did not change the code.
+I open a second file. "RENTAL_ANOMALIES." I added it this afternoon. The lockbox code was changed after my booking. I used my standard code — 7-2-0-4, my mother's birthday reversed. The confirmation email from the rental agency specified 4-1-9-8. But the lockbox opened to 7-2-0-4. Someone accessed the booking after I made it and changed the code to one I would recognise. Someone who knows my systems. Someone who wanted to make sure I got in without difficulty. I have contacted the agency. They have no record of a code change. The property manager says the code was "set by the guest who made the reservation." The guest who made the reservation was me. I did not change the code.
 
 I note this. I underline it. I do not yet understand it.
 
@@ -34,7 +34,7 @@ The timeline begins at 1800 hours, 14 December. Arrival at the Sorrento house. F
 
 2120. Approximate time of the fall. The report says Kiera was found at 2120. The fall would have occurred minutes before. The report does not specify who found her or in what order the girls came upstairs. It notes that Elaine Cassidy "was alerted by a noise and descended from her bedroom." Her bedroom was on the ground floor, according to her statement. She said she had been in bed with a migraine.
 
-But I was the first one up the stairs. I know this because I remember the staircase. I remember the fourth step creaking under my weight. I remember the hallway at the top — the carpet blue and thin, the walls cream, the window at the end open and warm air coming through. I remember standing in that hallway and looking toward the window and seeing —
+But I was the first one up the stairs. I know this because I remember the staircase. I remember the fourth step creaking under my weight. I remember the hallway at the top — the carpet blue and thin, the walls cream, the window at the end open and warm air coming through. I remember standing in that hallway and looking towards the window and seeing —
 
 I close the laptop.
 

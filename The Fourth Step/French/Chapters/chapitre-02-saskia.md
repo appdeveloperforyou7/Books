@@ -52,7 +52,7 @@ Les planchers du couloir grincent. Pas le nouveau blackbutt — le blackbutt est
 
 À dix-sept heures vingt-deux, une voiture se gare dans l'allée. Bleue. Berline moyenne. Plaque de l'État de Victoria. Je suis debout à la fenêtre de ma chambre, rideau écarté de deux centimètres. La voiture s'arrête. Le moteur s'éteint. La conductrice ne sort pas.
 
-La maison d'en face a les lumières allumées. Une femme à la fenêtre de devant, la cinquantaine, qui observe la rue comme les gens observent dans les petites villes — non pas avec curiosité mais avec la surveillance propriétaire de quelqu'un qui regarde cette rue depuis longtemps et considère ses visiteurs comme son affaire. Ses yeux sont sur la berlina bleue. Ses yeux se portent sur ma fenêtre. Je laisse retomber le rideau. Elle n'a rien vu. Elle en a vu assez.
+La maison d'en face à les lumières allumées. Une femme à la fenêtre de devant, la cinquantaine, qui observe la rue comme les gens observent dans les petites villes — non pas avec curiosité mais avec la surveillance propriétaire de quelqu'un qui regarde cette rue depuis longtemps et considère ses visiteurs comme son affaire. Ses yeux sont sur la berlina bleue. Ses yeux se portent sur ma fenêtre. Je laisse retomber le rideau. Elle n'a rien vu. Elle en a vu assez.
 
 J'observe.
 

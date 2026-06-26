@@ -16,7 +16,7 @@ Y Elaine en el sillón. El mejor sillón. El que mira a la puerta.
 
 Eligió esa silla. Entró, evaluó la habitación en un barrido y seleccionó la posición con mejor línea visual, el respaldo más alto, la vista más amplia de cada cara y cada salida. Cuatro segundos. Ha estado haciendo esto durante sesenta y ocho años.
 
-Pero primero — antes de la silla, antes de la representación — se acercó a la mesa de centro. Casualmente. Como alguien ajusta un jarrón o endereza una revista. Su mano alcanzó el sobre de papel manila que contenía el informe policial. Sus dedos tocaron el borde.
+Pero primero — antes de la silla, antes de la representación — se acercó a la mesa de centro. Casualmente. Como alguien ajusta un jarrón o endereza una revista. Su mano alcanzó el sobre de papel manilo que contenía el informe policial. Sus dedos tocaron el borde.
 
 Yo fui más rápida.
 

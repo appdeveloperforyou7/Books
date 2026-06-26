@@ -54,7 +54,7 @@ La puerta trasera se abre. Neve entra desde el jardín, mejillas rosadas por el 
 
 "En realidad," dice Saskia, y su voz es la que usa en los tribunales, medida, precisa, la voz de alguien construyendo un caso — "no es una mala idea."
 
-La miro. Está apoyada contra el marco de la puerta con los brazos cruzados y sus ojos están haciendo lo que hacen — como nos ha estado observando a todas desde que éramos niñas, como si tomara notas para un examen que ninguna sabía que estaba haciendo.
+La miro. Está apoyada contra el marco de la puerta con los brazos cruzados y sus ojos están haciendo lo que hacen — como nos ha estado observando a todas desde que éramos niñas, como si tomara notas para un examen que ninguna sabía qué estaba haciendo.
 
 "Saskia," digo. "Odias los juegos."
 
@@ -62,7 +62,7 @@ La miro. Está apoyada contra el marco de la puerta con los brazos cruzados y su
 
 "Arriba," dice Neve. "Ha estado arriba la mayor parte del día."
 
-"Voy a buscarla." Saskia se va. La cocina está en silencio. Sirvo té. Cate baraja las cartas — sus dedos aún precisos, aún examinando — y Neve se sienta a la mesa y envuelve sus manos alrededor de una taza de la que no ha bebido y somos tres mujeres en una cocina un sábado por la tarde fingiendo que esto es algo normal que gente normal hace.
+"Voy a buscarla." Saskia se va. La cocina está en silencio. Sirvo té. Cate baraja las cartas — sus dedos aún precisos, aun examinando — y Neve se sienta a la mesa y envuelve sus manos alrededor de una taza de la que no ha bebido y somos tres mujeres en una cocina un sábado por la tarde fingiendo que esto es algo normal que gente normal hace.
 
 Rowan aparece. Saskia detrás de ella. Rowan siempre está en otro lugar, incluso cuando está aquí. Sus ojos están suaves, desenfocados. Su pelo está suelto. El anillo de plata en su mano derecha. Se sienta en la silla más cercana a la pared y espera.
 
@@ -128,7 +128,7 @@ Se detiene. Sus manos se presionan planas contra la mesa. Sus nudillos se ponen 
 
 "Puede tener amigos en casa," dice Neve. "Eso es diferente. Es nuestra casa. Eso es — es seguro."
 
-La palabra seguro flota en el aire. Neve la mira y su cara hace algo, un destello, un micro-movimiento, el tipo de cosa que no notaría excepto que he estado observando a Neve desde que teníamos doce porque Neve es la que mantiene todo unido.
+La palabra seguro flota en el aire. Neve la mira y su cara hace algo, un destello, un micromovimiento, el tipo de cosa que no notaría excepto que he estado observando a Neve desde que teníamos doce porque Neve es la que mantiene todo unido.
 
 "Me toca," dice Neve. Se gira hacia Saskia. "Verdad o Reto."
 
@@ -190,7 +190,7 @@ Neve se levanta. Empuja su silla hacia atrás — no violentamente, no dramátic
 
 Lo dice a la habitación. Lo dice a Saskia. Lo dice como dices algo que necesitas que sea verdad — no con convicción sino con desesperación, con la urgencia de alguien que alcanza un salvavidas.
 
-"Eso es conveniente," dice Saskia. Su voz no ha cambiado. Aún plana. Aún precisa. Aún leyendo de un documento. Pero sus ojos — sus ojos son afilados como una hoja es afilada, y están fijos en Neve con veinticinco años de concentración.
+"Eso es conveniente," dice Saskia. Su voz no ha cambiado. Aún plana. Aún precisa. Aun leyendo de un documento. Pero sus ojos — sus ojos son afilados como una hoja es afilada, y están fijos en Neve con veinticinco años de concentración.
 
 "No es conveniente, es — estaba dormida. Estaba abajo. Estaba en el sofá y estaba dormida y me desperté cuando oí — me desperté y todo el mundo estaba —"
 
@@ -206,7 +206,9 @@ La habitación contiene la respiración. Cate está muy quieta. Rowan está obse
 
 La cocina está en silencio. El reloj hace tic. El mar se mueve. Cinco mujeres y una mesa y veinticinco años de silencio finalmente agrietándose.
 
-"Estaba en el sofá," dice Neve. Su voz es controlada. Voz de terapeuta. La que usa cuando se está sujetando con el lenguaje. "Ahí estaba. En el sofá. Me dormí durante la película y me desperté cuando oí el — me desperté y todo el mundo subía corriendo y yo seguí. Eso fue lo que pasó. Eso fue lo que mi madre dijo —"
+Dos versiones de un mismo pasillo. La de Rowan: dos formas en la ventana, luz dorada, un sonido como de algo que termina. La de Saskia: Neve ya debajo de la ventana, ya aterrorizada, antes de que llegara nadie. Ambas sostenidas como verdaderas. Ninguna completa. Recuerdo a un profesor diciéndolo — segundo año, la asignatura de psicología que casi suspendo — que dos personas en la misma habitación recordarán dos habitaciones diferentes. La memoria no es un registro. Es una reconstrucción, y cada testigo construye una habitación ligeramente distinta. Rowan vio las formas. Saskia vio a Neve. Neve no vio nada — según ella. Tres niñas, tres pasillos, una noche. Nadie vio la habitación entera.
+
+"Estaba en el sofá," dice Neve. Su voz es controlada. Voz de terapeuta. La que usa cuando se está sujetando con el lenguaje. "Ahí estaba. En el sofá. Me dormí durante la película y me desperté cuando oí él — me desperté y todo el mundo subía corriendo y yo seguí. Eso fue lo que pasó. Eso fue lo que mi madre dijo —"
 
 Se detiene.
 

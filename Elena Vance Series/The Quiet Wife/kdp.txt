@@ -1,0 +1,79 @@
+KDP PUBLISH FORM DETAILS — THE QUIET WIFE
+============================================
+
+Book: The Quiet Wife
+Series: Elena Vance, Book 1
+Author: [Your name/pen name]
+Language: English
+Publication Date: [Today's date or scheduled]
+Publisher: [Your imprint or self-published]
+Edition: 1
+Content Type: Fiction / Psychological Thriller / Domestic Suspense
+Word Count: ~50,000
+Pages (est.): ~180-200
+
+Categories:
+- Thriller & Suspense / Psychological Thrillers
+- Thriller & Suspense / Domestic Thrillers
+- Fiction / Women's Fiction
+
+Keywords (7):
+1. executive coach
+2. psychological thriller
+3. domestic suspense
+4. unreliable narrator
+5. marriage secrets
+6. surveillance capitalism
+7. Gone Girl readalike
+
+Description (HTML-ready):
+Elena Vance reads people for a living — the tilt of a shoulder, the weight of a silence, the half-second pause between feeling something and doing something. She's spent fifteen years teaching powerful men to control that pause. She's never once failed to see it coming. Until her husband begins to slip away from her in small, ordinary ways. And the wrong note she files on a Tuesday afternoon — a land deal on West 44th, paperwork "already done before they started" — pulls her into a world where the smartest person in the room is the one who's been watching all along. The Quiet Wife is the first novel in the Elena Vance series. It is for readers who loved the domestic tension of Gone Girl, the structural innovation of The Silent Patient, and the pacing of The Housemaid — and who want a protagonist whose greatest strength is the thing that blinds her.
+
+Series Description (for KDP series field):
+The Elena Vance series follows executive coach Elena Vance, whose gift for reading people — the micro-expressions, the silences, the half-second pause before a lie — turns her into an unlikely investigator of white-collar crime. Each book pairs a new room that needs reading with the cost of reading it. Book 1: The Quiet Wife. Book 2: [TBD — the next room is already waiting.]
+
+Comp Titles: Gone Girl (Flynn), The Silent Patient (Michaelides), The Housemaid (McFadden)
+
+============================================
+FORMAT 1: eBook (Kindle)
+============================================
+Format: Kindle eBook
+File: .mobi / .epub / .kpf (KDP upload)
+ISBN: Free KDP-assigned ISBN (or your own)
+DRM: Enabled (recommended)
+Price Tier: $2.99-$4.99 (optimal for 50k thriller)
+KDP Select: Enroll (recommended for launch - 90-day exclusivity)
+
+============================================
+FORMAT 2: Paperback
+============================================
+Format: Paperback
+Trim Size: 5.5" x 8.5" (standard thriller) or 6" x 9"
+Page Count: ~180-200 (est. for 50k words at 250 w/pg)
+Paper Color: Cream (recommended for fiction)
+Cover Finish: Matte
+ISBN: Must be unique from eBook (KDP provides free one)
+Bleed: No bleed (unless cover art requires it)
+Price: $12.99-$15.99 (cost + royalty; KDP prints on demand)
+
+============================================
+FORMAT 3: Hardcover
+============================================
+Format: Hardcover
+Trim Size: 5.5" x 8.5" or 6" x 9"
+Page Count: ~180-200
+Paper Color: Cream
+Cover Finish: Matte with jacket (or no jacket, printed case)
+ISBN: Must be unique from eBook + paperback
+Price: $22.99-$27.99
+Dust Jacket: Recommended (KDP hardcover supports it)
+
+============================================
+NOTES
+============================================
+- 3 ISBNs required - one per format. KDP assigns free ones at upload.
+- Cover files must be separate uploads per format:
+  - eBook: 2560x1600 px minimum
+  - Paperback/Hardcover: calculated from trim + page count + bleed
+- Series potential scored 9/10 in ratings - consider adding "Book 1 of the Elena Vance Series" on cover and subtitle field.
+- Positioned against Gone Girl, The Silent Patient, The Housemaid in ratings file.

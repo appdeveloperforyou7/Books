@@ -160,7 +160,7 @@ The silence stretches. I can hear the wind against the window, the tick of the h
 
 "I was asleep," I say. "I was downstairs the whole time."
 
-The words come out practiced. Because they are practiced. Because I have said them so many times they have the polish of stones worn smooth by water. Saskia watches me. Her expression doesn't change. But something in her jaw tightens; a muscle, a fraction of movement, the kind of tell a barrister files without commenting on.
+The words come out practised. Because they are practised. Because I have said them so many times they have the polish of stones worn smooth by water. Saskia watches me. Her expression doesn't change. But something in her jaw tightens; a muscle, a fraction of movement, the kind of tell a barrister files without commenting on.
 
 "Of course you were," she says.
 
@@ -226,7 +226,7 @@ I sit on the bed and I call Liam.
 
 "How's the house?"
 
-"Different. You wouldn't recognize it."
+"Different. You wouldn't recognise it."
 
 I believe this when I say it. The house is different. New paint, new furniture, new carpet, new light. It is different. It is completely different.
 
@@ -254,7 +254,7 @@ The dark is complete. No streetlights on this road. A coastal street in winter, 
 
 I lie still and I listen to the house.
 
-I've explained hypnagogic auditory sensitivity to enough clients to recognize it. The mind in the dark amplifies sound. The auditory cortex increases its gain in the absence of visual input. Every creak and tick and groan is physics — timber expanding and contracting with temperature, pipes cooling, the house adjusting to the cold the way a body adjusts to a change in air pressure. Normal. Neurological. Nothing more than that.
+I've explained hypnagogic auditory sensitivity to enough clients to recognise it. The mind in the dark amplifies sound. The auditory cortex increases its gain in the absence of visual input. Every creak and tick and groan is physics — timber expanding and contracting with temperature, pipes cooling, the house adjusting to the cold the way a body adjusts to a change in air pressure. Normal. Neurological. Nothing more than that.
 
 Floorboards creak in the hallway. Once. Twice. The sound of the house settling its weight. The renovation replaced the surface boards but not the subfloor — the new blackbutt visible over the old bones the moment I walked in. The new blackbutt on top, the old bones underneath. The bones remember.
 

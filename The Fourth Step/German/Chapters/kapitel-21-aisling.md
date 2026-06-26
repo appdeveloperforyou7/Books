@@ -36,7 +36,7 @@ Das Wort hängt in der Luft. Schwester. Das gewöhnlichste Wort der Sprache und 
 
 Ich stehe auf. Ich habe zu lange gesessen. Sitzen ist eine passive Haltung. Sitzen ist Cates Haltung. Cate saß und lächelte und stellte ihre bedächtigen Fragen und ließ andere reden. Aisling steht. Aisling steht seit fünfundzwanzig Jahren.
 
-»Ich war acht, als Kiera starb. Acht Jahre alt. Sie war zwölf. Sie war meine große Schwester und sie war das Zentrum meines Universums und sie ging zu einer Pyjama-Party bei einer Freundin und sie kam nie wieder nach Hause.«
+»Ich war acht, als Kiera starb. Acht Jahre alt. Sie war zwölf. Sie war meine große Schwester und sie war das Zentrum meines Universums und sie ging zu einer Pyjamaparty bei einer Freundin und sie kam nie wieder nach Hause.«
 
 Meine Stimme ist anders. Ich kann sie hören. Sie auch. Die Cate-Stimme — glatt, abgemessen, London-berührt, grammatikalisch perfekt — ist weg. Was bleibt, ist roh. Australische Vokale, scharf und flach. Kurze Sätze, wenn ich wütend bin. Längere, wenn ich es nicht bin, wenn ich trauere, wenn die Worte von dem Ort kommen, an dem Kiera noch lebt.
 
@@ -56,7 +56,7 @@ Meine Stimme bricht am letzten Wort. Nicht Cates kontrollierter, abgemessener St
 
 ---
 
-»Ich wurde Journalistin wegen Kiera. Ich war zwölf — im selben Alter, in dem sie starb — als ich es beschloss. Ich wollte Dinge herausfinden. Ich wollte wissen, was mit meiner Schwester passiert war. Die offizielle Geschichte ergab keinen Sinn. Ein Mädchen fällt aus einem Fenster bei einer Pyjama-Party. Ein Unfall. Ein tragischer, furchtbarer Unfall. Das haben alle gesagt. Die Polizei hat es gesagt. Die Zeitungen haben es gesagt. Die Familien haben es gesagt. Meine Eltern haben es gesagt. Aber Unfälle hinterlassen Spuren und die Spuren in Kieras Fall stimmten nicht mit der Geschichte überein.«
+»Ich wurde Journalistin wegen Kiera. Ich war zwölf — im selben Alter, in dem sie starb — als ich es beschloss. Ich wollte Dinge herausfinden. Ich wollte wissen, was mit meiner Schwester passiert war. Die offizielle Geschichte ergab keinen Sinn. Ein Mädchen fällt aus einem Fenster bei einer Pyjamaparty. Ein Unfall. Ein tragischer, furchtbarer Unfall. Das haben alle gesagt. Die Polizei hat es gesagt. Die Zeitungen haben es gesagt. Die Familien haben es gesagt. Meine Eltern haben es gesagt. Aber Unfälle hinterlassen Spuren und die Spuren in Kieras Fall stimmten nicht mit der Geschichte überein.«
 
 Ich greife in die Gesäßtasche meiner Jeans. Ich ziehe mein Handy heraus. Ich öffne den verschlüsselten Ordner — den Ordner, der auf jedem Handy gelebt hat, das ich in den letzten sechs Jahren besaß, den Ordner mit Zwei-Faktor-Authentifizierung und einem zwölfstelligen Passwort, das Kieras Geburtstag rückwärts ist. Ich wische zu den Fotografien.
 
@@ -72,7 +72,7 @@ Ich halte das Handy hin. Saskia nimmt es. Sie betrachtet den Bildschirm. Ihr Ges
 
 Rowan weint. Nicht laut. Nicht dramatisch. Tränen laufen lautlos ihr kantiges Gesicht hinunter wie Regen auf ungewischtem Glas, ihr Kiefer gesetzt, ihre Augen auf dem Handy in meiner Hand. Sie wischt sie nicht ab. Sie lässt sie fallen und jede ist ein kleines, stilles Urteil.
 
-»Ich erhalte seit zwei Jahren anonyme Hinweise,« sage ich. »E-Mails. Keine Absenderadresse. Über Server geleitet, die ich nicht zurückverfolgen kann. Der erste kam mit einer Fotografie des ursprünglichen polizeilichen Vorfallberichts. Der zweite kam mit einem Namen: Elaine Cassidy. Der dritte kam mit einer Frage: ‚Wer war der Erwachsene in dem Haus in dieser Nacht?'«
+»Ich erhalte seit zwei Jahren anonyme Hinweise,« sage ich. »E-Mails. Keine Absenderadresse. Über Server geleitet, die ich nicht zurückverfolgen kann. Der erste kam mit einer Fotografie des ursprünglichen polizeilichen Vorfallberichts. Der zweite kam mit einem Namen: Elaine Cassidy. Der dritte kam mit einer Frage: ‚Wer war der Erwachsene in dem Haus in dieser Nacht?' Der vierte kam später, und er war anders. Eine Telefonnummer. Der Name eines Mannes. Und sechs Worte: »Sie telefonierte oben.« Ein Telefonat, das sie nicht hätte führen sollen. Ein Grund für ein zwölfjähriges Mädchen, nach oben zu kommen und sie zu finden. Ich habe die Nummer nie zurückverfolgt. Aber da wusste ich, dass Kiera nicht nach oben gegangen war, um die Sterne zu betrachten.«
 
 Neves Hand verkrampft sich um das Geländer. Ihre Knöchel werden weiß. Sie klammert sich am Holz fest, wie Imogen heute Morgen ihre Gabel festhielt — ohne es zu merken, ohne es zu fühlen, der Körper reagiert auf etwas, das der Geist noch nicht eingeholt hat.
 
@@ -120,11 +120,11 @@ Sie nickt. Einmal. Eine einzelne, präzise Anerkennung. Keine Vergebung. Keine A
 
 Ich wende mich an sie alle. Der Raum ist klein und die Nacht ist dunkel und der Wind drückt gegen die Fenster und ich stehe in einem Haus, in dem meine Schwester starb, und ich tue nicht mehr so, und die Erleichterung ist so scharf, dass sie schneidet.
 
-»Ich bin nicht hierher gekommen, um irgendjemandem Leid zuzufügen,« sage ich. »Ich bin nicht hier, um jemanden zu bestrafen. Ich bin hier, weil meine Schwester zwölf Jahre alt war und glücklich und lustig und die besten Geistergeschichten erzählte und ihre Zimmertür immer vor meiner Nase schloss und sagte: ‚Geh weg, Aisling, wir machen große-Mädchen-Dinge.' Ich saß oft vor ihrer Tür und hörte ihr Lachen mit ihren Freundinnen. Ich drückte mein Ohr gegen das Holz und wünschte, ich wäre auf der anderen Seite.«
+»Ich bin nicht hierhergekommen, um irgendjemandem Leid zuzufügen,« sage ich. »Ich bin nicht hier, um jemanden zu bestrafen. Ich bin hier, weil meine Schwester zwölf Jahre alt war und glücklich und lustig und die besten Geistergeschichten erzählte und ihre Zimmertür immer vor meiner Nase schloss und sagte: ‚Geh weg, Aisling, wir machen große-Mädchen-Dinge.' Ich saß oft vor ihrer Tür und hörte ihr Lachen mit ihren Freundinnen. Ich drückte mein Ohr gegen das Holz und wünschte, ich wäre auf der anderen Seite.«
 
 Meine Stimme ist nicht ruhig. Ich lasse sie zittern. Aislings Stimme zittert. Cates Stimme zitterte nie. Cates Stimme war eine Mauer. Aislings Stimme ist ein Fenster — zerbrochen, offen, lässt alles hindurch.
 
-»Sie war meine Schwester. Meine große Schwester. Und sie ging zu einer Pyjama-Party in diesem Haus am vierzehnten Dezember und sie kam nie wieder nach Hause und meine Familie zerfiel und ich habe jeden Tag seitdem damit verbracht herauszufinden, warum.«
+»Sie war meine Schwester. Meine große Schwester. Und sie ging zu einer Pyjamaparty in diesem Haus am vierzehnten Dezember und sie kam nie wieder nach Hause und meine Familie zerfiel und ich habe jeden Tag seitdem damit verbracht herauszufinden, warum.«
 
 Ich sehe Neve an. Sie sieht mich an, als wäre ich ein Geist. Als wäre Kiera in den Raum getreten in einem anderen Gesicht.
 

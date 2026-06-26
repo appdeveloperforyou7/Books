@@ -22,7 +22,7 @@ I go back to the hallway and I photograph the staircase from below — the rise 
 
 My ring. Kiera's ring. On my right hand. Silver.
 
-I photograph the scratch. I zoom in on the screen. The mark is consistent with metal on wood — pressure applied laterally, a single pass, the depth of a band being dragged across the surface. It could be from the renovation. It could be from a mover, a tool, a belt buckle. It could be from a hand gripping the bannister in the dark, a silver ring catching the wood as the body moved fast, fast toward the top of the stairs, fast toward the hallway, fast toward the window at the end.
+I photograph the scratch. I zoom in on the screen. The mark is consistent with metal on wood — pressure applied laterally, a single pass, the depth of a band being dragged across the surface. It could be from the renovation. It could be from a mover, a tool, a belt buckle. It could be from a hand gripping the bannister in the dark, a silver ring catching the wood as the body moved fast, fast towards the top of the stairs, fast towards the hallway, fast towards the window at the end.
 
 I photograph it and move on.
 

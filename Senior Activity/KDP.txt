@@ -1,0 +1,345 @@
+Health, Fitness & Dieting › Aging › Aging & Longevity
+Crafts, Hobbies & Home › Crafts & Hobbies › Activity Books
+Self-Help › Memory Improvement
+
+
+180+ large-print brain games and puzzles for adults and seniors.
+This book is packed with word search, sudoku, word scrambles, trivia,
+finish-the-phrase, mazes, and relaxing coloring pages - plus a bonus page of
+traditional Home Remedies & Wellness Wisdom.
+
+Inside you will find:
+- Extra-large, high-contrast print that is easy on the eyes
+- Three gentle levels: Easy, Medium, and Challenger
+- Full solutions grouped at the back
+- A generous 8.5 x 11 layout with one big puzzle per page
+- Two pages of traditional Home Remedies & Wellness Wisdom
+
+A thoughtful gift for mom, dad, or grandparents.
+
+
+
+
+
+
+
+
+
+
+
+================================================================================
+KDP PUBLISHING SPEC SHEET  —  BRIGHT MIND LARGE-PRINT PUZZLES & BRAIN GAMES
+Paperback only (10-volume series)
+Generated for the books in:  D:\Kapil\Books\Senior Activity\output\
+================================================================================
+
+================================================================================
+A. SERIES OVERVIEW  (same for all 10 books)
+================================================================================
+Series name (create a KDP "Series" page first):  Bright Mind Large-Print Puzzles & Brain Games
+Series type:                                      Multi-volume (10 volumes)
+Publisher / Imprint:                              Bright Mind Press
+Author (use the same name on every volume):       Bright Mind Press   (or your pen name)
+Language:                                         English
+Audience:                                         Adults / Seniors
+Adult content:                                    NO
+Reading age:                                      18+   (general adult)
+
+
+================================================================================
+B. PAPERBACK PRINT OPTIONS  (choose identically on every volume)
+================================================================================
+Trim size:                8.5 x 11 in  (21.59 x 27.94 cm)   [KDP label: "8.5 x 11 in"]
+Interior ink & paper:     Black & white interior with cream paper
+Bleed (interior):         NO BLEED   (content sits inside margins)
+Cover finish:             Matte   (recommended for this premium feel)  — or Glossy
+Cover:                    Upload a separate full-wrap cover PDF (see section D)
+
+
+================================================================================
+C. MANUSCRIPT (INTERIOR) FILE  —  per volume
+================================================================================
+Upload file:        output\<theme>\<theme>-interior.pdf
+Page setup:         No bleed
+File format:        PDF, fonts embedded (Atkinson Hyperlegible Next is embedded)
+Image resolution:   Vector/300 DPI (meets KDP minimum)
+Pages must match:   Enter the EXACT page count from the table below.
+Notes:              - Interior is trim-sized (8.5 x 11). Do NOT add bleed to the interior.
+                    - Page count includes the cover/title/copyright/content + solutions.
+
+
+================================================================================
+D. COVER FILE  —  per volume
+================================================================================
+Upload file:        output\<theme>\<theme>-cover.pdf
+Cover type:         Full wrap (back + spine + front), WITH 0.125" bleed on all outer edges
+Spine text:         Shown (each book is > 100 pp, so a spine is required and present)
+
+Full-wrap cover size =  2 x trim_w + 2 x bleed + spine   by   trim_h + 2 x bleed
+  Width  = 17.25" + spine
+  Height = 11.25"   (fixed for all)
+
+SPINE WIDTH (cream paper) = page_count x 0.0025"
+
+Per-book cover dimensions:
+  Volume  Theme                 Pages   Spine     Cover size (W x H)
+  ------  -------------------   -----   ------    ------------------
+   1      Gardens...Birds         172    0.430"    17.68 x 11.25 in
+   2      Food & Kitchen Fav.     173    0.433"    17.68 x 11.25 in
+   3      Travel & Places         172    0.430"    17.68 x 11.25 in
+   4      Faith, Hope & Insp.     172    0.430"    17.68 x 11.25 in
+   5      Holidays & Family       172    0.430"    17.68 x 11.25 in
+   6      Music & Movies          172    0.430"    17.68 x 11.25 in
+   7      Nature & Great Outd.    172    0.430"    17.68 x 11.25 in
+   8      Animals & Pets          172    0.430"    17.68 x 11.25 in
+   9      Sports, Games & Hobb.   172    0.430"    17.68 x 11.25 in
+  10      Wellness & Healthy L.   172    0.430"    17.68 x 11.25 in
+
+ISBN barcode zone:  Bottom-right 2" x 1.2" of the BACK cover is left clear (already done).
+
+
+================================================================================
+E. CONTENT DETAILS  —  per volume
+================================================================================
+For each book, enter in KDP "Content" > Paperback details:
+
+..............................
+TITLE & SUBTITLE  (use exactly)
+..............................
+Each book's Title and Subtitle follow this pattern:
+
+  Title:     Large-Print Memory Games, Brain Puzzles & Activities for Seniors : <Theme Title>
+  Subtitle:  Volume <N> of the Bright Mind Large-Print Puzzles & Brain Games
+
+Per-book exact strings:
+  Vol 1  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Gardens, Flowers & Birds
+         Subtitle: Volume 1 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 2  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Food & Kitchen Favorites
+         Subtitle: Volume 2 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 3  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Travel & Places Around the World
+         Subtitle: Volume 3 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 4  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Faith, Hope & Inspiration
+         Subtitle: Volume 4 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 5  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Holidays & Family Celebrations
+         Subtitle: Volume 5 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 6  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Music & Movies
+         Subtitle: Volume 6 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 7  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Nature & the Great Outdoors
+         Subtitle: Volume 7 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 8  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Animals & Pets
+         Subtitle: Volume 8 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 9  Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Sports, Games & Hobbies
+         Subtitle: Volume 9 of the Bright Mind Large-Print Puzzles & Brain Games
+  Vol 10 Title:    Large-Print Memory Games, Brain Puzzles & Activities for Seniors : Wellness & Healthy Living
+         Subtitle: Volume 10 of the Bright Mind Large-Print Puzzles & Brain Games
+
+Author:        Bright Mind Press    (same on all)
+Language:      English
+Series:        Bright Mind Large-Print Puzzles & Brain Games
+Series number: <the volume number 1-10>
+Edition:       First Edition   (optional)
+
+..............................
+DESCRIPTION  (copy/paste per book; replace <THEME> and keep puzzle count)
+..............................
+180+ large-print brain games and puzzles for adults and seniors.
+<THEME> is packed with word search, sudoku, word scrambles, trivia,
+finish-the-phrase, mazes, and relaxing coloring pages - plus a bonus page of
+traditional Home Remedies & Wellness Wisdom.
+
+Inside you will find:
+- Extra-large, high-contrast print that is easy on the eyes
+- Three gentle levels: Easy, Medium, and Challenger
+- Full solutions grouped at the back
+- A generous 8.5 x 11 layout with one big puzzle per page
+- Two pages of traditional Home Remedies & Wellness Wisdom
+
+A thoughtful gift for mom, dad, or grandparents.
+
+(Replace <THEME> with the theme title, e.g. "Gardens, Flowers & Birds".)
+
+..............................
+KEYWORDS  (7 fields, MAX 50 characters each - all below are <=50)
+..............................
+Use these 7 on every book (swap the theme word in keyword #7):
+
+  1.  large print activity book for seniors               (37)
+  2.  brain games puzzles for seniors                     (31)
+  3.  word search sudoku crossword large print            (39)
+  4.  memory puzzle book gift for mom dad grandma         (44)
+  5.  cognitive activities elderly mazes trivia           (41)
+  6.  jumbo print puzzle book for adults                  (38)
+  7.  <theme-words> large print puzzles                   (e.g. "gardens flowers birds puzzles" = 32)
+
+Theme word suggestions for keyword #7:
+  V1  gardens flowers birds puzzles
+  V2  food kitchen recipes puzzles
+  V3  travel places world puzzles
+  V4  faith hope inspiration puzzles
+  V5  holidays family celebrations puzzles  (use: "holiday family celebration puzzles" = 34)
+  V6  music movies puzzles
+  V7  nature outdoors puzzles
+  V8  animals pets puzzles
+  V9  sports games hobbies puzzles
+  V10 wellness healthy living puzzles
+
+..............................
+CATEGORIES  (choose up to 3 - KDP path format)
+..............................
+  1.  Nonfiction > Games & Activities > Puzzles & Games > Word Search
+  2.  Nonfiction > Games & Activities > Puzzles & Games
+  3.  Nonfiction > Crafts, Hobbies & Home
+
+
+================================================================================
+F. ISBN & PUBLISHING OPTIONS
+================================================================================
+ISBN (print):
+  Option A - FREE KDP ISBN:   Recommended to start. Publisher shows as
+                              "Independently published" and Expanded Distribution
+                              is NOT available.
+  Option B - BUY YOUR OWN:    ~$125 (Bowker) or use KDP's $99 option. Lets you set
+                              "Bright Mind Press" as the imprint and unlocks
+                              Expanded Distribution.
+
+  Placeholder already printed in each book's copyright page: 978-0-000000-00-0
+  -> If you buy real ISBNs, update frontmatter.py DISCLAIMER/ISBN block and
+     rebuild that volume so the printed ISBN matches the KDP ISBN.
+
+Publication date:   Set to your launch day (or leave as KDP default = live date).
+Pre-order:          Not available for paperback (paperbacks go live once approved).
+
+
+================================================================================
+G. PRICING & ROYALTY  (US marketplace)
+================================================================================
+KDP print cost (B&W, cream, 8.5x11 LARGE FORMAT, 109+ pages):
+  8.5x11 is a higher per-page tier (~$0.030/page) than 6x9.
+  cost = fixed + (pages x ~$0.030)
+  172 pages -> ~$6.00      173 pages -> ~$6.03
+  (Confirm the exact figure on KDP's Print Cost calculator.)
+
+Royalty (60% rule):  Royalty = (List Price x 0.60) - Print Cost
+  Minimum list price (60%) = print cost / 0.60  ->  ~$10.00
+  *** KDP enforces a ~$10.00 floor; you CANNOT price below it at 60%. ***
+
+  List price   Your royalty (print ~$6.00)
+  ----------   ----------------------------
+   $10.00         $0.00   (minimum KDP allows)
+   $10.99         $0.59
+   $11.99         $1.19
+   $12.99         $1.79
+   $13.99         $2.39
+   $14.99         $2.99
+   $15.99         $3.59
+   $16.99         $4.19
+   $17.99         $4.79
+   $19.99         $5.99
+
+Recommendation:
+  - List price:    $14.99  (royalty ~$2.99) - good margin, still competitive
+  - Launch/promo:  $12.99  (royalty ~$1.79) - lowest sensible, above the $10 floor
+  - Premium feel:  $16.99  (royalty ~$4.19)
+  - Keep the SAME price on all 10 volumes for a clean series.
+
+Expanded Distribution (40% rule):  Royalty = (List Price x 0.40) - Print Cost
+  - Requires your OWN ISBN (free KDP ISBN blocks it).
+  - Higher floor: min list = print / 0.40  ->  ~$15.00
+  - To actually earn on ED, price >= $16.99 (royalty ~$0.80 at $16.99).
+
+Other marketplaces:
+  - KDP auto-suggests UK / DE / FR / etc. from the US price; review their
+    minimums (they differ and can be higher per marketplace).
+
+
+================================================================================
+H. STEP-BY-STEP LAUNCH CHECKLIST (do once per volume, repeat x10)
+================================================================================
+[ ] 1. Create the SERIES page first (Bookshelf > + Create > Series).
+        Name: "Bright Mind Large-Print Puzzles & Brain Games"
+[ ] 2. Add a new Paperback title.
+[ ] 3. CONTENT TAB:
+        - Title / Subtitle / Author / Language  (section E)
+        - Series + volume number
+        - Description, 7 keywords, 3 categories
+        - Adult content: No
+        - Publication date
+[ ] 4. CONTENT TAB - Print ISBN: choose Free KDP ISBN or your own.
+[ ] 5. PAPERBACK CONTENT TAB:
+        - Interior: upload <theme>-interior.pdf
+        - Bleed: "No bleed"
+        - Paper: Cream ; Ink: Black & white
+        - Enter the EXACT page count (172 or 173).
+        - Upload cover: <theme>-cover.pdf
+        - Launch Previewer; check spine width, no cover text in spine fold,
+          barcode zone clear, all pages render.
+[ ] 6. PRICING TAB: enter US list price (e.g. $7.99), confirm royalties,
+        choose Expanded Distribution (own ISBN only).
+[ ] 7. Save and "Publish". Repeat for the next 9 volumes.
+[ ] 8. After approval, link each volume to the Series page.
+
+
+================================================================================
+I. GOTCHAS / REMINDERS
+================================================================================
+- Page count typed in KDP MUST equal the interior PDF page count exactly.
+  (All are 172, except Food = 173.) If you ever rebuild, recount.
+- Interior = NO BLEED; Cover = WITH BLEED. Don't mix them up.
+- Spine is mandatory because every book is over 100 pages; the cover PDF already
+  includes correctly sized spine text. If you regenerate covers, keep page_count
+  in sync or the spine won't fit.
+- Keep Author + Series + cover style identical across all 10 for series branding.
+- The "Home Remedies & Wellness Wisdom" pages carry a not-medical-advice
+  disclaimer (already printed on the page); no extra disclaimer needed in the
+  KDP description, but it doesn't hurt to add: "Remedies are shared for cultural
+  enjoyment and general wellbeing, not as medical advice."
+- BISAC categories above are the KDP browse paths; pick the closest matches if
+  exact strings shift in the KDP picker.
+- If buying real ISBNs, update the placeholder 978-0-000000-00-0 in
+  src/frontmatter.py and rebuild before uploading.
+
+================================================================================
+J. SERIES PAGE DESCRIPTION  (for the KDP "Series" page, not the individual book)
+================================================================================
+Copy/paste this into the Series description field when you create the series:
+
+-------------------------------------------------------------------------------
+Keep the mind sharp and the memory active with the Bright Mind Large-Print
+Puzzles & Brain Games series - a ten-volume collection of gentle brain exercise
+designed especially for adults and seniors.
+
+Every volume delivers 180+ puzzles and activities in clear, extra-large print
+on easy-to-read 8.5 x 11 pages, so you can focus on the fun, not the font. Each
+book offers three friendly levels - Easy, Medium, and Challenger - with full
+solutions grouped at the back. There is no timer and no score, just the simple
+pleasure of solving.
+
+Inside every volume you will find:
+- Word searches, sudoku, crosswords, and word scrambles
+- Trivia and finish-the-phrase challenges
+- Relaxing mazes and coloring pages
+- A bonus two-page spread of traditional Home Remedies & Wellness Wisdom
+
+Choose the theme that delights you most - or collect all ten:
+
+  1. Gardens, Flowers & Birds
+  2. Food & Kitchen Favorites
+  3. Travel & Places Around the World
+  4. Faith, Hope & Inspiration
+  5. Holidays & Family Celebrations
+  6. Music & Movies
+  7. Nature & the Great Outdoors
+  8. Animals & Pets
+  9. Sports, Games & Hobbies
+ 10. Wellness & Healthy Living
+
+A thoughtful, screen-free gift for mom, dad, or grandparents - perfect for
+birthdays, holidays, recovery, or everyday relaxation.
+-------------------------------------------------------------------------------
+
+Keywords reflected: large print, brain games, memory, puzzles, seniors,
+activities, sudoku, word search, crossword, gift, cognitive.
+
+================================================================================
+END OF SPEC SHEET
+================================================================================

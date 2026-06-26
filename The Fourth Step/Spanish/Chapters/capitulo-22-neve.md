@@ -60,7 +60,7 @@ La sonrisa es pequeña. Cálida. Llega a sus ojos. La sonrisa que me ha dado tod
 
 "Hola, cariño," dice. "Creo que es hora de que hablemos de esa noche."
 
-Cariño. La palabra encuentra la línea de falla para la que fue diseñada. La palabra que usó en el pasillo. Arrodillada. Sus manos en mi cara. *No viste nada, cariño.* La misma palabra. La misma voz. La misma calidez. Está en el umbral de esta casa — esta casa donde empujó a una niña de doce años por una ventana, esta casa donde se arrodilló y reescribió mi memoria, esta casa donde sostuvo la historia durante veinticinco años — y está sonriendo y llamándome cariño.
+Cariño. La palabra-llave. La que usó en el pasillo cuando se arrodilló y me reescribió. Está en el umbral de esta casa — la casa donde empujó a una niña de doce años por una ventana, se arrodilló y reconstruyó mi memoria, y sostuvo la historia durante veinticinco años — y está sonriendo y llamándome cariño.
 
 No me aparto. No hablo. Me quedo en el umbral y ella está en el escalón y nos miramos. El aire frío se mueve entre nosotras. El aire salado. El aire que estaba aquí aquella noche, caliente en lugar de frío, verano en lugar de invierno, diciembre en lugar de julio. Estaba de pie en este umbral hace veinticinco años cuando llegó la ambulancia. Estaba de pie aquí cuando llegó la policía. Estaba de pie aquí cuando sacaron a Kiera y me sostuvo la mano y les dijo a los agentes que estaba dormida, que estaba abajo, que no vi nada, mi hija estaba dormida en el sofá todo el tiempo.
 

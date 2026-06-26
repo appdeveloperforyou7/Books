@@ -84,7 +84,7 @@ Cate lächelt. »Wahrheit.«
 
 Die Frage landet. Nicht wie eine Frage in einem Spiel landet — leicht, witzig. Die Frage landet wie eine Hand auf einer Schulter. Hart. Absichtlich. Bleibend.
 
-Cate blinzelt nicht. »Ich habe Panik vor dem Meer. Ironisch, wenn man bedenkt, dass ich in der Nähe aufgewachsen bin. Ich hatte als Kind einen Albtraum — ich träumte, ich würde unter Wasser gezogen — und seitdem konnte ich nie wieder schwimmen.« Sie sagt es. Fast einstudiert. Wie eine Rede, die sie vorbereitet hat.
+Cate blinzelt nicht. »Ich habe Panik vor dem Meer. Ironisch, wenn man bedenkt, dass ich in der Nähe aufgewachsen bin. Ich hatte als Kind einen Alptraum — ich träumte, ich würde unter Wasser gezogen — und seitdem konnte ich nie wieder schwimmen.« Sie sagt es. Fast einstudiert. Wie eine Rede, die sie vorbereitet hat.
 
 »Ich liebe das Meer«, sage ich, weil jemand etwas sagen muss. »Sophie würde im Wasser leben, wenn ich sie ließe.«
 
@@ -205,6 +205,8 @@ Der Raum hält den Atem an. Cate ist sehr still. Rowan beobachtet mit ihren Kame
 »Du warst oben. Du warst im Flur. Du standst genau dort, wo du heute Morgen gestanden bist, als du zusammengebrochen bist. Unter dem Fenster. Du hast mich angesehen, und ich hielt an, und ich sah dich an, und du sahst — dein Gesicht war nicht überrascht, Neve. Du warst nicht überrascht. Du warst bereits entsetzt. Du warst entsetzt, bevor ich ankam. Als hättest du bereits etwas gesehen. Als hättest du schon lange genug dort gestanden, um es zu sehen.«
 
 Die Küche ist still. Die Uhr tickt. Das Meer bewegt sich. Fünf Frauen und ein Tisch und fünfundzwanzig Jahre Stille, die endlich Risse bekommt.
+
+Zwei Versionen eines Flurs. Rowans: zwei Gestalten am Fenster, goldenes Licht, ein Geräusch wie etwas, das endet. Saskias: Neve bereits unter dem Fenster, bereits entsetzt, bevor jemand ankam. Beide als wahr dargestellt. Keine vollständig. Ich erinnere mich, dass ein Dozent das sagte — im zweiten Jahr, das Psychologie-Seminar, in dem ich fast durchgefallen wäre —, dass zwei Menschen in demselben Raum sich an zwei verschiedene Räume erinnern. Erinnerung ist keine Aufzeichnung. Sie ist eine Rekonstruktion, und jeder Zeuge baut einen etwas anderen Raum. Rowan sah die Gestalten. Saskia sah Neve. Neve sah nichts — so sagt sie. Drei Mädchen, drei Flure, eine Nacht. Niemand sah den ganzen Raum.
 
 »Ich lag auf dem Sofa«, sagt Neve. Ihre Stimme ist kontrolliert. Therapeutenstimme. Die Stimme, die sie verwendet, wenn sie sich mit Sprache zusammenhält. »Da war ich. Ich lag auf dem Sofa. Ich bin während des Films eingeschlafen, und ich bin aufgewacht, als ich das — ich bin aufgewacht, und alle rannten nach oben, und ich bin gefolgt. Das ist passiert. Das ist, was meine Mutter —«
 

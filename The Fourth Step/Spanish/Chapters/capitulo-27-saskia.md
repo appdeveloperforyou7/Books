@@ -143,3 +143,5 @@ Aisling mira la evidencia en la mesa. Las fotografías. El informe. Las imágene
 Coloca sus manos planas sobre la mesa — palmas abajo, dedos extendidos, el reflejo de la postura de Neve. Una mujer anclándose a la evidencia física del presente: la mesa, las fotografías, la superficie bajo sus palmas. Porque la alternativa es ser arrastrada bajo.
 
 "Pasé veinticinco años queriendo saber quién mató a mi hermana," dice Aisling. "Ahora lo sé. Y no siento nada. Pensé que sentiría algo — una liberación, una oleada, una puerta abriéndose. No siento nada en absoluto. Solo el eco de todo ese deseo, reverberando en un espacio vacío donde el deseo solía vivir."
+
+Mira sus manos. Luego, más bajo: "Me trenzaba el pelo. Cada mañana, antes del colegio. Me sentaba en el escalón de abajo y me lo trenzaba y cantaba — no tenía oído, era espantoso — y nunca le dije que parara." Una pausa. Traga. "Durante veinticinco años la convertí en un expediente. Olvidé que me trenzaba el pelo. Solo lo recordé la semana pasada, en una caja de sus cosas. Eso es lo que le hice."

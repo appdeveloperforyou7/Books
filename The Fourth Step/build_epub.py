@@ -2,7 +2,7 @@ import os
 import re
 from ebooklib import epub
 
-BASE = r"D:\Kapil\Books\PsyThr"
+BASE = r"D:\Kapil\Books\The Fourth Step"
 CHAPTERS_DIR = os.path.join(BASE, "Chapters")
 OUTPUT_PATH = os.path.join(BASE, "Output", "The_Fourth_Step_Kindle.epub")
 

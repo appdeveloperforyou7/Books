@@ -60,7 +60,7 @@ Das Lächeln ist klein. Warm. Es erreicht ihre Augen. Das Lächeln, das sie mir 
 
 »Hallo, Liebling,« sagt sie. »Ich glaube, es ist Zeit, dass wir über diese Nacht sprechen.«
 
-Liebling. Das Wort findet die Verwerfungslinie, für die es gemacht ist. Das Wort, das sie im Flur verwendete. Knien. Ihre Hände auf meinem Gesicht. *Du hast nichts gesehen, Liebling.* Dasselbe Wort. Dieselbe Stimme. Dieselbe Wärme. Sie steht auf der Schwelle dieses Hauses — dieses Hauses, in dem sie ein zwölfjähriges Mädchen durch ein Fenster gestoßen hat, dieses Hauses, in dem sie kniete und meine Erinnerung umschrieb, dieses Hauses, in dem sie die Geschichte fünfundzwanzig Jahre lang gehalten hat — und sie lächelt und nennt mich Liebling.
+Liebling. Das Schlosswort. Das, das sie im Flur verwendete, als sie kniete und mich umschrieb. Sie steht auf der Schwelle dieses Hauses — des Hauses, in dem sie ein zwölfjähriges Mädchen durch ein Fenster gestoßen hat, kniete und meine Erinnerung umbaute, und die Geschichte fünfundzwanzig Jahre lang hielt — und sie lächelt und nennt mich Liebling.
 
 Ich trete nicht beiseite. Ich spreche nicht. Ich stehe in der Tür und sie steht auf der Stufe und wir sehen einander an. Die kalte Luft bewegt sich zwischen uns. die Salzluft. Die Luft, die in jener Nacht hier war, warm statt kalt, Sommer statt Winter, Dezember statt Juli. Sie stand vor fünfundzwanzig Jahren in dieser Tür, als der Krankenwagen kam. Sie stand hier, als die Polizei kam. Sie stand hier, als sie Kiera heraus trugen und sie hielt meine Hand und sagte den Beamten, ich hätte geschlafen, ich wäre unten gewesen, ich hätte nichts gesehen, meine Tochter hätte die ganze Zeit auf dem Sofa geschlafen.
 

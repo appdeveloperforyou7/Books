@@ -34,7 +34,7 @@ Meine Stimme klingt falsch. Dünn. Gedehnt. Er hört es sofort — er hört es i
 
 »Was ist los? Geht es um deine Mum?«
 
-Geht es um deine Mum. Meine Rippen spannen sich an. Die Frage dehnt sich in ihnen aus. Ich lache fast. Fast. Geht es um meine Mum. Ja. Es geht voll und ganz um meine Mum. Meine Mum, die ein zwölfjähriges Mädchen durch ein Fenster geschubst hat und dann fünfundzwanzig Jahre lang mich vergessen ließ, dass ich es gesehen habe. Meine Mum, die vierzig Minuten von einem Hospiz hierher fuhr, um sich in einen Sessel zu setzen und die Erzählung ein letztes Mal zu kontrollieren. Meine Mum, die gerade alles zugegeben hat. Meine Mum, die im Nebenraum weint und deren Tränen echt sind.
+Geht es um deine Mum. Meine Rippen spannen sich an. Die Frage dehnt sich in ihnen aus. Ich lache fast. Fast. Geht es um meine Mum. Ja. Es geht voll und ganz um meine Mum. Meine Mum, die ein zwölfjähriges Mädchen durch ein Fenster geschubst hat und dann fünfundzwanzig Jahre lang mich vergessen ließ, dass ich es gesehen habe. Meine Mum, die vierzig Minuten von einem Hospiz hierherfuhr, um sich in einen Sessel zu setzen und die Erzählung ein letztes Mal zu kontrollieren. Meine Mum, die gerade alles zugegeben hat. Meine Mum, die im Nebenraum weint und deren Tränen echt sind.
 
 »Ich brauche dich — kannst du Lily sagen, dass ich sie liebe?«
 
@@ -114,7 +114,7 @@ Meine Mutter ist eine Mörderin.
 
 Meine Mutter ist meine Mutter.
 
-Ich halte sie gleichzeitig. So wie ein Kliniker eine Doppeldiagnose hält — beide vorhanden, beide real, keine auf die andere reduzierbar. Ich wähle nicht zwischen ihnen. Ich lasse keine von beiden fallen. Ich halte nur. Das Gewicht von jeder. Das Gewicht von beidem. Die Frau, die ein Kind durch ein Fenster schubste, ist die Frau, die mir das Fahrradfahren beibrachte. Die Frau, die mich fünfundzwanzig Jahre lang manipulierte, ist die Frau, die die ganze Nacht bei mir aufblieb, als ich mit dreizehn meine erste Migräne hatte, einen kalten Lappen auf meine Stirn drückte, mir über das Haar strich und sagte: »Es ist alles gut, Liebling, ich bin da.« Die Frau, die gerade zugab, Kiera Doyle getötet zu haben, ist die Frau, die vierzig Minuten von einem Hospiz hierher fuhr, weil sie wusste, dass die Wahrheit kommen würde und hier sein wollte, als sie ankam. Sie wollte sie kontrollieren. Sie wollte sie managen. Sie wollte mein Gesicht ein letztes Mal halten und mir sagen, was ich gesehen hatte.
+Ich halte sie gleichzeitig. So wie ein Kliniker eine Doppeldiagnose hält — beide vorhanden, beide real, keine auf die andere reduzierbar. Ich wähle nicht zwischen ihnen. Ich lasse keine von beiden fallen. Ich halte nur. Das Gewicht von jeder. Das Gewicht von beidem. Die Frau, die ein Kind durch ein Fenster schubste, ist die Frau, die mir das Fahrradfahren beibrachte. Die Frau, die mich fünfundzwanzig Jahre lang manipulierte, ist die Frau, die die ganze Nacht bei mir aufblieb, als ich mit dreizehn meine erste Migräne hatte, einen kalten Lappen auf meine Stirn drückte, mir über das Haar strich und sagte: »Es ist alles gut, Liebling, ich bin da.« Die Frau, die gerade zugab, Kiera Doyle getötet zu haben, ist die Frau, die vierzig Minuten von einem Hospiz hierherfuhr, weil sie wusste, dass die Wahrheit kommen würde und hier sein wollte, als sie ankam. Sie wollte sie kontrollieren. Sie wollte sie managen. Sie wollte mein Gesicht ein letztes Mal halten und mir sagen, was ich gesehen hatte.
 
 Und sie konnte es nicht.
 
@@ -148,7 +148,7 @@ Das Wort kommt von irgendwo tiefer als die Sprache. Von dem Ort, an dem die Zwö
 
 Sie reagiert nicht.
 
-Der Raum bricht hinter mir auf. Saskia ist bereits an ihrem Handy — 000, Krankenwagen, Sorrento, die Adresse gesprochen mit der Präzision einer Frau, die Adressen beruflich angibt. Imogen steht mit den Händen vor dem Mund. Rowan ist aus ihrer Ecke aufgestanden, die Kamera vergessen, die dunklen Augen auf Elaines stiller Gestalt fixiert. Aisling neben mir — wann ist sie hierher gekommen? — ihre Hand greift nach Elaines Handgelenk, zwei Finger drücken unter den Daumen, suchen nach einem Puls.
+Der Raum bricht hinter mir auf. Saskia ist bereits an ihrem Handy — 000, Krankenwagen, Sorrento, die Adresse gesprochen mit der Präzision einer Frau, die Adressen beruflich angibt. Imogen steht mit den Händen vor dem Mund. Rowan ist aus ihrer Ecke aufgestanden, die Kamera vergessen, die dunklen Augen auf Elaines stiller Gestalt fixiert. Aisling neben mir — wann ist sie hierhergekommen? — ihre Hand greift nach Elaines Handgelenk, zwei Finger drücken unter den Daumen, suchen nach einem Puls.
 
 »Sie atmet«, sagt Aisling. »Schwach. Sie atmet.«
 

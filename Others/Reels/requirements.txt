@@ -1,0 +1,8 @@
+# Minimal, free, local-only dependencies.
+# Image composition + typography
+pillow>=10.0.0
+
+# Optional: video reels (MP4). Requires ffmpeg on PATH.
+# If you only need image shorts (PNG), you can skip moviepy/numpy.
+moviepy>=2.0.0
+numpy>=1.24

@@ -206,6 +206,8 @@ La pièce retient son souffle. Cate est très immobile. Rowan regarde avec ses y
 
 La cuisine est silencieuse. L'horloge tic-taque. La mer ondoie. Cinq femmes et une table et vingt-cinq ans de silence qui se fissurent enfin.
 
+Deux versions d'un même couloir. Celle de Rowan : deux silhouettes à la fenêtre, lumière dorée, un son comme quelque chose qui se termine. Celle de Saskia : Neve déjà sous la fenêtre, déjà terrifiée, avant que quiconque n'arrive. Les deux tenues pour vraies. Aucune complète. Je me souviens d'un prof qui le disait — en deuxième année, le cours de psychologie que j'ai failli rater — que deux personnes dans la même pièce se souviendront de deux pièces différentes. La mémoire n'est pas un enregistrement. C'est une reconstruction, et chaque témoin bâtit une pièce légèrement différente. Rowan a vu les silhouettes. Saskia a vu Neve. Neve n'a rien vu — d'après elle. Trois filles, trois couloirs, une nuit. Personne n'a vu la pièce entière.
+
 « J'étais sur le canapé, » dit Neve. Sa voix est contrôlée. Voix de thérapeute. La voix qu'elle utilise quand elle se maintient ensemble avec le langage. « C'est là que j'étais. J'étais sur le canapé. Je me suis endormie pendant le film et je me suis réveillée quand j'ai entendu le — je me suis réveillée et tout le monde montait et j'ai suivi. C'est ce qui s'est passé. C'est ce que ma mère a — »
 
 Elle s'arrête.

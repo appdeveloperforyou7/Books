@@ -44,32 +44,6 @@ I lower the camera.
 
 The hallway is dark. The cold is in my feet. The moonlight is grey and thin. I am standing in exactly the right place and I have been standing here for twenty-five years.
 
-You are standing in the hallway. You are twelve. The carpet is blue and scratchy under your bare feet and the air is warm — December warm, summer warm, the kind of warm that makes you want to lie on the floor and feel the house breathing around you. The window at the end of the hallway is open. The brass hinge is creaking. The air comes through in slow pulses, salt and eucalyptus and something else, something metallic, something you don't have a word for because you are twelve and your vocabulary has not yet grown large enough for the taste of fear.
-
-You hear a sound from below. From the stairs. No — from above. From the hallway. You are already in the hallway. You were always in the hallway. The warmth, the light, the creak of the hinge, the taste of metal on your tongue — these are right even when the order is wrong.
-
-You look up.
-
-The hallway is twelve steps long. At the end, in front of the window, there are two shapes. One is tall. Tall the way an adult is tall, tall the way your mother is tall, tall the way the world is tall when you are twelve and the ceiling is eight feet high and everything above you is larger than you. The tall shape is between you and the window. Its back is to you. It is blocking the light.
-
-The other shape is small. Small the way you are small. Small the way Kiera is small — was small, is small, has always been small. The small shape is closer to the window. The moonlight touches its edges. The small shape is not moving.
-
-The tall shape moves.
-
-The arm of the tall shape lifts and extends and presses against the small shape and the small shape moves — backward, toward the window, toward the open window, toward the dark and the warm air and the brass hinge that is creaking — and the small shape reaches out. A hand. Small fingers splayed wide. Nails catching the wooden frame. Five parallel lines of pressure against old paint. The hand grips. The fingers curl. The knuckles whiten.
-
-The tall shape moves again.
-
-Arm. Hand. Push. Back. Window. Hand. Frame. Grip. Grip — gone.
-
-And the small shape — the small shape goes through the window.
-
-Not fell. Not jumped. Not slipped or stumbled or lost her balance. Went. The way light goes through glass. The way sound goes through walls. The way a thing goes from being here to being not-here without any of the expected steps between. One moment the small shape is at the window, gripping the frame, fingers white, and the next moment the window is empty. The frame is empty. The hand is gone. The air where the shape was is just air. The space where the fingers gripped is just wood with scratches — five parallel lines, downward, the marks of someone holding on.
-
-As if the air took her. As if the night reached in and pulled her through. As if the window was not a window but a door that opened in one direction only and the small shape went through it and did not come back.
-
-I am back in the hallway. The cold is in my feet. The moonlight is grey. The window is sealed. I am thirty-seven and I am standing in the same spot and the cold is the same.
-
 I don't look at the window.
 
 I go back to my room. My laptop is on the bed where I left it. I sit on the edge of the mattress and I open it and the screen fills my face with blue-white light. I insert the memory card. I open the photograph. The hallway, frozen. The flash, flat and bright. The window at the end. The walls on either side.

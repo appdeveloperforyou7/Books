@@ -118,7 +118,7 @@ Deux mots. Pas de douceur. Pas de « mon cœur ». La voix de la directrice. La 
 
 « Il est en sécurité », dit Rowan.
 
-La mâchoire d'Elaine se crispe. Pendant un instant — un seul instant — le masque tombe entièrement. Pas le deuil. Pas la confusion. Une évaluation froide, rapide. L'appareil contient vingt-quatre photographies. Les dernières choses que Kiera a vues à travers un viseur. Y compris, peut-être, une photographie au flash d'un couloir avec deux silhouettes, une grande et une petite, prise instants avant la poussée. L'appareil est une preuve. L'appareil est un témoin qui n'oublie pas. L'appareil est la seule chose qu'Elaine ne peut pas manipuler.
+La mâchoire d'Elaine se crispe. Pendant un instant — un seul instant — le masque tombe entièrement. Pas le deuil. Pas la confusion. Une évaluation froide, rapide. L'appareil contient vingt-quatre photographies. Les dernières choses que Kiera a vues à travers un viseur. Y compris, peut-être, une photographie au flash d'un couloir avec deux silhouettes, une grande et une petite, prise instantes avant la poussée. L'appareil est une preuve. L'appareil est un témoin qui n'oublie pas. L'appareil est la seule chose qu'Elaine ne peut pas manipuler.
 
 « Donne-le-moi. »
 
@@ -144,7 +144,7 @@ Ma voix est calme maintenant. La fureur est toujours là — elle n'est pas part
 
 « Je t'ai vue la pousser. »
 
-Quatre mots. Quatre syllabes. La phrase la plus simple que j'aie jamais prononcée et la plus difficile. Je t'ai vue la pousser. Je. T'ai. Vue. La. Pousser. Chaque mot une porte qui se ferme. Chaque mot un mur qui tombe — pas mon mur. Le sien. Le mur qu'elle a construit autour de la vérité. Le mur qu'elle a entretenu pendant vingt-cinq ans avec des appels quotidiens et des termes cliniques et le mot « mon cœur » utilisé comme une serrure.
+Quatre mots. La phrase la plus simple que j'aie jamais prononcée et la plus difficile. Pas mon mur qui tombe — le sien.
 
 Elaine ne parle pas. Sa bouche s'ouvre et se ferme et aucun son ne sort. Pour la première fois ce soir — pour la première fois de toute ma vie — ma mère n'a rien à dire. La femme qui n'a jamais, de toute ma vie, été en perte de mots. La femme qui a narré mon enfance si complètement que je ne pouvais pas trouver ma propre voix à l'intérieur. La femme qui me disait ce que j'avais vu et ce que je n'avais pas vu et ce que j'avais rêvé et ce qui était réel et ce qu'il fallait craindre et ce qu'il fallait oublier. Elle est assise dans le fauteuil et sa bouche est ouverte et il n'y a rien.
 

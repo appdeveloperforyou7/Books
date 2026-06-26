@@ -6,7 +6,7 @@ Das Timing ist absichtlich. Achtzehn Uhr. Das Licht draußen schwindet — graue
 
 Ich weiß nicht, wohin Cate geht, wenn sie dieses Haus verlässt. Ich weiß nicht, wen sie anruft. Ich habe Fragen — die siebzehnte bis dreiundzwanzigste, stündlich aktualisiert — aber sie können warten. Was jetzt zählt, ist der Raum und die Frauen darin.
 
-Ich habe das Wohnzimmer arrangiert. Nicht dekoriert. Arrangiert. Der niedrige Holztisch in der Mitte ist geräumt von Imogens Bananenbrot, den Tim Tams, den Mandeln in ihrer präzisen Reihe. An ihrer Stelle: die Dokumentenhülle. Steifes A4. Archivqualität. Säurefrei. Der Inhalt liegt flach auf der Oberfläche — der Polizeibericht, zwei Seiten, fotokopiert vom Original bei der Wache in Sorrento. Die Autopsie-Zusammenfassung, eine Seite. Das Tatortfoto, ein Abzug, glänzend, zwanzig mal fünfundzwanzig Zentimeter. Und Rowans Fotografien des Fensterrahmens, in der höchsten Auflösung, die die Maschine leisten konnte, die Kratzer im originalen Holz unter dem Aluminium zeigend.
+Ich habe das Wohnzimmer arrangiert. Nicht dekoriert. Arrangiert. Der niedrige Holztisch in der Mitte ist geräumt von Imogens Bananenbrot, den Tim Tams, den Mandeln in ihrer präzisen Reihe. An ihrer Stelle: die Dokumentenhülle. Steifes A4. Archivqualität. Säurefrei. Der Inhalt liegt flach auf der Oberfläche — der Polizeibericht, zwei Seiten, fotokopiert vom Original bei der Wache in Sorrento. Die Autopsiezusammenfassung, eine Seite. Das Tatortfoto, ein Abzug, glänzend, zwanzig mal fünfundzwanzig Zentimeter. Und Rowans Fotografien des Fensterrahmens, in der höchsten Auflösung, die die Maschine leisten konnte, die Kratzer im originalen Holz unter dem Aluminium zeigend.
 
 Die Beweisanordnung. Fünfundzwanzig Jahre Zusammentragung. Sie passen auf einen Couchtisch. Der Tod eines Mädchens, reduziert auf Dokumente, die man in einen Manila-Umschlag stecken und für den Preis einer Briefmarke verschicken könnte. Die Disproportion ist obszön.
 
@@ -56,11 +56,11 @@ Ich lasse das Wort stehen. Bilateral. Klinisch. Präzise. Ein Wort, das verbirgt
 
 Ich pausiere. Lasst die Zahl stehen. Zwei Meter. Die Entfernung von diesem Tisch zur Küchentür. Der Körper eines Kindes, geschleudert.
 
-»Ich habe eine biomechanische Rekonstruktion eingeholt. Ein forensischer Physiker berechnete die Parameter aus dem Bericht — Kieras Gewicht, zweiundvierzig Kilo; ihre Größe, ein Meter zweiundvierzig; die Fensterhöhe, die Fensterbankposition, der Landepunkt. Sein Ergebnis: um eine Zweimeter-Landeentfernung aus diesem Fenster zu erzeugen, muss die auf den Körper angewandte horizontale Kraft in etwa einem festen beidhändigen Schubs entsprechen. Kein Klaps. Kein Reflex. Ein absichtlicher, kräftiger Schubs. Die Art von Kraft, die ein Erwachsener anwendet, wenn er jemanden aus dem Weg haben will.«
+»Ich habe eine forensische Rekonstruktion eingeholt. Die erforderliche Kraft war ein absichtlicher, beidhändiger Schubs. Kein Klaps. Kein Reflex. Die Art von Kraft, die ein Erwachsener anwendet, um jemanden aus dem Weg zu schaffen.«
 
 Ich hebe das Tatortfoto. Dasjenige, das in dem Manila-Umschlag unter meiner Tür ankam. Ich halte es dem Raum zugewandt.
 
-»Dieses Foto wurde in der Nacht aufgenommen, als Kiera starb. Es zeigt den oberen Flur, wie er war. Cremefarbene Wände. Blauer Teppich. Das Originalfenster — Holzrahmen, Flügel, offen, in die Dezembernacht hinausgeschlagen.«
+»Dieses Foto wurde in der Nacht aufgenommen, als Kiera starb. Es zeigt den oberen Flur, wie er war. cremefarbene Wände. Blauer Teppich. Das Originalfenster — Holzrahmen, Flügel, offen, in die Dezembernacht hinausgeschlagen.«
 
 Ich drehe das Foto, damit sie das Bild sehen können.
 
@@ -80,7 +80,7 @@ Ich dränge nicht darauf. Noch nicht. Zuerst die Beweise. Die Fragen später.
 
 »Das Kind in dieser Spiegelung ist in keinem Zeugenprotokoll aufgeführt. Alle vier überlebenden Mädchen wurden als unten befindlich protokolliert, als die Polizei eintraf. Aber dieses Foto zeigt ein Kind im oberen Flur. Oben an der Treppe. Während der Tatortaufnahme. Jemand war da. Jemand, der nie erfasst wurde.«
 
-Ich lege das Foto auf den Tisch. Neben den Polizeibericht. Neben die Autopsie-Zusammenfassung. Neben Rowans Kratzerfotos. Die Beweisanordnung ist vollständig: die Blutergüsse, die einen Schubs beweisen, die Kratzer, die beweisen, dass Kiera um ihr Leben kämpfte, und das Foto, das beweist, dass jemand im Flur war, der nicht dort hätte sein sollen.
+Ich lege das Foto auf den Tisch. Neben den Polizeibericht. Neben die Autopsiezusammenfassung. Neben Rowans Kratzerfotos. Die Beweisanordnung ist vollständig: die Blutergüsse, die einen Schubs beweisen, die Kratzer, die beweisen, dass Kiera um ihr Leben kämpfte, und das Foto, das beweist, dass jemand im Flur war, der nicht dort hätte sein sollen.
 
 Ich betrachte die Anordnung. Fünfundzwanzig Jahre. Die Zahlen auf den Seiten haben sich nicht geändert. Die Worte haben sich nicht geändert. Das Einzige, was sich geändert hat, ist der Raum und die Frauen darin und die Tatsache, dass ich endlich, endlich die Worte laut ausspreche vor den Menschen, die sie hören müssen.
 
@@ -110,11 +110,11 @@ Die Stille ist nicht die Stille eines leeren Raums. Es ist die Stille eines Raum
 
 Ich stehe in der Stille. Ich lasse sie halten. Ich fülle sie nicht. Stille ist der Raum, in dem Zeugen brechen, und ich habe fünfundzwanzig Jahre auf diesen Raum gewartet, und ich werde ihn nicht überstürzen.
 
-Sergeant Bill Tran, der meinem Vater einen Gefallen schuldete, reichte mir 2006 diese Seiten über einen Schreibtisch hinüber und sagte: »Bist du sicher wegen der Sache, Liebling?« Die Vierzehnjährige, die in die Polizeistation in Sorrento ging und gesagt bekam, sie solle es ruhen lassen. Die siebenundvierzig Lesungen. Die Zeitleiste, dreiundzwanzig Mal von Hand aktualisiert. Der vierzehnmonatige FOI-Rechtsstreit. Das Foto von Kiera bei einem Schulsportfest — Knie hoch, Haar fliegend, mitten im Schritt, am Leben. Alles komprimiert in diesen Moment: vier Frauen, ein Couchtisch, und der Klang von niemandem, der atmet.
+Sergeant Bill Tran, der meinem Vater einen Gefallen schuldete, reichte mir 2006 diese Seiten über einen Schreibtisch hinüber und sagte: »Bist du sicher wegen der Sache, Liebling?« Die Vierzehnjährige, die in die Polizeistation in Sorrento ging und gesagt bekam, sie solle es ruhen lassen. Die siebenundvierzig Lesungen. Die Zeitleiste, dreiundzwanzigmal von Hand aktualisiert. Der vierzehnmonatige FOI-Rechtsstreit. Das Foto von Kiera bei einem Schulsportfest — Knie hoch, Haar fliegend, mitten im Schritt, am Leben. Alles komprimiert in diesen Moment: vier Frauen, ein Couchtisch, und der Klang von niemandem, der atmet.
 
 Aus dem Flur ein Geräusch. Die Haustür öffnet sich. Schritte auf den Dielen — leicht, gleichmäßig, ungestüm. Eine Pause.
 
-Cate steht im Türrahmen des Wohnzimmers. Ihre Handtasche hängt über der Schulter. Ihr Mantel ist zugeknöpft. Ihr Gesicht ist ruhig und gefasst, und sie sieht die Dokumente, die auf dem Tisch ausgebreitet sind — den Polizeibericht, die Autopsie-Zusammenfassung, das Tatortfoto mit der gespiegelten Gestalt, die Kratzerfotos — und sie hat es gehört. Den letzten Satz. Ich kann es in ihren Augen sehen, die in der Zeit zwischen einem Atemzug und dem nächsten von ruhig zu wachsam gewechselt sind, eine Verschiebung, so schnell, dass sie fast unmerklich ist.
+Cate steht im Türrahmen des Wohnzimmers. Ihre Handtasche hängt über der Schulter. Ihr Mantel ist zugeknöpft. Ihr Gesicht ist ruhig und gefasst, und sie sieht die Dokumente, die auf dem Tisch ausgebreitet sind — den Polizeibericht, die Autopsiezusammenfassung, das Tatortfoto mit der gespiegelten Gestalt, die Kratzerfotos — und sie hat es gehört. Den letzten Satz. Ich kann es in ihren Augen sehen, die in der Zeit zwischen einem Atemzug und dem nächsten von ruhig zu wachsam gewechselt sind, eine Verschiebung, so schnell, dass sie fast unmerklich ist.
 
 Sie steht im Türrahmen. Sie tritt nicht ein. Sie geht nicht. Sie hat mich sagen hören: jemand in diesem Haus weiß, wer.
 

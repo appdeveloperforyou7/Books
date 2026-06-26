@@ -48,7 +48,7 @@ Saskia beobachtet mich. Sie hat mich immer beobachtet. Schon mit zwölf, diese d
 
 Ich folge ihr in die Küche. Sie ist neu — Steinarbeitsplatte, weiße Schränke, moderne Armaturen. Eine wunderschöne, moderne, renovierte Küche und nichts an ihr erinnert mich an die alte Küche. Nichts. Die alte Küche hatte gelbe Fliesen und einen Kühlschrank, der summte, und einen Kalender an der Wand mit dem Bild eines Leuchtturms.
 
-An der Wand neben der Hintertür hängt ein Rahmen. Ein generischer Druck — ein Aquarell der Küste, ganz in blau und weiß, die Art von Ding, die Vermietungsfirmen aufhängen, damit ein Haus so aussieht, als gehöre es an diesen Ort. Aber der Rahmen ist alt. Älter als die Renovierung. Das Holz ist dunkel und die Kanten abgewetzt, und der Haken, an dem er hängt, wurde ummalt, nicht abgenommen und neu aufgehängt. Dieser Rahmen war hier, bevor es die neuen Wände gab. Dieser Rahmen war hier, als die Küche eine andere Küche war.
+An der Wand neben der Hintertür hängt ein Rahmen. Ein generischer Druck — ein Aquarell der Küste, ganz in Blau und weiß, die Art von Ding, die Vermietungsfirmen aufhängen, damit ein Haus so aussieht, als gehöre es an diesen Ort. Aber der Rahmen ist alt. Älter als die Renovierung. Das Holz ist dunkel und die Kanten abgewetzt, und der Haken, an dem er hängt, wurde ummalt, nicht abgenommen und neu aufgehängt. Dieser Rahmen war hier, bevor es die neuen Wände gab. Dieser Rahmen war hier, als die Küche eine andere Küche war.
 
 Über dem Spülbecken ist ein Fenster. Es ist dasselbe Fenster. Dieselbe Position, dieselbe Größe. Das Glas ist neu, aber das Fenster ist am selben Ort.
 

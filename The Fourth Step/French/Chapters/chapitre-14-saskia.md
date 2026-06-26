@@ -36,7 +36,7 @@ Je passe à la section des blessures. « Légers hématomes constatés sur le ha
 
 J'ai lu cette phrase quarante-sept fois. Hématomes bilatéraux sur le haut du dos et les épaules. Les deux côtés. Symétriques. Ce n'est pas un schéma de chute. C'est un schéma de préhension — mains posées sur les épaules par derrière, doigts enlaçant le haut des bras, la force d'une poussée comprimant les lits capillaires sous la peau. Le rapport dit « compatible. » Hargreaves l'a noté et a écrit « compatible » et l'a classé. Techniquement défendable. Fondamentalement faux.
 
-Le résumé d'autopsie. « Cause du décès : traumatisme crânien contus compatible avec une chute de hauteur. Mode de décès : accidentel. » La fiche de l'équipe paramédicale enregistre la position du corps : à environ deux mètres de la base du mur. Deux mètres. Un enfant tombant en arrière depuis une fenêtre atterrit à un demi-mètre du mur au maximum. La gravité tire droit vers le bas. Deux mètres exigent une force horizontale. Une poussée.
+Le résumé d'autopsie. « Cause du décès : traumatisme crânien contus compatible avec une chute de hauteur. Mode de décès : accidentel. » La fiche de l'équipe paramédicale enregistre la position du corps : à environ deux mètres de la base du mur. Deux mètres. Un enfant tombant en arrière depuis une fenêtre atterrit à un demi-mètre du mur au maximum. La gravité tire droite vers le bas. Deux mètres exigent une force horizontale. Une poussée.
 
 Jusqu'ici.
 
@@ -98,9 +98,7 @@ Je la retourne. Je regarde le reflet à nouveau. L'enfant en haut de l'escalier.
 
 La photographie vient de quelqu'un qui a accès à des documents de scène de crime inédits. Quelqu'un qui était dans cette maison pendant que j'étais dans la cuisine avec Neve. Quelqu'un qui voulait que je voie cette image précise à ce moment précis. Quelqu'un qui mène une enquête parallèle à la mienne, avec accès à des preuves que je n'ai jamais vues et des sources que je n'ai pas identifiées.
 
-Cate. Cate Morrow, qui pose des questions comme une journaliste et s'est trompée sur le prénom de Kiera et savait à qui appartenait cette maison avant qu'Imogen le lui dise. Cate, qui est arrivée ce matin et nous observe toutes avec l'attention de quelqu'un qui rassemble des preuves plutôt que de se réunir avec des amies.
-
-Ou quelqu'un d'autre. Quelqu'un que je n'ai pas identifié. Quelqu'un qui tire les ficelles à distance.
+Quelqu'un qui a accès à des preuves non publiées. Quelqu'un dans cette maison, ou qui agit à travers elle. Cate est la réponse évidente — les questions, l'histoire bancale, la façon dont elle connaissait la maison — mais les réponses évidentes sont celles auxquelles je me fie le moins. Ça pourrait être Cate. Ça pourrait être quelqu'un qui se sert de Cate. Ça pourrait être quelqu'un que je n'ai pas encore trouvé.
 
 J'archive la question — dix-septième — et je regarde la photographie à nouveau.
 

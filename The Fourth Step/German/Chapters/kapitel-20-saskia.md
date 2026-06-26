@@ -140,7 +140,15 @@ Cates Gesicht verändert sich nicht. Eine zu Unrecht beschuldigte Person würde 
 
 »Ich habe Ihnen die Wahrheit gesagt.«
 
-»Sie haben mir eine Geschichte erzählt. Die Wahrheit und eine Geschichte sind verschiedene Dinge. Ich kenne den Unterschied. Es ist mein Beruf, den Unterschied zu kennen.«
+»Sie haben mir eine Geschichte erzählt. Die Wahrheit und eine Geschichte sind verschiedene Dinge.«
+
+»Sie wissen nicht, was ich Ihnen erzählt habe.«
+
+»Ich weiß, dass Sie nicht neun waren, als es passierte. Ich weiß, dass Sie nie in London gelebt haben. Ich weiß, dass Sie dieses Haus betreten und eine Küche erkannt haben, in der Sie nie gewesen waren.«
+
+»Sie wissen nichts über das, was ich erkenne.«
+
+»Ich kenne Ihren Namen.«
 
 Sie sieht mich an. Wirklich — nicht der gespielte Augenkontakt der letzten zwei Tage, sondern etwas Roheres. Eine Einschätzung hinter der Maske. Nicht »ist sie eine Bedrohung« sondern »wie viel weiß sie.«
 
@@ -153,6 +161,8 @@ Und ich weiß noch etwas. Etwas, das ich niemandem erzählt habe. Etwas, das ich
 Zwölf Monate E-Mails. Zwölf Monate des Teilens dessen, was ich wusste. Zwölf Monate des Aufbaus einer Beziehung zu jemandem, der den Namen A.M. Doyle verwendete, der mir nie den echten Namen nannte, der mir vertraute, weil er Informationen hatte und ich konstitutionell unfähig bin, niemandem zu vertrauen, wenn Informationen auf dem Tisch liegen.
 
 Ich habe fünfundzwanzig Jahre Arbeit als Beweismaterial einem Fremden übergeben. Und jetzt sitze ich ihr gegenüber.
+
+Zwölf Monate Vertrauen, das ich nicht leichtfertig schenke, übergeben an eine Frau, die einen Namen erfand, um es zu gewinnen. Die Wut ist da — unter der Analyse, unter der Gerichtsroutine, ein glühender Faden, den ich noch nicht gezogen habe. Ich werde ihn später ziehen. Im Moment zählt die Wahrheit mehr als der Verrat.
 
 »Ich korrespondiere mit einer Journalistin,« sage ich.
 

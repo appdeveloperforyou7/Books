@@ -30,7 +30,7 @@ Ich gieße ihr Kaffee ein. Ich reiche ihn ihr. Ich gehe zurück zu den Eiern.
 
 »Kann ich helfen?«
 
-»Nein, nein, ich habe alles im Griff. Ich koche gern. Greg sagt, ich nutze Kochen als — nun ja, er sagt, ich kanalisiere meine Energie hinein. Er hat wahrscheinlich recht. Ich habe drei verschiedene Pfannkuchensorten für Sophies Geburtstag letztes Jahr gemacht. Drei. Schokostückchen, Blaubeere und natur. Sie hat nur die mit Schokostückchen gegessen, aber der Punkt ist, ich habe sie gemacht. Optionen. Optionen sind wichtig.«
+»Nein, nein, ich habe alles im Griff. Ich koche gerne. Greg sagt, ich nutze Kochen als — nun ja, er sagt, ich kanalisiere meine Energie hinein. Er hat wahrscheinlich recht. Ich habe drei verschiedene Pfannkuchensorten für Sophies Geburtstag letztes Jahr gemacht. Drei. Schokostückchen, Blaubeere und natur. Sie hat nur die mit Schokostückchen gegessen, aber der Punkt ist, ich habe sie gemacht. Optionen. Optionen sind wichtig.«
 
 Ich rede zu viel. Ich weiß, dass ich zu viel rede. Die Worte kommen, wie die Eier kommen — stetig, ununterbrochen, nicht aufhörend. Ich rühre. Ich rede. Ich rede. Ich rühre.
 
@@ -68,7 +68,7 @@ Die Frage ist einfach. Vier Wörter. Wie war sie. Eine Frage, die jeder stellen 
 
 Ich höre auf zu rühren.
 
-Der Pfannenwender schwebt in der Luft. Meine Hand ist eingefroren mitten in der Bewegung, der Pfannenwender über den Eiern gehalten, und die Eier beginnen am Pfannenboden anzukleben, weil ich sie nicht rühre, aber ich kann mich nicht bewegen, noch nicht, denn sie hat mich nach Kiera gefragt, und ich habe eine Antwort. Ich habe immer eine Antwort. Ich habe diese Antwort seit fünfundzwanzig Jahren geprobt, unter der Dusche und im Auto und in der Dunkelheit, wenn Sophie schläft und das Haus still ist und die Frage aus irgendeiner Gegend aufsteigt, die ich nicht gern aufsuche, und ich antworte. Ich antworte, wie ich gleich antworten werde, jedes Wort in der richtigen Reihenfolge, jedes Wort am rechten Ort, geprobt, weil manche Dinge geprobt werden müssen, weil manche Dinge richtig gesagt werden müssen, weil man, wenn man eine Sache oft genug sagt auf die richtige Weise mit den richtigen Wörtern in der richtigen Reihenfolge, das Sagen von dem, was geschah, nicht mehr unterscheiden kann.
+Der Pfannenwender schwebt in der Luft. Meine Hand ist eingefroren mitten in der Bewegung, der Pfannenwender über den Eiern gehalten, und die Eier beginnen am Pfannenboden anzukleben, weil ich sie nicht rühre, aber ich kann mich nicht bewegen, noch nicht, denn sie hat mich nach Kiera gefragt, und ich habe eine Antwort. Ich habe immer eine Antwort. Ich habe diese Antwort seit fünfundzwanzig Jahren geprobt, unter der Dusche und im Auto und in der Dunkelheit, wenn Sophie schläft und das Haus still ist und die Frage aus irgendeiner Gegend aufsteigt, die ich nicht gerne aufsuche, und ich antworte. Ich antworte, wie ich gleich antworten werde, jedes Wort in der richtigen Reihenfolge, jedes Wort am rechten Ort, geprobt, weil manche Dinge geprobt werden müssen, weil manche Dinge richtig gesagt werden müssen, weil man, wenn man eine Sache oft genug sagt auf die richtige Weise mit den richtigen Wörtern in der richtigen Reihenfolge, das Sagen von dem, was geschah, nicht mehr unterscheiden kann.
 
 »Sie war die Beste von uns«, sage ich. »Sie war mutig und lustig und sie — sie fiel.«
 

@@ -88,7 +88,7 @@ Etwas hebt sich in meiner Brust. Keine Erinnerung. Nicht ganz. Eine Empfindung �
 
 Erwartung. Das ist es. Der Körper kann sie nicht von Angst unterscheiden. Sie erzeugen dieselbe physiologische Reaktion: erhöhte Herzfrequenz, flache Atmung, Muskelspannung. Das habe ich in meinem ersten Ausbildungsjahr gelernt. Ich habe es hundert Klienten gelehrt. Der Mechanismus ändert sich nicht, nur weil der Körper, dem er passiert, meiner ist.
 
-Das Navi sagt elf Minuten. Meine Hände zittern am Lenkrad. Ich registriere es, wie ich es bei meinen Klienten registriere — aus der Distanz, klinisch, als gehörten die Hände jemand anderem. Essentieller Tremor. Koffein. Unterzucker. Ich habe seit dem Frühstück nichts gegessen. Das ist alles. Ich weiß, wie Unterzucker aussieht. Ich weiß, wie Angst aussieht. Das ist keine Angst. Ich bin nicht ängstlich. Mir geht es gut.
+Das Navi sagt elf Minuten. Meine Hände zittern am Lenkrad. Ich registriere es, wie ich es bei meinen Klienten registriere — aus der Distanz, klinisch, als gehörten die Hände jemand anderem. Essenzieller Tremor. Koffein. Unterzucker. Ich habe seit dem Frühstück nichts gegessen. Das ist alles. Ich weiß, wie Unterzucker aussieht. Ich weiß, wie Angst aussieht. Das ist keine Angst. Ich bin nicht ängstlich. Mir geht es gut.
 
 Das Meer jetzt — Salz und etwas anderes, etwas darunter, etwas Namenloses, das mir die Kehle zuschnürt wie eine Hand um ein Rohr. Meine Brust zieht sich zusammen. Ich sage mir, es sei die Heizung. Im Auto ist es zu warm. Ich schalte die Heizung aus.
 
@@ -106,7 +106,7 @@ Das Haus ist nur ein Haus. Es wurde renoviert. Jemand hat hier gelebt, es verän
 
 Ein Druckband legt sich um meine Rippen wie eine Blutdruckmanschette, über den Punkt der Behaglichkeit hinaus aufgepumpt und weiter. Meine Lunge kann sich nicht ausdehnen.
 
-Ich sitze auf dem Fahrersitz und atme, wie ich es meinen Klienten beibringe zu atmen. Vier ein, sieben halten, acht aus. Vier ein, sieben halten, acht aus. Der Atem geht hinein und der Atem geht hinaus und das Haus bleibt, wo es ist. Du bist sicher. Du hast die Kontrolle. Die Vergangenheit geschieht nicht jetzt. Die Vergangenheit ist eine Geschichte, die wir uns erzählen, und die Geschichte kann umgeschrieben werden. Ich glaube das. Auf diesen Glauben habe ich meine Karriere gebaut. Das Haus ist nur ein Haus.
+Ich sitze auf dem Fahrersitz und atme, wie ich es meinen Klienten beibringe zu atmen. Vier ein, sieben halten, acht aus. Vier ein, sieben halten, acht aus. Der Atem geht hinein und der Atem geht hinaus und das Haus bleibt, wo es ist. Du bist sicher. Du hast die Kontrolle. Die Vergangenheit geschieht nicht jetzt. Die Vergangenheit ist eine Geschichte, die wir uns erzählen, und die Geschichte kann umgeschrieben werden. Ich glaube das. Auf diesen Glauben habe ich meine Karriere gebaut. Erinnerung ist keine Aufzeichnung. Sie ist eine Rekonstruktion — jeder Abruf baut die Szene neu auf, und jeder Zeuge baut den Raum ein wenig anders auf. Ich lehre das meine Klienten. Ich habe es noch kein einziges Mal auf mich selbst angewendet. Das Haus ist nur ein Haus.
 
 Meine Hände zittern noch immer. Ich drücke sie flach gegen das Lenkrad und halte sie dort, bis das Zittern aufhört.
 

@@ -60,7 +60,7 @@ Le sourire est petit. Chaleureux. Il atteint ses yeux. Le sourire qu'elle m'a do
 
 « Bonsoir, mon cœur, » dit-elle. « Je crois qu'il est temps qu'on parle de cette nuit. »
 
-Mon cœur. Le mot trouve la faille pour laquelle il a été conçu. Le mot qu'elle a utilisé dans le couloir. À genoux. Ses mains sur mon visage. *Tu n'as rien vu, mon cœur.* Le même mot. La même voix. La même chaleur. Elle se tient sur le seuil de cette maison — cette maison où elle a poussé une fille de douze ans à travers une fenêtre, cette maison où elle s'est agenouillée et a réécrit ma mémoire, cette maison où elle a tenu l'histoire pendant vingt-cinq ans — et elle sourit et elle m'appelle mon cœur.
+Mon cœur. Le mot-serrure. Celui qu'elle a utilisé dans le couloir quand elle s'est agenouillée et m'a réécrite. Elle se tient sur le seuil de cette maison — la maison où elle a poussé une fille de douze ans à travers une fenêtre, s'est agenouillée et a rebâti ma mémoire, et a tenu l'histoire pendant vingt-cinq ans — et elle sourit et elle m'appelle mon cœur.
 
 Je ne m'écarte pas. Je ne parle pas. Je me tiens dans l'encadrement de la porte et elle se tient sur la marche et nous nous regardons. L'air froid passe entre nous. L'air salé. L'air qui était là cette nuit-là, chaud au lieu de froid, été au lieu d'hiver, décembre au lieu de juillet. Elle se tenait dans cet encadrement il y a vingt-cinq ans quand l'ambulance est arrivée. Elle se tenait là quand la police est arrivée. Elle se tenait là quand ils ont emporté Kiera et elle tenait ma main et disait aux agents que je dormais, j'étais en bas, je n'avais rien vu, ma fille dormait sur le canapé tout le temps.
 

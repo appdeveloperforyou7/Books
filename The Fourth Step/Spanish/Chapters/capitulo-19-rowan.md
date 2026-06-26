@@ -36,7 +36,7 @@ Hago una pausa. La habitación está escuchando. Cuatro mujeres y el silencio en
 
 Miro mis propias manos. El anillo de plata en mi mano derecha. La piedra de luna está opaca bajo la luz del techo. Con luz de luna de diciembre habría brillado.
 
-Cierro los ojos. La oscuridad detrás de mis párpados no está vacía. Está llena de diciembre. La luz azul-dorada de una luna llena a través de una ventana abierta. El calor del aire de verano moviéndose por el pasillo. El olor de sal y eucalipto y algo debajo — cobre, metal, el sabor del miedo antes de saber que tienes miedo.
+Cierro los ojos. La oscuridad detrás de mis párpados está llena de diciembre.
 
 "El pasillo estaba caliente," digo. "Caliente de diciembre. La ventana al final estaba abierta — la ventana antigua, la del marco de madera y la bisagra de latón. La luz de la luna entraba y era dorada — espesa, dorada líquida, como es la luz de luna de diciembre, como se acumula en las superficies. La moqueta era azul. Azul profundo. Y la luz se tendía sobre ella como el agua."
 

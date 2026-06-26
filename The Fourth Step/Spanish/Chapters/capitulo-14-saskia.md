@@ -58,7 +58,7 @@ Me levanto. Camino a la puerta. La abro.
 
 Y lo veo.
 
-Un sobre de papel manila en el suelo. Marrón. A4. Sellado. Deslizado bajo mi puerta — el borde del pasillo abultad por la presión de empujar a través de una rendija de menos de un centímetro. Quien lo deslizó presionó con firmeza.
+Un sobre de papel manilo en el suelo. Marrón. A4. Sellado. Deslizado bajo mi puerta — el borde del pasillo abultad por la presión de empujar a través de una rendija de menos de un centímetro. Quien lo deslizó presionó con firmeza.
 
 Lo levanto. El sobre es ligero. No vacío — algo dentro, algo plano. Sin escritura en el exterior. Sin etiqueta. Sin matasellos. Sin nombre.
 
@@ -98,9 +98,7 @@ La vuelvo. Miro el reflejo otra vez. La niña en lo alto de las escaleras. La fi
 
 La fotografía viene de alguien con acceso a materiales de escena del crimen no publicados. Alguien que estaba en esta casa mientras yo estaba en la cocina con Neve. Alguien que quería que viera esta imagen específica en este momento específico. Alguien llevando una investigación paralela a la mía, con acceso a evidencia que yo nunca he visto y fuentes que no he identificado.
 
-Cate. Cate Morrow, que hace preguntas como un periodista y se equivocó con el número del grupo y sabía de quién era esta casa antes de que Imogen se lo dijera. Cate, que llegó esta mañana y nos ha estado observando a todas con la atención de alguien recogiendo evidencia en lugar de reuniéndose con amigas.
-
-O alguien más. Alguien que no he identificado. Alguien tirando de los hilos desde la distancia.
+Alguien con acceso a evidencia inédita. Alguien en esta casa, o trabajando a través de ella. Cate es la respuesta obvia — las preguntas, la historia débil, la forma en que conocía la casa — pero las respuestas obvias son las que menos me merecen confianza. Podría ser Cate. Podría ser alguien usando a Cate. Podría ser alguien que aún no he encontrado.
 
 Archivar la pregunta — decimoséptima — y miro la fotografía otra vez.
 
@@ -112,13 +110,13 @@ Pienso en la figura reflejada en la fotografía.
 
 Pienso en Neve.
 
-Cojo mi teléfono. Fotografío la fotografía — la imagen de la escena del crimen, el reflejo, la figura. Luego deslizo la fotografía de vuelta dentro del sobre de papel manila y la coloco en la carpeta de documentos con el informe policial y el resumen de la autopsia. Cierro el cajón del escritorio con llave.
+Cojo mi teléfono. Fotografío la fotografía — la imagen de la escena del crimen, el reflejo, la figura. Luego deslizo la fotografía de vuelta dentro del sobre de papel manilo y la coloco en la carpeta de documentos con el informe policial y el resumen de la autopsia. Cierro el cajón del escritorio con llave.
 
 Me siento en la cama. La hora es las doce catorce. La casa está en silencio. Neve está en la cocina. Las demás no registradas.
 
 Y alguien en esta casa tiene acceso a evidencia que nunca fue publicada y la está distribuyendo estratégicamente.
 
-Esta noche. Presentaré lo que tengo. El informe policial. El análisis de las lesiones. Las fotografías de Rowan de los arañazos. Y ahora esto — la fotografía de la escena del crimen con la figura reflejada, la niña que estaba en el pasillo cuando nadie se suponía que estuviera en el pasillo, la testigo que nunca fue registrada. Y la cámara — Rowan me la enseñó. La cámara desechable de Kiera, escondida bajo un tablón, la película aún dentro. Veinticuatro fotogramas sin revelar. Evidencia en haluro de plata, esperando revelador.
+Esta noche. Presentaré lo que tengo. El informe policial. El análisis de las lesiones. Las fotografías de Rowan de los arañazos. Y ahora esto — la fotografía de la escena del crimen con la figura reflejada, la niña que estaba en el pasillo cuando nadie se suponía que estuviera en el pasillo, la testigo que nunca fue registrada. Y la cámara — Rowan me la enseñó. La cámara desechable de Kiera, escondida bajo un tablón, la película aun dentro. Veinticuatro fotogramas sin revelar. Evidencia en haluro de plata, esperando revelador.
 
 Esta noche. Todo.
 

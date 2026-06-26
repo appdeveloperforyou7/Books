@@ -14,7 +14,7 @@ Ich stehe aus dem Bett. Der Boden ist kalt. Meine Füße finden den Teppich und 
 
 Der Flur ist leer. Das Haus ist leer, oder die anderen schlafen noch. Die Küche liegt am Ende des Flurs, durch das Wohnzimmer, und ich gehe darauf zu, mit den Augen auf den Boden gerichtet und den Schultern gerade und gleichmäßiger Atmung. Ich schaue nicht zur Treppe. Ich schaue nicht zur Treppe. Ich schaue nicht zur Treppe.
 
-Die Küche ist neu. Stein-Arbeitsplatte, moderne Geräte, die anonyme Kompetenz einer Immobilie, die für Durchreisende gestylt wurde. Ich finde den Kaffee — eine Kapselmaschine — und drücke den Knopf. Die Maschine brummt und bringt einen dünnen Strahl brauner Flüssigkeit in eine weiße Tasse. Dick, weiß, der Henkel weit genug für zwei Finger, unbeschädigt, unauffällig. Ich schließe beide Hände darum. Das Keramik wärmt meine Handflächen. Einen Moment lang stillt das Zittern. Dann kehrt es zurück. Meine Hände zittern. Das Zittern ist beidseitig, fein, in Ruhe vorhanden. Essentielles Zittern. Koffeinentzug. Unterzuckerung. Das ist alles.
+Die Küche ist neu. Steinarbeitsplatte, moderne Geräte, die anonyme Kompetenz einer Immobilie, die für Durchreisende gestylt wurde. Ich finde den Kaffee — eine Kapselmaschine — und drücke den Knopf. Die Maschine brummt und bringt einen dünnen Strahl brauner Flüssigkeit in eine weiße Tasse. Dick, weiß, der Henkel weit genug für zwei Finger, unbeschädigt, unauffällig. Ich schließe beide Hände darum. Das Keramik wärmt meine Handflächen. Einen Moment lang stillt das Zittern. Dann kehrt es zurück. Meine Hände zittern. Das Zittern ist beidseitig, fein, in Ruhe vorhanden. Essenzielles Zittern. Koffeinentzug. Unterzuckerung. Das ist alles.
 
 Ich trage den Kaffee zur Hintertür. Die Schiebetür ist neu — Aluminiumrahmen, doppelt verglast — aber der Blick hindurch ist es nicht. Der Garten.
 
@@ -59,6 +59,8 @@ Um neun Uhr fünfzehn fährt ein Auto in die Auffahrt. Ich höre es aus dem Gart
 Ich gehe hinein.
 
 Sie steht im Flur. Braunes Haar, schulterlang, durchschnittliche Größe, ein angenehmes Gesicht — die Art, die darauf ausgelegt ist, aufzufallen, ohne aufzufallen. Jeans, navy Pullover, flache Schuhe. Eine kleine Wochenendtasche über einer Schulter. Und sie lächelt. Es ist das Erste, was registriert, weil es voll ausgebildet ankommt, ohne die Zögern, die einen echten Ausdruck von einem geprobten unterscheidet. Es ist ein gutes Lächeln — voll, scheinbar echt, mit kleinen Fältchen in den Augenwinkeln. Es ist das Lächeln von jemandem, der glücklich ist, hier zu sein, der entzückt ist, uns zu sehen, der sich auf dieses Wiedersehen gefreut hat mit der unkomplizierten Freude einer alten Freundin, die zurückkehrt.
+
+Etwas in ihrem Gesicht verfing sich für eine Sekunde — die Stellung der Augen oder die Linie des Kiefers — eine Ähnlichkeit mit jemandem, den ich nicht benennen konnte. Ich ließ es gehen. Fünfundzwanzig Jahre sind lange; jeder erinnert einen an jemanden.
 
 »Hallo«, sagt sie. »Ich bin Cate. Cate Morrow. Saskia hat mich eingeladen — glaube ich? Ich war ein paar Jahre unter euch allen in der Schule. Ihr erinnert euch wahrscheinlich nicht an mich.«
 

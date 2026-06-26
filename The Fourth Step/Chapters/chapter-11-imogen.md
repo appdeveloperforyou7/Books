@@ -80,7 +80,7 @@ The words come out the way they always come out. Flat. Level. The same cadence, 
 
 Cate nods. Her face is composed. She takes a breath and says, "You were her best friend, weren't you? The way you talk about her — you two must have been inseparable."
 
-The sentence is smooth. Too smooth. A compliment that also tells me something: she already knew Kiera and I were close. She didn't ask *if* we were close. She confirmed it. The way you confirm something you already know and want the other person to elaborate on without realizing they're being led.
+The sentence is smooth. Too smooth. A compliment that also tells me something: she already knew Kiera and I were close. She didn't ask *if* we were close. She confirmed it. The way you confirm something you already know and want the other person to elaborate on without realising they're being led.
 
 Spatula down. Heat off. I plate the eggs — five plates, five portions, the soft yellow curds sliding onto the toast, cherry tomatoes in neat circles, a sprig of spinach on each plate because presentation matters, because when food looks right it is right, because when things are arranged correctly they are correct.
 
@@ -118,7 +118,7 @@ I stop talking because I'm talking too much. Because the silence I'm trying to f
 
 I eat my eggs. The eggs are good. Soft and creamy, the way I like them. I am aware of Cate across the table, eating steadily, her face composed, her hands calm around her fork. I am aware of Neve beside me, staring at her plate as if she's trying to read something written on it. I am aware of Saskia at the end of the table, watching everyone, always watching, her dark eyes moving from face to face the way a camera moves across a room.
 
-I am aware of Rowan, who has stopped eating and is looking toward the hallway, toward the stairs, her fork suspended in the air, her gaze fixed on something the rest of us can't see.
+I am aware of Rowan, who has stopped eating and is looking towards the hallway, towards the stairs, her fork suspended in the air, her gaze fixed on something the rest of us can't see.
 
 "Rowan? Are you okay?" I ask.
 

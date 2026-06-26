@@ -32,11 +32,11 @@ Ich pausiere. Der Raum hört zu. Vier Frauen und die Stille zwischen ihnen und d
 
 »Die Kälte ist es, woran ich mich am klarsten erinnere,« sage ich. »Die Kälte der Dielen, die durch den Teppich drang. Es war Sommer, es war Dezember, das Fenster stand offen und die Luft war warm — aber der Boden war kalt. Die Kälte stieg durch meine Füße auf, so wie Kälte durch den Boden aufsteigt, wenn man barfuß darauf steht. Es war die Kälte der Unterseite — die Kälte, die das Haus in seiner Dunkelkammer bewahrt, unter der Belichtung seiner Oberflächen.«
 
-Ich betrachte meine eigenen Hände. Den Silberring an meiner rechten Hand. Der Mondstein ist trüb im Deckenlicht. Im Dezember-Vollmond hätte er geleuchtet.
+Ich betrachte meine eigenen Hände. Den Silberring an meiner rechten Hand. Der Mondstein ist trüb im Deckenlicht. Im Dezembervollmond hätte er geleuchtet.
 
-Ich schließe die Augen. Die Dunkelheit hinter meinen Lidern ist nicht leer. Sie ist voll von Dezember. Das blaugoldene Licht eines Vollmonds durch ein offenes Fenster. Die Wärme der Sommerluft, die durch den Flur strömte. Der Geruch von Salz und Eukalyptus und etwas darunter — Kupfer, Metall, der Geschmack von Angst, bevor du weißt, dass du Angst hast.
+Ich schließe die Augen. Die Dunkelheit hinter meinen Lidern ist voll von Dezember.
 
-»Der Flur war warm,« sage ich. »Dezember-warm. Das Fenster am Ende stand offen — das alte Fenster, das mit dem Holzrahmen und dem Messingscharnier. Das Mondlicht fiel hindurch und es war gold — dick, flüssiges Gold, wie Dezembervollmondlicht ist, wie es sich auf Oberflächen sammelt. Der Teppich war blau. Tiefblau. Und das Licht lag darauf wie Wasser.«
+»Der Flur war warm,« sage ich. »Dezemberwarm. Das Fenster am Ende stand offen — das alte Fenster, das mit dem Holzrahmen und dem Messingscharnier. Das Mondlicht fiel hindurch und es war gold — dick, flüssiges Gold, wie Dezembervollmondlicht ist, wie es sich auf Oberflächen sammelt. Der Teppich war blau. Tiefblau. Und das Licht lag darauf wie Wasser.«
 
 Ich öffne die Augen. Saskia beobachtet mich mit der konzentrierten Aufmerksamkeit, die sie Zeugen entgegenbringt. Neves Hände liegen sehr still in ihrem Schoß. Imogen hört durch die Nachwirkungen ihres eigenen Zusammenbruchs zu, ihr Atem ungleichmäßig, ihre Augen auf meinem Gesicht.
 

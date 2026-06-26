@@ -24,8 +24,8 @@ Du bist am Fenster. Du weißt nicht, dass du gegangen bist. Du stehst am Fenster
 
 Die große Gestalt steht neben dir. Du hast sie nicht herannahen hören. Ihre Hand liegt auf deiner Schulter. Warm. Fest. Die Wärme einer Handfläche, die gerade etwas Schreckliches getan hat und noch nicht aufgehört hat, warm zu sein. Ihre Stimme ist nah an deinem Ohr, und sie sagt Worte — leise, ohne Eile, jedes gesetzt, wie man etwas Zerbrechliches ablegt.
 
-Und dann blitzt eine Kamera auf, irgendwo hinter dir, oben an der Treppe. Ein heller, weißer Blitz, der den Flur für eine Tausendstelsekunde einfriert — die große Gestalt, das leere Fenster, dein Gesicht, dem Klang zugewandt. Das Bild brennt sich auf einen Film, der erst fünfundzwanzig Jahre später entwickelt werden wird.
+Und dann blitzt eine Kamera auf, irgendwo im Dunkeln hinter dir. Ein heller, weißer Blitz, der den Flur für eine Tausendstelsekunde einfriert — die große Gestalt, das leere Fenster, das kleine Gesicht, dem Licht zugewandt. Irgendwo im Haus hat sich ein Verschluss auf ein Bild geschlossen. Es wird lange im Dunkeln liegen. Es wird auf jemanden warten, der weiß, wo er suchen muss.
 
-Das Fenster ist leer. Das Gras ist dunkel und nass, und die salzige Luft trägt die Stille vom Haus fort. Die Stille wird fünfundzwanzig Jahre lang in diesem Mädchen sitzen, eingeschlossen an dem Ort, wo die Worte sein sollten, und verkalken. Sie wird ihren Griff nicht lockern, bis das Mädchen wieder in diesem Flur steht, älter. Und der Griff schließlich nachgibt.
+Das Fenster ist leer. Das Gras ist dunkel und nass, und die salzige Luft trägt die Stille vom Haus fort. Was hier war, geht. Was bleibt, bleibt im Körper.
 
 Du bist zwölf Jahre alt. Und du bist Rowan Thorne. Und du hast seitdem hier gestanden.

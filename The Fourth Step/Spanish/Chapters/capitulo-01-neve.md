@@ -106,7 +106,7 @@ La casa es solo una casa. Ha sido renovada. Alguien ha vivido aquí, la ha cambi
 
 Una banda de presión se enrolla alrededor de mis costillas como un manguito de tensión arterial inflado más allá del punto de comodidad y siguiendo. Mis pulmones no pueden expandirse.
 
-Me quedo en el asiento del conductor y respiro como enseño a mis pacientes a respirar. Cuatro dentro, siete mantener, ocho fuera. Cuatro dentro, siete mantener, ocho fuera. El aire entra y el aire sale y la casa sigue donde está. Estás a salvo. Estás en control. El pasado no está ocurriendo ahora. El pasado es una historia que nos contamos, y la historia puede reescribirse. Creo en esto. He construido mi carrera sobre esta creencia. La casa es solo una casa.
+Me quedo en el asiento del conductor y respiro como enseño a mis pacientes a respirar. Cuatro dentro, siete mantener, ocho fuera. Cuatro dentro, siete mantener, ocho fuera. El aire entra y el aire sale y la casa sigue donde está. Estás a salvo. Estás en control. El pasado no está ocurriendo ahora. El pasado es una historia que nos contamos, y la historia puede reescribirse. Creo en esto. He construido mi carrera sobre esta creencia. La memoria no es una grabación. Es una reconstrucción — cada recuerdo reconstruye la escena de nuevo, y cada testigo reconstruye la habitación un poco diferente. Les enseño esto a mis pacientes. Nunca me lo he aplicado a mí misma. La casa es solo una casa.
 
 Mis manos siguen temblando. Las aplasto contra el volante y las mantengo ahí hasta que el temblor se detiene.
 

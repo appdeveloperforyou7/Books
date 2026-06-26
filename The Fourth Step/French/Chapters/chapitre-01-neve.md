@@ -106,7 +106,7 @@ La maison n'est qu'une maison. Elle a été rénovée. Quelqu'un a vécu ici, l'
 
 Un bandeau de pression s'enroule autour de mes côtes comme un brassard de tension artérielle gonflé au-delà du point de confort et qui continue. Mes poumons ne peuvent plus se dilater.
 
-Je reste dans le siège du conducteur et je respire comme j'apprends à mes patients à respirer. Quatre à l'inspiration, sept en retenue, huit à l'expiration. Quatre à l'inspiration, sept en retenue, huit à l'expiration. L'air entre et l'air sort et la maison reste où elle est. Tu es en sécurité. Tu as le contrôle. Le passé n'est pas en train de se produire. Le passé est une histoire que nous nous racontons, et l'histoire peut être réécrite. Je crois en cela. J'ai bâti ma carrière sur cette croyance. La maison n'est qu'une maison.
+Je reste dans le siège du conducteur et je respire comme j'apprends à mes patients à respirer. Quatre à l'inspiration, sept en retenue, huit à l'expiration. Quatre à l'inspiration, sept en retenue, huit à l'expiration. L'air entre et l'air sort et la maison reste où elle est. Tu es en sécurité. Tu as le contrôle. Le passé n'est pas en train de se produire. Le passé est une histoire que nous nous racontons, et l'histoire peut être réécrite. Je crois en cela. J'ai bâti ma carrière sur cette croyance. La mémoire n'est pas un enregistrement. C'est une reconstruction — chaque rappel bâtit la scène à nouveau, et chaque témoin reconstruit la pièce un peu différemment. J'enseigne ça à mes patients. Je ne me l'ai jamais appliqué à moi-même. La maison n'est qu'une maison.
 
 Mes mains tremblent encore. Je les aplatis contre le volant et les maintiens là jusqu'à ce que le tremblement cesse.
 

@@ -6,7 +6,7 @@ Elaine Cassidy ist die gefasste Person in diesem Raum.
 
 Ich vermerke es, wie ich die Haltung einer Zeugin in der Box vermerke. Die Stellung der Schultern. Der Winkel des Kinns. Die Platzierung der Hände — gefaltet in ihrem Schoß, Finger ineinander verschränkt, linker Daumen über rechtem. Eine Verankerungsgeste. Selbstberuhigung. Auch überlegt. Die Hände sind sichtbar. Sie sagen: Ich habe nichts zu verbergen.
 
-Sie stirbt. Das ist offensichtlich. Der Mantel, die Dürftigkeit, die vorsichtige Art, wie sie sich in den Stuhl sinken ließ, das leichte Zittern ihrer linken Hand, das sie kontrolliert, indem sie den Daumen gegen den Zeigefinger drückt. Sie ist vierzig Minuten von einem Hospizbett hierher gefahren, um in einem Raum mit fünf Frauen zu sitzen, die seit Stunden um die Wahrheit kreisen.
+Sie stirbt. Das ist offensichtlich. Der Mantel, die Dürftigkeit, die vorsichtige Art, wie sie sich in den Stuhl sinken ließ, das leichte Zittern ihrer linken Hand, das sie kontrolliert, indem sie den Daumen gegen den Zeigefinger drückt. Sie ist vierzig Minuten von einem Hospizbett hierhergefahren, um in einem Raum mit fünf Frauen zu sitzen, die seit Stunden um die Wahrheit kreisen.
 
 Die meisten Sterbenden wollen Trost. Elaine Cassidy will Kontrolle. Sie leitet die letzte Sitzung ihres Lebens und sie beabsichtigt, den Vorsitz zu führen.
 
@@ -98,7 +98,7 @@ Ich beobachte ihr Gesicht. Die Tränen sind vorhanden, aber enthalten — zwei h
 
 Das ist kein Geständnis. Das ist eine Aufführung.
 
-Und eine geschickte. Wäre sie in der Box, würde ich sie Stück für Stück zerlegen. Die Schreckreaktion: wie produziert eine Schreckreaktion bilaterale Griffmuster-Blutergüsse an den Schultern? Das Stolpern: wie schickt ein Stolpern einen Körper zwei Meter vom Gebäude entfernt? Das offene Fenster: warum stand ein Fenster in einem oberen Flur so weit offen, dass ein Kind hindurchfallen konnte? Der Unfall: wie hinterlässt ein Unfall Fingernagelkratzspuren am Rahmen, die mit einem Kind vereinbar sind, das nach Halt greift?
+Und eine geschickte. Wäre sie in der Box, würde ich sie Stück für Stück zerlegen. Die Schreckreaktion: wie produziert eine Schreckreaktion bilaterale Griffmuster-Blutergüsse an den Schultern? Das Stolpern: wie schickt ein Stolpern einen Körper zwei Meter vom Gebäude entfernt? Das offene Fenster: warum stand ein Fenster in einem oberen Flur so weit offen, dass ein Kind hindurchfallen konnte? Der Unfall: wie hinterlässt ein Unfall Fingernagel-Kratzspuren am Rahmen, die mit einem Kind vereinbar sind, das nach Halt greift?
 
 Ich würde jedes Wort im Kreuzverhör zerlegen. Ich würde die Jury die Entfernung zwischen »stolperte« und »wurde gestoßen« sehen lassen. Ich würde sie sehen lassen, dass »Unfall« eine Schlussfolgerung ist, kein Beweis. Ich würde die Autopsiefotos hochhalten und auf die Blutergüsse deuten und sagen: zeigen Sie mir, wie ein Sturz dieses Muster erzeugt. Zeigen Sie mir, wie ein Kind, das rückwärts stolpert, genug horizontale Kraft erzeugt, um zwei Meter von der Wand entfernt zu landen. Zeigen Sie mir, wie ein Unfall Fingernagelspuren in Holz hinterlässt.
 

@@ -56,7 +56,7 @@ Je laisse le mot s'installer. Bilatéral. Clinique. Précis. Un mot qui dissimul
 
 Je marque une pause. Laisse le nombre s'installer. Deux mètres. La distance de cette table à la porte de la cuisine. Le corps d'un enfant, projeté.
 
-« J'ai obtenu une reconstruction biomécanique. Un physicien forensique a fait tourner les paramètres du rapport d'incident — le poids de Kiera, quarante-deux kilos ; sa taille, un mètre quarante-deux ; la hauteur de la fenêtre, la position de l'appui, le point d'impact. Sa conclusion : pour produire une distance d'impact de deux mètres depuis cette fenêtre, la force horizontale appliquée au corps doit correspondre approximativement à une poussée ferme à deux mains. Pas une tape. Pas un réflexe. Une poussée délibérée et puissante. Le genre de force qu'un adulte utilise quand il veut écarter quelqu'un du chemin. »
+« J'ai obtenu une reconstruction forensique. La force requise était une poussée délibérée à deux mains. Pas une tape. Pas un réflexe. Le genre de force qu'un adulte utilise pour écarter quelqu'un du chemin. »
 
 Je prends la photographie de scène de crime. Celle qui est arrivée sous ma porte dans l'enveloppe kraft. Je la tiens face à la pièce.
 
@@ -110,7 +110,7 @@ Le silence n'est pas le silence d'une pièce vide. C'est le silence d'une pièce
 
 Je me tiens dans le silence. Je le laisse tenir. Je ne le remplis pas. Le silence est la pièce où les témoins cèdent, et j'attends cette pièce depuis vingt-cinq ans et je ne la précipiterai pas.
 
-Le Sergent Bill Tran, qui devait un service à mon père, m'a tendu ces pages par-dessus un bureau en 2006 et a dit : « Tu es sûre de ça, ma fille ? » La fille de quatorze ans qui est entrée au commissariat de Sorrento et qu'on a dit de laisser tomber. Les quarante-sept lectures. La chronologie, mise à jour vingt-trois fois à la main. Les quatorze mois de bataille FOI. La photographie de Kiera courant lors d'une journée sportive scolaire — genoux en l'air, cheveux volant, en pleine foulée, vivante. Tout compressé dans cet instant : quatre femmes, une table basse, et le bruit de personnes qui ne respirent plus.
+Le Sergent Bill Tran, qui devait un service à mon père, m'a tendu ces pages par-dessus un bureau en 2006 et a dit : « Tu es sûre de ça, ma fille ? » La fille de quatorze ans qui est entrée au commissariat de Sorrento et qu'on a dit de laisser tomber. Les quarante-sept lectures. La chronologie, mise à jour vingt-trois fois à la main. Les quatorze mois de bataille FOI. La photographie de Kiera courant lors d'une journée sportive scolaire — genoux en l'air, cheveux volants, en pleine foulée, vivante. Tout compressé dans cet instant : quatre femmes, une table basse, et le bruit de personnes qui ne respirent plus.
 
 Depuis le couloir, un son. La porte d'entrée qui s'ouvre. Des pas sur les planchers — légers, réguliers, sans hâte. Une pause.
 

@@ -14,7 +14,7 @@ Liam was at the counter making sandwiches for her lunch. He looked at me over he
 
 "She'll be fine," Liam said. He meant Lily. He always means Lily when he says "she'll be fine." Fine. The word follows me through my life like a scar I've stopped trying to see.
 
-At the door I turned back. Liam was wrapping the sandwiches, Lily was bent over her homework, and the kitchen was warm and golden and everything a kitchen should be. I almost said it. The words were in my throat — *there's something I've never told you* — and my hand was on the doorframe and my knuckles were white and the words pressed upward like something drowning and then Lily looked up and said "Drive safe, Mum" and the words went back to the locked room and I closed the door and I left.
+At the door I turned back. Liam wrapping the sandwiches, Lily bent over her homework, the kitchen warm and golden and everything a kitchen should be. I almost said it. The words were right there — *there's something I've never told you* — my hand on the doorframe, knuckles white, the sentence pressing upward like something drowning. Then Lily looked up. "Drive safe, Mum." And the words went back to the locked room, and I closed the door, and I left.
 
 I didn't kiss her forehead. I should have. I don't know why I didn't.
 
@@ -106,7 +106,7 @@ The house is just a house. It's been renovated. Someone has lived here, changed 
 
 A band of pressure wraps around my ribs like a blood-pressure cuff inflated past the point of comfort and kept going. My lungs can't expand.
 
-I sit in the driver's seat and I breathe the way I teach my clients to breathe. Four in, seven hold, eight out. Four in, seven hold, eight out. The breath goes in and the breath goes out and the house stays where it is. You are safe. You are in control. The past is not happening now. The past is a story we tell ourselves, and the story can be rewritten. I believe this. I have built my career on this belief. The house is just a house.
+I sit in the driver's seat and I breathe the way I teach my clients to breathe. Four in, seven hold, eight out. Four in, seven hold, eight out. The breath goes in and the breath goes out and the house stays where it is. You are safe. You are in control. The past is not happening now. The past is a story we tell ourselves, and the story can be rewritten. I believe this. I have built my career on this belief. Memory is not a recording. It is a reconstruction — every recall builds the scene anew, and every witness rebuilds the room a little differently. I teach this to my clients. I have never once applied it to myself. The house is just a house.
 
 My hands are still shaking. I press them flat against the wheel and hold them there until the trembling stops.
 
@@ -124,7 +124,7 @@ I get out of the car.
 
 My legs are shaking — a fine tremor in the quadriceps that I register without looking, as if not seeing it might make it not real. I lock the door and stand in the driveway and the sea air hits me and there it is — salt and wood and underneath it a sweetness, a warmth, like sun on old timber. The house is just a house. It's just a house.
 
-I lift my bag from the back seat and the weight of it grounds me. Something to hold that isn't the steering wheel. Isn't the door handle. Isn't my own wrist. I walk toward the front door. My knees want to buckle and I keep walking because my knees do not get a vote. I have helped hundreds of people walk toward the things they're afraid of. I know how this works. One foot. Then the other. The fear is information, not instruction. You don't have to obey it. You just have to keep moving.
+I lift my bag from the back seat and the weight of it grounds me. Something to hold that isn't the steering wheel. Isn't the door handle. Isn't my own wrist. I walk towards the front door. My knees want to buckle and I keep walking because my knees do not get a vote. I have helped hundreds of people walk towards the things they're afraid of. I know how this works. One foot. Then the other. The fear is information, not instruction. You don't have to obey it. You just have to keep moving.
 
 The path to the front door is concrete now. It was brick. I know this without knowing how. Brick dust under shoes — small, shifting, scraping — I can hear it in my feet. The path is concrete but my body feels brick and my eyes see concrete and my feet say brick and I don't know which one to trust.
 

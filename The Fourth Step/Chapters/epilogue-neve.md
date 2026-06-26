@@ -4,9 +4,9 @@
 
 Elaine died on a Tuesday.
 
-Six weeks and four days after the weekend at Sorrento. She was in the hospice — the same hospice she drove herself away from on the Saturday night she arrived at the house, gaunt in her camel coat, commanding the room from the best armchair, holding the narrative together with the last of her strength. The nurses said she was lucid until the final forty-eight hours. She organised her affairs. She updated her will. She wrote letters — to colleagues, to old friends, to me. The letter to me is nine pages long, handwritten, in the controlled hand she used for school reports and official correspondence — the calligraphy of a woman who composed herself in writing. The handwriting gets smaller toward the end. I have read it twice. I have not decided if I will read it again.
+Six weeks and four days after the weekend at Sorrento. She was in the hospice — the same hospice she drove herself away from on the Saturday night she arrived at the house, gaunt in her camel coat, commanding the room from the best armchair, holding the narrative together with the last of her strength. The nurses said she was lucid until the final forty-eight hours. She organised her affairs. She updated her will. She wrote letters — to colleagues, to old friends, to me. The letter to me is nine pages long, handwritten, in the controlled hand she used for school reports and official correspondence — the calligraphy of a woman who composed herself in writing. The handwriting gets smaller towards the end. I have read it twice. I have not decided if I will read it again.
 
-In the final days, she told the full, uncontrolled truth. I was there. I sat beside her bed and I held my phone below the edge of the mattress and I pressed record and she talked. Three hours and forty-seven minutes of audio. The phone call with the married colleague. Kiera coming upstairs, overhearing, confronting. The grab. The push. The trajectory. The sound she said she heard every night for twenty-five years — a thud followed by nothing. Then the gaslighting in detail. The night of the fall, kneeling in the hallway, repeating the story until my twelve-year-old face stopped showing terror and started showing confusion. The doctors. The psychologists. The move. The isolation. The systematic, methodical construction of a wall inside her daughter's mind.
+In the final days, she told the full, uncontrolled truth. I was there. I sat beside her bed and I held my phone below the edge of the mattress and I pressed record and she talked. Three hours and forty-seven minutes of audio. The phone call with David Harmon. Kiera coming upstairs, overhearing, confronting. The grab. The push. The trajectory. The sound she said she heard every night for twenty-five years — a thud followed by nothing. Then the gaslighting in detail. The night of the fall, kneeling in the hallway, repeating the story until my twelve-year-old face stopped showing terror and started showing confusion. The doctors. The psychologists. The move. The isolation. The systematic, methodical construction of a wall inside her daughter's mind.
 
 She told me she loved me. She told me she was sorry. She told me these were not contradictions, even though they sounded like contradictions, even though they occupied the same sentence the way contradictory diagnoses occupy the same chart — both documented, both true, impossible to reconcile. I held her hand — the hand that pushed, the hand that soothed, the same hand, I held it. I didn't say I forgive you. I didn't say I don't. Some things do not need to be said. Some things are still forming and will continue to form for years and the formation is the thing, not the conclusion.
 
@@ -16,21 +16,17 @@ This is what Aisling wanted. The record. The truth, in writing, in the permanent
 
 Aisling published her investigation. A long-form article, twelve thousand words, in a national publication. She used pseudonyms for the women but asked me if she could use her own real name and mine. I said yes. The article was widely read. She told the truth with the precision and the fury and the controlled grief of a woman who spent her entire adult life learning how to tell this specific story. She got the byline she wanted. A.M. Doyle. Her sister's name next to her own in print.
 
-I am in therapy. Real therapy — not the therapy I perform for others. EMDR. The memories come back in fragments. Not the violent panorama of the hallway — that came back all at once. The other fragments. Smaller. Quieter. The sound of Kiera laughing. The smell of the pizza. The texture of the sleeping bag. The ordinary fragments of a night that started as a sleepover and ended as a crime scene.
+The memories still return. Not the hallway — that came back whole, that night, and it has not left since. The smaller fragments surface when they choose: Kiera laughing, the smell of the pizza, the sleeping bag against my cheek. The ordinary pieces of a night that began as a sleepover and ended somewhere else. I do not summon them. They come, and I let them come, and some of them I still cannot hold.
 
-I am learning to trust my own perception. Twenty-five years of being told that what I saw was not what I saw does not repair itself in months. I second-guess everything. I ask Liam if I heard what I think I heard. He is patient — less bewildered now, more understanding. I told him that first morning, sitting at our kitchen table, and he said "What do you need from me?" and I said "I don't know yet" and he said "That's fine. We'll work it out."
-
-Lily is in therapy too. She knows something happened. She knows her grandmother is dead. She knows her mother cries at unexpected times and that the crying is not something to be frightened of. She accepted this with the matter-of-factness of a twelve-year-old who has not yet learned what adults are capable of.
-
-We moved. Not far — still in Melbourne. But the house that was nineteen minutes from my mother's, the house inside the invisible fence she maintained by making me believe it was my choice — we left it. The first morning in the new place, I stood in the kitchen and felt the muscles between my shoulder blades unlock. Space. The absence of a wall.
-
-The wall is coming down. Not all at once. Piece by piece.
+We moved. Not far — still in Melbourne. The house that was nineteen minutes from my mother's — the house inside the fence she maintained by making me believe it was my own choice — we left it. I do not yet know what it is to live outside a fence. I am finding out, slowly, the way someone finds out whether a bone has set: by putting weight on it and seeing what holds.
 
 Aisling developed the film.
 
 She called on a Thursday evening. Her voice was steady but there was something underneath — the sound of a woman who had just stopped breathing mid-inhalation and hadn't started again.
 
 Eight photographs. Kiera's photographs. The last eight things she saw through a viewfinder. THE FOURTH STEP. The girls. A pizza box. A sleeping bag. Rowan with her camera. Imogen with her busy hands. Saskia at the edge of the frame, watching. Me — twelve years old, brown hair, eyes that watched everything — mid-laugh, my head thrown back, caught in the moment before.
+
+One frame was not like the others. The upstairs hallway, shot blind into the dark, the open window a white smear at the end, the edges blown out where a flash had fired. A tall shape in the hallway. The window empty. And at the edge of the frame, a smaller shape — a child — turning towards the light. I had been carrying this image for twenty-five years. I had not known it was a photograph.
 
 The last photograph is a self-portrait. Kiera's face, arm extended, camera pointed at herself. Twelve years old. Dark hair. Dark eyes. A scar on her left knee. She is smiling. She is happy. She is in a house where she is safe, with friends, on a night that hasn't ended yet, in the moment before everything changes. I have looked at this photograph a hundred times. Each time, the same detail: Kiera is not looking at the lens. Her eyes are fixed on something outside the frame — something to the right, into the hallway, something that caught her gaze in the half-second before the flash. She is still smiling. But she is looking at something I will never see.
 
@@ -48,14 +44,46 @@ The question Aisling asked on the phone, the one she couldn't stop asking: *Was 
 
 I don't know. I don't know if the photograph is a testament to what was lost or a warning about what was coming. I don't know if the girl in the image — brown hair, steady eyes, mid-laugh, hand on her friend's shoulder — is someone I was or someone I was supposed to become before the wall went up. I don't know if Saskia has seen it. I haven't asked. Some questions are not for answering. Some questions are for living inside.
 
-I think about frames sometimes. The frames we live inside. The frames people build for us. The frame of a window in Sorrento. The frame of a narrative that held for twenty-five years and then cracked, and through the crack, truth surfaced.
+The window in Sorrento is sealed now. The scratches are still there, underneath the aluminium, the wood remembering a girl who held on with everything she had. Twenty-five years could not sand it smooth. Some things the renovation cannot reach.
 
-The house in Sorrento is still a rental. Someone else will stay there next weekend. They will not know what happened in the hallway upstairs. They will see a window — sealed, modern, harmless — and they will not think about it at all.
+In her letter — the nine pages in her controlled hand, the handwriting shrinking towards the end — my mother made her case. She had been making it to herself for a quarter of a century. Now she made it to me.
 
-But I know. I carry it the way I carry the grief — not cleanly, not in a way that resolves. Honestly. The knowledge sits in my chest with a weight I have stopped trying to redistribute. The wall is gone and in the space where it stood there is room to breathe, and the breathing is uneven and sometimes it catches, but it is mine.
+*I want you to find her for me*, she wrote. *The mother who tells the truth. Show me the woman who kneels beside her daughter in a hallway and says, Your mother killed a girl tonight, and you saw it, and now you will carry that for the rest of your life. Find her. I will stand aside for her. I will applaud, and I will mean it. Because I could not be her. In the two seconds I had, I chose between a daughter who would be destroyed by knowing and a daughter who would be saved by forgetting, and I chose the saved one. I chose her again every morning for twenty-five years. You can call that a lie. I have called it the only mothering I knew how to do. I have not always been sure there was a difference.*
 
-The window is closed. The scratches are still there. Underneath them, the wood remembers a girl who held on with everything she had. The frame still carries the shape of her fingers. Twenty-five years could not sand it smooth.
+I read it and I hated her and I understood her and the two feelings were the same feeling. That is the thing she left me. Not the truth. The understanding of why she buried it.
 
-On my desk, the photograph of two girls at a window. In the frame beside it, the ninth photograph from the disposable camera — Kiera, smiling, alive, in the last moment before. Between the two frames: everything that happened. Everything that was lost. Everything that was recovered. The before and the after. The wall and the space where the wall stood.
+Three weeks after the film came back, Lily asked for a sleepover.
 
-I am.
+She asked the way twelve-year-olds ask — halfway between a demand and a negotiation, the case already built. A girl from her class. The new one, who moved to Melbourne in term two and hasn't found her people yet. "Her mum works late," Lily said. "She could just — stay. Friday. Please."
+
+I was at the kitchen counter. Liam was at the table. He looked up.
+
+The last time my daughter asked me this, two years ago, I said no before she finished the sentence. I said it the way my mother said things — with a warmth that was also a wall. I didn't know then why I couldn't. I know now.
+
+"Of course," I said. "That sounds lovely."
+
+Lily's face did something — surprise, then a grin, then the business of a twelve-year-old who has won and does not intend to revisit the terms. She hugged me. She is almost my height now. Her hair smelled like the shampoo she picked out herself, something floral and cheap and entirely hers.
+
+She pulled back. She looked at me the way she has started looking at me this year — measuring, the way I measure, the way my mother measured. A thing learned at the knee. Or in the bone.
+
+"Mum." She stopped. "Gran. Was she — sick a long time?"
+
+The kitchen went quiet. The kettle, which I had not switched on, ticked as it cooled.
+
+My mother died six weeks ago. Lily came to the funeral. She watched me hold my mother's hand in the coffin and she has not asked about it until now. Twelve years old, and she has been carrying the question the way I carried mine — quietly, in the place where the words should be, waiting for the hallway to be empty enough to say it.
+
+I opened my mouth.
+
+And here is where the two women inside me part company. One of them kneels. One of them puts her hands on her daughter's face — warm palms on the cheekbones, thumbs at the temples, the way you hold a face when you are about to tell it something you need it to believe. One of them says, *She was ill, sweetheart. It's complicated. You don't need to worry about it. Go and text your friend.* One of them builds, with love — with the love that is real — the wall that will hold for twenty-five years.
+
+The other one tells the truth.
+
+I know which one my mother chose. I know the shape of the room it built around me. I know the exact pitch of the silence inside it.
+
+My hand is rising. I watch it rise the way Saskia watches a witness — from a distance, with precision, unable to stop it. My hand is moving towards my daughter's face. My palm is warm. My daughter is twelve years old and she is asking me a question and my hand is on its way to her cheek and I do not yet know what I am going to do with it.
+
+The kettle ticks.
+
+Lily waits.
+
+You are twelve years old.

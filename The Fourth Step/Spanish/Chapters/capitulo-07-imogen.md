@@ -56,7 +56,7 @@ No una voz. No una palabra. Un sonido que estaba — estaba entre sonidos. Entre
 
 La taza.
 
-La taza se resbaló. O la dejé caer. O saltó de mis manos — no sé cómo describirlo porque yo ya no estaba allí, estaba en otro lugar, el sonido me había sacado del cuerpo y la taza estaba en el suelo y el chocolate caliente estaba por todas partes, por toda la moqueta, por mis pies descalzos, y la taza estaba hecha pedazos, la taza roja, el asa en una esquina y el borde en otra y los fragmentos aún asentándose, aún deslizándose por la moqueta, pequeños trozos de cerámica encontrando sus lugares de reposo, y yo estaba de pie con las manos vacías y los pies ardientes y el sonido seguía dentro de mí, no en mis oídos sino en mi pecho, una vibración que no se detenía.
+La taza se resbaló. O la dejé caer. O saltó de mis manos — no sé cómo describirlo porque yo ya no estaba allí, estaba en otro lugar, el sonido me había sacado del cuerpo y la taza estaba en el suelo y el chocolate caliente estaba por todas partes, por toda la moqueta, por mis pies descalzos, y la taza estaba hecha pedazos, la taza roja, el asa en una esquina y el borde en otra y los fragmentos aun asentándose, aun deslizándose por la moqueta, pequeños trozos de cerámica encontrando sus lugares de reposo, y yo estaba de pie con las manos vacías y los pies ardientes y el sonido seguía dentro de mí, no en mis oídos sino en mi pecho, una vibración que no se detenía.
 
 Y entonces —
 

@@ -24,8 +24,8 @@ Tu es à la fenêtre. Tu ne te souviens pas avoir marché. Tu es debout à la fe
 
 La grande silhouette est à côté de toi. Tu ne l'as pas entendue s'approcher. Sa main est sur ton épaule. Tiède. Ferme. La chaleur d'une paume qui vient de faire quelque chose de terrible et n'a pas encore cessé d'être chaude. Sa voix est près de ton oreille et elle dit des mots — bas, sans hâte, chacun posé comme on dépose quelque chose de fragile.
 
-Et puis un flash d'appareil photo, quelque part derrière toi, en haut des escaliers. Un éclat blanc et sec qui fige le couloir pendant un millième de seconde — la grande silhouette, la fenêtre vide, ton visage tourné vers le son. L'image se fixe sur une pellicule qui ne sera développée que vingt-cinq ans plus tard.
+Et puis un flash d'appareil photo, quelque part dans le noir derrière toi. Un éclat blanc et sec qui fige le couloir pendant un millième de seconde — la grande silhouette, la fenêtre vide, le petit visage tourné vers la lumière. Quelque part dans la maison, un obturateur s'est fermé sur une image. Elle restera dans le noir longtemps. Elle attendra quelqu'un qui saura où regarder.
 
-La fenêtre est vide. L'herbe est sombre et mouillée et l'air salé emporte le silence loin de la maison. Le silence s'installera dans cette fille pendant vingt-cinq ans, enfermé à la place où les mots devraient être, se calcifiant. Il ne relâchera son étreinte que lorsqu'elle se tiendra de nouveau dans ce couloir, plus âgée. Et l'étreinte cédera enfin.
+La fenêtre est vide. L'herbe est sombre et mouillée et l'air salé emporte le silence loin de la maison. Ce qui était ici s'en va. Ce qui reste, reste dans le corps.
 
 Tu as douze ans. Et tu es Rowan Thorne. Et tu es restée là debout depuis lors.

@@ -1,0 +1,43 @@
+THE FOURTH STEP — KDP Book Description (plain text)
+===================================================
+(Copy everything below the line into the KDP description field.
+ For bold/italics on the Kindle page, see the HTML version note at the bottom.)
+
+---------------------------------------------------
+
+Four women. One house. A girl who went through a window twenty-five years ago — and the mother who made sure her daughter would never remember it.
+
+Neve Cassidy is a family therapist who specialises in the memories people can't face — except her own. Twenty-five years ago, at a sleepover in a seaside holiday house, her best friend Kiera fell from an upstairs window. The police called it an accident. In the hallway afterward, Neve's mother knelt down, held her face, and told her she'd been asleep the whole time.
+
+Now Neve is back in that house — renovated, repainted, the window sealed shut — for a reunion she didn't plan, with three women she hasn't seen since, and a stranger named Cate who asks exactly the right questions and knows far too much.
+
+As the weekend tightens, the house gives back what the years buried: the fingernail scratches beneath the fresh paint; a disposable camera hidden for a quarter of a century; the memory Neve's own body has been carrying since she was twelve. And above it all, her mother's voice — calm, loving, relentless — still insisting she saw nothing at all.
+
+A gaslighting mother. A recovered memory. A truth someone spent twenty-five years making sure she would never find.
+
+By morning, Neve will finally know what happened that night. The harder question is what she'll do next — because the woman who built the lie loved her. And the love was real. And the lie was real. And in this family, the two have never been separate.
+
+For readers of The Silent Patient, The Push and Big Little Lies — a psychological thriller about motherhood, memory, and the inheritance of silence.
+
+---------------------------------------------------
+
+Optional tagline (use as a subtitle or cover line):
+"The most dangerous liar is the one a child is built to believe."
+
+===================================================
+HTML version (paste THIS into KDP for bold/italics rendering):
+===================================================
+
+<b>Four women. One house. A girl who went through a window twenty-five years ago — and the mother who made sure her daughter would never remember it.</b>
+
+Neve Cassidy is a family therapist who specialises in the memories people can't face — except her own. Twenty-five years ago, at a sleepover in a seaside holiday house, her best friend Kiera fell from an upstairs window. The police called it an accident. In the hallway afterward, Neve's mother knelt down, held her face, and told her she'd been asleep the whole time.
+
+Now Neve is back in that house — renovated, repainted, the window sealed shut — for a reunion she didn't plan, with three women she hasn't seen since, and a stranger named Cate who asks exactly the right questions and knows far too much.
+
+As the weekend tightens, the house gives back what the years buried: the fingernail scratches beneath the fresh paint; a disposable camera hidden for a quarter of a century; the memory Neve's own body has been carrying since she was twelve. And above it all, her mother's voice — calm, loving, relentless — still insisting she saw nothing at all.
+
+<i>A gaslighting mother. A recovered memory. A truth someone spent twenty-five years making sure she would never find.</i>
+
+By morning, Neve will finally know what happened that night. The harder question is what she'll do next — because the woman who built the lie loved her. And the love was real. And the lie was real. And in this family, the two have never been separate.
+
+For readers of <i>The Silent Patient</i>, <i>The Push</i> and <i>Big Little Lies</i> — a psychological thriller about motherhood, memory, and the inheritance of silence.

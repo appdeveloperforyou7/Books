@@ -114,7 +114,7 @@ Elaine looks.
 
 Her eyes go to the first photograph. The bruising on Kiera's back. Purple-black, twenty-five years frozen in emulsion. Her jaw tightens. She looks at the second. The shoulder marks — ten points of contact, the width of fingers, bilateral, even, grip-pattern bruising that no amount of narrative management can explain away. Her lips press together. The third. The measurement. The distance from the wall. Two metres. The physics of a push, not a fall. The evidence that turns "she stumbled" into a lie and "it was an accident" into something else entirely.
 
-I watch her face as she looks. The composure — what's left of it — drains away. Not gradually. Like saturation sliding to zero in a photograph. The skin goes slack around the jaw. The careful architecture of control — the raised chin, the steady gaze, the measured breaths — collapses in on itself like a tent in a windstorm. She is looking at the photographs of the damage her hands did. The bruises her fingers left. The evidence that has been sitting in a file in a forensic pathologist's office for twenty-five years, waiting for the right person to find it.
+I watch her face as she looks. The composure — what's left of it — drains away. Not gradually. Like saturation sliding to zero in a photograph. The skin goes slack around the jaw. The careful architecture of control — the raised chin, the steady gaze, the measured breaths — collapses in on itself. She is looking at the photographs of the damage her hands did. The bruises her fingers left. The evidence that has been sitting in a file in a forensic pathologist's office for twenty-five years, waiting for the right person to find it.
 
 She stares at the photographs for a long time. Five seconds. Six. The room waits. The wind presses against the glass. The house groans. And Elaine Cassidy sits in her armchair and looks at what she did, and the looking is the thing that breaks her.
 
@@ -136,7 +136,7 @@ The words are quiet. Not demanding. Not angry. The quiet of a woman who already 
 
 Two words. The words she has never said. Not once. Not in twenty-five years. Not "she stumbled." Not "she fell." Not "there was a struggle." I pushed her. Active voice. The agent. The truth.
 
-"I was holding her shoulders. She was pulling away. She was strong — stronger than she looked. She was fighting me. Trying to get to the stairs. And I pushed. Not toward the window. I wasn't trying to — I pushed her away from the door. Away from the stairs. I needed her to stop moving. I needed her to stay still so I could think. And the window was right there. It was open. It was summer and it was always open at night in summer. I pushed and she went backward and her hands came up and —"
+"I was holding her shoulders. She was pulling away. She was strong — stronger than she looked. She was fighting me. Trying to get to the stairs. And I pushed. Not towards the window. I wasn't trying to — I pushed her away from the door. Away from the stairs. I needed her to stop moving. I needed her to stay still so I could think. And the window was right there. It was open. It was summer and it was always open at night in summer. I pushed and she went backward and her hands came up and —"
 
 Elaine's voice breaks.
 

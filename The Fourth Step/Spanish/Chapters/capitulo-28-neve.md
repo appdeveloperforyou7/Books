@@ -84,6 +84,20 @@ Recuerdo la pijama. Azul con estrellas plateadas. No he pensado en ella en veint
 
 "Y te dije que no lo viste," dice. "Me arrodillé y te sostuve y te dije que estabas dormida. Y seguí diciéndotelo. Cada pesadilla. Cada vez que me mirabas con esa cara — la cara que sabía que algo estaba mal — te decía que era un sueño. Te decía que tu mente te estaba jugando trucos. Y te llevé a médicos que te trataron la ansiedad porque yo les dije que eras ansiosa. Y nos mudamos para que no estuvieras cerca de nadie que pudiera contradecir lo que te había dicho. Y te llamé todos los días durante veinticinco años para asegurarme de que el muro se sostenía."
 
+"Todos los días," digo. "Veinticinco años."
+
+"Sí."
+
+"Eso no fue amor, mamá."
+
+"Lo fue." Sus ojos están húmedos sobre la mascarilla. "También fue control. Ya lo sabes."
+
+"Sé que elegiste. Cada día. Elegiste."
+
+"Te elegí a ti."
+
+"Te elegiste a ti."
+
 Su mano tiembla en la mía. O la mía en la suya. Ya no puedo distinguirlo. El temblor pasa entre nosotras como una corriente, como dos conductores tocando el mismo cable vivo.
 
 "Pensé que si lo controlaba — si controlaba la historia, si controlaba lo que recordabas — podía conservarte. Podía evitar que supieras que tu madre mató a alguien. Podía evitar que cargaras con eso. Podía conservarte."

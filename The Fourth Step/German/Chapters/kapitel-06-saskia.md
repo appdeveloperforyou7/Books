@@ -22,7 +22,7 @@ Ich war neunzehn, als ich diesen Satz zum ersten Mal verstand. Ich saß in der R
 
 Ich habe fünfundzwanzig Jahre damit verbracht, jemanden dazu zu bringen, dieses Detail ernst zu nehmen.
 
-Ich tippte eine Zeitachse im Jahr 2004. Ich war vierzehn. Zwei Jahre nach der fraglichen Nacht. Ich tippte sie auf dem Desktop-Computer meiner Mutter, in ihrem Arbeitszimmer, während sie bei der Arbeit war. Ich druckte sie aus und steckte sie in eine Manila-Mappe und versteckte die Mappe unter meiner Matratze. Ich habe diese Zeitachse seitdem dreiundzwanzig Mal aktualisiert. Die aktuelle Version steht auf dem Bildschirm vor mir.
+Ich tippte eine Zeitachse im Jahr 2004. Ich war vierzehn. Zwei Jahre nach der fraglichen Nacht. Ich tippte sie auf dem Desktop-Computer meiner Mutter, in ihrem Arbeitszimmer, während sie bei der Arbeit war. Ich druckte sie aus und steckte sie in eine Manila-Mappe und versteckte die Mappe unter meiner Matratze. Ich habe diese Zeitachse seitdem dreiundzwanzigmal aktualisiert. Die aktuelle Version steht auf dem Bildschirm vor mir.
 
 Die Zeitachse beginnt um 18:00 Uhr, 14. Dezember. Ankunft im Haus in Sorrento. Fünf Mädchen: Neve Cassidy, Saskia Brennan, Imogen Hart, Rowan Thorne, Kiera Doyle. Eine Erwachsene: Elaine Cassidy, Mutter von Neve. Eigentümerin des Anwesins.
 

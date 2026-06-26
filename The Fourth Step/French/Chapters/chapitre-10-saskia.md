@@ -84,7 +84,7 @@ Je ne tends pas la main vers l'appareil. Je ne me penche pas en avant. Je ne cha
 
 « Montre-moi l'image originale. »
 
-Elle fait défiler. Me la montre. Le couloir complet, éclairé au flash. La fenêtre au bout. Les murs. La moquette. Et dans le coin du cadre, là où l'aluminium rejoint le mur, les rayures. Indéniables. Physiques. Présentes.
+Elle fait défiler Me la montre. Le couloir complet, éclairé au flash. La fenêtre au bout. Les murs. La moquette. Et dans le coin du cadre, là où l'aluminium rejoint le mur, les rayures. Indéniables. Physiques. Présentes.
 
 « Tu as montré ça à quelqu'un d'autre ? »
 
@@ -116,7 +116,7 @@ Elle s'arrête.
 
 « La petite est passée par la fenêtre. »
 
-Le mot qu'elle utilise est passée. Pas tombée. Pas sautée. Passée. Le même mot qu'elle utilisait à douze ans, quand la police lui a demandé ce qu'elle avait vu et qu'elle a répondu « elle est passée par la fenêtre » et qu'ils ont noté « elle est tombée de la fenêtre » parce que passée n'était pas un mot qui s'intégrait dans leur récit. J'ai lu la transcription. Je sais ce qu'ils ont changé.
+Le mot qu'elle utilise est passé. Pas tombée. Pas sautée. Passée. Le même mot qu'elle utilisait à douze ans, quand la police lui a demandé ce qu'elle avait vu et qu'elle a répondu « elle est passée par la fenêtre » et qu'ils ont noté « elle est tombée de la fenêtre » parce que passée n'était pas un mot qui s'intégrait dans leur récit. J'ai lu la transcription. Je sais ce qu'ils ont changé.
 
 « Passée, » dis-je.
 

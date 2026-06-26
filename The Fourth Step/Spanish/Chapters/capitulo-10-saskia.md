@@ -70,7 +70,7 @@ La fotografía está bien compuesta. Iluminada con flash, plana, clínica — el
 
 Y en la madera: arañazos.
 
-Cinco líneas paralelas. Espaciadas uniformemente. Descendentes, de arriba a la derecha a abajo a la izquierda. La anchura de la mano de una niña. La profundidad de uñas en madera blanda.
+Cinco líneas paralelas. Espaciadas uniformemente. Descendentes, de arriba a la derecha abajo a la izquierda. La anchura de la mano de una niña. La profundidad de uñas en madera blanda.
 
 Mi pulso se acelera. De sesenta y cinco a noventa en menos de dos segundos. Adrenalina, aguda y autónoma — la respuesta del cuerpo a una evidencia que reconoce antes que la mente. Mi respiración se mantiene pareja. Mi cara se mantiene inexpresiva. Mi expresión no cambia.
 
@@ -168,7 +168,7 @@ De pelo marrón, estatura media, cara agradable. Vaqueros, jersey azul marino. S
 
 Su sonrisa no vacila. Una micro-pausa — tres décimas de segundo, posiblemente menos — y asiente y dice "Por supuesto. Quería decir — sí. El grupo. Yo era demasiado joven para ser parte, por supuesto. Estaba en Tercero cuando vosotras estabais en Sexto. Pero recuerdo veros. Parecíais tan — maduras. Tan seguras."
 
-La corrección aterriza. La pausa es una línea de fractura en la representación — tres décimas de segundo, visible solo para alguien entrenado para buscar la costura. Una persona que genuinamente no conocía al grupo no habría sabido que eran seis. Una persona que sí conocía no habría dicho cinco. El error revela familiaridad. La velocidad de la corrección revela práctica.
+La corrección aterriza. La pausa es una línea de fractura en la representación — tres décimas de segundo, visible solo para alguien entrenado para buscar la costura. Una persona que genuinamente no conocía al grupo no habría sabido qué eran seis. Una persona que sí conocía no habría dicho cinco. El error revela familiaridad. La velocidad de la corrección revela práctica.
 
 Hace preguntas. No sobre el presente. Sobre la casa, el grupo, la historia. Preguntas sutiles, envueltas en nostalgia, formuladas con una calidez que las hace sentir como conversación y no como interrogatorio. Pregunta cuándo fue la renovación. Pregunta de quién era la casa después de las — después de las vacaciones. Pregunta si alguien mantuvo contacto con los Doyle.
 
@@ -186,7 +186,7 @@ Estas no son las preguntas de alguien que estaba dos años por detrás de nosotr
 
 La observo. Respondo de forma mínima — sí, no, no sé. Dejo que Imogen llene los huecos. Imogen habla de la zona, los cambios, los cafés nuevos, y Cate escucha y hace preguntas complementarias y cada pregunta es un hilo que se tira, suavemente, persistentemente, para ver hasta dónde se deshilacha.
 
-Pregunta por la casa de vacaciones específicamente. "¿Era de un amigo de la familia? La donde os quedabais todas?" Y Imogen dice "Pertenecía a la familia de Neve, ¿no?" y Cate dice "Oh, por supuesto" y me mira y lo veo — un destello, una microexpresión, la contracción de los músculos alrededor de los ojos que Ekman clasificaría como dolor o aflicción, desaparecida en menos de medio segundo, sustituida por interés, sustituida por la cara de escucha, sustituida por nada.
+Pregunta por la casa de vacaciones específicamente. "¿Era de un amigo de la familia? La donde os quedabais todas?" E Imogen dice "Pertenecía a la familia de Neve, ¿no?" y Cate dice "Oh, por supuesto" y me mira y lo veo — un destello, una microexpresión, la contracción de los músculos alrededor de los ojos que Ekman clasificaría como dolor o aflicción, desaparecida en menos de medio segundo, sustituida por interés, sustituida por la cara de escucha, sustituida por nada.
 
 Sabía de quién era la casa. No necesitaba que Imogen se lo dijera. El "oh, por supuesto" era tapadera. La microexpresión era real.
 

@@ -26,7 +26,7 @@ I don't know if this is true. Maybe saying it makes it true. She would know abou
 
 "Mum. You should save your strength."
 
-"I need to talk." She pulls the mask further down. It hangs around her neck. Her breathing is labored without it — each breath a small effort, a slight hitch at the top, the sound of a body working hard to do something it used to do without thinking. "I need to say this while I can."
+"I need to talk." She pulls the mask further down. It hangs around her neck. Her breathing is laboured without it — each breath a small effort, a slight hitch at the top, the sound of a body working hard to do something it used to do without thinking. "I need to say this while I can."
 
 The paramedic glances over. She hears us. She hears the intensity in my mother's voice — the urgency of a woman who is running out of time and knows it. She doesn't intervene. She monitors the equipment and lets us talk.
 
@@ -74,7 +74,7 @@ I have never seen my mother cry like this. I have seen her cry at the right mome
 
 I don't speak. I hold her hand and I listen. The ambulance moves through the dark and the monitor beeps and the road hums. And my mother tells me the truth for the first time in twenty-five years.
 
-"I was on the phone," she says. "Upstairs. In the hallway. I was talking to — it doesn't matter who. Someone I shouldn't have been talking to. Kiera came up the stairs. She heard me. She was twelve years old and she was bold and she was brave and she looked at me with those eyes — those dark, certain eyes — and she said she was going to tell. She said it was wrong and she was going to tell the others and I grabbed her arm. I grabbed her arm to stop her from going downstairs. I wasn't thinking. I was panicked. I grabbed her and she pulled away and the window was open and I pushed — I pushed her away from the stairs, away from the door, toward the window. I didn't mean — I didn't intend — the window was — I didn't know it was that close. I didn't know she would — it was two seconds. Two seconds. My hand on her arm and then she was — she was gone."
+"I was on the phone," she says. "Upstairs. In the hallway. I was talking to — it doesn't matter who. Someone I shouldn't have been talking to. Kiera came up the stairs. She heard me. She was twelve years old and she was bold and she was brave and she looked at me with those eyes — those dark, certain eyes — and she said she was going to tell. She said it was wrong and she was going to tell the others and I grabbed her arm. I grabbed her arm to stop her from going downstairs. I wasn't thinking. I was panicked. I grabbed her and she pulled away and the window was open and I pushed — I pushed her away from the stairs, away from the door, towards the window. I didn't mean — I didn't intend — the window was — I didn't know it was that close. I didn't know she would — it was two seconds. Two seconds. My hand on her arm and then she was — she was gone."
 
 Her voice breaks on "gone." Not a controlled break. A fracture. A fault line through sixty-eight years of composure.
 
@@ -84,6 +84,20 @@ I remember the pyjamas. Blue with silver stars. I haven't thought about them in 
 
 "And I told you that you didn't see it," she says. "I knelt down and I held you and I told you that you were asleep. And I kept telling you. Every nightmare. Every time you looked at me with that face — the face that knew something was wrong — I told you it was a dream. I told you your mind was playing tricks. And I took you to doctors who treated you for anxiety because I told them you were anxious. And I moved us away so you wouldn't be near anyone who might contradict what I'd told you. And I called you every day for twenty-five years to make sure the wall was holding."
 
+"Every day," I say. "Twenty-five years."
+
+"Yes."
+
+"That wasn't love, Mum."
+
+"It was." Her eyes are wet above the mask. "It was also control. You know that now."
+
+"I know you chose. Every single day. You chose."
+
+"I chose you."
+
+"You chose yourself."
+
 Her hand is shaking in mine. Or mine in hers. I can't tell anymore. The tremor passes between us like a current, like two conductors touching the same live wire.
 
 "I thought if I controlled it — if I controlled the story, if I controlled what you remembered — I could keep you. I could keep you from knowing that your mother killed someone. I could keep you from carrying that. I could keep you."
@@ -92,7 +106,7 @@ Her hand is shaking in mine. Or mine in hers. I can't tell anymore. The tremor p
 
 "I carried it and it crushed me. And I let it crush you anyway."
 
-The ambulance slows. A red light, maybe. Or a turn. She closes her eyes. Her breathing is labored. I reach over and pull the mask back up over her nose and mouth and she lets me. She doesn't resist. She lets her daughter put the mask on her face the way she must have let me do things when I was a baby, before the controlling started, before the lie, before the hallway.
+The ambulance slows. A red light, maybe. Or a turn. She closes her eyes. Her breathing is laboured. I reach over and pull the mask back up over her nose and mouth and she lets me. She doesn't resist. She lets her daughter put the mask on her face the way she must have let me do things when I was a baby, before the controlling started, before the lie, before the hallway.
 
 "I don't forgive you," I say.
 
@@ -104,7 +118,7 @@ She nods. Behind the mask, her eyes are open and wet and she nods.
 
 I hold her hand. I hold it the way I've been holding it since the ambulance left the house — loosely enough that she could pull away if she wanted to, tightly enough that she knows I'm here. I don't say I forgive you. I don't say I don't. I hold her hand. The monitor beeps. The road hums. My mother breathes through a mask that fogs and clears and fogs and clears.
 
-She turns her head toward me. The mask is on her face and her eyes are above it and she looks at me with an expression I have never seen on her face before. Not composed. Not controlling. Not managing. The expression of a woman who has run out of things to manage — who is looking at her daughter and seeing, not the child she controlled, not the adult she gaslit, not the therapist she trained by example to manage other people's pain while ignoring her own, but a person. A person she wronged. A person she loves. A person she cannot fix.
+She turns her head towards me. The mask is on her face and her eyes are above it and she looks at me with an expression I have never seen on her face before. Not composed. Not controlling. Not managing. The expression of a woman who has run out of things to manage — who is looking at her daughter and seeing, not the child she controlled, not the adult she gaslit, not the therapist she trained by example to manage other people's pain while ignoring her own, but a person. A person she wronged. A person she loves. A person she cannot fix.
 
 "I'm sorry," she says again. The mask swallows the words. I hear them through the fogging and the clearing and the beeping and the hum of the road.
 

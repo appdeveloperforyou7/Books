@@ -14,7 +14,7 @@ Je le note. Je le souligne. Je ne le comprends pas encore.
 
 Je ferme le fichier. J'ouvre le rapport d'incident.
 
-Le rapport fait deux pages. Deux pages pour la vie d'une fille. « La défunte, Kiera Anne Doyle, âgée de 12 ans, a été trouvée à environ 21h20 le 14 décembre allongée sur la pelouse arrière de la propriété, apparemment après une chute d'une fenêtre du deuxième étage. » Apparemment. Ce mot fait un gros travail dans cette phrase. C'est le genre de mot que la police utilise quand elle n'a pas vérifié quelque chose mais ne veut pas dire qu'elle ne l'a pas vérifié. Apparemment. Présumément. Soi-disant. J'utilise ces mots au tribunal. Je sais ce qu'ils coûtent.
+Le rapport fait deux pages. Deux pages pour la vie d'une fille. « La défunte, Kiera Anne Doyle, âgée de 12 ans, a été trouvée à environ 21h20 le 14 décembre allongé sur la pelouse arrière de la propriété, apparemment après une chute d'une fenêtre du deuxième étage. » Apparemment. Ce mot fait un gros travail dans cette phrase. C'est le genre de mot que la police utilise quand elle n'a pas vérifié quelque chose mais ne veut pas dire qu'elle ne l'a pas vérifié. Apparemment. Présumément. Soi-disant. J'utilise ces mots au tribunal. Je sais ce qu'ils coûtent.
 
 « Légers hématomes constatés sur le haut du dos et les épaules, bilatéralement. Consistants avec des lésions d'impact dues à une chute. »
 
@@ -116,7 +116,7 @@ J'attends. Trente secondes. Soixante. Rien.
 
 Je pourrais monter. Je pourrais gravir ces escaliers et confronter quiconque est éveillé dans le couloir où Kiera est tombée, dans le noir, dans le froid, et poser les questions que j'attends de poser depuis vingt-cinq ans.
 
-Je ne monte pas. Non pas parce que j'ai peur. Parce que ce soir n'est pas le soir. Ce soir est observation. Ce soir est données. Ce soir est la collecte d'informations qui seront utilisées plus tard, avec précision, dans une pièce où les lumières sont allumées et les questions sont directes et les réponses ne peuvent être éludées.
+Je ne monte pas. Non pas parce que j'ai peur. Parce que ce soir n'est pas le soir. Ce soir est observation. Ce soir est donné. Ce soir est la collecte d'informations qui seront utilisées plus tard, avec précision, dans une pièce où les lumières sont allumées et les questions sont directes et les réponses ne peuvent être éludées.
 
 Je me détourne des escaliers. Je retourne à la cuisine. Je m'assois à la table. J'ouvre l'ordinateur. J'ajoute une note au dossier.
 

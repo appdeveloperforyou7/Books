@@ -28,15 +28,15 @@ Der Schreibtisch steht am Fenster. Ich setze mich. Ich öffne die Schublade. Kle
 
 Ich öffne sie.
 
-Der Polizeibericht liegt oben. Zwei Seiten, fotokopiert vom Original auf der Wache in Sorrento im Jahr 2006. Ich habe dieses Dokument siebenundvierzig Mal gelesen. Ich lese es achtundvierzig.
+Der Polizeibericht liegt oben. Zwei Seiten, fotokopiert vom Original auf der Wache in Sorrento im Jahr 2006. Ich habe dieses Dokument siebenundvierzigmal gelesen. Ich lese es achtundvierzig.
 
 Die Kopfzeile: Victoria Police, Incident Report, Sorrento Station, 14. Dezember 1999. Beamter: Senior Constable D. Hargreaves, Dienstnummer 4417. Pensioniert 2008. Weigerte sich, mit mir zu sprechen, als ich ihn 2012 kontaktierte. »Das ist lange her, Ms. Brennan. Lassen Sie es ruhen.« Die dritte Person, die mir das sagte.
 
 Ich springe zum Verletzungsabschnitt. »Geringfügige Blutergüsse an oberem Rücken und Schultern, bilateral. Vereinbar mit Aufprallverletzungen durch Sturz.«
 
-Ich habe diesen Satz siebenundvierzig Mal gelesen. Bilaterale Blutergüsse an oberem Rücken und Schultern. Beide Seiten. Symmetrisch. Das ist kein Sturzverletzungsmuster. Das ist ein Griffmuster — Hände auf die Schultern von hinten gelegt, Finger um die Oberarme, die Kraft eines Schubs presst Kapillarbett unter der Haut zusammen. Der Bericht sagt »vereinbar«. Hargreaves hat es notiert und »vereinbar« geschrieben und abgeheftet. Technisch vertretbar. Grundlegend falsch.
+Ich habe diesen Satz siebenundvierzigmal gelesen. Bilaterale Blutergüsse an oberem Rücken und Schultern. Beide Seiten. Symmetrisch. Das ist kein Sturzverletzungsmuster. Das ist ein Griffmuster — Hände auf die Schultern von hinten gelegt, Finger um die Oberarme, die Kraft eines Schubs presst Kapillarbett unter der Haut zusammen. Der Bericht sagt »vereinbar«. Hargreaves hat es notiert und »vereinbar« geschrieben und abgeheftet. Technisch vertretbar. Grundlegend falsch.
 
-Die Autopsie-Zusammenfassung. »Todesursache: stumpfes Trauma am Kopf, vereinbar mit Sturz aus Höhe. Todesart: Unfall.« das Rettungsdienstprotokoll verzeichnet die Position des Körpers: etwa zwei Meter von der Basis der Wand entfernt. Zwei Meter. Ein Kind, das rückwärts aus einem Fenster fällt, landet höchstens einen halben Meter von der Wand entfernt. Die Schwerkraft zieht senkrecht nach unten. Zwei Meter erfordern horizontale Kraft. Einen Schubs.
+Die Autopsiezusammenfassung. »Todesursache: stumpfes Trauma am Kopf, vereinbar mit Sturz aus Höhe. Todesart: Unfall.« das Rettungsdienstprotokoll verzeichnet die Position des Körpers: etwa zwei Meter von der Basis der Wand entfernt. Zwei Meter. Ein Kind, das rückwärts aus einem Fenster fällt, landet höchstens einen halben Meter von der Wand entfernt. Die Schwerkraft zieht senkrecht nach unten. Zwei Meter erfordern horizontale Kraft. Einen Schubs.
 
 Bis jetzt.
 
@@ -70,7 +70,7 @@ Darinnen: ein einzelnes Foto.
 
 Ich ziehe es heraus. Glanzpapier. Standard-Fotoabzug, zwanzig mal fünfundzwanzig Zentimeter. Das Bild ist ein Tatortfoto — ich erkenne den Stil sofort: der flache, schonungslose Blitz, der Weitwinkel, die forensische Rahmung, die alles einfängt und nichts ästhetisiert. Dies ist keine Fotografie, die für Schönheit gemacht wurde. Dies ist eine Fotografie, die als Dokumentation gemacht wurde.
 
-Das Bild zeigt den oberen Flur. Nicht, wie er jetzt ist — graue Wände, blonder Boden, versiegeltes Fenster. Sondern wie er war. Vor fünfundzwanzig Jahren. Cremefarbene Wände. Blauer Teppich. Und am Ende des Flurs das Fenster — das Originalfenster, der holzgerahmte Fensterflügel, offen, in die Dezembernacht hinausgeschlagen. Das Fenster, durch das Kiera ging.
+Das Bild zeigt den oberen Flur. Nicht, wie er jetzt ist — graue Wände, blonder Boden, versiegeltes Fenster. Sondern wie er war. Vor fünfundzwanzig Jahren. cremefarbene Wände. Blauer Teppich. Und am Ende des Flurs das Fenster — das Originalfenster, der holzgerahmte Fensterflügel, offen, in die Dezembernacht hinausgeschlagen. Das Fenster, durch das Kiera ging.
 
 Das Foto ist in der unteren rechten Ecke beschriftet mit Datum und Referenznummer: 14/12/1999. CR-4471-99. Dies ist ein offizielles Tatortfoto von der Nacht von Kieras Tod. Es ist nicht in der Akte enthalten, die ich über Informationsfreiheit erhalten habe. Die FOI-Freigabe enthielt zwölf Fotografien — Außenaufnahmen, der Rasen, die Position des Körpers. Dies ist aus dem Inneren des Flurs. Es wurde nicht freigegeben.
 
@@ -98,9 +98,7 @@ Ich drehe es zurück. Ich betrachte die Spiegelung erneut. Das Kind oben an der 
 
 Das Foto stammt von jemandem mit Zugang zu unveröffentlichtem Tatortmaterial. Jemand, der in diesem Haus war, während ich in der Küche bei Neve war. Jemand, der wollte, dass ich dieses bestimmte Bild in diesem bestimmten Moment sehe. Jemand, der eine Ermittlung parallel zu meiner führt, mit Zugang zu Beweisen, die ich nie gesehen habe, und Quellen, die ich nicht identifiziert habe.
 
-Cate. Cate Morrow, die Fragen stellt wie eine Journalistin und bei Kieras Namen ausgerutscht ist und wusste, wem dieses Haus gehört, bevor Imogen es ihr sagte. Cate, die heute Morgen angekommen ist und uns alle beobachtet mit der Konzentration von jemandem, der Beweise sammelt, statt sich mit Freundinnen wiederzuvereinen.
-
-Oder jemand anderes. Jemand, den ich nicht identifiziert habe. Jemand, der aus der Ferne die Fäden zieht.
+Jemand mit Zugang zu unveröffentlichten Beweisen. Jemand in diesem Haus oder jemand, der durch es hindurch wirkt. Cate ist die naheliegende Antwort — die Fragen, die dünne Geschichte, wie sie das Haus kannte —, aber naheliegende Antworten sind die, denen ich am wenigsten traue. Es könnte Cate sein. Es könnte jemand sein, der Cate benutzt. Es könnte jemand sein, den ich noch nicht gefunden habe.
 
 Ich hefte die Frage ab — die siebzehnte — und betrachte das Foto erneut.
 
@@ -112,7 +110,7 @@ Ich denke an die gespiegelte Gestalt auf dem Foto.
 
 Ich denke an Neve.
 
-Ich hebe mein Handy. Ich fotografiere das Foto — das Tatortbild, die Spiegelung, die Gestalt. Dann schiebe ich das Foto zurück in den Manila-Umschlag und lege es mit dem Polizeibericht und der Autopsie-Zusammenfassung in die Dokumentenhülle. Ich schließe die Schreibtischschublade ab.
+Ich hebe mein Handy. Ich fotografiere das Foto — das Tatortbild, die Spiegelung, die Gestalt. Dann schiebe ich das Foto zurück in den Manila-Umschlag und lege es mit dem Polizeibericht und der Autopsiezusammenfassung in die Dokumentenhülle. Ich schließe die Schreibtischschublade ab.
 
 Ich setze mich auf das Bett. Die Zeit ist zwölf vierzehn. Das Haus ist still. Neve ist in der Küche. Die anderen sind unbekannten Aufenthalts.
 

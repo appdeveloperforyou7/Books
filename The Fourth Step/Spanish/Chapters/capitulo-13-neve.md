@@ -22,7 +22,7 @@ El baño de abajo está cerrado. Necesito subir.
 
 Mis manos están a los costados. Mis dedos hormiguean. La sangre moviéndose hacia adentro, hacia el centro. Lucha o huida. Mi cuerpo preparándose para una amenaza que no existe — excepto que mis dedos están entumecidos y mis palmas están húmedas y mi corazón retumba en mis oídos, lo que significa que mi cuerpo discrepa conmigo sobre si la amenaza existe.
 
-Respiro. Cuatro dentro, siete mantenido, ocho fuera. La técnica es fiable. Se la he enseñado a cien pacientes.
+Respiro. Cuatro dentro, siete mantenidos, ocho fuera. La técnica es fiable. Se la he enseñado a cien pacientes.
 
 El extractor zumba detrás de la puerta del baño.
 
@@ -32,7 +32,7 @@ El primer peldaño es fácil. Una elevación, una huella, un pie colocado con in
 
 El cuarto escalón gime.
 
-Las escaleras nuevas no crujen — lo sé, la renovación las reemplazó — pero el sonido está ahí, subiendo por mis pies y entrando en mis espinillas y en mis fémures y en mi pelvis y en mi columna y en la base de mi cráneo y algo en la base de mi cráneo — algo profundo, algo pre-verbal, algo más antiguo que el lenguaje y más antiguo que la memoria — se enciende como un interruptor que se acciona.
+Las escaleras nuevas no crujen — lo sé, la renovación las reemplazó — pero el sonido está ahí, subiendo por mis pies y entrando en mis espinillas y en mis fémures y en mi pelvis y en mi columna y en la base de mi cráneo y algo en la base de mi cráneo — algo profundo, algo preverbal, algo más antiguo que el lenguaje y más antiguo que la memoria — se enciende como un interruptor que se acciona.
 
 No recuerda. Reconoce.
 
@@ -44,7 +44,7 @@ Mi pie está en el peldaño. La mitad de mi peso sobre él. Mi mano agarra la ba
 
 El conocimiento no es cognitivo. Es celular.
 
-El sonido se desvanece. La casa se asienta. Estoy de pie en el cuarto escalón con frecuencia cardíaca elevada y palmas húmedas — los marcadores fisiológicos de estrés agudo desencadenados por un sonido que mi cuerpo ha codificado como significativo.
+El sonido se desvanece. La casa se asienta. Estoy de pie en el cuarto escalón con frecuencia cardíaco elevado y palmas húmedas — los marcadores fisiológicos de estrés agudo desencadenados por un sonido que mi cuerpo ha codificado como significativo.
 
 Debería bajar.
 
@@ -94,57 +94,33 @@ Más pequeña de lo que era. Panel fijo. Sellada. Marco de aluminio blanco, dobl
 
 Miro la ventana y algo se desplaza.
 
-Empieza por los bordes. Mi visión se estrecha — no oscuridad en la periferia, sino un ablandamiento, una disolución, como si el mundo más allá de este punto específico estuviera perdiendo coherencia. Las paredes grises pierden su borde. El suelo claro pierde su color. Solo queda la ventana. Solo el cristal. Solo el rectángulo de luz que está cambiando — brillando, calentándose, pasando del gris plano de una mañana de julio al dorado de una noche de diciembre.
+Empieza por los bordes. Mi visión se estrecha — un ablandamiento, una disolución, el mundo más allá de este punto perdiendo coherencia. Las paredes grises pierden su borde. El suelo claro pierde su color. Solo queda la ventana. Solo el cristal. Solo el rectángulo de luz que está cambiando — brillando, calentándose, pasando del gris plano de una mañana de julio al dorado de una noche de diciembre.
 
 Las paredes grises tiemblan.
 
-Son crema. El gris cae como una cortina que se desploma y el crema está ahí — cálido, suave, familiar, el color del pasillo como era, como siempre ha sido debajo de la pintura. El crema atrapa la luz. Luz dorada. Luz ámbar. La luz de una tarde de verano cuando el sol está bajo y el cielo es naranja y el aire es espeso de calor.
+Son crema. El gris cae como una cortina que se desploma y el crema está ahí — cálido, suave, el color del pasillo como era, debajo de la pintura. El crema atrapa una luz que no está en esta habitación. Luz dorada. Luz ámbar. La luz de una tarde de verano cuando el sol está bajo.
 
-El suelo es moqueta. Moqueta azul. La madera clara se disuelve y la moqueta está ahí, pelo bajo, sintética, mostrando el rastro de pies, reteniendo el calor del día. La moqueta que mi cuerpo conoce. La moqueta que mis pies recuerdan.
+Luego se va.
 
-La ventana es más grande. Mucho más grande. Llena el final del pasillo — un rectángulo alto de noche, abierto, la ventana batiente abierta hacia fuera, el marco ancho, el cristal desaparecido, sustituido por aire. Aire cálido. Aire de diciembre. El aire se mueve por el pasillo como la respiración se mueve por un cuerpo — dentro y fuera, dentro y fuera, la casa respirando, la noche respirando, y el aire trae sal y eucalipto y bajo ambas, una tercera nota — metálica. Cobre. Hierro. El sabor de la sangre en la lengua. El olor del miedo, no una abstracción, no una metáfora, sino una firma química real, adrenalina y cortisol sudando de la piel, y lo estoy oliendo, lo estoy saboreando, y es ahora, esto es ahora, esto está ocurriendo ahora.
+El crema, el dorado, el calor — chasquea de vuelta a gris, y estoy de pie frente a una ventana de aluminio sellada en julio, y mis manos tiemblan, y casi vi algo y no quiere venir.
 
-El pasillo está caliente.
+Cierro los ojos. Tiendo hacia ello como tiendes hacia una palabra en la punta de la lengua — cuanto más tiendes, más retrocede.
 
-Estoy de pie en lo alto de las escaleras.
+Un fragmento aflora. No una imagen. Una sensación. Una mano en un hombro. No mi hombro. Pequeña. El agarre lo bastante fuerte para presionar la tela en la piel. Luego nada. El fragmento se hunde.
 
-Dos figuras al final del pasillo.
+Otro. El olor. Metálico. Cobre. El sabor de la sangre en la lengua. Luego nada.
 
-Una alta. La alta está de espaldas a mí. Forma oscura contra la ventana abierta. Las proporciones no son de una niña. La altura. La anchura de los hombros. El ángulo de la cabeza. Es alta como una adulta es alta. Su brazo está a su lado. Su mano está a su lado.
+Otro. Un sonido. Entre un jadeo y un golpe sordo. El sonido que vino después. Luego nada.
 
-Una pequeña. La pequeña está de pie delante de la alta. Más cerca de la ventana. Mucho más cerca. La pequeña tiene mi altura. La pequeña tiene mi tamaño. La pequeña es una niña. Su pelo es oscuro. Me da la espalda. Está entre la alta y la ventana abierta.
+Estoy intentando ensamblar una habitación a partir de su polvo. Cada pieza que recupero encuentra resistencia — una fuerza que la empuja hacia abajo, una voz debajo de la mía que dice *estabas dormida, estabas abajo, no viste nada.* La voz es calmada. Es femenina. Lleva diciéndolo veinticinco años y lo dice ahora, en el momento exacto en que las piezas intentan unirse, y las piezas se dispersan.
 
-El brazo de la alta se mueve.
+Abro los ojos.
 
-Se levanta. Rápido. No un gesto. No una mano alzada. No un abrazo. El brazo se levanta y la mano encuentra el hombro de la pequeña. La mano se cierra. El agarre es fuerte. Los dedos presionan la tela. La pequeña se encoge.
-
-La alta empuja.
-
-La pequeña tropieza hacia atrás. Hacia la ventana. La ventana que está abierta. La ventana que es un rectángulo de aire oscuro y cielo nocturno y nada entre la pequeña y el borde. Los brazos de la pequeña se extienden — alcanzando, agarrando, no encontrando nada, encontrando aire.
-
-Sus manos encuentran el marco.
-
-Madera. Madera vieja. Pintada de crema. Pintura descascarándose bajo dedos que arañan, desesperados, aferrándose. Sus manos agarran el marco. Sus dedos. Sus uñas. Manos pequeñas. Manos de niña. Las manos presionan la madera.
-
-Las uñas raspan la pintura.
-
-Un sonido fino y agudo. Un raspado. Una fricción de uña sobre pintura sobre madera. Cinco líneas. Cinco uñas. Descendentes. Las marcas surcan la pintura, profundas, visibles, permanentes, y las manos se deslizan y el agarre se mantiene y los dedos se abren y la pequeña se está aferrando, aferrándose al marco, aferrándose al borde de la ventana, aferrándose al mundo.
-
-El agarre se mantiene.
-
-Los dedos de la pequeña pierden el marco.
-
-Una mano primero. Luego la otra. Las uñas dejan la madera. Cinco líneas paralelas surcadas en la pintura, profundas, descendentes. Y entonces las manos han desaparecido y la pequeña ha desaparecido y la ventana está vacía y el aire caliente se mueve por el pasillo y la alta está ahí, al final del pasillo, delante de la ventana abierta, y la noche está más allá y la pequeña ya no está y la ventana está vacía y la ventana está vacía y la ventana está —
-
-La alta se gira.
-
-Su cara es —
-
-Su cara es —
+El pasillo está gris. La ventana está sellada. Tengo treinta y siete años. Estoy bien.
 
 Estoy en el suelo.
 
-El pasillo es gris. La moqueta ha desaparecido, la moqueta azul, las paredes crema, el aire caliente, la ventana abierta — desaparecidos. El pasillo es gris y el suelo es duro y estoy sobre él. Mi mejilla contra la madera clara. Mis manos prensadas contra los tablones, dedos extendidos. Mi cuerpo tiembla — una vibración profunda que empieza en mi centro y irradia hacia fuera, dientes castañeteando, mandíbula apretada, músculos disparándose en oleadas que no puedo controlar.
+El pasillo es gris. La moqueta ha desaparecido, la moqueta azul, las paredes crema, el aire caliente, la ventana abierta — desaparecidos. El pasillo es gris y el suelo es duro y estoy sobre él. Estoy sobre mi lado izquierdo, las rodillas encogidas. Mis manos prensadas contra los tablones, dedos extendidos. Mi cuerpo tiembla — una vibración profunda que empieza en mi centro e irradia hacia fuera, dientes castañeteando, mandíbula apretada, músculos disparándose en oleadas que no puedo controlar.
 
 Las paredes grises son grises. La ventana sellada está sellada. El aire de diciembre es aire de julio y está frío y huele a pintura nueva y productos de limpieza y nada más.
 
@@ -198,4 +174,4 @@ Debería llamar a mamá. Debería llamarla y oír su voz y dejar que me diga lo 
 
 No la llamo.
 
-Me quedo en la cocina. Pienso: *Vi algo. En el pasillo. Dos personas. Una de ellas era — no. No, estaba abajo. Siempre estaba abajo. Mamá dijo que estaba dormida. Estaba dormida.* Lo repito como un mantra. Pero por primera vez, el mantra no funciona.
+Me quedo en la cocina. Pienso: *Vi algo. En el pasillo. Una mano en un hombro. Un sonido. Yo era — no. No, estaba abajo. Siempre estaba abajo. Mamá dijo que estaba dormida. Estaba dormida.* Lo repito como un mantra. Pero por primera vez, el mantra no funciona.

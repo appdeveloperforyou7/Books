@@ -136,7 +136,7 @@ The word safe hangs in the air. Neve looks at it and her face does something, a 
 
 Neve leans forward. "Why are you really here, Saskia?"
 
-The question is a challenge. Even Cate leans forward, her body angled toward the answer.
+The question is a challenge. Even Cate leans forward, her body angled towards the answer.
 
 "I'm here because someone sent me an invitation that appeared to come from me. I traced it. Dead end. But I was already going to come. I've been tracking this property for years." She says this flat, factual, like reading from a document. "I never believed it was an accident. Not since I was twelve."
 
@@ -154,7 +154,7 @@ The room goes very still.
 
 Neve doesn't answer. She's looking at Saskia with an expression I can't read — not anger, not fear, something between the two, something that looks like hands pressed flat against a table — holding something down, holding something in, knuckles bloodless with the effort of not letting go.
 
-"My turn," Saskia says. Her eyes move from Cate to me to Rowan to Neve. She's not playing anymore. She's been building toward something and I can feel it rising in my chest, the underwater feeling, the pressure, the thing I hold down every day by keeping my hands busy and my voice bright and my thoughts on Sophie and Greg and lesson plans and anything except —
+"My turn," Saskia says. Her eyes move from Cate to me to Rowan to Neve. She's not playing anymore. She's been building towards something and I can feel it rising in my chest, the underwater feeling, the pressure, the thing I hold down every day by keeping my hands busy and my voice bright and my thoughts on Sophie and Greg and lesson plans and anything except —
 
 "Truth," Saskia says. "For all of you. One question. Same question."
 
@@ -180,7 +180,7 @@ Three words. They land on the table and they don't move.
 
 "You saw two people?" Cate leans forward. "In the hallway?"
 
-Her voice is gentle. The kind of gentle that gets people to say things they didn't mean to. But her hands — her fingers have stopped shuffling the cards. The cards are forgotten. Her body has oriented toward Rowan's description the way a compass orients toward north. Not surprise. Not curiosity. Recognition. The posture of someone hearing a description of something they already know.
+Her voice is gentle. The kind of gentle that gets people to say things they didn't mean to. But her hands — her fingers have stopped shuffling the cards. The cards are forgotten. Her body has oriented towards Rowan's description the way a compass orients towards north. Not surprise. Not curiosity. Recognition. The posture of someone hearing a description of something they already know.
 
 "I saw shapes."
 
@@ -205,6 +205,8 @@ The room holds its breath. Cate is very still. Rowan is watching with her camera
 "You were upstairs. You were in the hallway. You were standing exactly where you stood this morning when you collapsed. Under the window. You were looking at me and I stopped and I looked at you and you looked — your face wasn't surprised, Neve. You weren't surprised. You were already terrified. You were terrified before I got there. Like you'd already seen something. Like you'd been standing there long enough to see it."
 
 The kitchen is silent. The clock ticks. The sea moves. Five women and a table and twenty-five years of silence finally cracking.
+
+Two versions of one hallway. Rowan's: two shapes at the window, gold light, a sound like something ending. Saskia's: Neve already under the window, already terrified, before anyone arrived. Both held up as true. Neither complete. I remember a lecturer saying it — second year, the psychology unit I nearly failed — that two people in the same room will remember two different rooms. Memory isn't a record. It's a reconstruction, and every witness builds a slightly different room. Rowan saw the shapes. Saskia saw Neve. Neve saw nothing — so she says. Three girls, three hallways, one night. Nobody saw the whole room.
 
 "I was on the couch," Neve says. Her voice is controlled. Therapist voice. The voice she uses when she is holding herself together with language. "That's where I was. I was on the couch. I fell asleep during the movie and I woke up when I heard the — I woke up and everyone was running upstairs and I followed. That's what happened. That's what my mother told —"
 

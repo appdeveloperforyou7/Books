@@ -8,7 +8,7 @@ I took something to help me sleep at half ten — just a herbal thing, something
 
 I'm lying on my back with my eyes open and the room is dark and the ceiling is the same height.
 
-I know because I'm measuring it with my eyes. I can't stop measuring it. The ceiling in our bedroom at home is higher. This ceiling is lower. This ceiling is the exact height of the ceiling in the room I slept in when I was twelve. The room with the yellow lamp and the floral bedspread and the window that faced east, toward the morning. My body knows the distance between my face and this plaster the way my hands know the weight of a mixing bowl.
+I know because I'm measuring it with my eyes. I can't stop measuring it. The ceiling in our bedroom at home is higher. This ceiling is lower. This ceiling is the exact height of the ceiling in the room I slept in when I was twelve. The room with the yellow lamp and the floral bedspread and the window that faced east, towards the morning. My body knows the distance between my face and this plaster the way my hands know the weight of a mixing bowl.
 
 I close my eyes.
 
@@ -78,11 +78,11 @@ I need water. I always bring a glass to bed at home — Greg teases me about it,
 
 I get out of bed. The carpet is new — soft, deep pile. The carpet that was here when I was twelve was blue and flat and scratchy. I know this because my feet remember.
 
-I open the bedroom door. The hallway is dark and the rain is hammering the roof so hard it sounds like something trying to get in. The floorboards creak under my feet — the same pitch, the same groan, the house speaking in its sleep, or maybe the house is not sleeping, maybe none of us are sleeping, maybe the storm is keeping the house awake the way it's keeping me awake. The kitchen is to the left. The stairs are straight ahead. I turn left toward the kitchen. I find the light switch. The fluorescent tube above the benchtop flickers twice and holds, throwing the kitchen into that flat white light that bleaches the colour from everything the way flour dusts a work surface. Then it flickers again and goes out. Two seconds of total dark. My hands find the counter edge. Then the light surges back, weaker now, buzzing, the tube struggling. The storm is winning.
+I open the bedroom door. The hallway is dark and the rain is hammering the roof so hard it sounds like something trying to get in. The floorboards creak under my feet — the same pitch, the same groan, the house speaking in its sleep, or maybe the house is not sleeping, maybe none of us are sleeping, maybe the storm is keeping the house awake the way it's keeping me awake. The kitchen is to the left. The stairs are straight ahead. I turn left towards the kitchen. I find the light switch. The fluorescent tube above the benchtop flickers twice and holds, throwing the kitchen into that flat white light that bleaches the colour from everything the way flour dusts a work surface. Then it flickers again and goes out. Two seconds of total dark. My hands find the counter edge. Then the light surges back, weaker now, buzzing, the tube struggling. The storm is winning.
 
 I fill a glass from the tap. The water is cold. I drink half of it and the cold is grounding, real. I set the glass on the benchtop. I should go back to bed. I should turn off the light and think about lesson plans and Sophie's dance bag and Greg's sandwiches and all the normal things waiting for me at home in Perth where the ceilings are high and the air smells like our house, not this house, not this salt-and-wood smell that keeps finding me.
 
-But instead of turning left toward my room, I walk to the foot of the stairs.
+But instead of turning left towards my room, I walk to the foot of the stairs.
 
 I don't decide to do this. My feet carry me to the bottom of the staircase, and I stand there and I look up. The staircase rises into darkness. The new bannister is pale, catching a sliver of light from somewhere. The steps are in shadow. The fourth step — Rowan said it still creaks. The stairs are new, they shouldn't creak, but something groaned when Neve came downstairs for tea. That particular groan. That particular weight.
 

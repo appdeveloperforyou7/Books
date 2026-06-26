@@ -140,7 +140,15 @@ La cara de Cate no cambia. Una persona falsamente acusada reaccionaría — shoc
 
 "He estado diciéndote la verdad."
 
-"Has estado contándome una historia. La verdad y una historia son cosas diferentes. Yo sé la diferencia. Es mi trabajo saber la diferencia."
+"Has estado contándome una historia. La verdad y una historia son cosas diferentes."
+
+"No sabes lo que te he estado diciendo."
+
+"Sé que no tenías nueve años cuando ocurrió. Sé que nunca viviste en Londres. Sé que entraste en esta casa y reconociste una cocina en la que nunca habías estado."
+
+"No sabes nada de lo que yo reconozco."
+
+"Sé tu nombre."
 
 Me mira. De verdad — no el contacto visual representado de los últimos dos días, sino algo más crudo. Una evaluación detrás de la máscara. No "es una amenaza" sino "cuánto sabe."
 
@@ -154,6 +162,8 @@ Doce meses de correos. Doce meses compartiendo lo que sabía. Doce meses constru
 
 Le entregué veinticinco años de evidencia a un desconocido. Y ahora estoy sentada frente a ella.
 
+Doce meses de confianza que no doy fácilmente, entregada a una mujer que inventó un nombre para ganársela. La rabia está ahí — debajo del análisis, debajo de la calma de la sala, un hilo ardiente que todavía no he tirado. Lo tiraré más tarde. Ahora mismo, la verdad importa más que la traición.
+
 "He estado correspondiendo con una periodista," digo.
 
 La cara de Cate no se mueve. Pero su cuerpo sí. Una quietud — no relajación sino rigidez. La quietud de un sospechoso al que acaban de decir que la entrevista está siendo grabada.
@@ -164,7 +174,7 @@ Hago una pausa. Dejo que el silencio haga lo que el silencio hace en un tribunal
 
 "Esta persona usaba el nombre A.M. Doyle."
 
-Observo su cara. Observo cada músculo, cada micro-movimiento, cada destello de párpados y tirón de mandíbula y contracción de pupilas. Observo como observas a una testigo que está a punto de romperse.
+Observo su cara. Observo cada músculo, cada micromovimiento, cada destello de párpados y tirón de mandíbula y contracción de pupilas. Observo como observas a una testigo que está a punto de romperse.
 
 "A.M. Doyle," repito. "¿Te gustaría decirme quién es?"
 

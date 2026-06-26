@@ -66,7 +66,7 @@ Wir sitzen lange. Wir reden nicht. Es gibt nichts mehr zu sagen, was in den letz
 
 Zwei Frauen, verbunden durch ein totes Mädchen. Das sind wir. Kiera Doyle ist der Raum zwischen uns. Sie war zwölf. Sie war mutig. Sie erzählte die besten Geistergeschichten. Sie ging nach oben, weil sie etwas hörte, das nicht richtig klang, und sie war die Art von Person, die auf das Ding zuging, das nicht richtig klang, und das Ding war meine Mutter am Telefon mit jemandem, mit dem sie nicht hätte sprechen sollen, und Kiera war mutig genug, es zu sagen, und meine Mutter war ängstlich genug, sie zu schubsen, und das Fenster war offen, und alles veränderte sich in zwei Sekunden.
 
-Aisling steht auf. Sie steckt die Kamera in die Tasche ihres Pullovers. »Ich gehe jetzt«, sagt sie. »Ich muss damit sitzen. Richtig. Alleine.«
+Aisling steht auf. Sie steckt die Kamera in die Tasche ihres Pullovers. »Ich gehe jetzt«, sagt sie. »Ich muss damit sitzen. Richtig. Allein.«
 
 »Okay.«
 

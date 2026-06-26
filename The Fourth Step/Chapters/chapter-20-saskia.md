@@ -60,7 +60,7 @@ A pause. Two-tenths of a second. Within normal range but at the upper limit — 
 
 "Rosebud Secondary College closed in 2003. It merged with Rosebud High to form Rosebud Secondary College — the current school — in 2004. If you left for London at fifteen, you would have been enrolled there in 2002 or 2003. It was still Rosebud High."
 
-She doesn't blink. But her left hand — the one resting on the arm of the chair — shifts. A small adjustment. A grounding movement. I've seen witnesses do the same thing when they realize opposing counsel has a document they weren't expecting.
+She doesn't blink. But her left hand — the one resting on the arm of the chair — shifts. A small adjustment. A grounding movement. I've seen witnesses do the same thing when they realise opposing counsel has a document they weren't expecting.
 
 "You're right. Rosebud High. I always forget — they changed the name, didn't they? It's confusing."
 
@@ -116,11 +116,9 @@ Silence.
 
 The house is quiet. Wind around the eaves. The distant sound of the sea. Imogen's water still running in the kitchen. Rowan's footsteps on the deck outside, slow, aimless, the pacing of someone who is somewhere else.
 
-"You asked about the renovation. When it happened. Who owned the house after the holidays. You asked if anyone kept in touch with the Doyles. You asked if anyone has seen the grave. These questions are precise. They are targeted. They are the questions of someone who is building a picture of what happened here, piece by piece, and who already has more pieces than they should."
+I let the catalogue sit. The pattern is the argument — no single discrepancy proves deception, but the accumulation does.
 
-I pause. Let the catalogue of errors sit. In court, I would pause here — let the jury absorb the pattern. The pattern is the argument. No single discrepancy proves deception. The accumulation does. The weight of small wrongs.
-
-"And there's the knowledge," I say. "You know things you shouldn't. Yesterday, when Imogen described the kitchen — yellow tiles, calendar with the lighthouse — you reacted. Not with surprise. With recognition. A woman who was two years behind us, who never visited this house, should not have recognized that kitchen. But you did. Your pupils dilated. Recognition, not novelty."
+"And there's the knowledge," I say. "You know things you shouldn't. Yesterday, when Imogen described the kitchen — yellow tiles, calendar with the lighthouse — you reacted. Not with surprise. With recognition. A woman who was two years behind us, who never visited this house, should not have recognised that kitchen. But you did. Your pupils dilated. Recognition, not novelty."
 
 "Saskia —"
 
@@ -130,7 +128,7 @@ I am watching her. I have been watching her for two days. I have catalogued ever
 
 "I don't believe you are who you say you are," I say.
 
-The words land between us. Clean. Precise. The way words land in a courtroom when the prosecution says "no further questions" and the witness realizes the cross-examination is over and they have not survived it.
+The words land between us. Clean. Precise. The way words land in a courtroom when the prosecution says "no further questions" and the witness realises the cross-examination is over and they have not survived it.
 
 Cate's face does not change. A wrongly accused person would react — shock, indignation, hurt. The absence of reaction is the reaction. She is managing her face instead of feeling through it.
 
@@ -140,7 +138,15 @@ Cate's face does not change. A wrongly accused person would react — shock, ind
 
 "I've been telling you the truth."
 
-"You've been telling me a story. The truth and a story are different things. I know the difference. It's my job to know the difference."
+"You've been telling me a story. The truth and a story are different things."
+
+"You don't know what I've been telling you."
+
+"I know you weren't nine when this happened. I know you never lived in London. I know you walked into this house and recognised a kitchen you've never been in."
+
+"You know nothing about what I recognise."
+
+"I know your name."
 
 She looks at me. Really looks — not the performed eye contact of the last two days, but something rawer. An assessment behind the mask. Not "is she a threat" but "how much does she know."
 
@@ -153,6 +159,8 @@ And I know something else. Something I haven't told anyone. Something I've been 
 Twelve months of emails. Twelve months of sharing what I knew. Twelve months of building a relationship with someone who used the name A.M. Doyle, who never once told me their real name, who I trusted because they had information and I am constitutionally incapable of trusting no one when information is on the table.
 
 I handed twenty-five years of evidence to a stranger. And now I'm sitting across from her.
+
+Twelve months of trust I do not give easily, handed to a woman who invented a name to earn it. The anger is there — under the analysis, under the courtroom calm, a hot thread I have not yet pulled. I will pull it later. Right now the truth matters more than the betrayal.
 
 "I've been corresponding with a journalist," I say.
 

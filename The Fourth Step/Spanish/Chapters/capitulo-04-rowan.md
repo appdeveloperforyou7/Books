@@ -16,7 +16,7 @@ Tomo otra. La ventana del segundo piso. Más pequeña. Reemplazada. Marco de alu
 
 Camino por el sendero. La verja del jardín es nueva. Hierro forjado, pintado de negro. El sendero es de hormigón ahora. Liso, moderno, líneas limpias. Era de ladrillo, irregular, con musgo creciendo entre las grietas. Mi cuerpo se ajusta para un desnivel cerca de la tercera piedra — memoria muscular de una superficie que ya no está ahí.
 
-Me detengo ante la puerta principal. Tengo la mano levantada para llamar y estoy mirando mis propios nudillos — finos, pálidos, el anillo de plata en mi mano derecha atrapando la última luz — y pienso: he estado aquí antes. No el pensamiento. La sensación. Como un diapasón golpeado hace veinticinco años, aún vibrando a una frecuencia justo por debajo del oído.
+Me detengo ante la puerta principal. Tengo la mano levantada para llamar y estoy mirando mis propios nudillos — finos, pálidos, el anillo de plata en mi mano derecha atrapando la última luz — y pienso: he estado aquí antes. No el pensamiento. La sensación. Como un diapasón golpeado hace veinticinco años, aun vibrando a una frecuencia justa por debajo del oído.
 
 Llamo.
 

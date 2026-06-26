@@ -62,7 +62,7 @@ She sits in the car for five minutes. I time it. Five minutes and four seconds. 
 
 She looks at her phone. I can see her right hand lift from the wheel, thumb moving across the screen. Texting. She puts the phone down. She sits for another two minutes. Then she opens the car door.
 
-She stands in the driveway. The wind hits her. She takes a step toward the house. She stops. She starts again. She walks to the front door and knocks.
+She stands in the driveway. The wind hits her. She takes a step towards the house. She stops. She starts again. She walks to the front door and knocks.
 
 I open it.
 

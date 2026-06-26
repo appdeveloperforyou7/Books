@@ -60,6 +60,8 @@ J'entre.
 
 Elle est debout dans le couloir. Cheveux bruns, au niveau des épaules, taille moyenne, un visage agréable — du genre conçu pour se fondre, pas saisissant, pas oubliable. Jean, pull marine, chaussures plates. Un petit sac de week-end sur une épaule. Et elle sourit. C'est la première chose que j'enregistre, parce que le sourire arrive entièrement formé, sans l'hésitation qui distingue une expression réelle d'une expression répétée. C'est un bon sourire — complet, d'apparence sincère, plissant les coins des yeux. C'est le sourire de quelqu'un qui est heureuse d'être là, ravie de nous voir, qui attendait ces retrouvailles avec le plaisir sans complication d'une vieille amie qui rentre.
 
+Quelque chose dans son visage s'est accroché une seconde — le dessin des yeux, ou la ligne de la mâchoire — une ressemblance avec quelqu'un que je ne pouvais pas nommer. J'ai laissé couler. Vingt-cinq ans, c'est long ; tout le monde vous rappelle quelqu'un.
+
 « Bonjour, » dit-elle. « Je suis Cate. Cate Morrow. Saskia m'a invitée — je crois ? J'étais un ou deux ans derrière vous à l'école. Vous ne vous souvenez probablement pas de moi. »
 
 Elle tend sa main. Je la prends. Sa poignée est chaude et ferme et d'une durée exacte : ni trop brève, ni trop longue, ni trop serrée, ni trop lâche. Une poignée de main calibrée. Une poignée de main conçue pour transmettre amabilité et fiabilité et absolument rien d'autre.

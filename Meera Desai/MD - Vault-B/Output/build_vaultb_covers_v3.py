@@ -16,7 +16,7 @@ OUT_KINDLE_JPG = os.path.join(COVER_DIR, "VAULT_B_Kindle_Cover.jpg")
 OUT_KINDLE_PNG = os.path.join(COVER_DIR, "VAULT_B_Kindle_Cover.png")
 
 TRIM_W, TRIM_H = 5.5, 8.5
-PAGES = 257
+PAGES = 366
 BLEED = 0.125
 WRAP  = 0.7085
 SPINE_PB = PAGES * 0.0025

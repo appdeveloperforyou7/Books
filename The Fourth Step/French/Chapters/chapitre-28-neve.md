@@ -84,6 +84,20 @@ Je me souviens du pyjama. Bleu avec des étoiles argentées. Je n'y ai pas pens�
 
 « Et je t'ai dit que tu n'avais pas vu », dit-elle. « Je me suis agenouillée et je t'ai tenue et je t'ai dit que tu dormais. Et j'ai continué à te le dire. Chaque cauchemar. Chaque fois que tu me regardais avec ce visage — le visage qui savait que quelque chose n'allait pas — je te disais que c'était un rêve. Je te disais que ton esprit te jouait des tours. Et je t'ai emmenée chez des médecins qui t'ont traitée pour l'anxiété parce que je leur ai dit que tu étais anxieuse. Et je nous ai fait déménager pour que tu ne sois près de personne qui aurait pu contredire ce que je t'avais dit. Et je t'ai appelée tous les jours pendant vingt-cinq ans pour m'assurer que le mur tenait. »
 
+« Tous les jours, » dis-je. « Vingt-cinq ans. »
+
+« Oui. »
+
+« Ce n'était pas de l'amour, Maman. »
+
+« Si. » Ses yeux sont humides au-dessus du masque. « C'était aussi du contrôle. Tu le sais maintenant. »
+
+« Je sais que tu as choisi. Chaque jour. Tu as choisi. »
+
+« Je t'ai choisie, toi. »
+
+« Tu t'es choisie, toi. »
+
 Sa main tremble dans la mienne. Ou la mienne dans la sienne. Je ne sais plus. Le tremblement passe entre nous comme un courant, comme deux conducteurs touchant le même fil sous tension.
 
 « Je me disais que si je contrôlais ça — si je contrôlais l'histoire, si je contrôlais ce dont tu te souvenais — je pourvais te garder. Je pourrais t'éviter de savoir que ta mère avait tué quelqu'un. Je pourrais t'éviter de porter ça. Je pourvais te garder. »

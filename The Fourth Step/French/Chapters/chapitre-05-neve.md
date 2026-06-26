@@ -194,7 +194,7 @@ Je suis seule avec Imogen.
 
 « Elle aimera ce que tu fais. Je pense. On aime toujours ce que tu fais. »
 
-« Tu es mignonne. » Elle arrête d'essuyer. Me regarde. Pendant un moment la représentation tombe et ce qu'il y a en dessous a la peau autour des yeux tirée et des lignes à la bouche qui n'étaient pas là au dîner et une immobilité qui n'a pas sa place sur son visage. « Ça fait du bien de te voir, Neve. Je le pense vraiment. »
+« Tu es mignonne. » Elle arrête d'essuyer. Me regarde. Pendant un moment la représentation tombe et ce qu'il y a en dessous à la peau autour des yeux tirée et des lignes à la bouche qui n'étaient pas là au dîner et une immobilité qui n'a pas sa place sur son visage. « Ça fait du bien de te voir, Neve. Je le pense vraiment. »
 
 « Ça fait du bien de te voir. Je crois que oui. »
 
@@ -260,7 +260,7 @@ Les planchers grincent dans le couloir. Une fois. Deux fois. Le son de la maison
 
 Je ferme les yeux.
 
-L'odeur est là aussi. Dans le noir, sans la neutralisation visuelle des murs blancs et de la moquette grise et des luminaires modernes, l'odeur est plus forte. Vieux bois. Sel. La chaleur particulière d'une maison qui a retenu une nuit d'été il y a vingt-cinq ans et ne l'a jamais tout à fait laissée partir. L'odeur de ce décembre. L'odeur de ce — j'avais douze ans. J'étais heureuse. J'étais heureuse et puis je dormais et puis c'était le matin et tout allait bien.
+L'odeur est là aussi. Dans le noir, sans la neutralisation visuelle des murs blancs et de la moquette grise et des luminaires modernes, l'odeur est plus forte. Vieux bois. Sel. La chaleur particulière d'une maison qui a retenu une nuit d'été il y a vingt-cinq ans et ne l'a jamais tout à fait laissé partir. L'odeur de ce décembre. L'odeur de ce — j'avais douze ans. J'étais heureuse. J'étais heureuse et puis je dormais et puis c'était le matin et tout allait bien.
 
 Ma mère dit que j'ai dormi pendant toutes les vacances.
 

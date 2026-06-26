@@ -34,7 +34,7 @@ Je marque un temps. La pièce écoute. Quatre femmes et le silence entre elles e
 
 Je regarde mes propres mains. La bague en argent sur ma main droite. La pierre de lune est terne sous la lumière du plafonnier. Dans la lumière de décembre elle aurait brillé.
 
-Je ferme les yeux. L'obscurité derrière mes paupières n'est pas vide. Elle est pleine de décembre. La lumière bleu-or d'une pleine lune à travers une fenêtre ouverte. La chaleur de l'air d'été circulant dans le couloir. L'odeur de sel et d'eucalyptus et quelque chose en dessous — du cuivre, du métal, le goût de la peur avant de savoir qu'on a peur.
+Je ferme les yeux. L'obscurité derrière mes paupières est pleine de décembre.
 
 « Le couloir était chaud, » dis-je. « Chaud de décembre. La fenêtre au bout était ouverte — l'ancienne fenêtre, celle au cadre en bois et à la charnière en laiton. La lumière de la lune entrait et elle était or — un or épais, liquide, comme est la lumière de la lune en décembre, comme elle se rassemble sur les surfaces. Le tapis était bleu. Bleu profond. Et la lumière s'y couchait comme de l'eau. »
 

@@ -11,8 +11,8 @@ import subprocess
 import textwrap
 from pathlib import Path
 
-BASE_DIR = Path(r"D:\Kapil\Books\MD -The Third Chain")
-MANUSCRIPT = BASE_DIR / "Manuscript.md"
+BASE_DIR = Path(r"D:\Kapil\Books\Meera Desai\MD -The Third Chain")
+MANUSCRIPT = BASE_DIR / "Manuscript_v6.md"
 OUTPUT_DIR = BASE_DIR / "Output"
 PDF_DIR = OUTPUT_DIR
 EPUB_DIR = OUTPUT_DIR

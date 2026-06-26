@@ -32,9 +32,9 @@ She stands behind the open door for a moment. Leaning on it. Her coat is too lar
 
 She closes the car door and stands for a moment, one hand on the roof of the car, steadying herself. Her posture — even now, even diminished, even leaning on a car for support — is straight. Her chin is up. She was a school principal for thirty years. She has commanded every room she has entered since before I was born. She is standing in a driveway at ten o'clock at night, gaunt and ill, and she is composing herself the way she composes herself before entering any room: shoulders back, chin level, expression neutral.
 
-She walks toward the front door.
+She walks towards the front door.
 
-Her gait is slower than it was. She favors her left side — the cancer has spread to her spine, the pain is manageable, which is what she says about everything. Manageable. Contained. Under control. Three words that mean I will not admit what this is doing to me. She takes the path one step at a time. The concrete path that was brick. Her feet know it the way mine do. She walked this path every morning for two weeks, twenty-five years ago. This was her house. Her holiday house. Her jurisdiction.
+Her gait is slower than it was. She favours her left side — the cancer has spread to her spine, the pain is manageable, which is what she says about everything. Manageable. Contained. Under control. Three words that mean I will not admit what this is doing to me. She takes the path one step at a time. The concrete path that was brick. Her feet know it the way mine do. She walked this path every morning for two weeks, twenty-five years ago. This was her house. Her holiday house. Her jurisdiction.
 
 She reaches the front step. The bluestone step. The step my foot knows without looking.
 
@@ -60,13 +60,13 @@ The smile is small. Warm. It reaches her eyes. The smile she has given me every 
 
 "Hello, sweetheart," she says. "I think it's time we talked about that night."
 
-Sweetheart. The word finds the fault line it was designed for. The word she used in the hallway. Kneeling. Her hands on my face. *You didn't see anything, sweetheart.* The same word. The same voice. The same warmth. She is standing on the threshold of this house — this house where she pushed a twelve-year-old girl through a window, this house where she knelt and rewrote my memory, this house where she held the story for twenty-five years — and she is smiling and calling me sweetheart.
+Sweetheart. The lock-word. The one she used in the hallway when she knelt and rewrote me. She is standing on the threshold of this house — the house where she pushed a twelve-year-old girl through a window, knelt and rebuilt my memory, and held the story for twenty-five years — and she is smiling and calling me sweetheart.
 
 I don't step aside. I don't speak. I stand in the doorway and she stands on the step and we look at each other. The cold air moves between us. The salt air. The air that was here that night, warm instead of cold, summer instead of winter, December instead of July. She was standing in this doorway twenty-five years ago when the ambulance came. She was standing here when the police came. She was standing here when they carried Kiera out and she held my hand and told the officers I was asleep, I was downstairs, I didn't see anything, my daughter was asleep on the couch the whole time.
 
 "Neve, darling." Her voice is gentle. Patient. "Let me in."
 
-She takes a step toward me. Not past me. Toward me. Her hand rises — slowly, deliberately — and finds my wrist. Her fingers close around it. Not tight. Controlled. The way she has always held me — firmly enough to steer, loosely enough to call it love.
+She takes a step towards me. Not past me. Towards me. Her hand rises — slowly, deliberately — and finds my wrist. Her fingers close around it. Not tight. Controlled. The way she has always held me — firmly enough to steer, loosely enough to call it love.
 
 "Pack your things," she says. Quiet. Just for me. "We're leaving. You don't need to be here. I'll take you home."
 
@@ -108,7 +108,7 @@ Her eyes move left to right, cataloguing. The police report on the coffee table.
 
 She walks to the armchair by the fireplace.
 
-Not any armchair. The best armchair. The one with the high back and the wide seat and the position facing the door. The power position. She sits down slowly, one hand on the armrest for support. She is frail. The coat settles around her in dark folds — too much fabric for what remains. Her wrist, where the sleeve rides back, is bruised at the IV site — a dark smear of purple-green beneath a bandage she hasn't changed. She sees me see it. She pulls the sleeve down without comment. But when she settles — when her back touches the chair and her hands rest on the arms and her chin comes up — the room shifts. The gravity bends toward her. She is sitting in the chair the way a judge sits on the bench. This was her house. I was her child. These were the girls who slept under her roof. This was the room where she controlled every narrative that passed through it. She is sitting in her chair and the chair remembers her.
+Not any armchair. The best armchair. The one with the high back and the wide seat and the position facing the door. The power position. She sits down slowly, one hand on the armrest for support. She is frail. The coat settles around her in dark folds — too much fabric for what remains. Her wrist, where the sleeve rides back, is bruised at the IV site — a dark smear of purple-green beneath a bandage she hasn't changed. She sees me see it. She pulls the sleeve down without comment. But when she settles — when her back touches the chair and her hands rest on the arms and her chin comes up — the room shifts. The gravity bends towards her. She is sitting in the chair the way a judge sits on the bench. This was her house. I was her child. These were the girls who slept under her roof. This was the room where she controlled every narrative that passed through it. She is sitting in her chair and the chair remembers her.
 
 "I see you've been busy," she says.
 

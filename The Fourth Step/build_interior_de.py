@@ -464,44 +464,49 @@ def main():
     ]
     doc.addPageTemplates(templates)
 
-    story = []
-    story.extend(build_title_page(STYLES))
-    story.extend(build_copyright_page(STYLES))
-    story.extend(build_dedication_page(STYLES))
-    story.extend(build_epigraph_page(STYLES))
-
-    current_part = None
-    for idx, chapter_file in enumerate(CHAPTER_ORDER):
-        filepath = os.path.join(CHAPTERS_DIR, chapter_file)
-        if not os.path.isfile(filepath):
-            print(f"  WARNING: {chapter_file} not found, skipping")
-            continue
-        part = get_part_for_chapter_index(idx)
-        if part and part is not current_part:
-            current_part = part
-            story.extend(build_part_page(part, STYLES))
-        chapter_info, elements = parse_chapter(filepath)
-        flowables = build_chapter_flowables(chapter_info, elements, STYLES)
-        story.append(PageBreak())
-        story.extend(flowables)
+    def build_story(extra_blank=False):
+        story = []
+        story.extend(build_title_page(STYLES))
+        story.extend(build_copyright_page(STYLES))
+        story.extend(build_dedication_page(STYLES))
+        story.extend(build_epigraph_page(STYLES))
+        current_part = None
+        for idx, chapter_file in enumerate(CHAPTER_ORDER):
+            filepath = os.path.join(CHAPTERS_DIR, chapter_file)
+            if not os.path.isfile(filepath):
+                print(f"  WARNING: {chapter_file} not found, skipping")
+                continue
+            part = get_part_for_chapter_index(idx)
+            if part and part is not current_part:
+                current_part = part
+                story.extend(build_part_page(part, STYLES))
+            chapter_info, elements = parse_chapter(filepath)
+            flowables = build_chapter_flowables(chapter_info, elements, STYLES)
+            story.append(PageBreak())
+            story.extend(flowables)
+        if extra_blank:
+            story.append(PageBreak())
+            story.append(Spacer(1, 1))
+        return story
 
     print(f"  Parsed {len(CHAPTER_ORDER)} chapters")
 
-    doc.build(story)
+    doc.build(build_story())
+    page_count = doc.page
+
+    if page_count % 2 == 1:
+        doc2 = MirroredDoc(OUTPUT_PATH, pagesize=(TRIM_W, TRIM_H), title="Die Vierte Stufe", author="Kapil Gupta", subject="Psychothriller")
+        doc2.addPageTemplates(templates)
+        doc2.build(build_story(extra_blank=True))
+        page_count = doc2.page
+        parity = f"{page_count - 1} odd -> blank appended -> {page_count} (even, KDP ready)"
+    else:
+        parity = f"{page_count} (even, KDP ready)"
 
     fsize = os.path.getsize(OUTPUT_PATH)
     print(f"\n  Output: {OUTPUT_PATH}")
     print(f"  Size: {fsize / 1024:.0f} KB ({fsize / (1024*1024):.1f} MB)")
-
-    import pikepdf
-    pdf = pikepdf.open(OUTPUT_PATH)
-    page_count = len(pdf.pages)
-    pdf.close()
-    print(f"  Pages: {page_count}")
-    if page_count % 2 != 0:
-        print(f"  NOTE: Odd page count ({page_count}). KDP requires even.")
-    else:
-        print(f"  Page count is even — KDP ready")
+    print(f"  Pages: {page_count} - {parity}")
 
     print("\nDone.")
 

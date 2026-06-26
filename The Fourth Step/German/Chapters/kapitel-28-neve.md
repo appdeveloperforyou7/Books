@@ -60,7 +60,7 @@ Zwei Wörter. Nicht die einstudierte Entschuldigung aus dem Sessel. Nicht die ka
 
 »Es tut mir leid, dass ich dir diese Nacht genommen habe.«
 
-Die Wörter landen. Nicht in meiner Brust — in meiner Wirbelsäule. An dem Ort, wo die Nackenschmerzen seit zwei Jahrzehnten leben. An dem Ort, wo die Migränen beginnen. An dem Ort, wo die Wand errichtet wurde, Stein für Stein, von einer Frau, die in einem creme-farbenen Flur kniete, ihre Hände auf das Gesicht ihrer zwölfjährigen Tochter legte und sagte: du hast nichts gesehen, du hast geschlafen, es war alles gut. Es ist alles gut. Dir ist gut, Liebling. Gut.
+Die Wörter landen. Nicht in meiner Brust — in meiner Wirbelsäule. An dem Ort, wo die Nackenschmerzen seit zwei Jahrzehnten leben. An dem Ort, wo die Migränen beginnen. An dem Ort, wo die Wand errichtet wurde, Stein für Stein, von einer Frau, die in einem cremefarbenen Flur kniete, ihre Hände auf das Gesicht ihrer zwölfjährigen Tochter legte und sagte: du hast nichts gesehen, du hast geschlafen, es war alles gut. Es ist alles gut. Dir ist gut, Liebling. Gut.
 
 »Es tut mir leid, dass ich dich an deinen eigenen Augen zweifeln ließ.«
 
@@ -82,7 +82,21 @@ Ihre Stimme bricht an »weg«. Kein kontrolliertes Brechen. Ein Riss. Eine Verwe
 
 Ich erinnere mich an den Schlafanzug. Blau mit silbernen Sternen. Ich habe seit fünfundzwanzig Jahren nicht mehr an ihn gedacht. Aber sie hat recht. Ich trug ihn, als ich Kiera nach oben folgte. Ich trug ihn, als ich oben auf der Treppe stand und sah, wie die Hand meiner Mutter sich bewegte und ein Mädchen durch ein Fenster ging.
 
-»Und ich sagte dir, dass du es nicht gesehen hast«, sagt sie. »Ich kniete mich hin und hielt dich und sagte dir, du hättest geschlafen. Und ich sagte es dir weiter. Bei jedem Albtraum. Jedes Mal, wenn du mich mit diesem Gesicht ansahst — dem Gesicht, das wusste, dass etwas nicht stimmte —, sagte ich dir, es sei ein Traum. Ich sagte dir, dein Geist würde dir einen Streich spielen. Und ich brachte dich zu Ärzten, die dich wegen Angst behandelten, weil ich ihnen sagte, du wärst ängstlich. Und ich zog mit dir um, damit du nicht in der Nähe von jemandem warst, der mir hätte widersprechen können, was ich dir gesagt hatte. Und ich rief dich fünfundzwanzig Jahre lang jeden Tag an, um sicherzugehen, dass die Wand hielt.«
+»Und ich sagte dir, dass du es nicht gesehen hast«, sagt sie. »Ich kniete mich hin und hielt dich und sagte dir, du hättest geschlafen. Und ich sagte es dir weiter. Bei jedem Alptraum. Jedes Mal, wenn du mich mit diesem Gesicht ansahst — dem Gesicht, das wusste, dass etwas nicht stimmte —, sagte ich dir, es sei ein Traum. Ich sagte dir, dein Geist würde dir einen Streich spielen. Und ich brachte dich zu Ärzten, die dich wegen Angst behandelten, weil ich ihnen sagte, du wärst ängstlich. Und ich zog mit dir um, damit du nicht in der Nähe von jemandem warst, der mir hätte widersprechen können, was ich dir gesagt hatte. Und ich rief dich fünfundzwanzig Jahre lang jeden Tag an, um sicherzugehen, dass die Wand hielt.«
+
+»Jeden Tag«, sage ich. »Fünfundzwanzig Jahre.«
+
+»Ja.«
+
+»Das war keine Liebe, Mum.«
+
+»Doch.« Ihre Augen sind nass über der Maske. »Es war auch Kontrolle. Das weißt du jetzt.«
+
+»Ich weiß, dass du gewählt hast. Jeden einzelnen Tag. Du hast gewählt.«
+
+»Ich habe dich gewählt.«
+
+»Du hast dich selbst gewählt.«
 
 Ihre Hand zittert in meiner. Oder meine in ihrer. Ich kann es nicht mehr unterscheiden. Das Zittern geht zwischen uns hin und her wie ein Strom, wie zwei Leiter, die denselben Stromschlag berühren.
 

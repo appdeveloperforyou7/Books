@@ -36,7 +36,7 @@ I pause. The room is listening. Four women and the silence between them and the 
 
 I look at my own hands. At the silver ring on my right hand. The moonstone is dull in the overhead light. In December moonlight it would have glowed.
 
-I close my eyes. The darkness behind my eyelids is not empty. It is full of December. The blue-gold light of a full moon through an open window. The warmth of summer air moving through the hallway. The smell of salt and eucalyptus and something underneath — copper, metal, the taste of fear before you know you are afraid.
+I close my eyes. The darkness behind my eyelids is full of December.
 
 "The hallway was warm," I say. "December warm. The window at the end was open — the old window, the one with the timber frame and the brass hinge. The moonlight was coming through and it was gold — thick, liquid gold, the way December moonlight is, the way it pools on surfaces. The carpet was blue. Deep blue. And the light lay on it like water."
 
@@ -46,9 +46,9 @@ I open my eyes. Saskia is watching me with the focused attention she brings to w
 
 I pause. The next sentence is the one I have never been able to form — the frame I could never bring into focus, the exposure I could never get right. The sentence that has existed as a sensation — a movement registered by the body and stored without language. The arm. The push. The thing that happened between the tall figure being still and the small figure being gone.
 
-"The tall one moved," I say. "An arm extended. A hand — large, adult — pressed against the small one's shoulder. And the small one moved backward. Toward the window. Not a stumble. A push. The force travelled from the tall one's arm through the hand into the small one's body and the small one — the small one was Kiera."
+"The tall one moved," I say. "An arm extended. A hand — large, adult — pressed against the small one's shoulder. And the small one moved backward. Towards the window. Not a stumble. A push. The force travelled from the tall one's arm through the hand into the small one's body and the small one — the small one was Kiera."
 
-The name comes out clear. Kiera. Not "the small one." Kiera. The name attaches to the shape and the shape becomes a person and the person becomes my friend and my friend is being pushed toward an open window by a figure that is taller than any of us.
+The name comes out clear. Kiera. Not "the small one." Kiera. The name attaches to the shape and the shape becomes a person and the person becomes my friend and my friend is being pushed towards an open window by a figure that is taller than any of us.
 
 "She reached for the frame," I say. "Her hand — her right hand — came up and her fingers spread and she grabbed the wood. Her fingernails. Blue polish. Chipped. She'd painted them earlier that evening — she painted all our nails. Blue. The colour of the carpet. And her nails scraped the paint and the lines emerged — five lines, downward — and her knuckles were white and she was holding on."
 

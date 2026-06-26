@@ -50,7 +50,7 @@ La mesa sostiene la frase. La sonrisa de Imogen no vacila pero algo detrás se d
 
 Algo se desplaza en mi pecho. Un desplazamiento físico. Doce. Lily tiene doce. Digo el número de forma plana, como lo leerías de un formulario, como dirías una estadística que no tiene significado personal. Doce. La misma edad que yo tenía cuando — la misma edad.
 
-"¡Doce! Qué edad tan maravillosa. Sophie tiene diez pero parece de doce, es tan madura. ¿Lily baila? Sophie está obsesionada. Jazz y contemporáneo. Actúa el mes que viene en el —"
+"¡Doce! Qué edad tan maravillosa. Sophie tiene diez pero parece de doce, es tan madura. ¿Lily baila? Sophie está obsesionada. Jazz y contemporáneo. Actúa el mes que viene en él —"
 
 "Imogen," dice Saskia. Plano. Un punto y verbal.
 
@@ -92,7 +92,7 @@ Y entonces Imogen hace lo que Imogen hace. Recoge el hilo y lo anuda en algo bri
 
 La conversación gira hacia Cate. El teléfono de Saskia vibró durante el plato principal y miró la pantalla y dijo: "Cate llega mañana por la mañana."
 
-"Cate Morrow," dice Imogen. "He estado intentando y intentando situarla. ¿Estaba en nuestro curso?"
+"Cate Morrow," dice Imogen. "He estado intentando e intentando situarla. ¿Estaba en nuestro curso?"
 
 "Un año o dos por debajo," dice Saskia.
 
@@ -194,7 +194,7 @@ Estoy sola con Imogen.
 
 "Le gustará lo que hagas. Creo. A la gente siempre le gusta lo que haces."
 
-"Eres un encanto." Deja de limpiar. Me mira. Por un momento la actuación cae y lo que hay debajo tiene la piel alrededor de los ojos tirante y líneas en la boca que no estaban en la cena y una quietud que no tiene cabida en su cara. "Qué gusto verte, Neve. Lo digo en serio."
+"Eres un encanto." Deja de limpiar. Me mira. Por un momento la actuación cae y lo que hay debajo tiene la piel alrededor de los ojos tirantes y líneas en la boca que no estaban en la cena y una quietud que no tiene cabida en su cara. "Qué gusto verte, Neve. Lo digo en serio."
 
 "Qué gusto verte. Creo que sí."
 

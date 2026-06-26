@@ -72,7 +72,7 @@ I hold the phone out. Saskia takes it. She looks at the screen. Her face doesn't
 
 Rowan is crying. Not loudly. Not dramatically. Tears running silently down her angular face like rain on unwiped glass, her jaw set, her eyes on the phone in my hand. She doesn't wipe them. She lets them fall and each one is a small, quiet verdict.
 
-"I've been receiving anonymous tips for two years," I say. "Emails. No return address. Routed through servers I can't trace. The first one came with a photograph of the original police incident report. The second came with a name: Elaine Cassidy. The third came with a question: 'Who was the adult in the house that night?'"
+"I've been receiving anonymous tips for two years," I say. "Emails. No return address. Routed through servers I can't trace. The first one came with a photograph of the original police incident report. The second came with a name: Elaine Cassidy. The third came with a question: 'Who was the adult in the house that night?' The fourth came later, and it was different. A phone number. A man's name. And six words: 'She was on the phone upstairs.' A call she shouldn't have been taking. A reason for a twelve-year-old to come upstairs and find her. I never traced the number. But I knew then that Kiera hadn't gone up to look at the stars."
 
 Neve's hand tightens on the bannister. Her knuckles go white. She's gripping the wood the way Imogen gripped her fork this morning — without knowing, without feeling, the body responding to something the mind hasn't caught up with.
 
@@ -80,7 +80,7 @@ Neve's hand tightens on the bannister. Her knuckles go white. She's gripping the
 
 I put the phone away. I look at each of them.
 
-Imogen is standing in the doorway with the twisted tea towel and her mouth is open and her eyes are wide and she has stepped backward half a pace without seeming to realize it, as if the words physically pushed her.
+Imogen is standing in the doorway with the twisted tea towel and her mouth is open and her eyes are wide and she has stepped backward half a pace without seeming to realise it, as if the words physically pushed her.
 
 Rowan is sitting on the arm of the sofa, tears on her cheeks, her camera in her lap, and she is looking at me — at my face — with an expression I can't immediately read. Then I understand. She sees it. The resemblance. I'm thirty-three, not twelve, and I've changed beyond recognition, but the bone structure is the same. The eyes. Kiera's eyes, looking out of a different face.
 

@@ -1,0 +1,14 @@
+# secrets - never commit
+.env
+
+# generated books / art / QA renders
+output/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# misc
+.DS_Store
+Thumbs.db

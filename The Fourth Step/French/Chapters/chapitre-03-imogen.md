@@ -2,7 +2,7 @@
 
 ## Ça va
 
-J'ai fait trois sacs, ce qui est normal, c'est un week-end entier, il faut des options, et l'un d'eux n'est que de la nourriture de toute façon. Le sac isotherme est le grand, celui de Costco que Greg dit être « un peu excessif pour un week-end » mais Greg n'est pas là et Greg ne comprend pas qu'on ne peut pas arriver à un week-end entre femmes sans apporter à manger. Ça ne marche pas comme ça. On apporte de la nourriture. On apporte des options. J'ai donc : un bac de mon pain à la banane (celui aux pépites de chocolat, qui est le préféré de Sophie, bien que je ne sache pas pourquoi j'ai fait le préféré de Sophie alors que Sophie ne vient pas), une boîte de Tim Tams, un sachet d'amandes au miel et au soja, et une meule de Brie qu'il me faudra réfrigérer dans l'heure. La glacière a un pain de glace et nous sommes en juillet, pas en décembre, et le Brie devrait aller, ça devrait aller, tout va bien.
+J'ai fait trois sacs, ce qui est normal, c'est un week-end entier, il faut des options, et l'un d'eux n'est que de la nourriture de toute façon. Le sac isotherme est le grand, celui de Costco que Greg dit être « un peu excessif pour un week-end » mais Greg n'est pas là et Greg ne comprend pas qu'on ne peut pas arriver à un week-end entre femmes sans apporter à manger. Ça ne marche pas comme ça. On apporte de la nourriture. On apporte des options. J'ai donc : un bac de mon pain à la banane (celui aux pépites de chocolat, qui est le préféré de Sophie, bien que je ne sache pas pourquoi j'ai fait le préférer de Sophie alors que Sophie ne vient pas), une boîte de Tim Tams, un sachet d'amandes au miel et au soja, et une meule de Brie qu'il me faudra réfrigérer dans l'heure. La glacière a un pain de glace et nous sommes en juillet, pas en décembre, et le Brie devrait aller, ça devrait aller, tout va bien.
 
 Le GPS dit que je suis à huit minutes. J'éteins le podcast — quelque chose sur le désencombrement — parce que je veux arriver calme et joyeuse et normale. Normale. Quel mot. Je suis une femme normale qui roule vers un week-end normal avec de vieilles amies dans une maison de vacances et c'est une chose tout à fait normale à faire.
 
@@ -12,7 +12,7 @@ Le GPS dit tournez à droite. Je tourne à droite. La rue me semble familière c
 
 Et puis je vois la maison.
 
-Elle est bleu grisâtre. Elle était blanche. Le porche est plus large. Le portail du jardin est neuf. Il y a une berline bleue dans l'allée — la voiture de Neve — et je me gare à côté et j'éteins le moteur et je reste un moment.
+Elle est bleue grisâtre. Elle était blanche. Le porche est plus large. Le portail du jardin est neuf. Il y a une berline bleue dans l'allée — la voiture de Neve — et je me gare à côté et j'éteins le moteur et je reste un moment.
 
 « Bon », je dis à voix haute, pour personne. « On y va. »
 
@@ -48,7 +48,7 @@ Saskia m'observe. Elle m'a toujours observée. Même à douze ans, ces yeux somb
 
 Je la suis jusqu'à la cuisine. Elle est neuve — plan de travail en pierre, placards blancs, robinetterie moderne. Une ravissante cuisine moderne, rénovée, et il n'y a absolument rien dedans qui me rappelle l'ancienne cuisine. Rien. L'ancienne cuisine avait des carreaux jaunes et un frigo qui bourdonnait et un calendrier au mur avec la photo d'un phare.
 
-Il y a un cadre sur le mur près de la porte arrière. Une estampe générique — une aquarelle de la côte, toute en bleu et blanc, le genre de chose que les agences de location accrochent pour donner à une maison l'air d'appartenir au lieu. Mais le cadre est ancien. Plus ancien que la rénovation. Le bois est foncé et les bords sont usés et le crochet duquel il pend a été peint autour, pas retiré et réaccroché. Ce cadre était là avant les murs neufs. Ce cadre était là quand la cuisine était une autre cuisine.
+Il y a un cadre sur le mur près de la porte arrière. Une estampe générique — une aquarelle de la côte, tout en bleu et blanc, le genre de chose que les agences de location accrochent pour donner à une maison l'air d'appartenir au lieu. Mais le cadre est ancien. Plus ancien que la rénovation. Le bois est foncé et les bords sont usés et le crochet duquel il pend a été peint autour, pas retiré et réaccroché. Ce cadre était là avant les murs neufs. Ce cadre était là quand la cuisine était une autre cuisine.
 
 Il y a une fenêtre au-dessus de l'évier. C'est la même fenêtre. Même position, même taille. La vitre est neuve mais la fenêtre est au même endroit.
 

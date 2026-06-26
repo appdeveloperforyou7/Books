@@ -104,7 +104,7 @@ She comes back. "They want to take her to Mornington. She's stable. She's asking
 
 "Go," I say.
 
-She hesitates. The hesitation is the whole evening compressed into two seconds — a choice I can see her making in the set of her shoulders, the tilt of her chin. Toward the mother or away.
+She hesitates. The hesitation is the whole evening compressed into two seconds — a choice I can see her making in the set of her shoulders, the tilt of her chin. Towards the mother or away.
 
 "Go," I say. "We'll be here when you get back."
 
@@ -143,3 +143,5 @@ Aisling looks at the evidence on the table. The photographs. The report. The scr
 She places her hands flat on the table — palms down, fingers spread, the mirror of Neve's posture. A woman anchoring herself to the physical evidence of the present: the table, the photographs, the surface beneath her palms. Because the alternative is being pulled under.
 
 "I spent twenty-five years wanting to know who killed my sister," Aisling says. "Now I know. And I don't feel anything. I thought I'd feel something — a release, a surge, a gate opening. I don't feel anything at all. Just the echo of all that wanting, reverberating in an empty space where the wanting used to live."
+
+She looks at her hands. Then, quieter: "She used to braid my hair. Every morning, before school. She'd sit me on the bottom step and braid it and sing — she couldn't hold a tune, it was awful — and I never once told her to stop." A pause. She swallows. "Twenty-five years I turned her into a case file. I forgot she braided my hair. I only remembered last week, in a box of her things. That's what I did to her."
