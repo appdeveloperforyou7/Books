@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>ch9 part</title><style>
+@page { size: 8in 10in; margin: 0.78in 0.8in 0.82in 0.82in; }
+*{ box-sizing:border-box; }
+:root{
+  --accent:#C77A1A; --accent-tint:#FBF1E0; --accent-tint2:#F0DEB8;
+  --ink:#1c1b2b; --paper:#FAF6EC;
+  --plum:#8C3A55; --plum-tint:#F3E7EB;
+  --slate:#335A8C; --slate-tint:#E9EFF7;
+  --warn:#A84E29; --warn-tint:#FBEEE3;
+  --rule:#DBCBA6; --muted:#5b5040;
+}
+html,body{ margin:0; padding:0; background:var(--paper); color:var(--ink); }
+body{ font-family:'Noto Serif','Source Serif 4',Georgia,serif; font-size:10.5pt; line-height:1.48; }
+p{ margin:0 0 8pt 0; text-align:justify; text-indent:13pt; hyphens:auto; }
+p.lead,p.noind,.box p,.verse+p,li p,.cv p{ text-indent:0; }
+p.lead{ font-size:11.5pt; line-height:1.5; margin-bottom:10pt; }
+em{ color:#4a3f6b; } b,strong{ font-weight:700; }
+
+/* === LEVEL 1: macro section === */
+.sec{ display:flex; align-items:center; gap:10pt; border-bottom:1.4pt solid var(--accent);
+  padding-bottom:6pt; margin:20pt 0 11pt 0; break-after:avoid; }
+.sec .secn{ font-family:'Inter',sans-serif; font-size:11pt; font-weight:700; color:#fff;
+  background:var(--accent); border-radius:50%; width:18pt; height:18pt; display:inline-flex;
+  align-items:center; justify-content:center; flex:0 0 18pt; line-height:1; }
+.sec .sect{ font-family:'Source Serif 4',serif; font-size:15.5pt; font-weight:700; color:var(--ink); letter-spacing:.01em; }
+h2.sec2{ font-family:'Source Serif 4',serif; font-size:16pt; font-weight:700; margin:2pt 0 9pt 0; }
+/* === LEVEL 2: group divider === */
+.grp{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:600; letter-spacing:.16em;
+  text-transform:uppercase; color:#9a8a5e; text-align:center; margin:16pt 0 8pt 0;
+  display:flex; align-items:center; gap:8pt; break-after:avoid; }
+.grp::before,.grp::after{ content:""; flex:1; border-top:.6pt solid var(--rule); }
+
+/* === layers legend === */
+.legend{ background:#F4ECDB; border:0.7pt solid #E0CFA4; border-radius:4pt; padding:10pt 13pt; margin:6pt 0 12pt 0; break-inside:avoid; }
+.legend .lh{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:#8a7a4e; margin-bottom:5pt; }
+.legend p{ font-size:9pt; line-height:1.4; text-align:left; text-indent:0; margin-bottom:4pt; }
+.legend .lt{ display:inline-flex; align-items:center; gap:4pt; font-weight:600; }
+
+/* === LEVEL 3: deep-dive unit (grouped block) === */
+.vunit{ background:#F7F0E0; border:0.7pt solid #E4D4AC; border-radius:5pt; padding:9pt 14pt 7pt; margin:8pt 0 10pt 0; }
+.vh{ display:flex; align-items:center; gap:8pt; margin:0 0 6pt 0; break-after:avoid; }
+.vh .badge{ font-family:'Inter',sans-serif; font-size:9pt; font-weight:700; color:#fff;
+  background:var(--accent); padding:2pt 9pt; border-radius:9pt; letter-spacing:.04em; }
+.vh .vht{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--accent); }
+.vcore{ break-inside:avoid; }
+.vbody{ margin:3pt 0 4pt 18pt; padding-left:0; }
+.vbody p{ font-size:9.6pt; text-align:left; }
+.ln2{ display:flex; align-items:center; gap:5pt; margin:8pt 0 1pt 0; break-after:avoid; }
+.labx{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--muted); }
+.verse{ background:var(--accent-tint); border-radius:3pt;
+  padding:11pt 16pt 9pt 16pt; margin:4pt 0 9pt 0; break-inside:avoid; }
+.verse .dev{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:14.5pt; line-height:1.75;
+  text-align:center; font-weight:600; color:#241f2e; margin:0 0 4pt 0; }
+.verse .iast{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:9.5pt;
+  text-align:center; color:#6a5526; margin:0 0 5pt 0; line-height:1.4; }
+.verse .vno{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.14em; text-align:center; color:var(--accent); }
+/* tiny circular line-tags: P pronunciation, L literal, M meaning, C commentary */
+.tl{ display:inline-flex; align-items:center; justify-content:center; width:11pt; height:11pt; border-radius:50%;
+  font-family:'Inter',sans-serif; font-size:6.5pt; font-weight:700; color:#fff; flex:0 0 11pt; line-height:1; }
+.tl.p{ background:#9a8a5e; } .tl.l{ background:var(--slate); } .tl.m{ background:var(--accent); } .tl.c{ background:var(--plum); }
+/* === LEVEL 4: compact verse === */
+.cv{ display:flex; gap:9pt; margin:5pt 0; padding:6pt 0 6pt 0; border-bottom:.4pt dotted var(--rule); break-inside:avoid; }
+.cv .cvn{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; color:var(--accent); flex:0 0 26pt; padding-top:1pt; letter-spacing:.04em;}
+.cv .cvt{ flex:1; }
+.cv .devc{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:11pt; line-height:1.55; color:#2a2433; margin-bottom:3pt; }
+.cv .ln{ display:flex; align-items:baseline; gap:5pt; margin:1.5pt 0; }
+.cv .tx{ flex:1; }
+.cv .iastc{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:8pt; color:#6a5526; }
+.cv .litc{ font-size:8.6pt; color:#3a3340; line-height:1.32; }
+.cv .meanc{ font-size:8.6pt; color:#5a4a2a; line-height:1.32; font-style:italic; }
+/* === callout boxes (no bars; fill only) === */
+.box{ border-radius:3pt; padding:9pt 12pt; margin:8pt 0; break-inside:avoid; }
+.box p{ font-size:9.6pt; line-height:1.4; text-align:left; }
+.box .h{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; margin-bottom:3pt; }
+.box .h::before{ content:""; display:inline-block; width:5pt; height:5pt; margin-right:6pt; vertical-align:1pt; }
+.bridge{ background:#FFF6E4; } .bridge .h{ color:#A9791A; } .bridge .h::before{ background:#A9791A; }
+.sadhana{ background:var(--plum-tint); } .sadhana .h{ color:var(--plum); } .sadhana .h::before{ background:var(--plum); }
+.adept{ background:var(--slate-tint); } .adept .h{ color:var(--slate); } .adept .h::before{ background:var(--slate); }
+.warn{ background:var(--warn-tint); } .warn .h{ color:var(--warn); } .warn .h::before{ background:var(--warn); }
+.bigpic li{ margin-bottom:9pt; line-height:1.44; } .bigpic li b.lead-saff{ color:var(--accent); }
+.takeaway{ background:var(--accent-tint); border:1.4pt solid var(--accent); border-radius:4pt; padding:13pt 17pt; margin-top:5pt; break-inside:avoid; }
+.takeaway ol{ margin:6pt 0 0 0; padding-left:17pt; } .takeaway li{ margin-bottom:6pt; } .takeaway .close{ font-style:italic; margin-top:6pt; }
+.path-note{ font-family:'Inter',sans-serif; font-size:8pt; color:#7a6b48; font-style:italic; margin-top:12pt; border-top:.6pt solid var(--rule); padding-top:6pt; }
+</style></head><body><div class="cv"><div class="cvn">9.2</div><div class="cvt"><div class="devc">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।<br>प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">rāja-vidyā rāja-guhyam pavitram idam uttamam / pratyakṣāvagamaṃ dharmyaṃ su-sukhaṃ kartum avyayam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">The king of sciences, the king of secrets — purest, supreme, directly realised, righteous, joyful to practise, imperishable.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">This knowledge is the highest of all: it purifies, is directly experienced, easy to live, and once grasped, never fades.</span></div></div></div>
+<div class="cv"><div class="cvn">9.3</div><div class="cvt"><div class="devc">अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप ।<br>अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">aśraddadhānāḥ puruṣā dharmasyāsya parantapa / aprāpya māṃ nivartante mṛtyu-saṃsāra-vartmani</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Those without faith in this dharma, failing to reach Me, return to the path of death and rebirth.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Without trust in the teaching, no progress is possible; the sceptic stays bound to the round of birth and death.</span></div></div></div>
+<div class="cv"><div class="cvn">9.4</div><div class="cvt"><div class="devc">मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।<br>मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">mayā tatam idaṃ sarvaṃ jagad avyakta-mūrtinā / mat-sthāni sarva-bhūtāni na cāhaṃ teṣv avasthitaḥ</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">By My unmanifest form all this universe is pervaded; all beings dwell in Me — yet I dwell not in them.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">God holds all things within himself, yet is not contained by them — present everywhere, trapped nowhere.</span></div></div></div>
+<div class="cv"><div class="cvn">9.5</div><div class="cvt"><div class="devc">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।<br>भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">na ca mat-sthāni bhūtāni paśya me yogam aiśvaram / bhūta-bhṛn na ca bhūta-stho mamātmā bhūta-bhāvanaḥ</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Yet beings are not really in Me — behold My divine yoga: I sustain all without dwelling in them; My Self originates all beings.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">A paradox of intimacy: he sustains every being without being lodged inside any of them.</span></div></div></div>
+<div class="cv"><div class="cvn">9.6</div><div class="cvt"><div class="devc">यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् ।<br>तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">yathā ākāśa-sthito nityaṃ vāyuḥ sarvatrago mahān / tathā sarvāṇi bhūtāni mat-sthānīty upadhāraya</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">As the great wind, ever moving, rests in space — understand that all beings rest in Me.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Like wind moving within space — everything moves within him, dependent on him, while he remains free.</span></div></div></div>
+<div class="cv"><div class="cvn">9.7</div><div class="cvt"><div class="devc">सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।<br>कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">sarva-bhūtāni kaunteya prakṛtiṃ yānti māmikām / kalpa-kṣaye punas tāni kalpādau visṛjāmy aham</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">At a cosmic age's end all beings merge into My nature; at the new age's dawn I emit them again.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">At each cosmic cycle's end all beings dissolve into nature; at the next dawn he sends them forth again.</span></div></div></div>
+<div class="cv"><div class="cvn">9.8</div><div class="cvt"><div class="devc">प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः ।<br>भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">prakṛtiṃ svām avaṣṭabhya visṛjāmi punaḥ punaḥ / bhūta-grāmam imaṃ kṛtsnam avaśaṃ prakṛter vaśāt</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Taking hold of My own nature, again and again I project this whole multitude of beings, helpless under nature's sway.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">He is the quiet power behind creation's rhythm, projecting all beings — yet he himself remains unaffected.</span></div></div></div>
+<div class="cv"><div class="cvn">9.9</div><div class="cvt"><div class="devc">न च मां तानि कर्माणि निबध्नन्ति धनञ्जय ।<br>उदासीनवदासीनमसक्तं तेषु कर्मसु ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya / udāsīna-vad āsīnam asaktaṃ teṣu karmasu</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">These actions bind Me not, O Arjuna — I sit as one indifferent, unattached to those acts.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Though all action flows from him, he is never bound by it: indifferent, unattached, free.</span></div></div></div>
+<div class="vunit">
+<div class="vh"><span class="badge">9.10</span><span class="vht">How the world runs — God as the silent overseer</span></div>
+<div class="vcore"><div class="verse"><div class="dev">मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् ।<br>हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥</div><div class="iast">mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram / hetunānena kaunteya jagad viparyavartate</div><div class="vno">GĪTĀ 9.10</div></div></div>
+<div class="vbody">
+<div class="ln2"><span class="tl l">L</span><span class="labx">Literal</span></div><p>Under Me as overseer, Nature (prakṛti) brings forth the moving and the unmoving; by this cause, O Arjuna, the universe revolves.</p>
+<div class="ln2"><span class="tl m">M</span><span class="labx">In plain English</span></div><p>The whole world is not running itself, and it is not running you. There is an intelligence behind it — not pushing from outside like a mechanic, but pervading from within like the stillness at the centre of a wheel. Everything that grows, moves, and changes is nature doing its work; but nature itself is watched over by something that does not change.</p>
+<div class="ln2"><span class="tl c">C</span><span class="labx">Commentary</span></div><p>This single verse quietly dissolves two errors at once. It rejects the idea of a remote, absentee God (he is <em>adhyakṣa</em>, “the overseer,” right here) and the idea that the material world is itself divine (<em>prakṛti</em> does the producing; he supervises it).</p>
+<div class="box bridge"><div class="h">For the new reader</div><p>Think of a great conductor. The musicians make every sound; the conductor makes none. Yet without the conductor’s silent presence, the music falls apart. Krishna is not a note in the symphony — he is what holds the symphony together.</p></div>
+<div class="box sadhana"><div class="h">Try this — watch for the “overseer”</div><p>Today, pick one ordinary process — a plant growing, your breath, the turning of the day — and instead of seeing only the surface, sense the still intelligence within it. The practice of Chapter 9 begins here: in <em>recognizing</em> that you are watched over, not in <em>earning</em> it.</p></div>
+<div class="box adept"><div class="h">Going deeper — roots & commentaries</div><p><em>prakṛti</em> (प्रकृति) = primordial nature; <em>adhyakṣa</em> (अध्यक्ष) = “over-seer,” from <em>adhi</em> + <em>akṣa</em> (eye). The Sāṃkhya schools read this as pure dualism (matter vs. spirit); the bhakti schools read Krishna himself as the <em>adhyakṣa</em> — the hinge where impersonal philosophy turns personal.</p></div>
+</div></div>
+<div class="grp">9.11 – 9.21 · The great souls — and those who seek lesser heavens</div></body></html>

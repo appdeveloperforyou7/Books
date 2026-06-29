@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>ch9 part</title><style>
+@page { size: 8in 10in; margin: 0.78in 0.8in 0.82in 0.82in; }
+*{ box-sizing:border-box; }
+:root{
+  --accent:#C77A1A; --accent-tint:#FBF1E0; --accent-tint2:#F0DEB8;
+  --ink:#1c1b2b; --paper:#FAF6EC;
+  --plum:#8C3A55; --plum-tint:#F3E7EB;
+  --slate:#335A8C; --slate-tint:#E9EFF7;
+  --warn:#A84E29; --warn-tint:#FBEEE3;
+  --rule:#DBCBA6; --muted:#5b5040;
+}
+html,body{ margin:0; padding:0; background:var(--paper); color:var(--ink); }
+body{ font-family:'Noto Serif','Source Serif 4',Georgia,serif; font-size:10.5pt; line-height:1.48; }
+p{ margin:0 0 8pt 0; text-align:justify; text-indent:13pt; hyphens:auto; }
+p.lead,p.noind,.box p,.verse+p,li p,.cv p{ text-indent:0; }
+p.lead{ font-size:11.5pt; line-height:1.5; margin-bottom:10pt; }
+em{ color:#4a3f6b; } b,strong{ font-weight:700; }
+
+/* === LEVEL 1: macro section === */
+.sec{ display:flex; align-items:center; gap:10pt; border-bottom:1.4pt solid var(--accent);
+  padding-bottom:6pt; margin:20pt 0 11pt 0; break-after:avoid; }
+.sec .secn{ font-family:'Inter',sans-serif; font-size:11pt; font-weight:700; color:#fff;
+  background:var(--accent); border-radius:50%; width:18pt; height:18pt; display:inline-flex;
+  align-items:center; justify-content:center; flex:0 0 18pt; line-height:1; }
+.sec .sect{ font-family:'Source Serif 4',serif; font-size:15.5pt; font-weight:700; color:var(--ink); letter-spacing:.01em; }
+h2.sec2{ font-family:'Source Serif 4',serif; font-size:16pt; font-weight:700; margin:2pt 0 9pt 0; }
+/* === LEVEL 2: group divider === */
+.grp{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:600; letter-spacing:.16em;
+  text-transform:uppercase; color:#9a8a5e; text-align:center; margin:16pt 0 8pt 0;
+  display:flex; align-items:center; gap:8pt; break-after:avoid; }
+.grp::before,.grp::after{ content:""; flex:1; border-top:.6pt solid var(--rule); }
+
+/* === layers legend === */
+.legend{ background:#F4ECDB; border:0.7pt solid #E0CFA4; border-radius:4pt; padding:10pt 13pt; margin:6pt 0 12pt 0; break-inside:avoid; }
+.legend .lh{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:#8a7a4e; margin-bottom:5pt; }
+.legend p{ font-size:9pt; line-height:1.4; text-align:left; text-indent:0; margin-bottom:4pt; }
+.legend .lt{ display:inline-flex; align-items:center; gap:4pt; font-weight:600; }
+
+/* === LEVEL 3: deep-dive unit (grouped block) === */
+.vunit{ background:#F7F0E0; border:0.7pt solid #E4D4AC; border-radius:5pt; padding:9pt 14pt 7pt; margin:8pt 0 10pt 0; }
+.vh{ display:flex; align-items:center; gap:8pt; margin:0 0 6pt 0; break-after:avoid; }
+.vh .badge{ font-family:'Inter',sans-serif; font-size:9pt; font-weight:700; color:#fff;
+  background:var(--accent); padding:2pt 9pt; border-radius:9pt; letter-spacing:.04em; }
+.vh .vht{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--accent); }
+.vcore{ break-inside:avoid; }
+.vbody{ margin:3pt 0 4pt 18pt; padding-left:0; }
+.vbody p{ font-size:9.6pt; text-align:left; }
+.ln2{ display:flex; align-items:center; gap:5pt; margin:8pt 0 1pt 0; break-after:avoid; }
+.labx{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--muted); }
+.verse{ background:var(--accent-tint); border-radius:3pt;
+  padding:11pt 16pt 9pt 16pt; margin:4pt 0 9pt 0; break-inside:avoid; }
+.verse .dev{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:14.5pt; line-height:1.75;
+  text-align:center; font-weight:600; color:#241f2e; margin:0 0 4pt 0; }
+.verse .iast{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:9.5pt;
+  text-align:center; color:#6a5526; margin:0 0 5pt 0; line-height:1.4; }
+.verse .vno{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.14em; text-align:center; color:var(--accent); }
+/* tiny circular line-tags: P pronunciation, L literal, M meaning, C commentary */
+.tl{ display:inline-flex; align-items:center; justify-content:center; width:11pt; height:11pt; border-radius:50%;
+  font-family:'Inter',sans-serif; font-size:6.5pt; font-weight:700; color:#fff; flex:0 0 11pt; line-height:1; }
+.tl.p{ background:#9a8a5e; } .tl.l{ background:var(--slate); } .tl.m{ background:var(--accent); } .tl.c{ background:var(--plum); }
+/* === LEVEL 4: compact verse === */
+.cv{ display:flex; gap:9pt; margin:5pt 0; padding:6pt 0 6pt 0; border-bottom:.4pt dotted var(--rule); break-inside:avoid; }
+.cv .cvn{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; color:var(--accent); flex:0 0 26pt; padding-top:1pt; letter-spacing:.04em;}
+.cv .cvt{ flex:1; }
+.cv .devc{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:11pt; line-height:1.55; color:#2a2433; margin-bottom:3pt; }
+.cv .ln{ display:flex; align-items:baseline; gap:5pt; margin:1.5pt 0; }
+.cv .tx{ flex:1; }
+.cv .iastc{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:8pt; color:#6a5526; }
+.cv .litc{ font-size:8.6pt; color:#3a3340; line-height:1.32; }
+.cv .meanc{ font-size:8.6pt; color:#5a4a2a; line-height:1.32; font-style:italic; }
+/* === callout boxes (no bars; fill only) === */
+.box{ border-radius:3pt; padding:9pt 12pt; margin:8pt 0; break-inside:avoid; }
+.box p{ font-size:9.6pt; line-height:1.4; text-align:left; }
+.box .h{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; margin-bottom:3pt; }
+.box .h::before{ content:""; display:inline-block; width:5pt; height:5pt; margin-right:6pt; vertical-align:1pt; }
+.bridge{ background:#FFF6E4; } .bridge .h{ color:#A9791A; } .bridge .h::before{ background:#A9791A; }
+.sadhana{ background:var(--plum-tint); } .sadhana .h{ color:var(--plum); } .sadhana .h::before{ background:var(--plum); }
+.adept{ background:var(--slate-tint); } .adept .h{ color:var(--slate); } .adept .h::before{ background:var(--slate); }
+.warn{ background:var(--warn-tint); } .warn .h{ color:var(--warn); } .warn .h::before{ background:var(--warn); }
+.bigpic li{ margin-bottom:9pt; line-height:1.44; } .bigpic li b.lead-saff{ color:var(--accent); }
+.takeaway{ background:var(--accent-tint); border:1.4pt solid var(--accent); border-radius:4pt; padding:13pt 17pt; margin-top:5pt; break-inside:avoid; }
+.takeaway ol{ margin:6pt 0 0 0; padding-left:17pt; } .takeaway li{ margin-bottom:6pt; } .takeaway .close{ font-style:italic; margin-top:6pt; }
+.path-note{ font-family:'Inter',sans-serif; font-size:8pt; color:#7a6b48; font-style:italic; margin-top:12pt; border-top:.6pt solid var(--rule); padding-top:6pt; }
+</style></head><body><div class="cv"><div class="cvn">9.11</div><div class="cvt"><div class="devc">अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।<br>परं भावमजानन्तो मम भूतमहेश्वरम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">avajānanti māṃ mūḍhā mānuṣīṃ tanum āśritam / paraṃ bhāvam ajānanto mama bhūta-maheśvaram</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Fools despise Me in My human body, not knowing My supreme nature as the great Lord of all beings.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Those who see only a human body miss the divinity standing right before them.</span></div></div></div>
+<div class="cv"><div class="cvn">9.12</div><div class="cvt"><div class="devc">मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।<br>राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">moghāśā mogha-karmāṇo mogha-jñānā vicetasaḥ / rākṣasīm āsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Their hopes, acts and knowledge are vain; bewildered, they cling to the delusive demoniac nature.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Deluded minds chase empty hopes and end in darkness, deceived by their own restless nature.</span></div></div></div>
+<div class="cv"><div class="cvn">9.13</div><div class="cvt"><div class="devc">महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः ।<br>भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">mahātmānas tu māṃ pārtha daivīṃ prakṛtim āśritāḥ / bhajanty ananya-manaso jñātvā bhūta-ādim avyayam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">But the great souls, grounded in the divine nature, worship Me with undivided mind, knowing Me as the imperishable source.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">The truly great turn wholly toward the Divine, knowing him as the deathless source of all that exists.</span></div></div></div>
+<div class="cv"><div class="cvn">9.14</div><div class="cvt"><div class="devc">सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः ।<br>नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">satataṃ kīrtayanto māṃ yatantaś ca dṛḍha-vratāḥ / namasyantaś ca māṃ bhaktyā nitya-yuktā upāsate</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Ever chanting My glories, striving with firm vows, bowing in devotion, they worship Me, ever united.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Their lives become one continuous act of remembrance — chanting, striving, bowing, devoted.</span></div></div></div>
+<div class="cv"><div class="cvn">9.15</div><div class="cvt"><div class="devc">ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।<br>एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">jñāna-yajñena cāpy anye yajanto mām upāsate / ekatvena pṛthaktvena bahudhā viśvato-mukham</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Others worship Me by the sacrifice of knowledge — as the One, as the many, in diverse ways, the all-faced universal Being.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Seekers approach the One in many ways — as the single Reality, as the many, as the all-pervading whole.</span></div></div></div>
+<div class="cv"><div class="cvn">9.16</div><div class="cvt"><div class="devc">अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् ।<br>मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">ahaṃ kratur ahaṃ yajñaḥ svadhāham aham auṣadham / mantro'ham aham evājyam aham agnir ahaṃ hutam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">I am the rite, the sacrifice, the offering to the ancestors, the healing herb, the mantra, the clarified butter, the fire and the oblation.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Every element of worship — the rite, the fire, the offering, the very words — is himself.</span></div></div></div>
+<div class="cv"><div class="cvn">9.17</div><div class="cvt"><div class="devc">पिताहमस्य जगतो माता धाता पितामहः ।<br>वेद्यं पवित्रमोंकार ऋक् साम यजुरेव च ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">pitāham asya jagato mātā dhātā pitāmahaḥ / vedyaṃ pavitram oṁkāra ṛk sāma yajur eva ca</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Father, mother, sustainer, grandsire of this world; the knowable, the purifier, the syllable Oṁ, the Ṛg, Sāma and Yajur Veda.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">He is the parent, support and meaning of the whole world, and the sound Oṁ that names it.</span></div></div></div>
+<div class="cv"><div class="cvn">9.18</div><div class="cvt"><div class="devc">गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् ।<br>प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">gatir bhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt / prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījam avyayam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Goal, supporter, Lord, witness, abode, refuge, friend; origin, dissolution, ground, resting-place and the imperishable seed.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Whatever you seek — a refuge, a friend, a foundation, the seed of all things — he is that.</span></div></div></div>
+<div class="cv"><div class="cvn">9.19</div><div class="cvt"><div class="devc">तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च ।<br>अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">tapāmy aham ahaṃ varṣaṃ nigṛhṇāmy utsṛjāmi ca / amṛtaṃ caiva mṛtyuś ca sad asac cāham arjuna</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">I send forth heat; I withhold and release the rain; I am immortality and death, O Arjuna — both being and non-being.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">He is the weather of existence itself: the rain and heat, life and death, being and not-being.</span></div></div></div>
+<div class="cv"><div class="cvn">9.20</div><div class="cvt"><div class="devc">त्रैविद्या मां सोमपाः पूतपापा<br>यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।<br>ते पुण्यमासाद्य सुरेन्द्रलोकमश्नन्ति दिव्यान्दिवि देवभोगान् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">traividya māṃ somapāḥ pūta-pāpā yajñair iṣṭvā svarga-gatiṃ prārthayante / te puṇyam āsādya surendra-lokam aśnanti divyān divi deva-bhogān</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Knowers of the three Vedas, cleansed of sin, worship Me by sacrifice and seek heaven; attaining merit, they enjoy the delights of Indra's world.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Ritual-seekers reach a temporary heaven as a reward and enjoy its pleasures while they last.</span></div></div></div>
+<div class="cv"><div class="cvn">9.21</div><div class="cvt"><div class="devc">ते तं भुक्त्वा स्वर्गलोकं विशालं<br>क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।<br>एवं त्रयीधर्ममनुप्रपन्ना गतागतं कामकामा लभन्ते ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">te taṃ bhuktvā svarga-lokaṃ viśālaṃ kṣīṇe puṇye martya-lokaṃ viśanti / evaṃ trayī-dharma anuprapannā gatāgataṃ kāma-kāmā labhante</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Having enjoyed that vast heaven, when merit is exhausted they fall back to the mortal world — so desire-driven Vedic worshippers gain only round-trip coming and going.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">But when the merit runs out they fall back to earth — desire-driven worship earns only round-trips, never freedom.</span></div></div></div></body></html>

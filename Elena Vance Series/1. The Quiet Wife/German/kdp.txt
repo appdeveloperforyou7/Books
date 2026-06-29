@@ -1,0 +1,85 @@
+KDP PUBLISH FORM DETAILS — DIE STILLE FRAU
+==========================================
+
+Book: Die Stille Frau (The Quiet Wife)
+Series: Die Elena Vance Reihe, Band 1
+Author: Kapil Gupta
+Language: Deutsch (German)
+Publication Date: [Heutiges Datum oder geplant]
+Publisher: [Ihr Imprint oder selbstverlegt]
+Edition: 1
+Content Type: Belletristik / Psychologischer Thriller / Domestic Suspense
+Word Count: ~50.000 (übersetzt)
+Pages (est.): ~200-220
+
+Categories:
+- Thriller & Suspense / Psychologische Thriller
+- Thriller & Suspense / Domestic Thriller
+- Belletristik / Frauenroman
+
+Keywords (7):
+1. Executive Coach
+2. psychologischer Thriller
+3. Domestic Suspense
+4. unzuverlässiger Erzähler
+5. Ehegeheimnisse
+6. Überwachungskapitalismus
+7. Gone Girl
+
+Description (HTML-ready):
+Elena Vance liest Menschen für ihren Lebensunterhalt – die Neigung einer Schulter, das Gewicht einer Stille, die halbe Sekunde Pause zwischen dem, was man fühlt, und dem, was man tut. Fünfzehn Jahre lang hat sie mächtigen Männern beigebracht, diese Pause zu beherrschen. Nie ist es ihr entgangen, dass es kommt. Bis ihr Mann ihr in kleinen, alltäglichen Schritten entgleitet. Und der falsche Ton, den sie an einem Dienstagnachmittag notiert – ein Land-Deal an der West 44, Papierkram, „als wäre er schon erledigt, bevor sie angefangen haben“ –, zieht sie in eine Welt, in der die klügste Person im Raum diejenige ist, die von Anfang an zugesehen hat. Die Stille Frau ist der erste Roman der Elena-Vance-Reihe. Er richtet sich an Leserinnen und Leser, die die häusliche Anspannung von Gone Girl, die strukturelle Innovation von The Silent Patient und das Tempo von The Housemaid geliebt haben – und die eine Protagonistin wollen, deren größte Stärke genau das ist, was sie blind macht.
+
+Series Description (for KDP series field):
+Die Elena-Vance-Reihe folgt der Executive Coach Elena Vance, deren Gabe, Menschen zu lesen – die Mikroexpressionen, die Stille, die halbe Sekunde Pause vor einer Lüge –, sie zu einer unwahrscheinlichen Ermittlerin von Wirtschaftskriminalität macht. Jeder Band verbindet einen neuen Raum, der gelesen werden muss, mit dem Preis, ihn zu lesen. Band 1: Die Stille Frau. Band 2: [Noch offen – der nächste Raum wartet bereits.]
+
+Comp Titles: Gone Girl (Flynn), The Silent Patient (Michaelides), The Housemaid (McFadden)
+
+==========================================
+FORMAT 1: eBook (Kindle)
+==========================================
+Format: Kindle eBook
+File: .mobi / .epub / .kpf (KDP-Upload)  -> DieStilleFrau.epub
+ISBN: Kostenlose, von KDP zugewiesene ISBN (oder eigene)
+DRM: Aktiviert (empfohlen)
+Price Tier: 2,99 € - 4,99 € (optimal für einen 50k-Wort-Thriller)
+KDP Select: Anmelden (für Launch empfohlen - 90 Tage Exklusivität)
+Territories: Alle Territorien / weltweit (oder auf deutschsprachige Märkte beschränken)
+
+==========================================
+FORMAT 2: Paperback
+==========================================
+Format: Paperback (Taschenbuch)
+File: Die_Stille_Frau_interior.pdf + paperback_cover.pdf
+Trim Size: 5,5" x 8,5" (Standard-Thriller) oder 6" x 9"
+Page Count: ~200-220 (geschätzt für 50k Wörter bei ~230-250 W/Seite)
+Paper Color: Cream (Creme - empfohlen für Belletristik)
+Cover Finish: Matt
+ISBN: Muss sich vom eBook unterscheiden (KDP stellt kostenlos bereit)
+Bleed: Ohne Beschnitt (außer Cover erfordert ihn)
+Price: 12,99 € - 15,99 € (Kosten + Tantieme; Druck auf Bestellung)
+
+==========================================
+FORMAT 3: Hardcover
+==========================================
+Format: Hardcover (gebunden)
+Trim Size: 5,5" x 8,5" oder 6" x 9"
+Page Count: ~200-220
+Paper Color: Cream
+Cover Finish: Matt mit Schutzumschlag (oder bedruckter Einband ohne Umschlag)
+ISBN: Muss sich von eBook und Paperback unterscheiden
+Price: 22,99 € - 27,99 €
+Dust Jacket: Empfohlen (KDP unterstützt Schutzumschlag für Hardcover)
+
+==========================================
+NOTES
+==========================================
+- 3 ISBNs erforderlich - eine pro Format. KDP weist beim Upload kostenlos zu.
+- Coverdateien pro Format separat hochladen:
+  - eBook: 2560x1600 px Minimum
+  - Paperback/Hardcover: berechnet aus Format + Seitenzahl + Beschnitt
+- Serienpotenzial mit 9/10 bewertet in der ratings-Datei - erwägen, „Band 1 der Elena-Vance-Reihe" auf Cover und im Untertitelfeld anzugeben.
+- Positioniert gegen Gone Girl, The Silent Patient, The Housemaid in der ratings-Datei.
+- WICHTIG: Cover, Manuskript, ePub (DieStilleFrau.epub) und Innen-PDF (Die_Stille_Frau_interior.pdf) tragen nun alle «Die Stille Frau» (synchronisiert). Englischer Originaltitel: The Quiet Wife.
+- AUFLÖSUNG-HINWEIS: die Quell-Cover («German paperback image.png», 1454×1082) ist niedrig aufgelöst. Kindle-Cover und Paperback-Cover wurden hochskaliert (Lanczos, etwas weicher). Für optimale Druckqualität hochaufgelöste Quelle liefern (Front ≥1600 px breit, Gesamt-Wrap ≥300 DPI).
+- Übersetzung: Eigennamen (Elena Vance, Martin Hale) und Orte (Park Avenue, West 44th) auf Konsistenz mit dem Zielmarkt prüfen.
+- Prioritäre deutschsprachige Märkte: Deutschland, Österreich, Schweiz.

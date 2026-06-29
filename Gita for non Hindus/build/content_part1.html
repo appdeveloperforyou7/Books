@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>ch9 part</title><style>
+@page { size: 8in 10in; margin: 0.78in 0.8in 0.82in 0.82in; }
+*{ box-sizing:border-box; }
+:root{
+  --accent:#C77A1A; --accent-tint:#FBF1E0; --accent-tint2:#F0DEB8;
+  --ink:#1c1b2b; --paper:#FAF6EC;
+  --plum:#8C3A55; --plum-tint:#F3E7EB;
+  --slate:#335A8C; --slate-tint:#E9EFF7;
+  --warn:#A84E29; --warn-tint:#FBEEE3;
+  --rule:#DBCBA6; --muted:#5b5040;
+}
+html,body{ margin:0; padding:0; background:var(--paper); color:var(--ink); }
+body{ font-family:'Noto Serif','Source Serif 4',Georgia,serif; font-size:10.5pt; line-height:1.48; }
+p{ margin:0 0 8pt 0; text-align:justify; text-indent:13pt; hyphens:auto; }
+p.lead,p.noind,.box p,.verse+p,li p,.cv p{ text-indent:0; }
+p.lead{ font-size:11.5pt; line-height:1.5; margin-bottom:10pt; }
+em{ color:#4a3f6b; } b,strong{ font-weight:700; }
+
+/* === LEVEL 1: macro section === */
+.sec{ display:flex; align-items:center; gap:10pt; border-bottom:1.4pt solid var(--accent);
+  padding-bottom:6pt; margin:20pt 0 11pt 0; break-after:avoid; }
+.sec .secn{ font-family:'Inter',sans-serif; font-size:11pt; font-weight:700; color:#fff;
+  background:var(--accent); border-radius:50%; width:18pt; height:18pt; display:inline-flex;
+  align-items:center; justify-content:center; flex:0 0 18pt; line-height:1; }
+.sec .sect{ font-family:'Source Serif 4',serif; font-size:15.5pt; font-weight:700; color:var(--ink); letter-spacing:.01em; }
+h2.sec2{ font-family:'Source Serif 4',serif; font-size:16pt; font-weight:700; margin:2pt 0 9pt 0; }
+/* === LEVEL 2: group divider === */
+.grp{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:600; letter-spacing:.16em;
+  text-transform:uppercase; color:#9a8a5e; text-align:center; margin:16pt 0 8pt 0;
+  display:flex; align-items:center; gap:8pt; break-after:avoid; }
+.grp::before,.grp::after{ content:""; flex:1; border-top:.6pt solid var(--rule); }
+
+/* === layers legend === */
+.legend{ background:#F4ECDB; border:0.7pt solid #E0CFA4; border-radius:4pt; padding:10pt 13pt; margin:6pt 0 12pt 0; break-inside:avoid; }
+.legend .lh{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:#8a7a4e; margin-bottom:5pt; }
+.legend p{ font-size:9pt; line-height:1.4; text-align:left; text-indent:0; margin-bottom:4pt; }
+.legend .lt{ display:inline-flex; align-items:center; gap:4pt; font-weight:600; }
+
+/* === LEVEL 3: deep-dive unit (grouped block) === */
+.vunit{ background:#F7F0E0; border:0.7pt solid #E4D4AC; border-radius:5pt; padding:9pt 14pt 7pt; margin:8pt 0 10pt 0; }
+.vh{ display:flex; align-items:center; gap:8pt; margin:0 0 6pt 0; break-after:avoid; }
+.vh .badge{ font-family:'Inter',sans-serif; font-size:9pt; font-weight:700; color:#fff;
+  background:var(--accent); padding:2pt 9pt; border-radius:9pt; letter-spacing:.04em; }
+.vh .vht{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--accent); }
+.vcore{ break-inside:avoid; }
+.vbody{ margin:3pt 0 4pt 18pt; padding-left:0; }
+.vbody p{ font-size:9.6pt; text-align:left; }
+.ln2{ display:flex; align-items:center; gap:5pt; margin:8pt 0 1pt 0; break-after:avoid; }
+.labx{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--muted); }
+.verse{ background:var(--accent-tint); border-radius:3pt;
+  padding:11pt 16pt 9pt 16pt; margin:4pt 0 9pt 0; break-inside:avoid; }
+.verse .dev{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:14.5pt; line-height:1.75;
+  text-align:center; font-weight:600; color:#241f2e; margin:0 0 4pt 0; }
+.verse .iast{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:9.5pt;
+  text-align:center; color:#6a5526; margin:0 0 5pt 0; line-height:1.4; }
+.verse .vno{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.14em; text-align:center; color:var(--accent); }
+/* tiny circular line-tags: P pronunciation, L literal, M meaning, C commentary */
+.tl{ display:inline-flex; align-items:center; justify-content:center; width:11pt; height:11pt; border-radius:50%;
+  font-family:'Inter',sans-serif; font-size:6.5pt; font-weight:700; color:#fff; flex:0 0 11pt; line-height:1; }
+.tl.p{ background:#9a8a5e; } .tl.l{ background:var(--slate); } .tl.m{ background:var(--accent); } .tl.c{ background:var(--plum); }
+/* === LEVEL 4: compact verse === */
+.cv{ display:flex; gap:9pt; margin:5pt 0; padding:6pt 0 6pt 0; border-bottom:.4pt dotted var(--rule); break-inside:avoid; }
+.cv .cvn{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; color:var(--accent); flex:0 0 26pt; padding-top:1pt; letter-spacing:.04em;}
+.cv .cvt{ flex:1; }
+.cv .devc{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:11pt; line-height:1.55; color:#2a2433; margin-bottom:3pt; }
+.cv .ln{ display:flex; align-items:baseline; gap:5pt; margin:1.5pt 0; }
+.cv .tx{ flex:1; }
+.cv .iastc{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:8pt; color:#6a5526; }
+.cv .litc{ font-size:8.6pt; color:#3a3340; line-height:1.32; }
+.cv .meanc{ font-size:8.6pt; color:#5a4a2a; line-height:1.32; font-style:italic; }
+/* === callout boxes (no bars; fill only) === */
+.box{ border-radius:3pt; padding:9pt 12pt; margin:8pt 0; break-inside:avoid; }
+.box p{ font-size:9.6pt; line-height:1.4; text-align:left; }
+.box .h{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; margin-bottom:3pt; }
+.box .h::before{ content:""; display:inline-block; width:5pt; height:5pt; margin-right:6pt; vertical-align:1pt; }
+.bridge{ background:#FFF6E4; } .bridge .h{ color:#A9791A; } .bridge .h::before{ background:#A9791A; }
+.sadhana{ background:var(--plum-tint); } .sadhana .h{ color:var(--plum); } .sadhana .h::before{ background:var(--plum); }
+.adept{ background:var(--slate-tint); } .adept .h{ color:var(--slate); } .adept .h::before{ background:var(--slate); }
+.warn{ background:var(--warn-tint); } .warn .h{ color:var(--warn); } .warn .h::before{ background:var(--warn); }
+.bigpic li{ margin-bottom:9pt; line-height:1.44; } .bigpic li b.lead-saff{ color:var(--accent); }
+.takeaway{ background:var(--accent-tint); border:1.4pt solid var(--accent); border-radius:4pt; padding:13pt 17pt; margin-top:5pt; break-inside:avoid; }
+.takeaway ol{ margin:6pt 0 0 0; padding-left:17pt; } .takeaway li{ margin-bottom:6pt; } .takeaway .close{ font-style:italic; margin-top:6pt; }
+.path-note{ font-family:'Inter',sans-serif; font-size:8pt; color:#7a6b48; font-style:italic; margin-top:12pt; border-top:.6pt solid var(--rule); padding-top:6pt; }
+</style></head><body><div class="sec"><span class="secn">1</span><span class="sect">Intro Card</span></div>
+<p class="lead"><b>What happens.</b> Krishna calls what he is about to say <em>rāja-vidyā rāja-guhya</em> — “the king of knowledge and the king of secrets.” He reveals how he pervades the universe without being contained by it; how every form of worship finally reaches him; and then he makes the most tender promise in the scripture: <em>to the one who remembers him with an undivided heart, he himself carries what they lack and guards what they have.</em> It ends with the most radical grace of all: even a person sunk in wrongdoing, if they turn to him with wholehearted love, are quickly made righteous.</p>
+<p class="lead"><b>Why this chapter matters to you.</b> If the Gītā so far has been a map, Chapter 9 is the moment the guide stops pointing at the mountain and takes your hand.</p>
+<div class="sec"><span class="secn">2</span><span class="sect">The Big Picture</span></div>
+<p class="noind">Three ideas hold Chapter 9 together, and each overturns a common assumption:</p>
+<ol class="bigpic"><li><b class="lead-saff">God is everywhere, but is not everything.</b> The world is <em>in</em> him; he is not reduced <em>to</em> the world. Neither strict monotheism nor pantheism — something more subtle, and more intimate.</li><li><b class="lead-saff">Every sincere prayer reaches the same shore.</b> “Even those who worship other gods, with faith — they worship me alone, though they know it not.” The form matters less than the sincerity.</li><li><b class="lead-saff">Grace is for the fallen, not only for the pure.</b> Even one of very evil conduct, if devoted, is counted righteous — and soon becomes so. The Gītā does not demand that you arrive clean. It asks only that you turn.</li></ol>
+<p>Read this chapter as an answer to a silent fear every honest person carries: <em>Am I too far gone?</em> Chapter 9’s answer is the heart of the whole book.</p>
+<div class="sec"><span class="secn">3</span><span class="sect">The Verses</span></div>
+<p class="noind" style="color:var(--muted);font-size:9.5pt;font-style:italic;margin-bottom:8pt">All 34 verses of the chapter are given below in Sanskrit and translation. Six key verses are opened in full — translation, commentary, a bridge for the new reader, and a practice.</p>
+<div class="grp">9.1 – 9.9 · The most secret knowledge, and how the world is run</div>
+<div class="cv"><div class="cvn">9.1</div><div class="cvt"><div class="devc">इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।<br>ज्ञानं विज्ञानसहितं यज्ञात्वा मोक्ष्यसेऽशुभात् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">idaṃ tu te guhyatamaṃ pravakṣyāmy anasūyave / jñānaṃ vijñāna-sahitaṃ yaj jñātvā mokṣyase 'śubhāt</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Because you do not find fault, I will speak this most secret knowledge — knowing which you are freed from evil.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">The Gītā's most important teaching is being offered now — and the only requirement is an open, non-judgemental mind.</span></div></div></div></body></html>

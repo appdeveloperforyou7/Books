@@ -1,0 +1,196 @@
+================================================================================
+THE OTHER MOTHERS — KDP SETUP GUIDE
+Author: Kapil Gupta
+Files folder: D:\Kapil\Books\The Other Mothers
+================================================================================
+
+--------------------------------------------------------------------------------
+0. FILES TO UPLOAD
+--------------------------------------------------------------------------------
+Kindle eBook:
+  • Manuscript : Output\THE_OTHER_MOTHERS.epub
+  • Cover      : Covers\kindle_cover.jpg  (1600 x 2560 px, RGB)
+
+Paperback:
+  • Manuscript : Output\THE_OTHER_MOTHERS_interior.pdf  (305 pages)
+  • Cover      : Covers\paperback_cover.pdf (11.939" x 8.750", includes bleed)
+
+(Optional / source assets, do NOT upload to KDP:)
+  • Manuscript : Output\THE_OTHER_MOTHERS.md, Manuscript\THE_OTHER_MOTHERS.md
+  • Cover      : Covers\Paperback image.png (original AI art)
+
+
+================================================================================
+A. KINDLE EBOOK
+================================================================================
+
+KDP path: KDP > Create > Kindle eBook
+
+1. eBook DETAILS
+   • Title            : The Other Mothers
+   • Subtitle         : (leave blank — "A Novel" appears on the cover, not needed
+                         as a subtitle; adding it can clutter search results)
+   • Language         : English
+   • Author           : Kapil Gupta
+   • Contributors     : (none)
+   • Series          : (none)
+   • Edition number  : 1
+   • Publisher       : (leave blank, or use your imprint name)
+   • Publication date: (leave blank = today, or set your launch date)
+   • ISBN           : NOT used for Kindle. Leave blank.
+
+2. DESCRIPTION  (Kindle — plain text)
+A missing child. Three women with secrets. And a past that refuses to stay buried.
+
+When a little boy disappears from his school on the first day of term, his mother, Nora, is consumed by fear—and haunted by a past she thought she had left behind.
+
+As the search unravels, old stories surface, friendships fracture, and long-buried truths rise to the surface.
+
+Because some things don't just disappear. They're hidden.
+
+   (Optional final line: "A debut psychological thriller about the women at the school gate, and the lie that holds a town together.")
+
+3. CONFIRM CONTENT (copyright)
+   • This is a public-domain work? : NO
+   • Copyright holder / year : Kapil Gupta, 2026
+   • If you hold the rights based on a public-domain work: NO
+
+4. KEYWORDS  (enter all 7)
+   1. psychological thriller novel
+   2. domestic suspense thriller
+   3. missing child thriller book
+   4. unreliable narrator books
+   5. school mothers secrets fiction
+   6. twist ending psychological thriller
+   7. british psychological thriller
+
+5. CATEGORIES  (pick up to 3)
+   • Fiction > Thrillers > Psychological
+   • Fiction > Thrillers > Suspense
+   • Fiction > Women's Fiction  (alternative: Fiction > Contemporary)
+
+6. ADULT CONTENT
+   • Is this book a dictionary? : NO
+   • Does this book contain content that may be considered offensive?
+       : NO  (no graphic sex/violence/profanity that would trigger this)
+   • Intended audience: GENERAL ADULT
+
+7. eBook CONTENT
+   • Upload cover   : Covers\kindle_cover.jpg
+   • Upload manuscript: Output\THE_OTHER_MOTHERS.epub
+   • Page-flip enabled? : NO (it's all prose)
+
+8. eBook PRICING
+   • Royalty plan : 70%
+   • List price (USD): $4.99  (typical indie thriller launch; set to taste)
+   • List price (GBP): £3.99
+   • List price (EUR): €4.99
+   • Enroll in KDP Select (Kindle Unlimited)? : your choice
+       - Pros: KU page-read royalties, promo tools, series bump
+       - Cons: 90-day digital exclusivity (no Apple/Kobo/eBook sales)
+   • DRM (Digital Rights Management): your choice. Leaving it OFF lets buyers
+     move the file between personal devices; ON prevents copying. Most indie
+     authors leave it OFF.
+
+
+================================================================================
+B. PAPERBACK
+================================================================================
+
+KDP path: KDP > Create > Paperback
+
+1. PAPERBACK DETAILS
+   • Title       : The Other Mothers
+   • Subtitle    : (leave blank)
+   • Language    : English
+   • Author      : Kapil Gupta
+   • Contributors: (none)
+   • Series / Edition / Publisher / Publication date : (same as eBook)
+   • ISBN        : Use a FREE KDP ISBN  (do not publish your own unless intended)
+
+2. ISBN selection
+   • "Get a free KDP ISBN" — selected
+   • Imprint name (shown on Amazon) : (leave blank or your imprint)
+
+3. PUBLICATION DATE
+   • Set future launch date, or leave blank for "live on approval"
+
+4. PRINT OPTIONS   (CRITICAL — must match the files)
+   • Ink and paper   : Black & white interior with white paper
+   • Trim size       : 5.5" x 8.5"  (a.k.a. "Digest")
+   • Bleed           : No bleed  (interior is text-only, no edge-to-edge images)
+   • Paperback finish: Matte  (recommended for literary thriller; glossy optional)
+   • Estimated page count : 305
+
+   >>> Verify the auto-calculated SPINE WIDTH KDP shows = 0.689" <<<
+       (Formula: 305 × 0.002252 + 0.001872 = 0.689" for white paper)
+       This matches the cover PDF that was built. If KDP shows a different
+       spine, regenerate the cover with the KDP-stated page count.
+
+5. COVER & MANUSCRIPT UPLOAD
+   • Launch Previewer, then upload:
+       Manuscript : Output\THE_OTHER_MOTHERS_interior.pdf  (305 pp)
+       Cover      : Covers\paperback_cover.pdf
+   • Review the on-screen cover template — spine text must sit cleanly within
+     the spine band. Check the front, spine, and back margins.
+
+6. DESCRIPTION  (same as Kindle, or you can use the fuller version below)
+A missing child. Three women with secrets. And a past that refuses to stay buried.
+
+When a little boy disappears from his school on the first day of term, his mother, Nora, is consumed by fear—and haunted by a past she thought she had left behind.
+
+As the search unravels, old stories surface, friendships fracture, and long-buried truths rise to the surface.
+
+Because some things don't just disappear. They're hidden.
+
+7. KEYWORDS & CATEGORIES  (same as Kindle — sections A.4 and A.5 above)
+
+8. ADULT CONTENT
+   • Intended for adults only? : NO (general adult; not erotica/extreme content)
+
+9. PAPERBACK PRICING
+   • 60% royalty (paperback standard)
+   • Print cost (white, 305pp): approx. $4.18  (KDP will calculate exactly)
+   • List price (USD): $14.99  (≈ $4.80 royalty) — adjust to taste
+   • List price (GBP): £10.99
+   • List price (EUR): €14.99
+   • Expand distribution: "Standard" (free Amazon + B&N/etc. via Expanded)
+
+10. AUTHOR / ABOUT
+    • On the author page / "From the Publisher" : add a short author bio +
+      the dedication line "For the ones who carried it, and said nothing."
+
+================================================================================
+C. PRE-LAUNCH CHECKLIST
+================================================================================
+[ ] Open Output\THE_OTHER_MOTHERS_interior.pdf and confirm:
+      - title page, TOC, chapter starts, page numbers, scene-break ornaments
+      - no mojibake (â€", Â·), no orphaned/blank pages mid-chapter
+[ ] Open Covers\kindle_cover.jpg — title + author legible at thumbnail size
+[ ] Open Covers\paperback_cover.pdf — back blurb, spine title, front art OK
+[ ] Spine width on KDP = 0.689" (matches cover build)
+[ ] Book description pasted with correct curly quotes (" " — ')
+[ ] Keywords = 7, categories = 3
+[ ] Decide KDP Select (Kindle Unlimited) — yes/no for the eBook
+[ ] Decide DRM on/off
+[ ] Set launch date (eBook can go live in ~24h; paperback ~3–5 days)
+
+================================================================================
+D. TECHNICAL REFERENCE  (for regenerating files if anything changes)
+================================================================================
+• Word count         : 71,905 words
+• Interior pages     : 305
+• Interior CSS       : Output\interior.css (Cambria 10.5pt, 1.3 leading,
+                       0.62" margins, ~236 words/page)
+• Trim               : 5.5" × 8.5"
+• Bleed (interior)   : none
+• Bleed (cover)      : 0.125" all sides
+• Spine formula (white paper): pages × 0.002252 + 0.001872
+     305 pages → 0.689" spine
+• Paperback cover dims: 11.939" × 8.750"  (= 2×5.5 + spine + 2×0.125)
+• Kindle cover      : 1600 × 2560 px (1:1.6)
+• Spine colour      : dark olive  #45411C  (RGB 69,65,28) — for reference only
+
+================================================================================
+Generated for: The Other Mothers by Kapil Gupta
+================================================================================

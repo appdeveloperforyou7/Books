@@ -1,0 +1,18 @@
+@font-face{font-family:'Source Serif 4';font-style:italic;font-weight:400;src:url('fonts/SourceSerif4-400i.ttf');}
+@font-face{font-family:'Source Serif 4';font-style:normal;font-weight:400;src:url('fonts/SourceSerif4-400.ttf');}
+@font-face{font-family:'Source Serif 4';font-style:normal;font-weight:600;src:url('fonts/SourceSerif4-600.ttf');}
+@font-face{font-family:'Source Serif 4';font-style:normal;font-weight:700;src:url('fonts/SourceSerif4-700.ttf');}
+@font-face{font-family:'Noto Serif';font-style:italic;font-weight:400;src:url('fonts/NotoSerif-400i.ttf');}
+@font-face{font-family:'Noto Serif';font-style:normal;font-weight:400;src:url('fonts/NotoSerif-400.ttf');}
+@font-face{font-family:'Noto Serif';font-style:normal;font-weight:700;src:url('fonts/NotoSerif-700.ttf');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;src:url('fonts/Inter-400.ttf');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:500;src:url('fonts/Inter-500.ttf');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;src:url('fonts/Inter-600.ttf');}
+@font-face{font-family:'Inter';font-style:normal;font-weight:700;src:url('fonts/Inter-700.ttf');}
+@font-face{font-family:'Noto Serif Devanagari';font-style:normal;font-weight:400;src:url('fonts/NotoSerifDevanagari-400.ttf');}
+@font-face{font-family:'Noto Serif Devanagari';font-style:normal;font-weight:500;src:url('fonts/NotoSerifDevanagari-500.ttf');}
+@font-face{font-family:'Noto Serif Devanagari';font-style:normal;font-weight:600;src:url('fonts/NotoSerifDevanagari-600.ttf');}
+@font-face{font-family:'Noto Serif Devanagari';font-style:normal;font-weight:700;src:url('fonts/NotoSerifDevanagari-700.ttf');}
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:400;src:url('fonts/NotoSansDevanagari-400.ttf');}
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:500;src:url('fonts/NotoSansDevanagari-500.ttf');}
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:600;src:url('fonts/NotoSansDevanagari-600.ttf');}

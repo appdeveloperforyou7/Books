@@ -1,0 +1,85 @@
+KDP PUBLISH FORM DETAILS — L'ÉPOUSE SILENCIEUSE
+================================================
+
+Book: L'Épouse Silencieuse (The Quiet Wife)
+Series: Série Elena Vance, Livre 1
+Author: Kapil Gupta
+Language: Français (French)
+Publication Date: [Date du jour ou planifiée]
+Publisher: [Votre marque ou auto-édité]
+Edition: 1
+Content Type: Fiction / Thriller psychologique / Suspense domestique
+Word Count: ~50 000 (traduit)
+Pages (est.): ~200-220
+
+Categories:
+- Thriller et suspense / Thrillers psychologiques
+- Thriller et suspense / Thrillers domestiques
+- Fiction / Fiction féminine
+
+Keywords (7):
+1. coach pour dirigeants
+2. thriller psychologique
+3. suspense domestique
+4. narrateur peu fiable
+5. secrets de mariage
+6. capitalisme de surveillance
+7. Gone Girl
+
+Description (HTML-ready):
+Elena Vance lit les gens pour vivre — l'inclinaison d'une épaule, le poids d'un silence, la demi-seconde de pause entre le moment où l'on ressent quelque chose et celui où l'on agit. Depuis quinze ans, elle apprend aux hommes puissants à maîtriser cette pause. Elle n'a jamais manqué de la voir venir. Jusqu'au jour où son mari commence à lui échapper par petites façons ordinaires. Et la note fausse qu'elle archive un mardi après-midi — une opération foncière sur le Ouest 44e, une paperasse « déjà bouclée avant qu'ils commencent » — la tire dans un monde où la personne la plus intelligente dans la salle est celle qui observe depuis le début. L'Épouse Silencieuse est le premier roman de la série Elena Vance. Il s'adresse aux lectrices et lecteurs qui ont aimé la tension domestique de Gone Girl, l'innovation structurelle de The Silent Patient, et le rythme de The Housemaid — et qui veulent une protagoniste dont la plus grande force est précisément ce qui l'aveugle.
+
+Series Description (for KDP series field):
+La série Elena Vance suit la coach pour dirigeants Elena Vance, dont le don pour lire les gens — les micro-expressions, les silences, la demi-seconde de pause avant un mensonge — fait d'elle une enquêtrice improbabwe de la criminalité en col blanc. Chaque livre associe une nouvelle salle qu'il faut savoir lire au coût de la lire. Livre 1 : L'Épouse Silencieuse. Livre 2 : [À déterminer — la prochaine salle attend déjà.]
+
+Comp Titles: Gone Girl (Flynn), The Silent Patient (Michaelides), The Housemaid (McFadden)
+
+================================================
+FORMAT 1: eBook (Kindle)
+================================================
+Format: Kindle eBook
+File: .mobi / .epub / .kpf (upload KDP)  -> LEpouseSilencieuse.epub
+ISBN: ISBN gratuit attribué par KDP (ou le vôtre)
+DRM: Activé (recommandé)
+Price Tier: 2,99 € - 4,99 € (optimal pour un thriller de 50k mots)
+KDP Select: Inscrire (recommandé pour le lancement - exclusivité 90 jours)
+Territories: Tous les territoires / mondiaux (ou restreindre aux marchés francophones)
+
+================================================
+FORMAT 2: Paperback
+================================================
+Format: Paperback (Broché)
+File: L_Epouse_Silencieuse_interior.pdf + paperback_cover.pdf
+Trim Size: 5,5" x 8,5" (standard thriller) ou 6" x 9"
+Page Count: ~200-220 (est. pour 50k mots à ~230-250 m/p)
+Paper Color: Cream (Crème - recommandé pour la fiction)
+Cover Finish: Matte
+ISBN: Doit être différent de l'eBook (KDP en fournit un gratuit)
+Bleed: Sans fond perdu (sauf si la couverture l'exige)
+Price: 12,99 € - 15,99 € (coût + redevance ; impression à la demande)
+
+================================================
+FORMAT 3: Hardcover
+================================================
+Format: Hardcover (Relié)
+Trim Size: 5,5" x 8,5" ou 6" x 9"
+Page Count: ~200-220
+Paper Color: Cream
+Cover Finish: Matte avec jaquette (ou étui imprimé sans jaquette)
+ISBN: Doit être différent de l'eBook et du paperback
+Price: 22,99 € - 27,99 €
+Dust Jacket: Recommandée (KDP la prend en charge pour le relié)
+
+================================================
+NOTES
+================================================
+- 3 ISBN requis - un par format. KDP les attribue gratuitement au moment de l'upload.
+- Fichiers de couverture séparés par format :
+  - eBook : 2560x1600 px minimum
+  - Paperback/Hardcover : calculés selon format + nb de pages + fond perdu
+- Potentiel de série noté 9/10 dans le fichier ratings - envisager d'ajouter « Livre 1 de la série Elena Vance » sur la couverture et dans le champ sous-titre.
+- Positionné face à Gone Girl, The Silent Patient, The Housemaid dans le fichier ratings.
+- IMPORTANT : la couverture, le manuscrit, l'epub (LEpouseSilencieuse.epub) et le PDF intérieur (L_Epouse_Silencieuse_interior.pdf) portent tous « L'Épouse Silencieuse » (synchronisés). Titre anglais original : The Quiet Wife.
+- ATTENTION RÉSOLUTION : la couverture source (« Fench paperback image.png », 1449×1085) est en basse résolution. Les fichiers Kindle cover et paperback_cover ont été mis à l'échelle (rendu adouci). Pour une qualité d'impression optimale, fournir une source haute résolution (≥ 1600 px de large pour le recto, ≥ 300 DPI pour le dos complet).
+- Traduction : vérifier la cohérence des noms propres (Elena Vance, Martin Hale) et des lieux (Park Avenue, West 44th) avec le marché cible.
+- Marchés francophones prioritaires : France, Belgique, Suisse, Canada (Québec), DOM-TOM.

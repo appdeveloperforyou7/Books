@@ -1,0 +1,84 @@
+KDP PUBLISH FORM DETAILS — LA ESPOSA SILENCIOSA
+===============================================
+
+Book: La Esposa Silenciosa (The Quiet Wife)
+Series: La serie de Elena Vance, Libro 1
+Author: Kapil Gupta
+Language: Español (Spanish)
+Publication Date: [Fecha de hoy o programada]
+Publisher: [Su sello o autopublicado]
+Edition: 1
+Content Type: Ficción / Thriller psicológico / Suspense doméstico
+Word Count: ~50.000 (traducido)
+Pages (est.): ~200-220
+
+Categories:
+- Thriller y suspense / Thrillers psicológicos
+- Thriller y suspense / Thrillers domésticos
+- Ficción / Ficción femenina
+
+Keywords (7):
+1. entrenadora de ejecutivos
+2. thriller psicológico
+3. suspense doméstico
+4. narrador poco fiable
+5. secretos de matrimonio
+6. capitalismo de vigilancia
+7. Gone Girl
+
+Description (HTML-ready):
+Elena Vance lee a la gente para vivir — la inclinación de un hombro, el peso de un silencio, la pausa de medio segundo entre sentir algo y hacer algo. Durante quince años ha enseñado a hombres poderosos a controlar esa pausa. Nunca dejó de verlo venir. Hasta que su marido empieza a escabullirse de ella en pequeñas formas cotidianas. Y la nota falsa que archiva un martes por la tarde — una jugada de tierras en el Oeste 44, papeleo «ya listo antes de empezar» — la arrastra a un mundo donde la persona más inteligente en la sala es la que lleva observando desde el principio. La Esposa Silenciosa es la primera novela de la serie de Elena Vance. Está dirigida a lectores y lectoras que amaron la tensión doméstica de Gone Girl, la innovación estructural de The Silent Patient y el ritmo de The Housemaid — y que quieren una protagonista cuya mayor fortaleza sea precisamente lo que la ciega.
+
+Series Description (for KDP series field):
+La serie de Elena Vance sigue a la entrenadora de ejecutivos Elena Vance, cuyo don para leer a la gente — las microexpresiones, los silencios, la pausa de medio segundo antes de una mentira — la convierte en una improbable investigadora de la delincuencia de cuello blanco. Cada libro empareja una nueva sala que necesita ser leída con el costo de leerla. Libro 1: La Esposa Silenciosa. Libro 2: [Por determinar — la próxima sala ya está esperando.]
+
+Comp Titles: Gone Girl (Flynn), The Silent Patient (Michaelides), The Housemaid (McFadden)
+
+===============================================
+FORMAT 1: eBook (Kindle)
+===============================================
+Format: Kindle eBook
+File: .mobi / .epub / .kpf (carga a KDP)  -> LaEsposaSilenciosa.epub
+ISBN: ISBN gratuito asignado por KDP (o el suyo propio)
+DRM: Activado (recomendado)
+Price Tier: 2,99 € - 4,99 € / USD 2,99-4,99 (óptimo para un thriller de 50k palabras)
+KDP Select: Inscribir (recomendado para el lanzamiento - exclusividad de 90 días)
+Territories: Todos los territorios / mundial (o restringir a mercados hispanohablantes)
+
+===============================================
+FORMAT 2: Paperback
+===============================================
+Format: Paperback (Tapa blanda / Rústica)
+File: La_Esposa_Silenciosa_interior.pdf + paperback_cover.pdf
+Trim Size: 5,5" x 8,5" (thriller estándar) o 6" x 9"
+Page Count: ~200-220 (est. para 50k palabras a ~230-250 p/p)
+Paper Color: Cream (Crema - recomendado para ficción)
+Cover Finish: Mate
+ISBN: Debe ser distinto del eBook (KDP proporciona uno gratuito)
+Bleed: Sin sangrado (a menos que la portada lo requiera)
+Price: 12,99 € - 15,99 € / USD 12,99-15,99 (coste + regalía; impresión bajo demanda)
+
+===============================================
+FORMAT 3: Hardcover
+===============================================
+Format: Hardcover (Tapa dura)
+Trim Size: 5,5" x 8,5" o 6" x 9"
+Page Count: ~200-220
+Paper Color: Cream
+Cover Finish: Mate con sobrecubierta (o caja impresa sin sobrecubierta)
+ISBN: Debe ser distinto del eBook y del paperback
+Price: 22,99 € - 27,99 € / USD 22,99-27,99
+Dust Jacket: Recomendada (KDP la admite para tapa dura)
+
+===============================================
+NOTES
+===============================================
+- Se requieren 3 ISBN - uno por formato. KDP los asigna gratis al cargar.
+- Archivos de portada separados por formato:
+  - eBook: 2560x1600 px mínimo
+  - Paperback/Hardcover: calculados a partir de formato + nº de páginas + sangrado
+- Potencial de serie valorado 9/10 en el archivo ratings - considere añadir «Libro 1 de la serie de Elena Vance» en la portada y en el campo de subtítulo.
+- Posicionado frente a Gone Girl, The Silent Patient, The Housemaid en el archivo ratings.
+- Traducción: verificar la coherencia de nombres propios (Elena Vance, Martin Hale) y lugares (Park Avenue, West 44th) con el mercado objetivo.
+- Mercados hispanohablantes prioritarios: España, México, Argentina, Colombia, EE.UU. (mercado hispano), Chile, Perú.
+- Nota de localización: ajustar vosotros/ustedes y vocabulario regional al mercado principal elegido (España vs. Hispanoamérica).

@@ -1,0 +1,120 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='UTF-8'><title>ch9 part</title><style>
+@page { size: 8in 10in; margin: 0.78in 0.8in 0.82in 0.82in; }
+*{ box-sizing:border-box; }
+:root{
+  --accent:#C77A1A; --accent-tint:#FBF1E0; --accent-tint2:#F0DEB8;
+  --ink:#1c1b2b; --paper:#FAF6EC;
+  --plum:#8C3A55; --plum-tint:#F3E7EB;
+  --slate:#335A8C; --slate-tint:#E9EFF7;
+  --warn:#A84E29; --warn-tint:#FBEEE3;
+  --rule:#DBCBA6; --muted:#5b5040;
+}
+html,body{ margin:0; padding:0; background:var(--paper); color:var(--ink); }
+body{ font-family:'Noto Serif','Source Serif 4',Georgia,serif; font-size:10.5pt; line-height:1.48; }
+p{ margin:0 0 8pt 0; text-align:justify; text-indent:13pt; hyphens:auto; }
+p.lead,p.noind,.box p,.verse+p,li p,.cv p{ text-indent:0; }
+p.lead{ font-size:11.5pt; line-height:1.5; margin-bottom:10pt; }
+em{ color:#4a3f6b; } b,strong{ font-weight:700; }
+
+/* === LEVEL 1: macro section === */
+.sec{ display:flex; align-items:center; gap:10pt; border-bottom:1.4pt solid var(--accent);
+  padding-bottom:6pt; margin:20pt 0 11pt 0; break-after:avoid; }
+.sec .secn{ font-family:'Inter',sans-serif; font-size:11pt; font-weight:700; color:#fff;
+  background:var(--accent); border-radius:50%; width:18pt; height:18pt; display:inline-flex;
+  align-items:center; justify-content:center; flex:0 0 18pt; line-height:1; }
+.sec .sect{ font-family:'Source Serif 4',serif; font-size:15.5pt; font-weight:700; color:var(--ink); letter-spacing:.01em; }
+h2.sec2{ font-family:'Source Serif 4',serif; font-size:16pt; font-weight:700; margin:2pt 0 9pt 0; }
+/* === LEVEL 2: group divider === */
+.grp{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:600; letter-spacing:.16em;
+  text-transform:uppercase; color:#9a8a5e; text-align:center; margin:16pt 0 8pt 0;
+  display:flex; align-items:center; gap:8pt; break-after:avoid; }
+.grp::before,.grp::after{ content:""; flex:1; border-top:.6pt solid var(--rule); }
+
+/* === layers legend === */
+.legend{ background:#F4ECDB; border:0.7pt solid #E0CFA4; border-radius:4pt; padding:10pt 13pt; margin:6pt 0 12pt 0; break-inside:avoid; }
+.legend .lh{ font-family:'Inter',sans-serif; font-size:7.5pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; color:#8a7a4e; margin-bottom:5pt; }
+.legend p{ font-size:9pt; line-height:1.4; text-align:left; text-indent:0; margin-bottom:4pt; }
+.legend .lt{ display:inline-flex; align-items:center; gap:4pt; font-weight:600; }
+
+/* === LEVEL 3: deep-dive unit (grouped block) === */
+.vunit{ background:#F7F0E0; border:0.7pt solid #E4D4AC; border-radius:5pt; padding:9pt 14pt 7pt; margin:8pt 0 10pt 0; }
+.vh{ display:flex; align-items:center; gap:8pt; margin:0 0 6pt 0; break-after:avoid; }
+.vh .badge{ font-family:'Inter',sans-serif; font-size:9pt; font-weight:700; color:#fff;
+  background:var(--accent); padding:2pt 9pt; border-radius:9pt; letter-spacing:.04em; }
+.vh .vht{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--accent); }
+.vcore{ break-inside:avoid; }
+.vbody{ margin:3pt 0 4pt 18pt; padding-left:0; }
+.vbody p{ font-size:9.6pt; text-align:left; }
+.ln2{ display:flex; align-items:center; gap:5pt; margin:8pt 0 1pt 0; break-after:avoid; }
+.labx{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--muted); }
+.verse{ background:var(--accent-tint); border-radius:3pt;
+  padding:11pt 16pt 9pt 16pt; margin:4pt 0 9pt 0; break-inside:avoid; }
+.verse .dev{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:14.5pt; line-height:1.75;
+  text-align:center; font-weight:600; color:#241f2e; margin:0 0 4pt 0; }
+.verse .iast{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:9.5pt;
+  text-align:center; color:#6a5526; margin:0 0 5pt 0; line-height:1.4; }
+.verse .vno{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.14em; text-align:center; color:var(--accent); }
+/* tiny circular line-tags: P pronunciation, L literal, M meaning, C commentary */
+.tl{ display:inline-flex; align-items:center; justify-content:center; width:11pt; height:11pt; border-radius:50%;
+  font-family:'Inter',sans-serif; font-size:6.5pt; font-weight:700; color:#fff; flex:0 0 11pt; line-height:1; }
+.tl.p{ background:#9a8a5e; } .tl.l{ background:var(--slate); } .tl.m{ background:var(--accent); } .tl.c{ background:var(--plum); }
+/* === LEVEL 4: compact verse === */
+.cv{ display:flex; gap:9pt; margin:5pt 0; padding:6pt 0 6pt 0; border-bottom:.4pt dotted var(--rule); break-inside:avoid; }
+.cv .cvn{ font-family:'Inter',sans-serif; font-size:8pt; font-weight:700; color:var(--accent); flex:0 0 26pt; padding-top:1pt; letter-spacing:.04em;}
+.cv .cvt{ flex:1; }
+.cv .devc{ font-family:'Noto Serif Devanagari','Noto Sans Devanagari',serif; font-size:11pt; line-height:1.55; color:#2a2433; margin-bottom:3pt; }
+.cv .ln{ display:flex; align-items:baseline; gap:5pt; margin:1.5pt 0; }
+.cv .tx{ flex:1; }
+.cv .iastc{ font-family:'Noto Serif','Source Serif 4',serif; font-style:italic; font-size:8pt; color:#6a5526; }
+.cv .litc{ font-size:8.6pt; color:#3a3340; line-height:1.32; }
+.cv .meanc{ font-size:8.6pt; color:#5a4a2a; line-height:1.32; font-style:italic; }
+/* === callout boxes (no bars; fill only) === */
+.box{ border-radius:3pt; padding:9pt 12pt; margin:8pt 0; break-inside:avoid; }
+.box p{ font-size:9.6pt; line-height:1.4; text-align:left; }
+.box .h{ font-family:'Inter',sans-serif; font-size:7pt; font-weight:700; letter-spacing:.16em; text-transform:uppercase; margin-bottom:3pt; }
+.box .h::before{ content:""; display:inline-block; width:5pt; height:5pt; margin-right:6pt; vertical-align:1pt; }
+.bridge{ background:#FFF6E4; } .bridge .h{ color:#A9791A; } .bridge .h::before{ background:#A9791A; }
+.sadhana{ background:var(--plum-tint); } .sadhana .h{ color:var(--plum); } .sadhana .h::before{ background:var(--plum); }
+.adept{ background:var(--slate-tint); } .adept .h{ color:var(--slate); } .adept .h::before{ background:var(--slate); }
+.warn{ background:var(--warn-tint); } .warn .h{ color:var(--warn); } .warn .h::before{ background:var(--warn); }
+.bigpic li{ margin-bottom:9pt; line-height:1.44; } .bigpic li b.lead-saff{ color:var(--accent); }
+.takeaway{ background:var(--accent-tint); border:1.4pt solid var(--accent); border-radius:4pt; padding:13pt 17pt; margin-top:5pt; break-inside:avoid; }
+.takeaway ol{ margin:6pt 0 0 0; padding-left:17pt; } .takeaway li{ margin-bottom:6pt; } .takeaway .close{ font-style:italic; margin-top:6pt; }
+.path-note{ font-family:'Inter',sans-serif; font-size:8pt; color:#7a6b48; font-style:italic; margin-top:12pt; border-top:.6pt solid var(--rule); padding-top:6pt; }
+</style></head><body><div class="vunit">
+<div class="vh"><span class="badge">9.22</span><span class="vht">THE PROMISE</span></div>
+<div class="vcore"><div class="verse"><div class="dev">अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।<br>तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥</div><div class="iast">ananyāś cintayanto māṃ ye janāḥ paryupāsate / teṣāṃ nityābhiyuktānāṃ yoga-kṣemaṃ vahāmy aham</div><div class="vno">GĪTĀ 9.22</div></div></div>
+<div class="vbody">
+<div class="ln2"><span class="tl l">L</span><span class="labx">Literal</span></div><p>Those who, thinking of nothing else, ever-worship Me with undivided devotion — to those ever-united ones I Myself carry their yoga-kṣema.</p>
+<div class="ln2"><span class="tl m">M</span><span class="labx">In plain English</span></div><p>If you keep your mind on Me — not as one thing among many, but as the centre — then your needs become My responsibility. I carry what you have not yet acquired (<em>yoga</em>) and I protect what you already hold (<em>kṣema</em>).</p>
+<div class="ln2"><span class="tl c">C</span><span class="labx">Commentary</span></div><p>Notice what it does <em>not</em> say. It does not promise wealth, success, or comfort. It promises that <em>the One behind the universe personally undertakes your welfare.</em> The condition is precise: <em>ananyāḥ</em> — “without another.” Not that you must think of God every second, but that he is your <em>refuge</em>, the fixed star by which you navigate. To such a one, the cosmic Lord becomes a porter.</p>
+<div class="box bridge"><div class="h">For the new reader</div><p>Every parent knows this promise from the other side. A small child does not earn its food or fear the rent; it simply trusts the one who carries it. Chapter 9 says the universe is built on that same trust — and God is the one carrying.</p></div>
+<div class="box sadhana"><div class="h">Try this — the handover practice</div><p>Once a day — at a moment of genuine anxiety — deliberately hand one worry over. Say inwardly: “This is now Yours.” The verse is not a theory to believe; it is an experiment to run. Run it for thirty days and watch what changes — not in the world, but in you.</p></div>
+<div class="box warn"><div class="h">A common misreading</div><p>This is <b>not</b> a prosperity teaching. Krishna is not a cosmic ATM. <em>Yoga-kṣema</em> means your <em>true</em> welfare — which may include hardship that saves you, and loss that frees you. To read it as “devotion gets you riches” is to make the Gītā small.</p></div>
+</div></div>
+<div class="grp">9.23 – 9.25 · Every sincere prayer reaches the One</div>
+<div class="cv"><div class="cvn">9.23</div><div class="cvt"><div class="devc">येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः ।<br>तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">ye'py anya-devatā-bhaktā yajante śraddhayānvitāḥ / te'pi mām eva kaunteya yajanty avidhi-pūrvakam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Even devotees of other gods worship with faith — they too worship Me, Kaunteya, though by an indirect path.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Sincerity, not the correct name, is what reaches the Divine — even worship of 'other gods' comes to him.</span></div></div></div>
+<div class="cv"><div class="cvn">9.24</div><div class="cvt"><div class="devc">अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।<br>न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">ahaṃ hi sarva-yajñānāṃ bhoktā ca prabhur eva ca / na tu mām abhijānanti tattvenātas cyavanti te</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">I alone am the enjoyer and Lord of every sacrifice; not knowing Me in truth, they fall.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">He alone receives every offering made anywhere; to miss this truth is to fall short.</span></div></div></div>
+<div class="cv"><div class="cvn">9.25</div><div class="cvt"><div class="devc">यान्ति देवव्रता देवान् पितॄन्यान्ति पितृव्रताः ।<br>भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">yānti deva-vratā devān pitṝn yānti pitṛ-vratāḥ / bhūtāni yānti bhūtejyā yānti mad-yājino'pi mām</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Worshippers of the gods go to the gods; of the ancestors, to the ancestors; of the spirits, to the spirits — but My worshippers come to Me.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">You reach what you worship — the gods, the ancestors, the spirits — but his devotee reaches him alone.</span></div></div></div>
+<div class="vunit">
+<div class="vh"><span class="badge">9.26</span><span class="vht">The smallest offering</span></div>
+<div class="vcore"><div class="verse"><div class="dev">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।<br>तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥</div><div class="iast">patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati / tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ</div><div class="vno">GĪTĀ 9.26</div></div></div>
+<div class="vbody">
+<div class="ln2"><span class="tl l">L</span><span class="labx">Literal</span></div><p>Whoever offers Me a leaf, a flower, a fruit, or water with devotion — that devoted offering, from a pure-hearted one, I accept.</p>
+<div class="ln2"><span class="tl m">M</span><span class="labx">In plain English</span></div><p>You do not need a temple, a priest, or a fortune. A single leaf, offered with love, is enough. God is not impressed by the size of the gift but by the size of the heart behind it.</p>
+<div class="ln2"><span class="tl c">C</span><span class="labx">Commentary</span></div><p>This verse democratized Indian spirituality forever. After 9.26, no one is too poor to worship. The emphasis falls entirely on <em>bhakti</em> (devotion) and <em>prayatātman</em> (a pure, concentrated heart). The leaf and the water are metaphors for <em>anything offered wholeheartedly</em> — your work, your attention, your forgiveness of someone who hurt you.</p>
+<div class="box bridge"><div class="h">For the new reader</div><p>A child’s crayon drawing, given with love, is treasured by a parent more than a gallery masterpiece bought by a stranger. The economy of love runs on a different currency than the economy of things.</p></div>
+<div class="box sadhana"><div class="h">Try this — the leaf practice</div><p>Offer one small thing today <em>as if to God</em> — a cup of tea, a few quiet breaths, an act of kindness done in secret. Not for reward; simply given. Do this and you are already performing the central ritual of Chapter 9.</p></div>
+</div></div>
+<div class="grp">9.27 – 9.28 · Offer every act, and be free</div>
+<div class="cv"><div class="cvn">9.27</div><div class="cvt"><div class="devc">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।<br>यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">yat karoṣi yad aśnāsi yaj juhoṣi dadāsi yat / yat tapasyasi kaunteya tat kuruṣva mad-arpaṇam</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Whatever you do, eat, offer, or give, and whatever austerity you practise — do it as an offering to Me.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Make your whole life an offering: every act, meal, gift, and discipline, given to him.</span></div></div></div>
+<div class="cv"><div class="cvn">9.28</div><div class="cvt"><div class="devc">शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः ।<br>संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥</div><div class="ln"><span class="tl p">P</span><span class="tx iastc">śubhāśubha-phalair evaṃ mokṣyase karma-bandhanaiḥ / saṃnyāsa-yoga-yuktātmā vimukto mām upaiṣyasi</span></div><div class="ln"><span class="tl l">L</span><span class="tx litc">Thus you shall be freed from the bondage of good and bad fruits; united by the yoga of renunciation, liberated, you attain Me.</span></div><div class="ln"><span class="tl m">M</span><span class="tx meanc">Offered thus, action no longer binds; the detached doer is freed and reaches the Divine.</span></div></div></div>
+<div class="vunit">
+<div class="vh"><span class="badge">9.29</span><span class="vht">The equality of God</span></div>
+<div class="vcore"><div class="verse"><div class="dev">समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।<br>ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥</div><div class="iast">samo'haṃ sarva-bhūteṣu na me dveṣyo'sti na priyaḥ / ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham</div><div class="vno">GĪTĀ 9.29</div></div></div>
+<div class="vbody">
+<div class="ln2"><span class="tl m">M</span><span class="labx">In plain English</span></div><p>God plays no favourites. He does not love the saint more than the sinner, the priest more than the outcast. But those who <em>turn</em> toward him in love enter a different relationship: they abide in him, and he in them.</p>
+<div class="box warn"><div class="h">A common misreading</div><p>“None hateful, none dear” is <b>not</b> indifference. It means God’s care is not rationed by rank, birth, or virtue — which is precisely what makes the devotion of the next two verses so radical.</p></div>
+</div></div></body></html>

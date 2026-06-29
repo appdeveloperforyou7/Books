@@ -1,0 +1,294 @@
+# Image Prompts for "The Bhagavad Gita Made Clear"
+
+> *Art direction: modern, premium, calm — NOT kitschy, NOT cartoonish, NOT literal-realist religious art.
+> Think: editorial fine-line illustration meets Penguin Classics deluxe meets DK reference. Subtle colour,
+> generous white space, sacred but contemporary. The aesthetic of the book is "calm · layered · living."*
+
+---
+
+## 1. MAP — Ancient India at the Time of the Mahābhārata
+
+**Purpose:** Front-matter spread (2 pages) showing the geographical context of the Gita.
+
+**Prompt:**
+> A double-page-spread antique-style map of North-West India at the time of the Mahābhārata
+> (approximately 1000 BCE), rendered in a modern editorial illustration style. The map should feel
+> like a premium book illustration — not a tourist map, not a school textbook. Hand-drawn quality
+> with fine ink lines on a warm cream background (matching #FAF6EC). Key locations marked with
+> elegant small icons (not generic pins): Kurukshetra (the battlefield, marked with crossed swords
+> or a chariot wheel), Hastināpura (the Kuru capital, marked with a palace silhouette),
+> Indraprastha (the Pāṇḍava capital), Dvārakā (Krishna's city on the western coast, marked with
+> a peacock feather), the Sarasvatī river (dried/fading), the Gaṅgā (Yamunā rivers prominent).
+> The map should include the Kuru kingdom territory shaded subtly in saffron (#C77A1A at 8%
+> opacity). A small compass rose. Labels in a clean serif font (like Source Serif). No modern borders,
+> no modern cities. The overall mood: scholarly, beautiful, slightly aged but crisp — like a
+> hand-coloured engraving from a 1940s limited-edition book. Dimensions: 16 inches wide × 10 inches
+> tall (double-page spread at 8×10 trim). Resolution: 300+ DPI. Colour: warm cream, saffron accents,
+> slate-blue rivers, dark brown ink lines. No people, no decorative borders, no Sanskrit script
+> (English labels only). Leave a 0.5-inch margin around all edges for bleed.
+
+---
+
+## 2. CAST OF CHARACTERS — Illustrated Portrait Cards
+
+**Purpose:** A visual "who's who" spread in the front matter. Each character gets a small
+illustrated portrait card with their name, role, and one-line description.
+
+### 2a. Krishna
+> A small portrait illustration of Krishna as charioteer — not the blue-skinned deity of calendar
+> art, but a dignified, serene young man in a simple charioteer's dhoti, holding the reins loosely,
+> a subtle smile on his face. His skin tone is a deep warm brown (not literal blue). He wears a
+> peacock feather tucked in his hair — the only explicitly divine attribute. The style: fine-line
+> ink illustration with minimal watercolour wash, warm saffron and cream tones, on a cream
+> background (#FAF6EC). The mood: calm authority, approachable wisdom. No jewellery, no discus,
+> no multiple arms. Just a man who happens to be God, driving a chariot. Portrait format: 3 inches
+> wide × 4 inches tall. 300 DPI.
+
+### 2b. Arjuna
+> A portrait illustration of Arjuna — a strong, handsome warrior in light armour, holding the
+> Gāṇḍīva bow lowered at his side, his face showing the strain of moral anguish (not
+> battlefield rage, but the grief of conscience). His eyes are downcast, not fierce. A quiver on
+> his back. Fine-line ink with minimal wash, slate-blue and cream tones. The mood: noble sorrow, a
+> good man at his breaking point. Portrait format: 3×4 inches. 300 DPI.
+
+### 2c. Bhīṣma
+> A portrait illustration of the grandsire Bhīṣma — an elderly, white-bearded warrior of immense
+> stature, standing with a massive bow, wearing minimal armour over white robes. His expression is
+> resolved but sorrowful — he fights for the wrong side out of oath-bound loyalty. White-haired,
+> dignified, tragic. Fine-line ink, warm grey and cream tones. Portrait: 3×4. 300 DPI.
+
+### 2d. Droṇa
+> A portrait illustration of Droṇa, the martial guru — a middle-aged brahmin with a topknot,
+> wearing simple priestly garments over armour, holding a bow with scholarly precision. His face is
+> stern but kind — a teacher who must fight his own students. Fine-line ink, sage-green and cream.
+> Portrait: 3×4. 300 DPI.
+
+### 2e. Karṇa
+> A portrait illustration of Karṇa — a proud, golden-armoured warrior with a radiant earring
+> (his birth-gift from the sun god), standing alone, chin raised. His expression: defiant dignity
+> masking deep insecurity about his unknown birth. Golden-amber and cream tones. Fine-line ink.
+> Portrait: 3×4. 300 DPI.
+
+### 2f. Duryodhana
+> A portrait illustration of Duryodhana — a broad, powerfully built prince in royal regalia, his
+> expression set in stubborn pride with a flicker of fear behind the eyes. Crowned, jewelled, but
+> with a subtle asymmetry suggesting inner disorder. Dark maroon and cream tones. Fine-line ink.
+> Portrait: 3×4. 300 DPI.
+
+---
+
+## 3. THE AŚVATTHA TREE — Chapter 15 Diagram
+
+**Purpose:** A full-page diagram illustrating the cosmic saṃsāra tree (15.1–3) being felled.
+
+**Prompt:**
+> A full-page illustration (8×10 inches) of the Aśvattha (banyan/peepul) tree described in
+> Bhagavad Gita 15.1–3: an immense, ancient banyan tree with roots reaching upward (into a subtle
+> cosmic sky) and branches growing downward (into the world). The tree is rendered in fine-line ink
+> with the roots above drawn in light, ethereal lines suggesting the divine origin, and the
+> branches below rendered in denser, more material lines suggesting worldly entanglement. The
+> leaves of the tree are inscribed with tiny abstract marks suggesting Vedic hymns (not legible
+> text, just texture). At the base of the trunk, a luminous axe of detachment (a simple, glowing
+> line of warm saffron light) is beginning to cut through the roots. The overall palette: cream
+> background, brown ink for the tree, saffron glow for the axe, slate-blue suggestion of sky above.
+> The mood: ancient, vast, slightly ominous but hopeful (the cutting has begun). Style: think
+> Gustave Doré meets modern editorial illustration — detailed, atmospheric, sacred but not
+> sentimental. No human figures. No text labels (the book's text will provide captions). 300 DPI.
+
+---
+
+## 4. THE GUṆA WHEEL — Chapter 14 Diagram
+
+**Purpose:** A diagram showing the three guṇas (sattva/rajas/tamas) and how they interact.
+
+**Prompt:**
+> A circular diagram (8×8 inches, centered on an 8×10 page) illustrating the three guṇas of Sāṃkhya
+> philosophy. The wheel is divided into three equal sectors: Sattva (top, rendered in warm gold/
+> saffron with a subtle radiating light — "purity, clarity, luminosity"), Rajas (right, in warm
+> rust/orange with dynamic angular lines suggesting motion and restlessness — "passion, activity"),
+> Tamas (left, in cool grey-blue with heavy, dense texture — "inertia, darkness"). At the centre of
+> the wheel: a small, still, uncoloured circle — the Self (puruṣa), beyond the guṇas. Around the
+> outer rim: a thin saffron ring suggesting the path of transcendence (guṇātīta). The style:
+> modern, geometric, minimal — think Bauhaus-inspired sacred geometry, not a traditional yantra.
+> Fine ink lines, flat colour fills, cream background. No Sanskrit text. No human figures. The
+> mood: analytical, clear, balanced — a teaching diagram that is also beautiful. 300 DPI.
+
+---
+
+## 5. THE COSMIC FORM (Viśvarūpa) — Chapter 11
+
+**Purpose:** A full-page atmospheric illustration evoking the terrifying beauty of the cosmic
+revelation.
+
+**Prompt:**
+> A full-page (8×10 inches) abstract/semi-abstract illustration evoking the Viśvarūpa — the cosmic
+> form of Krishna revealed in Bhagavad Gita Chapter 11. NOT a literal depiction of many mouths and
+> eyes (that becomes horror-movie kitsch). Instead: a vast, swirling composition suggesting infinity
+> — galaxies, stars, cosmic fire, and within the fire, the faint suggestion of countless faces and
+> eyes dissolving into light. The centre of the image is a blinding white-gold radiance (like a
+> thousand suns) that fades at the edges into deep indigo and black. Tiny silhouettes of warriors
+> appear at the edges of the radiance, being drawn inward "like moths into a blazing fire." The
+> colour palette: white-gold centre, saffron-amber inner ring, deep indigo-blue outer ring, black
+> edges. The mood: sublime terror and awe — beautiful and frightening simultaneously. Style: think
+> the cosmic art of Chesley Bonestell crossed with the spiritual abstraction of Mark Rothko — vast,
+> luminous, overwhelming but not literal. No clear human form at the centre (the form is beyond
+> form). 300 DPI.
+
+---
+
+## 6. THE CHARIOT — Chapter 1 Opening / How to Read a Battlefield
+
+**Purpose:** A half-page or full-page illustration of the iconic moment: Krishna driving the
+chariot between the two armies, with Arjuna standing behind him, bow lowered.
+
+**Prompt:**
+> A full-page (8×10 inches) illustration of the moment described in Gita 1.24–25: the divine
+> charioteer Krishna has placed the chariot between the two armies. Krishna stands at the reins
+> (calm, slight smile, warm brown skin, simple dhoti, peacock feather in hair). Behind him, Arjuna
+> stands with the Gāṇḍīva bow lowered, his face showing dawning horror at what he sees. The
+> chariot is simple and elegant — not ornate, not a war-machine. A white horse team (four horses).
+> On either side of the chariot, receding into atmospheric distance: the two armies — ranks of
+> soldiers, chariots, banners — suggested as silhouettes in a dusty, golden haze (not detailed —
+> the focus is on the chariot and its two occupants). The sky is a vast, pale gold (dawn at
+> Kurukshetra). The mood: the hinge of history — calm driver, anguished warrior, the armies waiting.
+> Style: fine-line ink with watercolour wash, warm earth tones, cream background haze. Think: a
+> quieter, more intimate version of the chariot scene — not an action shot but a portrait of two
+> people in a moment of crisis. 300 DPI.
+
+---
+
+## 7. THE TWO PATHS OF DEATH — Chapter 8 Diagram
+
+**Purpose:** A diagram showing the devayāna (bright path) and pitṛyāṇa (dark path) of 8.24–26.
+
+**Prompt:**
+> A vertical diagram (5×8 inches, centered on the page) showing two paths after death, as described
+> in Gita 8.24–26. Left path (the bright path, devayāna): a luminous upward arrow in warm gold/
+> saffron, passing through symbols of light (fire, sun, daytime, the bright fortnight, the northern
+> course of the sun) and arriving at a small radiant symbol at the top — liberation (no return).
+> Right path (the dark path, pitṛyāṇa): a muted downward-curving arrow in cool grey-blue, passing
+> through symbols of dimness (smoke, night, the dark fortnight, the southern course) and curving
+> back downward — returning to rebirth (a small circle suggesting cyclical return). Between the two
+> paths, at the bottom: a human figure (silhouette) at the moment of death, facing the fork. The
+> style: clean, modern, diagrammatic — like a premium infographic. Fine ink lines, flat colour
+> fills, cream background. Minimal text (the book provides captions). The mood: clear, educational,
+> slightly mysterious. 300 DPI.
+
+---
+
+## 8. THE FIELD AND THE KNOWER — Chapter 13 Diagram
+
+**Purpose:** A diagram illustrating the kṣetra (field) / kṣetrajña (knower) distinction.
+
+**Prompt:**
+> A conceptual diagram (8×8 inches centered on page) illustrating the relationship between the
+> field (kṣetra = body/mind/world) and the knower of the field (kṣetrajña = the Self). The image
+> shows a human silhouette (facing away from the viewer) looking out onto a vast "field" — rendered
+> as a subtle landscape of gentle hills, a river, trees, a sky — but the landscape is contained
+> within the silhouette's outline, as if the field is WITHIN the person, not outside. At the
+> centre of the silhouette's head: a small, still point of warm light — the knower (the witness
+> Self). The message: the field is everything you experience (body, mind, world); the knower is the
+> quiet awareness that watches it all. The colour palette: warm earth tones for the field, warm
+> gold point-light for the knower, cream background. Style: conceptual, modern, slightly poetic —
+> not a literal anatomy diagram but a visual metaphor. Fine ink + watercolour. 300 DPI.
+
+---
+
+## 9. THE 18-STEP SĀDHANA PATH — Foldout
+
+**Purpose:** A detachable foldout (or tipped-in card) showing the 18-step graded practice path
+from the Sādhana layer.
+
+**Prompt:**
+> A tall vertical infographic (8×18 inches when folded out, or 8×10 as a tipped-in card) showing
+> 18 steps arranged as a winding path up a mountain. Each step is a small circular node (like
+> stepping stones) connected by a thin, continuous line. The path starts at the bottom left (Step
+> 1: "Name your Kurukshetra") and winds upward to the summit (Step 18: "The Final Surrender"). Each
+> node is numbered (1–18) and has a tiny icon suggesting the practice (e.g., Step 1: a small
+> battlefield; Step 9: a leaf being offered; Step 18: hands open in surrender). The path changes
+> colour as it ascends: green at the bottom (karma chapters), plum (dhyāna), slate-blue (jñāna),
+> saffron (bhakti), gold at the summit. The mountain is suggested very subtly — not a literal
+> landscape but a gentle gradient. The background: cream (#FAF6EC). Style: modern, minimal,
+> elegant — like a premium meditation-app infographic. Fine lines, flat colour, no clutter. 300
+> DPI.
+
+---
+
+## 10. CHAPTER DIVIDER ABSTRACT ART (per yoga colour)
+
+**Purpose:** Each chapter's full-bleed divider page (currently solid saffron/green/etc.) could
+feature a subtle, abstract texture or pattern instead of flat colour — adding premium production
+value.
+
+### 10a. Karma (green) — Chapters 1–5
+> A full-bleed (8×10 inch) abstract texture in sage green (#3E9C73) with subtle darker/lighter
+> variations suggesting growth, movement, organic energy — like looking through leaves at dappled
+> sunlight. No literal leaves — just the FEELING of growth and natural process. Very subtle,
+> meditative. The texture should be light enough that white text sits clearly on top. Style:
+> abstract, organic, minimal.
+
+### 10b. Dhyāna (plum) — Chapter 6
+> Full-bleed abstract texture in plum (#8C3A55) suggesting stillness and depth — like deep water
+> or the interior of a gem. Very subtle radial gradient from slightly lighter centre to darker
+> edges. No pattern — just depth. Meditative, quiet.
+
+### 10c. Jñāna (slate blue) — Chapters 7–8, 13–15
+> Full-bleed abstract texture in slate blue (#335A8C) suggesting clarity and vastness — like a
+> pre-dawn sky or the surface of still water. Very subtle horizontal striation suggesting layers of
+> understanding. Clean, clear, cool.
+
+### 10d. Bhakti (saffron) — Chapters 9–12, 17
+> Full-bleed abstract texture in saffron (#C77A1A) suggesting warmth and offering — like the glow
+> of a flame or the light at dawn. Very subtle radial warmth from centre. No literal fire — just
+> the FEELING of warmth and devotion.
+
+### 10e. Synthesis (gold) — Chapters 16, 18
+> Full-bleed abstract texture in deep gold (#A9791A) suggesting integration and luminosity — like
+> late afternoon sunlight on stone. Very subtle. Warm, final, resolved.
+
+---
+
+## 11. THE OCEAN MIND — Chapter 2 Illustration (2.70)
+
+**Purpose:** A half-page illustration for the famous ocean verse.
+
+**Prompt:**
+> A half-page (8×4 inches) illustration of a vast ocean seen from above — calm, deep,
+> ever-full. Streams and rivers flow into it from all sides (suggested as thin lines of light), but
+> the ocean's surface is completely still and unruffled. The ocean fills most of the frame; the
+> rivers are tiny by comparison. The colour: deep blue-green with warm gold highlights where rivers
+> enter. Cream background at the edges. The mood: vast, calm, receiving everything without being
+> moved. Style: aerial, minimal, almost abstract — a meditation on immensity. No boats, no shore,
+> no horizon — just the surface of the ocean, infinite. 300 DPI.
+
+---
+
+## 12. PRONUNCIATION/READING-PATH BOOKMARK CARD
+
+**Purpose:** A tipped-in or detachable reference card.
+
+**Prompt:**
+> A clean, minimal reference card design (6×8 inches portrait) for "The Bhagavad Gita Made Clear."
+> The card has four sections in a clean grid: (1) Pronunciation key — a small table showing IAST
+> characters (ā, ī, ū, ṛ, ṃ, ḥ, ṣ, ś, etc.) with simple English equivalents ("aa," "ee," "oo,"
+> "ri," "m (nasal)," "h (breathy)," etc.); (2) Tag key — four small coloured circles (P=olive,
+> L=slate, M=saffron, C=plum) with their meanings (Pronunciation, Literal, Meaning, Commentary);
+> (3) The four levels — four small icons (◯ Wayfarer, ◑ Student, ● Seeker, ✦ Adept) with one-line
+> descriptions; (4) "The Gita in 20 Verses" — a small numbered list of the 20 essential verse
+> references (2.13, 2.20, 2.22, 2.47, 3.35, 4.7, 6.5, 9.22, 9.26, 9.29, 9.34, 11.32, 11.54,
+> 12.13, 13.8, 14.26, 15.17, 18.47, 18.66, 18.78). The design: cream background (#FAF6EC), saffron
+> accent (#C77A1A), Noto Serif text, Inter labels. Clean, spacious, premium. The mood: a beautiful
+> object the reader will keep beside the book.
+
+---
+
+## Production notes for the illustrator/AI:
+- All images should be at 300+ DPI for print quality.
+- Colour profile: CMYK (for print) or sRGB (for digital preview).
+- Background colour must match the book's cream: #FAF6EC (warm off-white).
+- Avoid: stock-mandala patterns, cartoon gods, literal blue-skinned deities, Sanskrit script (the
+  book provides its own), overly busy compositions, any religious imagery that feels sectarian or
+  devotional-kitsch.
+- Target: editorial illustration quality — think The New Yorker meets Penguin Classics meets a
+  premium wellness publication. Calm, intelligent, beautiful, and respectful without being
+  literalist.

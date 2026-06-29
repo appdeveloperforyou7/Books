@@ -1,0 +1,194 @@
+================================================================================
+KDP PUBLISHING DETAILS — "THE DEVOTED" (Elena Vance Series, Book 2)
+================================================================================
+Fill-in reference for the Amazon KDP release form. Covers all 3 formats:
+  1) Kindle eBook
+  2) Paperback
+  3) Hardcover
+
+Generated from the book's working files. Values marked [CONFIRM] must be
+verified against your final interior and KDP's live cover calculator before
+publishing.
+================================================================================
+
+
+--------------------------------------------------------------------------------
+A. BOOK DETAILS  (shared by all 3 formats — enter once on the KDP form)
+--------------------------------------------------------------------------------
+
+Book Title (main):     The Devoted
+Subtitle:              (leave blank, or use: An Elena Vance Novel)
+                       [CONFIRM — series naming convention]
+Author:                Rishabh
+Additional Contributors: (none, or add cover designer if applicable)
+Language:              English
+Publication Date:      [CONFIRM — set when you publish; backdate only if prior
+                       edition existed]
+Publisher / Imprint:   [CONFIRM — leave blank (Amazon KDP) or enter your imprint]
+Series Name:           Elena Vance Series
+Volume Number:         2
+Edition Number:        1
+
+--- Description (back-cover blurb; use on all formats) ---
+A celebrated philanthropist dies of her own sleeping pills and is ruled a
+suicide. But when executive coach Elena Vance — a woman who reads people for a
+living — meets the dead woman's inner circle, she notices that no one's face
+matches the official story.
+
+Everyone heard Maren Ash's signature music playing at midnight. Everyone
+assumed she was awake. Everyone agrees she was sinking into despair.
+
+Everyone is wrong.
+
+To find the truth, Elena must prove a murder no one believes happened — hidden
+inside a roomful of women who all loved the dead woman. Her only instrument is
+her gift for reading people. And her one clue is the grief of a protégée whose
+sorrow is a little too perfect.
+
+Real grief is never correct.
+
+The Devoted is the second Elena Vance novel — a fair-play psychological
+detective story where the perfect murder is one no one knows is a crime.
+
+--- 7 Search Keywords (KDP max: 7) ---
+1. psychological thriller
+2. detective mystery
+3. whodunit mystery novel
+4. murder mystery women
+5. amateur sleuth mystery
+6. suspense novel series
+7. crime thriller books
+
+--- Categories (KDP browse paths) ---
+Primary:   Fiction > Mystery & Thrillers > Mystery
+Secondary: Fiction > Mystery & Thrillers > Thrillers > Psychological
+Optional:  Fiction > Mystery & Thrillers > Cozy (only if tone fits; [CONFIRM])
+
+--- Adult Content ---
+Contains adult content?    No
+Is the cover mature?       No
+
+--- Age & Grade (for children's/YA relevance only — this is an adult novel) ---
+Reading age:  [CONFIRM, e.g. 18+]   (not required for adult titles)
+Grade level:  [CONFIRM, e.g. Adult] (not required for adult titles)
+
+
+================================================================================
+B. FORMAT 1 — KINDLE eBOOK
+================================================================================
+
+Format:               Kindle eBook
+
+[Kindle eBook Content]
+Manuscript file:      TheDevoted.epub   (or converted .mobi/KPF)
+                      Path: Output\TheDevoted.epub
+                      [CONFIRM it passes KDP Previewer; reflow checked on phone]
+Cover image:          kindle_cover.jpg
+                      Path: Covers\kindle_cover.jpg
+                      Size: 1600 x 2560 px (1:1.6), RGB, < 50 MB
+
+[Kindle eBook Content — optional features]
+Page Flip:            Enabled   (default)
+DRM (Digital Rights): [CONFIRM — Your choice: "DRM" or "No DRM"
+                       (No DRM is generally recommended for indies)]
+Digital Rights:       You hold worldwide digital rights (confirm)
+
+[Kindle eBook Pricing]
+Marketplace currency: [CONFIRM, e.g. USD]
+Royalty plan:         70% (set list price within 70% band: $2.99–$9.99 USD)
+                      [CONFIRM price]
+List price (USD):     [CONFIRM, e.g. $4.99]
+Territories:          All territories (worldwide rights)  [CONFIRM]
+Kindle Unlimited:     [CONFIRM — opt in to KDP Select? royalty/KENP]
+
+
+================================================================================
+C. FORMAT 2 — PAPERBACK
+================================================================================
+
+Format:               Paperback
+
+[Paperback Content]
+ISBN:                 [CONFIRM — "Get a free KDP ISBN" OR use your own]
+                      (Free KDP ISBN: imprint shows "Independently published")
+Manuscript file:      The_Devoted_interior.pdf
+                      Path: Output\The_Devoted_interior.pdf
+                      Pages: 150   [CONFIRM — must match final interior exactly]
+Cover file:           paperback_cover.pdf
+                      Path: Covers\paperback_cover.pdf
+                      Size: 11.590" x 8.750" (150-page spine, 0.340")
+                      [CONFIRM against KDP Cover Calculator]
+
+[Print Options]
+Ink and Paper:        Black & White interior with cream paper   [CONFIRM]
+                      (or White paper)
+Trim Size:            5.5" x 8.5"   [CONFIRM]
+Bleed:                Bleed (PDF only)   [CONFIRM — interior has bleed elements?]
+                      If interior has NO full-bleed images: choose "No Bleed"
+Paperback Matte/Gloss Finish: [CONFIRM — Matte or Glossy]
+
+[Paperback Distribution]
+Distribution channels:  Expanded Distribution  [CONFIRM — opt in? Requires ISBN
+                        + account details for wholesale]
+List price (USD):       [CONFIRM — must meet KDP min for B&W 5.5x8.5 (~$3.59+)
+                        and Expanded Distribution min]
+Royalty:                60% (paperback) / 40% (expanded distribution)
+
+
+================================================================================
+D. FORMAT 3 — HARDCOVER
+================================================================================
+
+Format:               Hardcover
+
+NOTE: A hardcover cover PDF was NOT generated in this run. KDP hardcover needs a
+different template (case wrap with flaps). See CoversGen.md section 3, and
+generate via create_hardcover_cover() using the same back/spine/front images.
+Hardcover spine width differs from paperback: 0.0025 x pages + 0.059.
+
+[Hardcover Content]
+ISBN:                 [CONFIRM — "Get a free KDP ISBN" OR use your own]
+Manuscript file:      The_Devoted_interior.pdf
+                      Path: Output\The_Devoted_interior.pdf
+                      Pages: 150   [CONFIRM]
+Cover file:           hardcover_cover.pdf   (TO BE GENERATED)
+                      Template: 14.115" x 10.417" (5.5" x 8.5" trim)
+                      Spine width (150 pp): 0.434"
+
+[Print Options]
+Ink and Paper:        Black & White interior with cream paper   [CONFIRM]
+Trim Size:            5.5" x 8.5"   [CONFIRM]
+Bleed:                Bleed (PDF only)   [CONFIRM]
+
+[Hardcover Distribution]
+Distribution channels:  Expanded Distribution  [CONFIRM]
+List price (USD):       [CONFIRM — must meet KDP hardcover minimum (~$14.99+)]
+Royalty:                60% (hardcover) / 40% (expanded distribution)
+
+
+================================================================================
+E. PRE-LAUNCH CHECKLIST  (do before hitting Publish on each format)
+================================================================================
+[ ] Interior PDF final page count confirmed (currently 150) and matches the
+    cover spine used in paperback_cover.pdf
+[ ] Cover dimensions re-verified in KDP's live Cover Calculator / Print
+    Previewer (spine recalculates if page count changes)
+[ ] Kindle cover passes KDP Previewer on Phone / Tablet / E-reader
+[ ] Manuscript front matter (title page, copyright, ISBN) complete
+[ ] Copyright page: © 2026 Rishabh  [CONFIRM year + name]
+[ ] Back matter: series listing, "Elena Vance will return," next-book link
+[ ] Keywords and categories finalized
+[ ] Pricing set in every marketplace you enable
+[ ] DRM / KDP Select decisions made
+[ ] Tax (W-9/W-8BEN) and bank details on file in KDP account
+
+================================================================================
+SOURCE FILES
+================================================================================
+Interior:  Output\The_Devoted_interior.pdf  (150 pp, 5.5" x 8.5")
+eBook:     Output\TheDevoted.epub
+Covers:    Covers\kindle_cover.jpg      (1600 x 2560)
+           Covers\paperback_cover.pdf    (11.590" x 8.750", 150-pp spine)
+           Covers\back_cover.png | spine_cover.png | front_cover.png
+Generator: Covers\generate_covers.py
+================================================================================

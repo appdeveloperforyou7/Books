@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Gita for Non-Hindus — Sample: Chapter 9</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600;700&family=Noto+Serif+Devanagari:wght@400;500;600;700&family=Noto+Sans+Devanagari:wght@400;500;600&display=swap');
+
+@page { size: 8in 10in; margin: 0; }
+
+* { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+:root{
+  --ink:#1B1A2A;
+  --paper:#FAF6EC;
+  --saffron:#D98A1E;
+  --saffron-tint:#FBF0DE;
+  --saffron-tint2:#F6E2C4;
+  --plum:#8C3A55;
+  --plum-tint:#F3E7EB;
+  --slate:#335A8C;
+  --slate-tint:#E9EFF7;
+  --warn:#B5532B;
+  --warn-tint:#FBEFE6;
+  --rule:#D8C9A8;
+}
+
+html,body{ margin:0; padding:0; background:var(--paper); color:var(--ink); }
+body{
+  font-family:'Source Serif 4', Georgia, 'Times New Roman', serif;
+  font-size:11.5pt; line-height:1.5; -webkit-font-smoothing:antialiased;
+}
+
+/* ---------- page frame ---------- */
+.page{
+  padding:0.72in 0.74in 0.82in 0.74in;
+  break-after:page; position:relative;
+}
+.page:last-child{ break-after:auto; }
+.continue{ break-before:avoid; }
+
+/* running header */
+.runhead{
+  font-family:'Inter',sans-serif; font-size:7.5pt; letter-spacing:.14em;
+  text-transform:uppercase; color:#8a7a52; margin-bottom:0.16in;
+  display:flex; justify-content:space-between; border-bottom:0.5pt solid var(--rule);
+  padding-bottom:5pt;
+}
+.runhead .path{ color:var(--saffron); font-weight:600; }
+
+/* ---------- chapter divider ---------- */
+.divider{
+  break-after:page; height:10in; width:8in; background:var(--saffron);
+  color:#FFF8EE; display:flex; flex-direction:column; justify-content:center;
+  align-items:center; text-align:center; padding:0 0.9in; position:relative;
+}
+.divider .kicker{ font-family:'Inter',sans-serif; font-size:9pt; letter-spacing:.32em;
+  text-transform:uppercase; opacity:.85; margin-bottom:0.5in; }
+.divider .dev{ font-family:'Noto Serif Devanagari','Nirmala UI',serif; font-size:30pt;
+  line-height:1.3; margin:0 0 0.34in; font-weight:600; }
+.divider .num{ font-family:'Inter',sans-serif; font-size:13pt; letter-spacing:.2em;
+  text-transform:uppercase; margin-bottom:0.06in; opacity:.9;}
+.divider .title{ font-family:'Source Serif 4',serif; font-style:italic; font-size:26pt;
+  line-height:1.2; margin:0 0 0.32in; font-weight:600; }
+.divider .sub{ font-family:'Source Serif 4',serif; font-size:13pt; font-style:italic; opacity:.92;
+  max-width:5in; margin-bottom:0.6in; }
+.divider .badges{ font-family:'Inter',sans-serif; font-size:9.5pt; letter-spacing:.18em;
+  display:flex; gap:0.22in; }
+.divider .foot{ position:absolute; bottom:0.6in; font-family:'Inter',sans-serif;
+  font-size:8pt; letter-spacing:.2em; opacity:.8; }
+
+/* ---------- headings ---------- */
+h2.sec{ font-family:'Inter',sans-serif; font-size:9pt; letter-spacing:.22em;
+  text-transform:uppercase; color:var(--saffron); font-weight:700; margin:0 0 0.1in 0; }
+.card-title{ font-family:'Source Serif 4',serif; font-size:15pt; font-weight:700;
+  margin:0 0 0.12in 0; color:var(--ink); }
+h3.verse-head{ font-family:'Inter',sans-serif; font-size:8.5pt; letter-spacing:.16em;
+  text-transform:uppercase; color:var(--saffron); font-weight:700; margin:0.3in 0 0.06in 0;}
+p{ margin:0 0 0.12in 0; }
+em{ color:#4a3f6b; }
+
+/* ---------- verse panel ---------- */
+.verse{
+  background:var(--saffron-tint); border-left:5px solid var(--saffron);
+  border-radius:3px; padding:0.2in 0.24in 0.22in 0.24in; margin:0.08in 0 0.14in 0;
+}
+.verse .dev{ font-family:'Noto Serif Devanagari','Nirmala UI',serif; font-size:16pt;
+  line-height:1.7; text-align:center; font-weight:600; color:#2a2030; margin:0 0 0.06in 0;}
+.verse .iast{ font-family:'Source Serif 4',serif; font-style:italic; font-size:10.5pt;
+  text-align:center; color:#5a4a2a; margin:0 0 0.06in 0; line-height:1.4;}
+.verse .vno{ font-family:'Inter',sans-serif; font-size:8pt; letter-spacing:.1em;
+  text-align:center; color:var(--saffron); font-weight:700; }
+
+.lab{ font-family:'Inter',sans-serif; font-size:7.5pt; letter-spacing:.16em;
+  text-transform:uppercase; font-weight:700; color:var(--slate); margin:0.12in 0 0.03in 0; }
+.lab.literal{ color:#7a5a12; }
+.lab.plain{ color:var(--ink); }
+
+/* ---------- callout boxes ---------- */
+.box{ border-radius:3px; padding:0.13in 0.16in; margin:0.1in 0; font-size:10.5pt; }
+.box .h{ font-family:'Inter',sans-serif; font-size:7.5pt; letter-spacing:.16em;
+  text-transform:uppercase; font-weight:700; margin-bottom:0.04in; }
+.bridge{ background:#FFF7E8; border:1px solid var(--saffron-tint2); }
+.bridge .h{ color:var(--saffron); }
+.sadhana{ background:var(--plum-tint); border-left:4px solid var(--plum); }
+.sadhana .h{ color:var(--plum); }
+.adept{ background:var(--slate-tint); border-left:4px solid var(--slate); font-size:9.8pt; }
+.adept .h{ color:var(--slate); }
+.warn{ background:var(--warn-tint); border-left:4px solid var(--warn); }
+.warn .h{ color:var(--warn); }
+
+/* ---------- intro / big picture ---------- */
+.lead{ font-size:12.5pt; line-height:1.55; }
+.bigpic ol{ padding-left:0.24in; margin:0.08in 0; }
+.bigpic li{ margin-bottom:0.14in; }
+.bigpic li b{ color:var(--saffron); }
+
+/* takeaway */
+.takeaway{ background:#FBF0DE; border:1.5px solid var(--saffron); border-radius:4px;
+  padding:0.22in 0.26in; margin-top:0.1in;}
+.takeaway ol{ padding-left:0.26in; margin:0.08in 0; }
+.takeaway li{ margin-bottom:0.1in; }
+
+/* diagram page */
+.diagram{ height:10in; width:8in; background:var(--saffron); color:#FFF8EE;
+  display:flex; flex-direction:column; justify-content:center; align-items:center;
+  text-align:center; break-after:page; padding:0.9in; position:relative;}
+.diagram .dtitle{ font-family:'Inter',sans-serif; font-size:9pt; letter-spacing:.28em;
+  text-transform:uppercase; margin-bottom:0.3in; opacity:.9;}
+.rings{ display:flex; gap:0.16in; margin:0.3in 0; }
+.ring{ width:1.05in; height:1.05in; border-radius:50%; border:2px solid #FFF8EE;
+  display:flex; flex-direction:column; justify-content:center; align-items:center;
+  font-family:'Source Serif 4',serif; font-style:italic; font-size:11pt; }
+.ring .v{ font-family:'Inter',sans-serif; font-size:7pt; font-style:normal; opacity:.7; margin-top:3pt;}
+.center-om{ font-family:'Noto Serif Devanagari',serif; font-size:30pt; margin-top:0.2in;}
+.diagram .caption{ font-family:'Source Serif 4',serif; font-style:italic; font-size:11pt;
+  max-width:5.2in; opacity:.95; margin-top:0.2in;}
+.qr{ position:absolute; bottom:0.7in; right:0.7in; width:0.7in; height:0.7in;
+  background:#FFF8EE; border-radius:4px; display:flex; align-items:center; justify-content:center;
+  font-family:'Inter',sans-serif; font-size:6.5pt; color:var(--saffron); font-weight:700;}
+
+.path-note{ font-family:'Inter',sans-serif; font-size:8.5pt; color:#8a7a52; font-style:italic;
+  margin-top:0.2in; border-top:0.5pt solid var(--rule); padding-top:0.08in;}
+</style>
+</head>
+<body>
+
+<!-- ============ CHAPTER DIVIDER ============ -->
+<section class="divider">
+  <div class="kicker">The Song of the Divine · Part II</div>
+  <div class="dev">राजविद्याराजगुह्ययोगः</div>
+  <div class="num">Chapter 16 · Gītā 9</div>
+  <div class="title">The Royal Secret</div>
+  <div class="sub">"The king of knowledge, the king of secrets" — the chapter that turns the Gītā from a philosophy into a love story.</div>
+  <div class="badges">◯ Wayfarer &nbsp;·&nbsp; ◑ Student &nbsp;·&nbsp; ● Seeker &nbsp;·&nbsp; ✦ Adept</div>
+  <div class="foot">34 VERSES &nbsp;·&nbsp; PATH: BHAKTI / SAFFRON</div>
+</section>
+
+<!-- ============ INTRO + BIG PICTURE ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">◯ PART I · ORIENTATION WITHIN THE CHAPTER</span></div>
+
+  <h2 class="sec">◎ Intro Card</h2>
+  <p class="lead"><b>What happens.</b> Krishna calls what he is about to say <i>rāja-vidyā rāja-guhya</i> — "the king of knowledge and the king of secrets." He reveals how he pervades the entire universe without being contained by it; how nature moves under his silent supervision; how every form of worship — no matter the name used — finally reaches him; and then he makes the most tender promise in the scripture: <i>to the one who remembers him with an undivided heart, he himself carries what they lack and guards what they have.</i> It ends with the most radical grace of all: even a person sunk in wrongdoing, if they turn to him with wholehearted love, are quickly made righteous. This is the chapter that turns the Gītā from a philosophy into a love story.</p>
+  <p class="lead"><b>Why this chapter matters to you.</b> If the Gītā so far has been a map, Chapter 9 is the moment the guide stops pointing at the mountain and takes your hand.</p>
+
+  <h2 class="sec" style="margin-top:0.3in">◯ The Big Picture &nbsp;<span style="color:#8a7a52;font-weight:500;letter-spacing:.02em">(Layer 0 — read this alone and you have the chapter)</span></h2>
+  <p>Three ideas hold Chapter 9 together, and each overturns a common assumption:</p>
+  <div class="bigpic">
+    <ol>
+      <li><b>God is everywhere, but is not everything.</b> Krishna says he pervades the whole cosmos the way the wind moves through space — everywhere, yet never trapped by it. The world is <i>in</i> him; he is not reduced <i>to</i> the world. This is neither strict monotheism nor pantheism — it is something more subtle, and more intimate.</li>
+      <li><b>Every sincere prayer reaches the same shore.</b> "Even those who worship other gods, with faith — they worship me alone, though they do not know it." This is one of the most inclusive lines in any scripture. The form matters less than the sincerity. Your honest prayer, in whatever tradition, is heard.</li>
+      <li><b>Grace is for the fallen, not only for the pure.</b> The chapter's most shocking line: <i>even one of very evil conduct, if they love me single-mindedly, is to be counted righteous — and soon they become so.</i> The Gītā does not demand that you arrive clean. It asks only that you turn.</li>
+    </ol>
+  </div>
+  <p>Read this chapter as an answer to a silent fear every honest person carries: <i>Am I too far gone?</i> Chapter 9's answer is the heart of the whole book.</p>
+  <div class="path-note">◯ Wayfarer path: you may now jump to the Takeaway (p. 9) — or stay for the verses.</div>
+</section>
+
+<!-- ============ VERSES: frame + 9.10 ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">◑ PART II · THE VERSES</span></div>
+
+  <h2 class="sec">◑ The Verses <span style="color:#8a7a52;font-weight:500;letter-spacing:.02em">(Layer 1)</span></h2>
+  <p style="font-size:10pt;color:#5a4a2a;font-style:italic">All thirty-four verses are summarized in flowing prose; the nine key verses are deep-dived in full below.</p>
+
+  <h3 class="verse-head">The frame: the king of secrets &nbsp;·&nbsp; 9.1–9.2 (summarized)</h3>
+  <p>Krishna opens by saying this knowledge will <i>free you completely</i> — but only if received with an open, trusting mind (<i>śraddhā</i>). He has been teaching philosophy; now he offers himself.</p>
+
+  <h3 class="verse-head">Verse 9.10 &nbsp;·&nbsp; How the world runs — God as the silent overseer</h3>
+  <div class="verse">
+    <div class="dev">मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् ।<br>हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥</div>
+    <div class="iast">mayādhyakṣeṇa prakṛtiḥ sūyate sacarācaram |<br>hetunānena kaunteya jagad viparyavartate ||</div>
+    <div class="vno">9 . 10</div>
+  </div>
+  <div class="lab literal">Literal</div>
+  <p><i>Under Me as overseer, Nature (prakṛti) brings forth the moving and the unmoving; by this cause, O Arjuna, the universe revolves.</i></p>
+  <div class="lab plain">In plain English</div>
+  <p>The whole world is not running itself, and it is not running you. There is an intelligence behind it — not pushing from outside like a mechanic, but pervading from within like the stillness at the centre of a wheel. Everything that grows, moves, and changes is nature doing its work; but nature itself is watched over by something that does not change.</p>
+  <div class="lab">Commentary</div>
+  <p>This single verse quietly dissolves two errors at once. It rejects the idea of a remote, absentee God (he is <i>adhyakṣa</i>, "the overseer," right here) and it rejects the idea that the material world is itself divine (<i>prakṛti</i> does the producing; he supervises it). Krishna will never let you collapse the Creator into the creation, nor push him out of it.</p>
+  <div class="box bridge"><div class="h">🌉 Bridge for the non-Hindu reader</div>Think of a great conductor. The musicians make every sound; the conductor makes none. Yet without the conductor's silent presence, the music falls apart. Krishna is not a note in the symphony — he is what holds the symphony together.</div>
+  <div class="box sadhana"><div class="h">◎ Sādhana · Layer 2 (Seeker)</div><b>Watch for the "overseer."</b> Today, pick one ordinary process — a plant growing, your breath, the turning of the day — and instead of seeing only the surface, sense the still intelligence within it. The practice of Chapter 9 begins here: in <i>recognizing</i> that you are watched over, not in <i>earning</i> it.</div>
+  <div class="box adept"><div class="h">▎ Adept · Layer 3 (margin)</div><i>prakṛti</i> (प्रकृति) = primordial matter/nature; <i>adhyakṣa</i> (अध्यक्ष) = "over-seer," from <i>adhi</i> + <i>akṣa</i> (eye). The Sāṃkhya schools read this as pure dualism (matter vs. spirit); the bhakti schools read Krishna himself as the <i>adhyakṣa</i> — the hinge where impersonal philosophy turns personal. Both readings coexist in the commentaries.</div>
+</section>
+
+<!-- ============ 9.13-15 + 9.22 ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">◑ PART II · THE VERSES</span></div>
+
+  <h3 class="verse-head">Verses 9.13–9.15 &nbsp;·&nbsp; (summarized)</h3>
+  <p>Krishna divides humanity into two: those carried by the <i>lower</i> nature (impulsive, driven by desire) and the "great souls" (<i>mahātmās</i>) who take refuge in the divine nature and worship "with undivided mind." The verses describe their worship — some by contemplation, some by knowledge, some by offering their very breath as a sacrifice. The point is not <i>how</i> you worship but <i>that</i> your heart is one-pointed.</p>
+
+  <h3 class="verse-head">Verse 9.22 &nbsp;·&nbsp; THE PROMISE</h3>
+  <div class="verse">
+    <div class="dev">अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।<br>तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥</div>
+    <div class="iast">ananyāś cintayanto māṃ ye janāḥ paryupāsate |<br>teṣāṃ nityābhiyuktānāṃ yoga-kṣemaṃ vahāmy aham ||</div>
+    <div class="vno">9 . 22</div>
+  </div>
+  <div class="lab literal">Literal</div>
+  <p><i>Those who, thinking of nothing else, ever-worship Me with undivided devotion — to those ever-united ones I Myself carry their yoga-kṣema.</i></p>
+  <div class="lab plain">In plain English</div>
+  <p>If you keep your mind on Me — not as one thing among many, but as the centre — then your needs become My responsibility. I carry what you have not yet acquired (<i>yoga</i>) and I protect what you already hold (<i>kṣema</i>).</p>
+  <div class="lab">Commentary</div>
+  <p>This is the most quoted verse of devotion in the Gītā, and it deserves its fame. Notice the deal it offers, and notice what it does <i>not</i> say. It does not promise wealth, success, or comfort. It promises that <i>the One behind the universe personally undertakes your welfare.</i> The condition is also precise: <i>ananyāḥ</i> — "without another." Not that you must think of God every second, but that he is your <i>refuge</i>, the fixed star by which you navigate. To such a one, Krishna says, the cosmic Lord becomes a porter.</p>
+  <div class="box bridge"><div class="h">🌉 Bridge for the non-Hindu reader</div>Every parent knows this promise from the other side. A small child does not earn its food or fear the rent; it simply trusts the one who carries it. Chapter 9 says the universe is built on that same trust — and God is the one carrying.</div>
+  <div class="box sadhana"><div class="h">◎ Sādhana · Layer 2 (Seeker) · The handover practice</div>Once a day — at a moment of genuine anxiety — deliberately hand one worry over. Say inwardly: "This is now Yours." The verse is not a theory to believe; it is an experiment to run. Run it for thirty days and watch what changes — not in the world, but in you.</div>
+  <div class="box warn"><div class="h">⚠ What it is NOT</div>This is <b>not</b> a prosperity teaching. Krishna is not a cosmic ATM. <i>Yoga-kṣema</i> means your <i>true</i> welfare — which may include hardship that saves you, and loss that frees you. To read it as "devotion gets you riches" is to make the Gītā small.</div>
+</section>
+
+<!-- ============ 9.23-26 + 9.29 ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">◑ PART II · THE VERSES</span></div>
+
+  <h3 class="verse-head">Verses 9.23–9.25 &nbsp;·&nbsp; the universalist verses (summarized)</h3>
+  <p>Then comes the line that should be read aloud in every interfaith gathering: <i>"Even those who worship other gods, with faith — they worship Me alone, though they know it not"</i> (<i>avidhi-pūrvakam</i>, "by an indirect path"). "I am the enjoyer and lord of all sacrifice." Krishna is saying: sincerity is the real currency; the name on the prayer is secondary. This is why a non-Hindu can read this book without converting — the Gītā itself says your own tradition's honest worship is already reaching the same destination.</p>
+
+  <h3 class="verse-head">Verse 9.26 &nbsp;·&nbsp; The smallest offering</h3>
+  <div class="verse">
+    <div class="dev">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।<br>तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥</div>
+    <div class="iast">patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati |<br>tad ahaṃ bhakty-upahṛtam aśnāmi prayatātmanaḥ ||</div>
+    <div class="vno">9 . 26</div>
+  </div>
+  <div class="lab literal">Literal</div>
+  <p><i>Whoever offers Me a leaf, a flower, a fruit, or water with devotion — that devoted offering, from a pure-hearted one, I accept.</i></p>
+  <div class="lab plain">In plain English</div>
+  <p>You do not need a temple, a priest, or a fortune. A single leaf, offered with love, is enough. God is not impressed by the size of the gift but by the size of the heart behind it.</p>
+  <div class="lab">Commentary</div>
+  <p>This verse democratized Indian spirituality forever. After 9.26, no one is too poor to worship. The emphasis falls entirely on <i>bhakti</i> (devotion) and <i>prayatātman</i> (a pure, concentrated heart). The leaf and the water are metaphors for <i>anything offered wholeheartedly</i> — your work, your attention, your forgiveness of someone who hurt you.</p>
+  <div class="box bridge"><div class="h">🌉 Bridge for the non-Hindu reader</div>A child's crayon drawing, given with love, is treasured by a parent more than a gallery masterpiece bought by a stranger. The economy of love runs on a different currency than the economy of things.</div>
+  <div class="box sadhana"><div class="h">◎ Sādhana · Layer 2 (Seeker) · The leaf practice</div>Offer one small thing today <i>as if to God</i> — a cup of tea, a few quiet breaths, an act of kindness done in secret. Not for reward; simply given. Do this and you are already performing the central ritual of Chapter 9.</div>
+
+  <h3 class="verse-head">Verse 9.29 &nbsp;·&nbsp; The equality of God</h3>
+  <div class="verse">
+    <div class="dev">समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।<br>ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥</div>
+    <div class="iast">samo 'haṃ sarva-bhūteṣu na me dveṣyo 'sti na priyaḥ |<br>ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpy aham ||</div>
+    <div class="vno">9 . 29</div>
+  </div>
+  <div class="lab plain">In plain English</div>
+  <p>God plays no favourites. He does not love the saint more than the sinner, the priest more than the outcast. But — and here is the miracle — those who <i>turn</i> toward him in love enter a different relationship: they abide in him, and he in them.</p>
+  <div class="box warn"><div class="h">⚠ What it is NOT</div>This is <b>not</b> indifference. "None hateful, none dear" does not mean God doesn't care. It means his care is not rationed by rank, birth, or virtue — which is precisely what makes the devotion of the next two verses so radical.</div>
+</section>
+
+<!-- ============ 9.30-31 + 9.34 ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">● PART III · SĀDHANA &amp; SYNTHESIS</span></div>
+
+  <h3 class="verse-head">Verses 9.30–9.31 &nbsp;·&nbsp; Grace for the fallen — the chapter's climax</h3>
+  <div class="verse">
+    <div class="dev">अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।<br>साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥<br>क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।<br>कौन्तेय प्रति जानीहि न मे भक्तः प्रणश्यति ॥</div>
+    <div class="iast">api cet su-durācāro bhajate mām ananya-bhāk |<br>sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ ||<br>kṣipraṃ bhavati dharmātmā śaśvac-chāntiṃ nigacchati |<br>kaunteya prati jānīhi na me bhaktaḥ praṇaśyati ||</div>
+    <div class="vno">9 . 30 — 31</div>
+  </div>
+  <div class="lab plain">In plain English</div>
+  <p>You are not your worst day. No matter how far you have fallen, the moment you turn your whole heart toward the Divine — that very moment — you are already counted among the good. And from that turning, you will <i>become</i> good, soon, and find a peace that does not pass away. This is a guarantee.</p>
+  <div class="lab">Commentary</div>
+  <p>These two verses are the moral centre of the entire Gītā. They overturn a religion of earned salvation and announce a religion of grace. The Sanskrit is striking: <i>sādhur eva sa mantavyaḥ</i> — "he is <i>to be regarded</i> as righteous." Krishna commands <i>us</i> to change how we see the struggling sinner who has turned. And <i>kṣipraṃ bhavati dharmātmā</i> — "he quickly becomes righteous": the turning is not the end but the beginning of transformation. Grace, in the Gītā, is the starting line, not the finish.</p>
+  <div class="box bridge"><div class="h">🌉 Bridge for the non-Hindu reader</div>Every recovery tradition on earth has discovered this. "One day at a time." The admission of powerlessness is not the proof of failure — it is the door. The Gītā said it first: the sincere turn, however late, however messy, is met.</div>
+  <div class="box sadhana"><div class="h">◎ Sādhana · Layer 2 (Seeker) · The prodigal practice</div>If there is a part of yourself you have written off as "too far gone," take one minute today and offer even <i>that</i> — your failure, your shame — to the Divine, not to be fixed but to be held. The verse promises not that you are already clean, but that you are <i>counted</i> as on the way. Live as the one you are becoming, not the one you were.</div>
+  <div class="box adept"><div class="h">▎ Adept · Layer 3 (margin) · the commentarial divide</div><b>Rāmānuja</b> reads 9.30–31 as the charter of <i>prapatti</i> (total surrender) — salvation by grace alone, the path for those who cannot climb by knowledge. <b>Śaṅkara</b> reads it more soberly: sincere devotion <i>ignites</i> the knowledge that purifies; grace and effort are not rivals but partners. <b>The honest synthesis:</b> the Gītā holds both — grace receives you, practice transforms you.</div>
+
+  <h3 class="verse-head">Verse 9.34 &nbsp;·&nbsp; the chapter's closing call</h3>
+  <div class="verse">
+    <div class="dev">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥</div>
+    <div class="iast">man-manā bhava mad-bhakto mad-yājī māṃ namaskuru |<br>mām evaiṣyasi yuktvaivam ātmānaṃ mat-parāyaṇaḥ ||</div>
+    <div class="vno">9 . 34</div>
+  </div>
+  <div class="lab plain">In plain English</div>
+  <p>Four verbs, one path: <i>think of Me, love Me, offer to Me, surrender to Me.</i> Do this, and the distance between you and the Divine — which only ever existed in your mind — dissolves.</p>
+  <div class="box sadhana"><div class="h">◎ Sādhana · Layer 2 (Seeker) · The four-breath practice</div>Breathe in: <i>remember.</i> &nbsp; Breathe out: <i>love.</i> &nbsp; Breathe in: <i>offer.</i> &nbsp; Breathe out: <i>let go.</i> Four breaths, four verbs, the entire chapter in your body. Use it before sleep, before a hard conversation, before anything that asks for more than you think you have.</div>
+</section>
+
+<!-- ============ TAKEAWAY ============ -->
+<section class="page">
+  <div class="runhead"><span>Chapter 16 · The Royal Secret</span><span class="path">✦ TAKEAWAY</span></div>
+
+  <h2 class="sec">✦ Takeaway &nbsp;<span style="color:#8a7a52;font-weight:500;letter-spacing:.02em">(for every reader)</span></h2>
+  <p style="font-size:12pt">Chapter 9 turns the Gītā from teaching into trust. Its three gifts, carried into your life:</p>
+  <div class="takeaway">
+    <ol>
+      <li><b>You are overseen, not abandoned.</b> The universe has a centre, and it holds you.</li>
+      <li><b>Your sincere prayer is enough — in any form.</b> God is not the property of one religion.</li>
+      <li><b>You are never too far gone to turn.</b> Grace meets you at the moment you turn, and carries you from there.</li>
+    </ol>
+    <p style="margin-bottom:0;font-size:12pt;font-style:italic">The "king of secrets" is not a doctrine. It is the discovery that the power behind the cosmos is personal, patient, and closer to you than your own breath.</p>
+  </div>
+
+  <h2 class="sec" style="margin-top:0.3in">◎ The 18-Step Sādhana Path — where you are</h2>
+  <p><b>Step 9 of 18 · OFFER A SINGLE LEAF.</b> This week, take the three Layer-2 practices of this chapter — <i>the overseer, the handover, the leaf</i> — and make them one daily act: offer one small thing each day, wholeheartedly, to the Divine. By week's end, notice whether your sense of being <i>carried</i> (9.22) has quietly begun to come true. Then turn the page to Chapter 10, where Krishna shows you <i>where</i> to find him in the world around you.</p>
+  <div class="path-note">Reader's path: ◯ Wayfarer · ◑ Student · ● Seeker · ✦ Adept — this chapter contained all four. Re-read at a higher layer any time.</div>
+</section>
+
+<!-- ============ DIAGRAM PAGE ============ -->
+<section class="diagram">
+  <div class="dtitle">The Bhakti Spine · Gītā 9</div>
+  <div class="rings">
+    <div class="ring">memory<span class="v">9.34</span></div>
+    <div class="ring">love<span class="v">9.22</span></div>
+    <div class="ring">offering<span class="v">9.26</span></div>
+    <div class="ring">surrender<span class="v">9.30–31</span></div>
+  </div>
+  <div class="center-om">ॐ</div>
+  <div class="caption">Four movements converge on the one centre: <i>remember, love, offer, surrender</i> — the whole yoga of devotion compressed into a single breath.</div>
+  <div class="qr">QR<br>AUDIO</div>
+</section>
+
+</body>
+</html>
